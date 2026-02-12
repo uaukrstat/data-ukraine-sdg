@@ -1,8 +1,16 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,"Sex, Age, Households",3
-#1-2-1,"Sex, Age, Households",3
+#1-1-1,"Sex, Type of residence, Age, Households",4
+#1-1-1-a,"Sex, Age, Households",3
+#1-1-2,"Sex, Type of residence, Age, Households",4
+#1-1-3,"Sex, Type of residence, Households, For reference",4
+#1-2-1,"Sex, Type of residence, Age, Households",4
+#1-2-1-a,"Sex, Age, Households",3
 #1-3-1,"Type of residence, Sex of the head of household",2
+#1-3-1-a,"Type of residence, Sex of the head of household",2
 #1-3-2,"Type of residence, Decile groups",2
+#1-3-2-a,"Type of residence, Decile groups",2
+#1-3-3,"Type of residence, Decile groups, Households",3
+#1-3-4,"Sex, Type of residence, Age, Households, Reason of disability",5
 #10-1-1,Type of residence,1
 #10-1-2,Type of residence,1
 #10-4-1,Region,1
@@ -22,42 +30,65 @@ Indicator,Disaggregations,Number of disaggregations
 #16-5-2,"Region, Ammunition",2
 #16-5-3,"Unit, Article",2
 #16-8-1,"Sex, Age",2
-#16-8-2,"Type of residence, Sex, Age",3
+#16-8-2,"Sex, Type of residence, Age",3
 #16-8-3,Region,1
-#16-8-4,"Unit, Organization",2
+#16-8-4,"Organization, Unit",2
 #16-9-1,"Age, Region, Gender, Component",4
 #17-3-1,Region,1
-#2-1-1,Region,1
-#2-1-2,Region,1
-#2-1-3,Region,1
-#2-1-4,Region,1
-#2-1-5,Region,1
-#2-2-2,"Farm caregory, Products",2
-#2-3-1,Group,1
+#2-1-1,Type of residence,1
+#2-1-1-a,Region,1
+#2-1-2,Type of residence,1
+#2-1-2-a,Region,1
+#2-1-3,Type of residence,1
+#2-1-3-a,Region,1
+#2-1-4,Type of residence,1
+#2-1-4-a,Region,1
+#2-1-5-a,Region,1
+#2-2-2-a,"Farm caregory, Products",2
+#2-3-1,Region,1
+#2-3-1-a,Group,1
 #2-4-1,by main product groups,1
-#3-1-1,Type of residence,1
-#3-2-1,Type of residence,1
-#3-3-1,"Region, Gender",2
-#3-4-1,Region,1
-#3-4-2,Region,1
-#3-4-3,Region,1
+#2-4-1-a,by main product groups,1
+#3-1-1-a,Type of residence,1
+#3-1-2,by type of place of registration of service providers,1
+#3-1-3,Type of residence,1
+#3-1-4,"Sex, Type of residence, Age",3
+#3-1-5,"Sex, Type of residence, Age",3
+#3-10-1,"Sex, Type of residence",2
+#3-2-1,Cause of death,1
+#3-2-1-a,Type of residence,1
+#3-3-1-a,"Region, Gender",2
+#3-4-1-a,Region,1
+#3-4-2,"Sex, Type of residence, Age",3
+#3-4-2-a,Region,1
+#3-4-3-a,Region,1
 #3-4-4,Region,1
-#3-5-1,Type of residence,1
-#3-5-2,Type of residence,1
+#3-4-4-a,Region,1
+#3-5-1-a,Type of residence,1
+#3-5-2-a,Type of residence,1
+#3-6-1,Form of rehabilitation assistance,1
 #3-6-2,Mode of transport,1
-#3-7-1,"Age, Infectious diseases",2
-#3-8-1,Type of residence,1
+#3-6-2-a,Mode of transport,1
+#3-7-1-a,"Infectious diseases, Age",2
+#3-8-1,"Infectious diseases, Age, Region",3
+#3-8-1-a,Type of residence,1
 #3-8-2,Type of residence,1
-#4-1-1,"Sex, Level, Settlement",3
-#4-2-1,Type of residence,1
+#3-8-2-a,Type of residence,1
+#3-9-1,"Sex, Type of residence",2
+#4-1-1,"Sex, Type of residence, Region",3
+#4-1-1-a,"Sex, Level, Settlement",3
+#4-2-1,"Sex, Type of residence, Age, Region",4
+#4-2-1-a,Type of residence,1
+#4-2-2,"Sex, Type of residence, Subject, School type, SES",5
+#4-2-3,"Type of residence, Type of educational institution",2
 #4-4-2,"Sex, Age, Level_ed",3
 #4-4-3,Cost_train,1
 #4-4-4,Fund,1
 #4-5-1,"Sex, Age",2
-#4-5-2,"Type of residence, Sex, Age",3
+#4-5-2,"Sex, Type of residence, Age",3
 #4-7-3,Type of residence,1
 #5-2-2,Group,1
-#5-3-1,"Unit, Type of residence, Gender",3
+#5-3-1,"Type of residence, Unit, Gender",3
 #5-4-3,Cat,1
 #5-5-1,"Age, Region",2
 #5-6-1,Ec_activ,1
@@ -70,7 +101,7 @@ Indicator,Disaggregations,Number of disaggregations
 #7-1-2,"Unit, Category, including",3
 #7-2-1,Sou_en,1
 #8-2-2,Group,1
-#8-3-1,"Type of residence, Sex",2
+#8-3-1,"Sex, Type of residence",2
 #8-4-1,Sex,1
 #8-5-1,Region,1
 #8-5-2,Region,1

@@ -16,14 +16,54 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Age",
+            "type": "string",
             "constraints": {
               "enum": [
+                "up to 18 years",
+                "18-34 years",
+                "35-59 years",
+                "60 years and older",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "Households",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "households with children",
+                "households without children",
+                ""
+              ]
+            },
+            "title": "Households"
           },
           {
             "name": "Value",
@@ -36,5 +76,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-2",
-  "title": "Share of individuals whose daily consumption is below USD 5.05 PPP, %"
+  "title": "Share of the population whose average per capita equivalent total expenditure is lower than the subsistence minimum established by the Law on the State Budget of Ukraine for the relevant year, percent (SDG indicator 1.1.2)"
 }

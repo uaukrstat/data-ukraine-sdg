@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Type of residence"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-1-1",
-  "title": "Number of cases of maternal mortality, per 100,000 live births"
+  "title": "Share of persons unable to obtain medical care, purchase medicines and medical products when needed during the last 12 months, percent (SDG indicator 3.1.1)"
 }

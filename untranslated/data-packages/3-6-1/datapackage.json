@@ -15,10 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Form of rehabilitation assistance",
+            "type": "string",
             "constraints": {
               "enum": [
+                "outpatient",
+                "stationary",
                 ""
               ]
             }

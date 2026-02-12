@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-1",
-  "title": "Labour productivity in agriculture, USD 1,000s per employee"
+  "title": "Labour productivity in agriculture, thousand USD per employed person (SDG indicator 2.2.1)"
 }

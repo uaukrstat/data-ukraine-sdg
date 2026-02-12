@@ -16,14 +16,28 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "women",
+                "men",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -36,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "3-9-1",
-  "title": "Share of expenditures of the population in general spending on health, %"
+  "title": "Indicator. Share of persons using tobacco and/or nicotine products among the population aged 15 and older, percent (SDG indicator 3.9.1)"
 }

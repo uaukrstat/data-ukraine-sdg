@@ -16,16 +16,16 @@
             "title": "Рік"
           },
           {
-            "name": "Type of residence",
+            "name": "Cause of death",
             "type": "string",
             "constraints": {
               "enum": [
-                "міська",
-                "сільська",
+                "direct_obstetric_causes",
+                "indirect_obstetric_causes",
                 ""
               ]
             },
-            "title": "Місцевість проживання"
+            "title": "за причиною смертності"
           },
           {
             "name": "Value",
@@ -38,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-1",
-  "title": "Смертність дітей у віці до 5 років, випадків на 1000 живонароджених"
+  "title": "Індикатор. Коефіцієнт материнської смертності, на 100 000 живонароджених (індикатор ЦСР 3.2.1)"
 }

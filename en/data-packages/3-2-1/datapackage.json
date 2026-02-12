@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Type of residence",
+            "name": "Cause of death",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "direct_obstetric_causes",
+                "indirect_obstetric_causes",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "by cause of mortality"
           },
           {
             "name": "Value",
@@ -38,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-1",
-  "title": "Mortality of children under 5, cases per 1,000 live births"
+  "title": "Indicator. Maternal mortality rate, per 100,000 live-births (SDG indicator 3.2.1)"
 }

@@ -16,34 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Farm caregory",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Farms of all categories",
-                "Enterprises",
-                "Households",
-                ""
-              ]
-            },
-            "title": "Farm caregory"
-          },
-          {
-            "name": "Products",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "agricultural products",
-                "crop products",
-                "livestock products",
-                ""
-              ]
-            },
-            "title": "Products"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -52,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-2",
-  "title": "The index of agricultural production, %"
+  "title": "Agricultural production index, percent (SDG indicator 2.2.2)"
 }

@@ -15,28 +15,15 @@
             "type": "integer"
           },
           {
-            "name": "The consumer price index for food. %",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "by main product groups",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_bread",
-                "12_meat",
-                "13_milk",
-                "14_fish",
-                "15_veg",
-                "16_fruits",
                 "17_sugar",
                 "18_oil",
-                "19_eggs",
+                "corn",
+                "barley",
+                "wheat",
                 ""
               ]
             }

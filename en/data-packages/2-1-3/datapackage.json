@@ -16,38 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Region",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -60,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-3",
-  "title": "Consumption of fish per capita, kg/year"
+  "title": "Share of persons with severe food insecurity, percent (SDG indicator 2.1.3)"
 }

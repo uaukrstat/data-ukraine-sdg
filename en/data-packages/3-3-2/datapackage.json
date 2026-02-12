@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Ukraine",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Ukraine"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-2",
-  "title": "Number of patients diagnosted with active tuberculosis for the first time, per 100,000 persons"
+  "title": "Neonatal mortality rate, per 1,000 live-births (SDG indicator 3.3.2)"
 }

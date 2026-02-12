@@ -15,32 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "Farm caregory",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "farms_1_all",
-                "farms_2_enterprise",
-                "farms_3_household",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Products",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "prod_1_agri",
-                "prod_2_crop",
-                "prod_3_livestock",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

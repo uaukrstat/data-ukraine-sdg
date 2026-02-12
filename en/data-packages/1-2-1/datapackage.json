@@ -34,12 +34,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "men",
                 "women",
+                "men",
                 ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
           },
           {
             "name": "Households",
@@ -64,5 +76,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-1",
-  "title": "Share of the poor population covered by state social support in the total number of poor people, %"
+  "title": "Share of the poor population covered by state social support in the total number of the poor population, percent (SDG indicator 1.2.1)"
 }

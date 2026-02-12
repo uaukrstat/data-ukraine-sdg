@@ -15,10 +15,47 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Age",
+            "type": "string",
             "constraints": {
               "enum": [
+                "age_18",
+                "age_18_34",
+                "age_35_59",
+                "age_60",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Households",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "hh_ch",
+                "hh_ch_0",
                 ""
               ]
             }

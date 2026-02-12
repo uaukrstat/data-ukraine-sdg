@@ -16,40 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -60,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-5",
-  "title": "Consumption of fruit per capita, kg/year"
+  "title": "Consumer price index for food products, percent (SDG indicator 2.1.5)"
 }

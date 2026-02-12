@@ -16,29 +16,15 @@
             "title": "Year"
           },
           {
-            "name": "The consumer price index for food. %",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "The consumer price index for food. %"
-          },
-          {
             "name": "by main product groups",
             "type": "string",
             "constraints": {
               "enum": [
-                "bread and bakery products",
-                "meat and meat products",
-                "milk",
-                "fish and fish products",
-                "vegetables",
-                "fruits",
                 "sugar",
                 "sunflower oil",
-                "eggs",
+                "corn",
+                "barley",
+                "wheat",
                 ""
               ]
             },
@@ -55,5 +41,5 @@
   ],
   "profile": "data-package",
   "name": "2-4-1",
-  "title": "The consumer price index for food, %"
+  "title": "Ukraine’s share in the volume of world exports of the main food groups for the following goods, percent:  sugar, sunflower oil, corn, barley, wheat"
 }

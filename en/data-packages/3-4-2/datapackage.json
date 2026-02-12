@@ -16,39 +16,39 @@
             "title": "Year"
           },
           {
-            "name": "Region",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
-                "the city of Kyiv",
+                "up to 18 years",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -61,5 +61,5 @@
   ],
   "profile": "data-package",
   "name": "3-4-2",
-  "title": "Number of deaths from cerebrovascular disease at the age of 30-59, per 100,000 women of corresponding age"
+  "title": "Number of persons receiving antiretroviral therapy among those diagnosed with HIV/AIDS (SDG indicator 3.4.2)"
 }

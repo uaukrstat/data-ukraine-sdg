@@ -16,38 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Region",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -60,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-4",
-  "title": "Consumption of vegetables per capita, kg/year"
+  "title": "Share of households that were unable to secure sufficient food, percent (SDG indicator 2.1.4)"
 }

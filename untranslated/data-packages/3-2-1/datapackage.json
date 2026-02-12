@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Type of residence",
+            "name": "Cause of death",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "direct_obstetric_causes",
+                "indirect_obstetric_causes",
                 ""
               ]
             }

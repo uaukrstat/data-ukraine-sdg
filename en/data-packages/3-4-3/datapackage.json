@@ -16,41 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
-                "the city of Kyiv",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -61,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-4-3",
-  "title": "Number of deaths from malignant breast tumours at the age of 30-59, per 100,000 women of appropriate age"
+  "title": "Number of patients diagnosed with active tuberculosis for the first time, per 100,000 population (SDG indicator 3.4.3)"
 }

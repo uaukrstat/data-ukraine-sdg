@@ -12,34 +12,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Production of meat and meat products",
-                "Processing and preserving of fish, crustaceans and molluscs",
-                "Processing and preserving of fruits and vegetables",
-                "Production of oil and animal fats",
-                "Production of dairy products",
-                "Production of flour and cereal products, starches and starch products",
-                "Production of flour and cereal products",
-                "Production of bread, bakery and flour products",
-                "Production of bread and bakery products; production of short-term storage flour confectionery, cakes and pastries",
-                "Production of rusks and biscuits; production of long-term storage flour confectionery, cakes and pastries",
-                "Production of other food products",
-                "Production of sugar",
-                "Production of cocoa, chocolate and sugar confectionery",
-                "Production of tea and coffee",
-                "Production of spices and seasonings",
-                "Production of other food products not elsewhere classified",
+                "5.5",
+                "5.7",
+                "5.1",
+                "5.0",
+                "4.2",
+                "3.6",
+                "2.9",
+                "2.2",
+                "1.9",
+                "1.8",
+                "6.6",
+                "6.3",
+                "6.2",
+                "5.2",
+                "4.1",
+                "3.9",
+                "3.5",
+                "6.8",
+                "7.9",
+                "5.8",
+                "6.0",
+                "4.9",
+                "3.0",
+                "1.7",
+                "7.7",
+                "5.4",
+                "5.3",
+                "3.2",
+                "2.4",
+                "2.6",
+                "0.8",
+                "1.6",
+                "1.0",
+                "0.0",
+                "8.7",
+                "9.1",
+                "8.0",
+                "8.2",
+                "6.5",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
@@ -52,5 +75,5 @@
   ],
   "profile": "data-package",
   "name": "2-3-1",
-  "title": "The index of food production, %"
+  "title": "Share of agricultural land on which agrochemical certification has been carried out in the total area of agricultural land, percent"
 }

@@ -15,26 +15,34 @@
             "type": "integer"
           },
           {
-            "name": "Level",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_level",
-                "2_level",
-                "3_level",
-                "4_level",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Settlement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "village_",
-                "urban_settl",
-                "city",
+                "Ukraine",
+                "reg_Vinnytsya",
+                "reg_Volyn",
+                "reg_Dnipropetrovsk",
+                "reg_Zhytomyr",
+                "reg_Zakarpattya",
+                "reg_Zaporizhzhya",
+                "reg_Ivano-Frankivsk",
+                "reg_Kyiv",
+                "reg_Kirovohrad",
+                "reg_Lviv",
+                "reg_Mykolayiv",
+                "reg_Odesa",
+                "reg_Poltava",
+                "reg_Rivne",
+                "reg_Sumy",
+                "reg_Ternopil",
+                "reg_Kharkiv",
+                "reg_Kherson",
+                "reg_Khmelnytskiy",
+                "reg_Cherkasy",
+                "reg_Chernivtsi",
+                "reg_Chernihiv",
+                "reg_Kyiv_city",
                 ""
               ]
             }
@@ -51,6 +59,17 @@
             }
           },
           {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -60,5 +79,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-1",
-  "title": "4-1-1"
+  "title": "global_indicators.4-1-1-title"
 }

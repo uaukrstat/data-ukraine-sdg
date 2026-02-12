@@ -16,40 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Infectious diseases",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tuberculosis",
-                "Hepatitis B",
-                "Measles, mumps, rubella",
-                "Diphtheria, tetanus",
-                "Pertussis",
-                "Poliomyelitis",
-                "Hib infection",
-                ""
-              ]
-            },
-            "title": "Infectious diseases"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "under 1 year",
-                "1 year",
-                "6 years",
-                "18 months",
-                "16 years",
-                "adults",
-                "14 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

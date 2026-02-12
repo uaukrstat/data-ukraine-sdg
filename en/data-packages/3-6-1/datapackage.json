@@ -16,14 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Form of rehabilitation assistance",
+            "type": "string",
             "constraints": {
               "enum": [
+                "outpatient",
+                "stationary",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "by forms of rehabilitation assistance"
           },
           {
             "name": "Value",
@@ -36,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "3-6-1",
-  "title": "Number of deaths from road traffic accidents, per 100,000 persons"
+  "title": "Indicator. Share of multi-profile health care institutions of a capable network that have concluded an agreement with the National Health Service of Ukraine on the provision of rehabilitation care, percent (SDG indicator 3.6.1)"
 }

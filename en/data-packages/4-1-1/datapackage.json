@@ -16,31 +16,38 @@
             "title": "Year"
           },
           {
-            "name": "Level",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "1st_level (basic, 0-3 points)",
-                "2nd level (intermediate, 4-6 points)",
-                "3rd level (adequate, 7-9 points)",
-                "4th level (high, 10-12 points)",
+                "Ukraine",
+                "reg_Vinnytsya",
+                "reg_Volyn",
+                "reg_Dnipropetrovsk",
+                "reg_Zhytomyr",
+                "reg_Zakarpattya",
+                "reg_Zaporizhzhya",
+                "reg_Ivano-Frankivsk",
+                "reg_Kyiv",
+                "reg_Kirovohrad",
+                "reg_Lviv",
+                "reg_Mykolayiv",
+                "reg_Odesa",
+                "reg_Poltava",
+                "reg_Rivne",
+                "reg_Sumy",
+                "reg_Ternopil",
+                "reg_Kharkiv",
+                "reg_Kherson",
+                "reg_Khmelnytskiy",
+                "reg_Cherkasy",
+                "reg_Chernivtsi",
+                "reg_Chernihiv",
+                "reg_Kyiv_city",
                 ""
               ]
             },
-            "title": "Levels of academic achievement"
-          },
-          {
-            "name": "Settlement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "settlement, village",
-                "urban settlement",
-                "city",
-                ""
-              ]
-            },
-            "title": "Settlement"
+            "title": "Region"
           },
           {
             "name": "Sex",
@@ -55,6 +62,18 @@
             "title": "Sex"
           },
           {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -65,5 +84,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-1",
-  "title": "4-1-1"
+  "title": "Share of graduates of general secondary education institutions in the current year who have target level of academic achievement in the Ukrainian language"
 }
