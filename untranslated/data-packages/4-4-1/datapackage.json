@@ -15,10 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "females",
+                "males",
                 ""
               ]
             }
@@ -33,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "4-4-1",
-  "title": "4-4-1"
+  "title": "global_indicators.4-4-1-title"
 }

@@ -12,8 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Level_ed",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Complete higher",
+                "Basic higher",
+                "Incomplete higher",
+                "Professional and technical",
+                "Complete total average",
+                "Basic, elementary general or no education",
+                ""
+              ]
+            },
+            "title": "Level of education"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 years",
+                "25-64 years",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",

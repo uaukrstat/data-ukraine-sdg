@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "direct_obstetric_causes",
-                "indirect_obstetric_causes",
+                "directly related to obstetric causes",
+                "indirectly related to obstetric causes",
                 ""
               ]
             },

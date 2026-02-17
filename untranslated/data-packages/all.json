@@ -104,7 +104,7 @@
           }
         ]
       },
-      "title": "3-10-1"
+      "title": "global_indicators.3-10-1-title"
     },
     {
       "path": "4-7-1/data.csv",
@@ -500,6 +500,28 @@
       "title": "global_indicators.3-5-7-title"
     },
     {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-2-2-title"
+    },
+    {
       "path": "11-3-2/data.csv",
       "name": "11-3-2",
       "profile": "tabular-data-resource",
@@ -576,33 +598,23 @@
             "type": "integer"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "age_18",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "female",
+                "male",
                 ""
               ]
             }
           },
           {
-            "name": "Type of residence",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "age_0_17",
+                "age_18_plus",
                 ""
               ]
             }
@@ -860,7 +872,7 @@
           }
         ]
       },
-      "title": "3-1-4"
+      "title": "global_indicators.3-1-4-title"
     },
     {
       "path": "15-3-5/data.csv",
@@ -939,17 +951,54 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Subject",
+            "type": "string",
             "constraints": {
               "enum": [
+                "reading",
+                "math",
+                "science",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of educational institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "gsei",
+                "gymnasium",
+                "specialized_school",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -1173,7 +1222,7 @@
           }
         ]
       },
-      "title": "3-1-2"
+      "title": "global_indicators.3-1-2-title"
     },
     {
       "path": "16-5-2/data.csv",
@@ -1414,36 +1463,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Decile groups",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "dg_01",
-                "dg_02",
-                "dg_03",
-                "dg_04",
-                "dg_05",
-                "dg_06",
-                "dg_07",
-                "dg_08",
-                "dg_09",
-                "dg_10",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1771,21 +1790,6 @@
             "type": "integer"
           },
           {
-            "name": "Level_ed",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1_сompl_higher",
-                "2_bas_higher",
-                "3_inсompl_higher",
-                "4_prof_ed",
-                "5_comp_aver",
-                "6_bas_ed",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -1797,23 +1801,12 @@
             }
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 years",
-                "25-64 years",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "4-4-2"
+      "title": "global_indicators.4-4-2-title"
     },
     {
       "path": "14-2-2/data.csv",
@@ -2535,10 +2528,12 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "females",
+                "males",
                 ""
               ]
             }
@@ -2549,7 +2544,7 @@
           }
         ]
       },
-      "title": "4-4-1"
+      "title": "global_indicators.4-4-1-title"
     },
     {
       "path": "9-7-1/data.csv",
@@ -2857,11 +2852,23 @@
             "type": "integer"
           },
           {
-            "name": "Fund",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "state",
+                "females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_14_30",
+                "age_30_plus",
                 ""
               ]
             }
@@ -2872,7 +2879,7 @@
           }
         ]
       },
-      "title": "4-4-4"
+      "title": "global_indicators.4-4-4-title"
     },
     {
       "path": "7-4-1/data.csv",
@@ -2925,7 +2932,7 @@
           }
         ]
       },
-      "title": "3-7-1"
+      "title": "global_indicators.3-7-1-title"
     },
     {
       "path": "10-5-1/data.csv",
@@ -3148,28 +3155,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex of the head of household",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mal",
-                "femal",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3395,6 +3380,38 @@
         ]
       },
       "title": "global_indicators.5-4-2-title"
+    },
+    {
+      "path": "4-4-4-a/data.csv",
+      "name": "4-4-4-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Fund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "state",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "4-4-4-a"
     },
     {
       "path": "3-5-3/data.csv",
@@ -3675,7 +3692,7 @@
                 "gsei",
                 "pvtei",
                 "ippte",
-                "other",
+                "other_2",
                 ""
               ]
             }
@@ -3739,7 +3756,7 @@
           }
         ]
       },
-      "title": "2-4-2"
+      "title": "global_indicators.2-4-2-title"
     },
     {
       "path": "5-2-4/data.csv",
@@ -4615,14 +4632,12 @@
             "type": "integer"
           },
           {
-            "name": "Cost_train",
+            "name": "Sources of funding",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_per_student",
-                "2_per_student_job",
-                "3_per_graduate",
-                "4_per_doctoral",
+                "state_source",
+                "individuals_legal",
                 ""
               ]
             }
@@ -4633,7 +4648,7 @@
           }
         ]
       },
-      "title": "4-4-3"
+      "title": "global_indicators.4-4-3-title"
     },
     {
       "path": "3-1-5/data.csv",
@@ -5101,6 +5116,87 @@
       "title": "2-5-1"
     },
     {
+      "path": "4-3-2/data.csv",
+      "name": "4-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of educational institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "lyceum",
+                "gymnasium",
+                "gsei",
+                "other_institution",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "books_and_materials",
+                "own_room",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "math_grade6",
+                "math_grade8",
+                "ukr_grade6",
+                "ukr_grade8",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.4-3-2-title"
+    },
+    {
       "path": "9-4-2/data.csv",
       "name": "9-4-2",
       "profile": "tabular-data-resource",
@@ -5334,7 +5430,7 @@
           }
         ]
       },
-      "title": "3-1-3"
+      "title": "global_indicators.3-1-3-title"
     },
     {
       "path": "7-3-1/data.csv",
@@ -5683,29 +5779,29 @@
             "constraints": {
               "enum": [
                 "Ukraine",
-                "reg_Vinnytsya",
-                "reg_Volyn",
-                "reg_Dnipropetrovsk",
-                "reg_Zhytomyr",
-                "reg_Zakarpattya",
-                "reg_Zaporizhzhya",
-                "reg_Ivano-Frankivsk",
-                "reg_Kyiv",
-                "reg_Kirovohrad",
-                "reg_Lviv",
-                "reg_Mykolayiv",
-                "reg_Odesa",
-                "reg_Poltava",
-                "reg_Rivne",
-                "reg_Sumy",
-                "reg_Ternopil",
-                "reg_Kharkiv",
-                "reg_Kherson",
-                "reg_Khmelnytskiy",
-                "reg_Cherkasy",
-                "reg_Chernivtsi",
-                "reg_Chernihiv",
-                "reg_Kyiv_city",
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
+                "17_reg_Zaporizhzhya",
+                "18_reg_Ivano-Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "22_reg_Lviv",
+                "23_reg_Mykolayiv",
+                "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
+                "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
+                "35_reg_Kyiv_city",
                 ""
               ]
             }
@@ -5943,52 +6039,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "Land purpose",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "arable_land",
+                ""
+              ]
+            }
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "5.5",
-                "5.7",
-                "5.1",
-                "5.0",
-                "4.2",
-                "3.6",
-                "2.9",
-                "2.2",
-                "1.9",
-                "1.8",
-                "6.6",
-                "6.3",
-                "6.2",
-                "5.2",
-                "4.1",
-                "3.9",
-                "3.5",
-                "6.8",
-                "7.9",
-                "5.8",
-                "6.0",
-                "4.9",
-                "3.0",
-                "1.7",
-                "7.7",
-                "5.4",
-                "5.3",
-                "3.2",
-                "2.4",
-                "2.6",
-                "0.8",
-                "1.6",
-                "1.0",
-                "0.0",
-                "8.7",
-                "9.1",
-                "8.0",
-                "8.2",
-                "6.5",
+                "Ukraine",
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
+                "17_reg_Zaporizhzhya",
+                "18_reg_Ivano-Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
+                "22_reg_Lviv",
+                "23_reg_Mykolayiv",
+                "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
+                "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
                 ""
               ]
             }
@@ -6368,28 +6460,12 @@
             }
           },
           {
-            "name": "For reference",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1227.0",
-                "1388.0",
-                "1604.0",
-                "1745.0",
-                "1902.0",
-                "2078.0",
-                "2250.0",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "1-1-3"
+      "title": "global_indicators.1-1-3-title"
     },
     {
       "path": "2-2-2-a/data.csv",
@@ -7415,6 +7491,37 @@
       "title": "global_indicators.3-8-2-a-title"
     },
     {
+      "path": "4-4-1-a/data.csv",
+      "name": "4-4-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "4-4-1-a"
+    },
+    {
       "path": "6-1-2/data.csv",
       "name": "6-1-2",
       "profile": "tabular-data-resource",
@@ -8301,6 +8408,41 @@
       "title": "global_indicators.15-3-6-title"
     },
     {
+      "path": "4-4-3-a/data.csv",
+      "name": "4-4-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Cost_train",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1_per_student",
+                "2_per_student_job",
+                "3_per_graduate",
+                "4_per_doctoral",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "4-4-3-a"
+    },
+    {
       "path": "15-3-3/data.csv",
       "name": "15-3-3",
       "profile": "tabular-data-resource",
@@ -8373,31 +8515,31 @@
             "constraints": {
               "enum": [
                 "Ukraine",
-                "reg_Vinnytsya",
-                "reg_Volyn",
-                "reg_Dnipropetrovsk",
-                "reg_Donetsk",
-                "reg_Zhytomyr",
-                "reg_Zakarpattya",
-                "reg_Zaporizhzhya",
-                "reg_Ivano-Frankivsk",
-                "reg_Kyiv_region",
-                "reg_Kirovohrad",
-                "reg_Luhansk",
-                "reg_Lviv",
-                "reg_Mykolayiv",
-                "reg_Odesa",
-                "reg_Poltava",
-                "reg_Rivne",
-                "reg_Sumy",
-                "reg_Ternopil",
-                "reg_Kharkiv",
-                "reg_Kherson",
-                "reg_Khmelnytskiy",
-                "reg_Cherkasy",
-                "reg_Chernivtsi",
-                "reg_Chernihiv",
-                "reg_Kyiv_city",
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
+                "17_reg_Zaporizhzhya",
+                "18_reg_Ivano-Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
+                "22_reg_Lviv",
+                "23_reg_Mykolayiv",
+                "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
+                "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
+                "35_reg_Kyiv_city",
                 ""
               ]
             }
@@ -8418,18 +8560,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_6",
-                "age_7",
-                "age_8",
-                "age_9",
-                "age_10",
-                "age_11",
-                "age_12",
-                "age_13",
-                "age_14",
-                "age_15",
-                "age_16",
-                "age_17",
+                "aged_6",
+                "aged_7",
+                "aged_8",
+                "aged_9",
+                "aged_10",
+                "aged_11",
+                "aged_12",
+                "aged_13",
+                "aged_14",
+                "aged_15",
+                "aged_16",
+                "aged_17",
                 ""
               ]
             }
@@ -8807,6 +8949,37 @@
       "title": "global_indicators.4-5-2-title"
     },
     {
+      "path": "4-3-1-a/data.csv",
+      "name": "4-3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.4-3-1-a-title"
+    },
+    {
       "path": "3-4-2-a/data.csv",
       "name": "3-4-2-a",
       "profile": "tabular-data-resource",
@@ -9004,6 +9177,65 @@
         ]
       },
       "title": "global_indicators.1-3-1-a-title"
+    },
+    {
+      "path": "4-4-2-a/data.csv",
+      "name": "4-4-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Level_ed",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1_сompl_higher",
+                "2_bas_higher",
+                "3_inсompl_higher",
+                "4_prof_ed",
+                "5_comp_aver",
+                "6_bas_ed",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 years",
+                "25-64 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "4-4-2-a"
     },
     {
       "path": "3-6-1/data.csv",
@@ -9537,28 +9769,6 @@
         ]
       },
       "title": "global_indicators.9-2-1-a-title"
-    },
-    {
-      "path": "4-3-1-a/data.csv",
-      "name": "4-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-3-1-a-title"
     },
     {
       "path": "5-4-1-a/data.csv",
@@ -11321,28 +11531,6 @@
       "title": "11-1-1-a"
     },
     {
-      "path": "4-4-1-a/data.csv",
-      "name": "4-4-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "4-4-1-a"
-    },
-    {
       "path": "5-2-7-a/data.csv",
       "name": "5-2-7-a",
       "profile": "tabular-data-resource",
@@ -11363,28 +11551,6 @@
         ]
       },
       "title": "5-2-7-a"
-    },
-    {
-      "path": "4-4-4-a/data.csv",
-      "name": "4-4-4-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "4-4-4-a"
     },
     {
       "path": "16-8-4-a/data.csv",
@@ -11783,28 +11949,6 @@
       "title": "5-2-3-a"
     },
     {
-      "path": "4-4-3-a/data.csv",
-      "name": "4-4-3-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "4-4-3-a"
-    },
-    {
       "path": "16-8-1-a/data.csv",
       "name": "16-8-1-a",
       "profile": "tabular-data-resource",
@@ -12045,28 +12189,6 @@
         ]
       },
       "title": "10-1-1-a"
-    },
-    {
-      "path": "4-4-2-a/data.csv",
-      "name": "4-4-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "4-4-2-a"
     },
     {
       "path": "16-2-4-a/data.csv",
@@ -12355,28 +12477,6 @@
       "title": "5-4-3-a"
     },
     {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "1-2-2"
-    },
-    {
       "path": "16-8-5-a/data.csv",
       "name": "16-8-5-a",
       "profile": "tabular-data-resource",
@@ -12573,28 +12673,6 @@
         ]
       },
       "title": "4-6-2"
-    },
-    {
-      "path": "4-3-2/data.csv",
-      "name": "4-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "4-3-2"
     },
     {
       "path": "13-1-1-a/data.csv",

@@ -15,11 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "Fund",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "state",
+                "females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_14_30",
+                "age_30_plus",
                 ""
               ]
             }
@@ -34,5 +46,5 @@
   ],
   "profile": "data-package",
   "name": "4-4-4",
-  "title": "4-4-4"
+  "title": "global_indicators.4-4-4-title"
 }

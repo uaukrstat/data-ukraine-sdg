@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "direct_obstetric_causes",
-                "indirect_obstetric_causes",
+                "безпосередньо пов'язаної з акушерськими причинами",
+                "опосередковано пов'язаної з акушерськими причинами",
                 ""
               ]
             },

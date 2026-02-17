@@ -32,14 +32,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "заклади загальної середньої освіти (ЗЗСО)",
-                "заклади професійної (професійно-технічної) освіти (ЗП(ПТ)О)",
-                "інші заклади 2",
-                "other",
+                "general secondary educational institutions (GSEI)",
+                "professional (vocational and technical) educational institutions (P(VT)EI)",
+                "institutions of professional pre-tertiary education (IPPTE)",
+                "other institutions 2",
                 ""
               ]
             },
-            "title": "за типом закладу освіти"
+            "title": "by type of educational institution"
           },
           {
             "name": "Value",
@@ -52,5 +52,5 @@
   ],
   "profile": "data-package",
   "name": "4-2-3",
-  "title": "global_indicators.4-2-3-title"
+  "title": "Number of seekers for general secondary, professional (vocational and technical) education from vulnerable categories of the population who are provided with computer equipment, thousand persons (SDG indicator 4.2.3)"
 }

@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Рік"
+          },
+          {
+            "name": "Fund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "державний бюджет",
+                ""
+              ]
+            },
+            "title": "Джерела фінансування"
           },
           {
             "name": "Value",

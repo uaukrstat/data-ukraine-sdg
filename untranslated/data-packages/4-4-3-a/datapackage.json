@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Cost_train",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1_per_student",
+                "2_per_student_job",
+                "3_per_graduate",
+                "4_per_doctoral",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -32,14 +32,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "general secondary educational institutions (GSEI)",
-                "professional (vocational and technical) educational institutions (P(VT)EI)",
-                "other institutions 2",
-                "other",
+                "заклади загальної середньої освіти (ЗЗСО)",
+                "заклади професійної (професійно-технічної) освіти (ЗП(ПТ)О)",
+                "заклади фахової передвищої освіти (ЗФПО)",
+                "інші заклади 2",
                 ""
               ]
             },
-            "title": "by type of educational institution"
+            "title": "за типом закладу освіти"
           },
           {
             "name": "Value",
@@ -52,5 +52,5 @@
   ],
   "profile": "data-package",
   "name": "4-2-3",
-  "title": "global_indicators.4-2-3-title"
+  "title": "Кількість здобувачів загальної середньої, професійної (професійно-технічної) освіти з вразливих категорій населення, які забезпечені комп’ютерним обладнанням, тис. осіб (індикатор ЦСР 4.2.3)"
 }

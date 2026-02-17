@@ -16,18 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Cost_train",
+            "name": "Sources of funding",
             "type": "string",
             "constraints": {
               "enum": [
-                "average costs per one given student, UAH",
-                "average costs per one graduated student, who studies without separation from production, UAH",
-                "average costs per one graduated student, who studies with separation from production, UAH",
-                "average costs per one doctoral student, UAH",
+                "from the state budget",
+                "funds of individuals and legal entities",
                 ""
               ]
             },
-            "title": "Cost of training a specialist"
+            "title": "by sources of funding"
           },
           {
             "name": "Value",
@@ -40,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "4-4-3",
-  "title": "4-4-3"
+  "title": "Volume of expenditures of the state, individuals and legal entities on tertiary education to gross domestic product, percent (SDG indicator 4.4.3)"
 }

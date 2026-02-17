@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Fund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "national budget",
+                ""
+              ]
+            },
+            "title": "Sources of funding"
           },
           {
             "name": "Value",

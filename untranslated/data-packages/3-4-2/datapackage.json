@@ -15,33 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "age_18",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "female",
+                "male",
                 ""
               ]
             }
           },
           {
-            "name": "Type of residence",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "age_0_17",
+                "age_18_plus",
                 ""
               ]
             }

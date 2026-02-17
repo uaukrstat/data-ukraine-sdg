@@ -113,7 +113,7 @@
           }
         ]
       },
-      "title": "3-10-1"
+      "title": "Indicator. Share of persons who drink alcoholic beverages, percent (SDG indicator 3.10.1)"
     },
     {
       "path": "4-7-1/data.csv",
@@ -537,6 +537,30 @@
       "title": "Mortality rate from intentional self-harm, per 100,000 persons (SDG indicator 3.5.7)"
     },
     {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Share of children from among privileged categories provided with free hot meals in general secondary educational institutions, percent (SDG indicator 1.2.2)"
+    },
+    {
       "path": "11-3-2/data.csv",
       "name": "11-3-2",
       "profile": "tabular-data-resource",
@@ -620,39 +644,28 @@
             "title": "Year"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "up to 18 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "female",
+                "male",
                 ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "Type of residence",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "0-17 years old inclusive",
+                "18 years and older",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -931,7 +944,7 @@
           }
         ]
       },
-      "title": "3-1-4"
+      "title": "Share of persons signed a declaration on the choice of a doctor who provides primary medical care, percent (SDG indicator 3.1.4)"
     },
     {
       "path": "15-3-5/data.csv",
@@ -1017,23 +1030,63 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Subject",
+            "type": "string",
             "constraints": {
               "enum": [
+                "reading",
+                "mathematics",
+                "natural sciences",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Subject"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "Type of educational institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "general secondary educational institutions (GSEI)",
+                "gymnasium",
+                "specialized school",
+                ""
+              ]
+            },
+            "title": "by type of educational institution"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Ratio of the number of entrants to vocational technical establishments to the total number of places in vocational technical establishments funded from the state and local budgets"
+      "title": "Share of primary school graduates who have achieved basic and higher levels of competence (reading, mathematics, natural sciences) according to the scale of nationwide external monitoring of the quality of primary education, percent (SDG indicator 4.3.1)"
     },
     {
       "path": "5-2-8/data.csv",
@@ -1236,7 +1289,7 @@
           }
         ]
       },
-      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+      "title": "Share of general secondary education seekers aged 15 who achieved level 2 and above in key fields (reading, mathematics, natural sciences) according to the PISA scale, percent (SDG indicator 4.2.2)"
     },
     {
       "path": "3-1-2/data.csv",
@@ -1272,7 +1325,7 @@
           }
         ]
       },
-      "title": "3-1-2"
+      "title": "Share of contracted providers of mental health services at the primary health care level, percent (SDG indicator 3.1.2)"
     },
     {
       "path": "16-5-2/data.csv",
@@ -1530,38 +1583,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Type of residence"
-          },
-          {
-            "name": "Decile groups",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1 group (low income)",
-                "2 group",
-                "3 group",
-                "4 group",
-                "5 group",
-                "6 group",
-                "7 group",
-                "8 group",
-                "9 group",
-                "10 group (high income)",
-                ""
-              ]
-            },
-            "title": "Decile groups"
           },
           {
             "name": "Value",
@@ -1919,22 +1940,6 @@
             "title": "Year"
           },
           {
-            "name": "Level_ed",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Complete higher",
-                "Basic higher",
-                "Incomplete higher",
-                "Professional and technical",
-                "Complete total average",
-                "Basic, elementary general or no education",
-                ""
-              ]
-            },
-            "title": "Level of education"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -1947,25 +1952,13 @@
             "title": "Sex"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 years",
-                "25-64 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "4-4-2"
+      "title": "Share of seekers for tertiary education over 24 years old, percent (SDG indicator 4.4.2)"
     },
     {
       "path": "14-2-2/data.csv",
@@ -2747,14 +2740,16 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "women",
+                "men",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -2763,7 +2758,7 @@
           }
         ]
       },
-      "title": "4-4-1"
+      "title": "Share of seekers for professional pre-tertiary education over 24 years old, percent (SDG indicator 4.4.1)"
     },
     {
       "path": "9-7-1/data.csv",
@@ -3094,15 +3089,28 @@
             "title": "Year"
           },
           {
-            "name": "Fund",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "national budget",
+                "women",
+                "men",
                 ""
               ]
             },
-            "title": "Sources of funding"
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "14-30 years",
+                "30 years and older",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -3111,7 +3119,7 @@
           }
         ]
       },
-      "title": "4-4-4"
+      "title": "Expenditures of higher education institutions on scientific research activities"
     },
     {
       "path": "7-4-1/data.csv",
@@ -3169,7 +3177,7 @@
           }
         ]
       },
-      "title": "3-7-1"
+      "title": "Indicator. Mortality rate due to transport accidents, per 100,000 persons (SDG indicator 3.7.1)"
     },
     {
       "path": "10-5-1/data.csv",
@@ -3413,30 +3421,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Type of residence"
-          },
-          {
-            "name": "Sex of the head of household",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "men",
-                "women",
-                ""
-              ]
-            },
-            "title": "Sex of the head of household"
           },
           {
             "name": "Value",
@@ -3684,6 +3668,41 @@
         ]
       },
       "title": "Share of women among the members of regional councils and local councils of regional significance, %"
+    },
+    {
+      "path": "4-4-4-a/data.csv",
+      "name": "4-4-4-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Fund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "national budget",
+                ""
+              ]
+            },
+            "title": "Sources of funding"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-4-4-a"
     },
     {
       "path": "3-5-3/data.csv",
@@ -3985,14 +4004,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "заклади загальної середньої освіти (ЗЗСО)",
-                "заклади професійної (професійно-технічної) освіти (ЗП(ПТ)О)",
-                "інші заклади 2",
-                "other",
+                "general secondary educational institutions (GSEI)",
+                "professional (vocational and technical) educational institutions (P(VT)EI)",
+                "institutions of professional pre-tertiary education (IPPTE)",
+                "other institutions 2",
                 ""
               ]
             },
-            "title": "за типом закладу освіти"
+            "title": "by type of educational institution"
           },
           {
             "name": "Value",
@@ -4001,7 +4020,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-2-3-title"
+      "title": "Number of seekers for general secondary, professional (vocational and technical) education from vulnerable categories of the population who are provided with computer equipment, thousand persons (SDG indicator 4.2.3)"
     },
     {
       "path": "15-1-3/data.csv",
@@ -4059,7 +4078,7 @@
           }
         ]
       },
-      "title": "2-4-2"
+      "title": "Share of food industry products and agricultural raw material processing in the total volume of exports (groups 1–24 according to the Ukrainian Classification of Goods for Foreign Economic Activity), percent (SDG indicator 2.4.2)"
     },
     {
       "path": "5-2-4/data.csv",
@@ -5007,18 +5026,16 @@
             "title": "Year"
           },
           {
-            "name": "Cost_train",
+            "name": "Sources of funding",
             "type": "string",
             "constraints": {
               "enum": [
-                "average costs per one given student, UAH",
-                "average costs per one graduated student, who studies without separation from production, UAH",
-                "average costs per one graduated student, who studies with separation from production, UAH",
-                "average costs per one doctoral student, UAH",
+                "from the state budget",
+                "funds of individuals and legal entities",
                 ""
               ]
             },
-            "title": "Cost of training a specialist"
+            "title": "by sources of funding"
           },
           {
             "name": "Value",
@@ -5027,7 +5044,7 @@
           }
         ]
       },
-      "title": "4-4-3"
+      "title": "Volume of expenditures of the state, individuals and legal entities on tertiary education to gross domestic product, percent (SDG indicator 4.4.3)"
     },
     {
       "path": "3-1-5/data.csv",
@@ -5534,6 +5551,94 @@
       "title": "2-5-1"
     },
     {
+      "path": "4-3-2/data.csv",
+      "name": "4-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "Type of educational institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "lyceum",
+                "gymnasium",
+                "general secondary educational institutions (GSEI)",
+                "others",
+                ""
+              ]
+            },
+            "title": "by type of educational institution"
+          },
+          {
+            "name": "SES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "participants who have printed books and other materials needed for learning",
+                "having your own space (room or workspace)",
+                ""
+              ]
+            },
+            "title": "by socioeconomic status"
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mathematics 6th grade",
+                "mathematics 8th grade",
+                "Ukrainian language 6th grade",
+                "Ukrainian language 8th grade",
+                ""
+              ]
+            },
+            "title": "Subject"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Share of seekers of general secondary education in grades 6 and 8 who have achieved a sufficient and high level of knowledge in the Ukrainian language and mathematics (algebra and geometry) according to the results of the nationwide monitoring study of the quality of education under martial law, percent (SDG indicator 4.3.2)"
+    },
+    {
       "path": "9-4-2/data.csv",
       "name": "9-4-2",
       "profile": "tabular-data-resource",
@@ -5789,7 +5894,7 @@
           }
         ]
       },
-      "title": "3-1-3"
+      "title": "Share of health care expenditures in total household expenditures, percent (SDG indicator 3.1.3)"
     },
     {
       "path": "7-3-1/data.csv",
@@ -6166,29 +6271,29 @@
             "constraints": {
               "enum": [
                 "Ukraine",
-                "reg_Vinnytsya",
-                "reg_Volyn",
-                "reg_Dnipropetrovsk",
-                "reg_Zhytomyr",
-                "reg_Zakarpattya",
-                "reg_Zaporizhzhya",
-                "reg_Ivano-Frankivsk",
-                "reg_Kyiv",
-                "reg_Kirovohrad",
-                "reg_Lviv",
-                "reg_Mykolayiv",
-                "reg_Odesa",
-                "reg_Poltava",
-                "reg_Rivne",
-                "reg_Sumy",
-                "reg_Ternopil",
-                "reg_Kharkiv",
-                "reg_Kherson",
-                "reg_Khmelnytskiy",
-                "reg_Cherkasy",
-                "reg_Chernivtsi",
-                "reg_Chernihiv",
-                "reg_Kyiv_city",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -6225,7 +6330,7 @@
           }
         ]
       },
-      "title": "Share of graduates of general secondary education institutions in the current year who have target level of academic achievement in the Ukrainian language"
+      "title": "Indicator. Share of children aged 5 years attending pre-school educational institutions and structural divisions of legal entities under public and private law, percent (SDG indicator 4.1.1)"
     },
     {
       "path": "14-3-1/data.csv",
@@ -6447,53 +6552,50 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Land purpose",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "arable land",
+                ""
+              ]
+            },
+            "title": "by land purpose"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "5.5",
-                "5.7",
-                "5.1",
-                "5.0",
-                "4.2",
-                "3.6",
-                "2.9",
-                "2.2",
-                "1.9",
-                "1.8",
-                "6.6",
-                "6.3",
-                "6.2",
-                "5.2",
-                "4.1",
-                "3.9",
-                "3.5",
-                "6.8",
-                "7.9",
-                "5.8",
-                "6.0",
-                "4.9",
-                "3.0",
-                "1.7",
-                "7.7",
-                "5.4",
-                "5.3",
-                "3.2",
-                "2.4",
-                "2.6",
-                "0.8",
-                "1.6",
-                "1.0",
-                "0.0",
-                "8.7",
-                "9.1",
-                "8.0",
-                "8.2",
-                "6.5",
+                "Ukraine",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
                 ""
               ]
             },
@@ -6904,30 +7006,13 @@
             "title": "Households"
           },
           {
-            "name": "For reference",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1227.0",
-                "1388.0",
-                "1604.0",
-                "1745.0",
-                "1902.0",
-                "2078.0",
-                "2250.0",
-                ""
-              ]
-            },
-            "title": "For reference: the legally established minimum subsistence level per month on average per person, UAH"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "1-1-3"
+      "title": "Share of persons with daily consumption below 6.85 USD at purchasing power parity, percent (SDG indicator 1.1.3)"
     },
     {
       "path": "2-2-2-a/data.csv",
@@ -8041,6 +8126,40 @@
       "title": "Share of men who smoke at the age of 16-29, %"
     },
     {
+      "path": "4-4-1-a/data.csv",
+      "name": "4-4-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-4-1-a"
+    },
+    {
       "path": "6-1-2/data.csv",
       "name": "6-1-2",
       "profile": "tabular-data-resource",
@@ -8850,8 +8969,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "direct_obstetric_causes",
-                "indirect_obstetric_causes",
+                "directly related to obstetric causes",
+                "indirectly related to obstetric causes",
                 ""
               ]
             },
@@ -9003,6 +9122,44 @@
       "title": "Share of area of agricultural land of extensive use (hayfields, pastures) in total area of the country, %"
     },
     {
+      "path": "4-4-3-a/data.csv",
+      "name": "4-4-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Cost_train",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "average costs per one given student, UAH",
+                "average costs per one graduated student, who studies without separation from production, UAH",
+                "average costs per one graduated student, who studies with separation from production, UAH",
+                "average costs per one doctoral student, UAH",
+                ""
+              ]
+            },
+            "title": "Cost of training a specialist"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-4-3-a"
+    },
+    {
       "path": "15-3-3/data.csv",
       "name": "15-3-3",
       "profile": "tabular-data-resource",
@@ -9081,31 +9238,31 @@
             "constraints": {
               "enum": [
                 "Ukraine",
-                "reg_Vinnytsya",
-                "reg_Volyn",
-                "reg_Dnipropetrovsk",
-                "reg_Donetsk",
-                "reg_Zhytomyr",
-                "reg_Zakarpattya",
-                "reg_Zaporizhzhya",
-                "reg_Ivano-Frankivsk",
-                "reg_Kyiv_region",
-                "reg_Kirovohrad",
-                "reg_Luhansk",
-                "reg_Lviv",
-                "reg_Mykolayiv",
-                "reg_Odesa",
-                "reg_Poltava",
-                "reg_Rivne",
-                "reg_Sumy",
-                "reg_Ternopil",
-                "reg_Kharkiv",
-                "reg_Kherson",
-                "reg_Khmelnytskiy",
-                "reg_Cherkasy",
-                "reg_Chernivtsi",
-                "reg_Chernihiv",
-                "reg_Kyiv_city",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -9128,18 +9285,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_6",
-                "age_7",
-                "age_8",
-                "age_9",
-                "age_10",
-                "age_11",
-                "age_12",
-                "age_13",
-                "age_14",
-                "up to 15 years",
-                "age_16",
-                "age_17",
+                "6 years",
+                "7 years",
+                "8 years",
+                "9 years",
+                "10 years",
+                "11 years",
+                "12 years",
+                "13 years",
+                "14 years",
+                "15 years",
+                "16 years",
+                "17 years",
                 ""
               ]
             },
@@ -9164,7 +9321,7 @@
           }
         ]
       },
-      "title": "Coverage of children aged 5 years by pre-school education institutions and structural units of public and private legal entities, %"
+      "title": "Share of children aged 6–17 attending general secondary educational institutions, percent (SDG indicator 4.2.1) 1"
     },
     {
       "path": "4-1-2/data.csv",
@@ -9550,6 +9707,40 @@
       "title": "global_indicators.4-5-2-title"
     },
     {
+      "path": "4-3-1-a/data.csv",
+      "name": "4-3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ratio of the number of entrants to vocational technical establishments to the total number of places in vocational technical establishments funded from the state and local budgets"
+    },
+    {
       "path": "3-4-2-a/data.csv",
       "name": "3-4-2-a",
       "profile": "tabular-data-resource",
@@ -9761,6 +9952,70 @@
         ]
       },
       "title": "Ratio of poverty levels of households with children and households without children, times"
+    },
+    {
+      "path": "4-4-2-a/data.csv",
+      "name": "4-4-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Level_ed",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Complete higher",
+                "Basic higher",
+                "Incomplete higher",
+                "Professional and technical",
+                "Complete total average",
+                "Basic, elementary general or no education",
+                ""
+              ]
+            },
+            "title": "Level of education"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 years",
+                "25-64 years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-4-2-a"
     },
     {
       "path": "3-6-1/data.csv",
@@ -10341,30 +10596,6 @@
         ]
       },
       "title": "Share of electric transport in domestic traffic, %"
-    },
-    {
-      "path": "4-3-1-a/data.csv",
-      "name": "4-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ratio of the number of entrants to vocational technical establishments to the total number of places in vocational technical establishments funded from the state and local budgets"
     },
     {
       "path": "5-4-1-a/data.csv",
@@ -12287,30 +12518,6 @@
       "title": "11-1-1-a"
     },
     {
-      "path": "4-4-1-a/data.csv",
-      "name": "4-4-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-4-1-a"
-    },
-    {
       "path": "5-2-7-a/data.csv",
       "name": "5-2-7-a",
       "profile": "tabular-data-resource",
@@ -12333,30 +12540,6 @@
         ]
       },
       "title": "5-2-7-a"
-    },
-    {
-      "path": "4-4-4-a/data.csv",
-      "name": "4-4-4-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-4-4-a"
     },
     {
       "path": "16-8-4-a/data.csv",
@@ -12791,30 +12974,6 @@
       "title": "5-2-3-a"
     },
     {
-      "path": "4-4-3-a/data.csv",
-      "name": "4-4-3-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-4-3-a"
-    },
-    {
       "path": "16-8-1-a/data.csv",
       "name": "16-8-1-a",
       "profile": "tabular-data-resource",
@@ -13077,30 +13236,6 @@
         ]
       },
       "title": "10-1-1-a"
-    },
-    {
-      "path": "4-4-2-a/data.csv",
-      "name": "4-4-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-4-2-a"
     },
     {
       "path": "16-2-4-a/data.csv",
@@ -13415,30 +13550,6 @@
       "title": "5-4-3-a"
     },
     {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "1-2-2"
-    },
-    {
       "path": "16-8-5-a/data.csv",
       "name": "16-8-5-a",
       "profile": "tabular-data-resource",
@@ -13653,30 +13764,6 @@
         ]
       },
       "title": "4-6-2"
-    },
-    {
-      "path": "4-3-2/data.csv",
-      "name": "4-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-3-2"
     },
     {
       "path": "13-1-1-a/data.csv",

@@ -16,39 +16,28 @@
             "title": "Year"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "up to 18 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "female",
+                "male",
                 ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "Type of residence",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "0-17 years old inclusive",
+                "18 years and older",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Age"
           },
           {
             "name": "Value",

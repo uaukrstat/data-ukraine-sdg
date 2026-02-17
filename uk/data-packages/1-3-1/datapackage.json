@@ -16,30 +16,6 @@
             "title": "Рік"
           },
           {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Sex of the head of household",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "чоловік",
-                "жінка",
-                ""
-              ]
-            },
-            "title": "Стать голови домогосподарства"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

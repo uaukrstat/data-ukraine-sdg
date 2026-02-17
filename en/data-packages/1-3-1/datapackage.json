@@ -16,30 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Type of residence"
-          },
-          {
-            "name": "Sex of the head of household",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "men",
-                "women",
-                ""
-              ]
-            },
-            "title": "Sex of the head of household"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

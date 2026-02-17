@@ -15,14 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Cost_train",
+            "name": "Sources of funding",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_per_student",
-                "2_per_student_job",
-                "3_per_graduate",
-                "4_per_doctoral",
+                "state_source",
+                "individuals_legal",
                 ""
               ]
             }
@@ -37,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "4-4-3",
-  "title": "4-4-3"
+  "title": "global_indicators.4-4-3-title"
 }

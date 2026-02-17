@@ -1,37 +1,22 @@
-Year,Cost of training a specialist,Value
-2015,"average costs per one given student, UAH",27890.0
-2016,"average costs per one given student, UAH",29606.9
-2017,"average costs per one given student, UAH",33577.4
-2018,"average costs per one given student, UAH",40724.7
-2019,"average costs per one given student, UAH",52172.0
-2020,"average costs per one given student, UAH",61217.0
-2021,"average costs per one given student, UAH",73918.0
-2022,"average costs per one given student, UAH",71395.3
-2023,"average costs per one given student, UAH",61818.8
-2015,"average costs per one graduated student, who studies without separation from production, UAH",15167.0
-2016,"average costs per one graduated student, who studies without separation from production, UAH",16251.8
-2017,"average costs per one graduated student, who studies without separation from production, UAH",18055.8
-2018,"average costs per one graduated student, who studies without separation from production, UAH",30802.2
-2019,"average costs per one graduated student, who studies without separation from production, UAH",31669.0
-2020,"average costs per one graduated student, who studies without separation from production, UAH",36073.0
-2021,"average costs per one graduated student, who studies without separation from production, UAH",44102.0
-2022,"average costs per one graduated student, who studies without separation from production, UAH",41864.1
-2023,"average costs per one graduated student, who studies without separation from production, UAH",55230.7
-2015,"average costs per one graduated student, who studies with separation from production, UAH",39284.2
-2016,"average costs per one graduated student, who studies with separation from production, UAH",42207.6
-2017,"average costs per one graduated student, who studies with separation from production, UAH",51785.7
-2018,"average costs per one graduated student, who studies with separation from production, UAH",72244.4
-2019,"average costs per one graduated student, who studies with separation from production, UAH",92806.0
-2020,"average costs per one graduated student, who studies with separation from production, UAH",55360.0
-2021,"average costs per one graduated student, who studies with separation from production, UAH",70969.0
-2022,"average costs per one graduated student, who studies with separation from production, UAH",65780.1
-2023,"average costs per one graduated student, who studies with separation from production, UAH",58378.0
-2015,"average costs per one doctoral student, UAH",52445.5
-2016,"average costs per one doctoral student, UAH",60872.5
-2017,"average costs per one doctoral student, UAH",71168.2
-2018,"average costs per one doctoral student, UAH",121555.7
-2019,"average costs per one doctoral student, UAH",129893.0
-2020,"average costs per one doctoral student, UAH",70826.0
-2021,"average costs per one doctoral student, UAH",86532.0
-2022,"average costs per one doctoral student, UAH",81993.1
-2023,"average costs per one doctoral student, UAH",76375.7
+Year,by sources of funding,Value
+2017,,0.878
+2018,,0.841
+2019,,1.015
+2020,,0.924
+2021,,0.847
+2022,,0.837
+2023,,0.671
+2017,from the state budget,0.565
+2018,from the state budget,0.507
+2019,from the state budget,0.618
+2020,from the state budget,0.558
+2021,from the state budget,0.503
+2022,from the state budget,0.539
+2023,from the state budget,0.39
+2017,funds of individuals and legal entities,0.313
+2018,funds of individuals and legal entities,0.334
+2019,funds of individuals and legal entities,0.397
+2020,funds of individuals and legal entities,0.366
+2021,funds of individuals and legal entities,0.344
+2022,funds of individuals and legal entities,0.298
+2023,funds of individuals and legal entities,0.281

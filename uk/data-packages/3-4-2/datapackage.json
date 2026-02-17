@@ -16,17 +16,6 @@
             "title": "Рік"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "до 18 років",
-                ""
-              ]
-            },
-            "title": "Вік"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -39,16 +28,16 @@
             "title": "Стать"
           },
           {
-            "name": "Type of residence",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "міська",
-                "сільська",
+                "0-17 років включно",
+                "18 років і старше",
                 ""
               ]
             },
-            "title": "Місцевість проживання"
+            "title": "Вік"
           },
           {
             "name": "Value",

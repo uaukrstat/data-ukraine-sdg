@@ -15,36 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Decile groups",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "dg_01",
-                "dg_02",
-                "dg_03",
-                "dg_04",
-                "dg_05",
-                "dg_06",
-                "dg_07",
-                "dg_08",
-                "dg_09",
-                "dg_10",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

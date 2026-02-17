@@ -9,23 +9,23 @@ Year,by cause of mortality,Value
 2022,,
 2023,,
 2024,,
-2015,direct_obstetric_causes,8.0
-2016,direct_obstetric_causes,6.8
-2017,direct_obstetric_causes,5.2
-2018,direct_obstetric_causes,7.4
-2019,direct_obstetric_causes,8.1
-2020,direct_obstetric_causes,6.8
-2021,direct_obstetric_causes,8.5
-2022,direct_obstetric_causes,
-2023,direct_obstetric_causes,
-2024,direct_obstetric_causes,
-2015,indirect_obstetric_causes,7.1
-2016,indirect_obstetric_causes,5.8
-2017,indirect_obstetric_causes,3.9
-2018,indirect_obstetric_causes,5.1
-2019,indirect_obstetric_causes,6.8
-2020,indirect_obstetric_causes,11.9
-2021,indirect_obstetric_causes,34.2
-2022,indirect_obstetric_causes,
-2023,indirect_obstetric_causes,
-2024,indirect_obstetric_causes,
+2015,directly related to obstetric causes,8.0
+2016,directly related to obstetric causes,6.8
+2017,directly related to obstetric causes,5.2
+2018,directly related to obstetric causes,7.4
+2019,directly related to obstetric causes,8.1
+2020,directly related to obstetric causes,6.8
+2021,directly related to obstetric causes,8.5
+2022,directly related to obstetric causes,
+2023,directly related to obstetric causes,
+2024,directly related to obstetric causes,
+2015,indirectly related to obstetric causes,7.1
+2016,indirectly related to obstetric causes,5.8
+2017,indirectly related to obstetric causes,3.9
+2018,indirectly related to obstetric causes,5.1
+2019,indirectly related to obstetric causes,6.8
+2020,indirectly related to obstetric causes,11.9
+2021,indirectly related to obstetric causes,34.2
+2022,indirectly related to obstetric causes,
+2023,indirectly related to obstetric causes,
+2024,indirectly related to obstetric causes,

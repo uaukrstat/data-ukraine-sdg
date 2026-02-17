@@ -16,22 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Level_ed",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Complete higher",
-                "Basic higher",
-                "Incomplete higher",
-                "Professional and technical",
-                "Complete total average",
-                "Basic, elementary general or no education",
-                ""
-              ]
-            },
-            "title": "Level of education"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -44,18 +28,6 @@
             "title": "Sex"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 years",
-                "25-64 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -66,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "4-4-2",
-  "title": "4-4-2"
+  "title": "Share of seekers for tertiary education over 24 years old, percent (SDG indicator 4.4.2)"
 }

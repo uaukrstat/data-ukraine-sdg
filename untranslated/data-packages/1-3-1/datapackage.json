@@ -15,28 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex of the head of household",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mal",
-                "femal",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
