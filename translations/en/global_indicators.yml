@@ -173,27 +173,30 @@
 17-2-1-title: Ratio of gross external debt to exports of goods and services in
  annual terms, %
 17-3-1-title: Number of projects of public-private partnership
-4-1-1-title: Share of graduates of general secondary education institutions in
- the current year who have target level of academic achievement in the Ukrainian
- language
-4-2-1-title: Coverage of children aged 5 years by pre-school education institutions
- and structural units of public and private legal entities, %
-4-3-1-title: Ratio of the number of entrants to vocational technical establishments
- to the total number of places in vocational technical establishments funded
- from the state and local budgets
-4-4-1-title: Number of Ukrainian cities — members of the UNESCO Global Network of
- Learning Cities
-4-4-2-title: Population by the level of education and sex, %
-4-4-3-title: Cost of training a specialist
-4-4-4-title: Expenditures of higher education institutions on scientific research
- activities
+
+4-1-1-title: Indicator. Share of children aged 5 years attending pre-school educational institutions and structural divisions of legal entities under public and private law, percent (SDG indicator 4.1.1)
+4-2-1-title: Share of children aged 6–17 attending general secondary educational institutions, percent (SDG indicator 4.2.1) 1
+4-2-2-title: Share of general secondary education seekers aged 15 who achieved level 2 and above in key fields (reading, mathematics, natural sciences) according to the PISA scale, percent (SDG indicator 4.2.2)
+4-2-3-title: Number of seekers for general secondary, professional (vocational and technical) education from vulnerable categories of the population who are provided with computer equipment, thousand persons (SDG indicator 4.2.3)
+4-3-1-title: Share of primary school graduates who have achieved basic and higher levels of competence (reading, mathematics, natural sciences) according to the scale of nationwide external monitoring of the quality of primary education, percent (SDG indicator 4.3.1)
+4-3-2-title: Share of seekers of general secondary education in grades 6 and 8 who have achieved a sufficient and high level of knowledge in the Ukrainian language and mathematics (algebra and geometry) according to the results of the nationwide monitoring study of the quality of education under martial law, percent (SDG indicator 4.3.2)
+4-4-1-title: Share of seekers for professional pre-tertiary education over 24 years old, percent (SDG indicator 4.4.1)
+4-4-2-title: Share of seekers for tertiary education over 24 years old, percent (SDG indicator 4.4.2)
+4-4-3-title: Volume of expenditures of the state, individuals and legal entities on tertiary education to gross domestic product, percent (SDG indicator 4.4.3)
+4-4-4-title: Expenditures of higher education institutions on scientific research activities
+4-4-5-title: Level of participation of the population in formal and informal types of education and professional training of specialists, percent (SDG indicator 4.4.5)
+4-4-6-title: Satisfaction index of participants in the educational process of institutions for professional pre-tertiary and tertiary education with the quality of education (by type of participants in the educational process) (SDG indicator 4.4.6)
+4-4-7-title: Share of women among seekers for professional pre-tertiary and tertiary education by specialties of fields of knowledge 10-20, 25-27, percent (SDG indicator 4.4.7)
+4-4-8-title: Share of entrants to professional (vocational and technical) educational institutions in the total number of places for entrants to professional (vocational and technical) educational institutions financed from the state and local budgets, percent (SDG indicator 4.4.8)
 4-5-1-title: Level of participation of the population in formal and informal forms
  of education and vocational training, %
 4-6-1-title: Share of men among pedagogical staff, %
+4-6-2-title: Share of full-time general secondary educational institutions where inclusive education is organized, percent (SDG indicator 4.6.2)
 4-7-1-title: Share of rural full-time secondary schools with Internet access, %
 4-7-2-title: Share of rural full-time secondary schools, where computers are used
  in the educational process, %
 4-7-3-title: Share of full-time secondary schools with inclusive education, %
+4-8-1-title: Share of the population who claim to be proud of their Ukrainian origin or citizenship according to sociological research, percent (SDG indicator 4.8.1)
 5-1-1-title: Number of normative acts which were revised or adopted to provide men 
  and women with equal rights and opportunities and to prevent discrimination against women and girls, units
 5-2-1-title: Percentage of women and girls over the age of 15 who have ever

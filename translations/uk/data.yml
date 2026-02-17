@@ -249,6 +249,8 @@ cat_C: В
 Group: Група
 Age: Вік
 
+age_0_17: 0-17 років включно
+age_18_plus: 18 років і старше
 age_18: до 18 років
 age_18_35: від 18 до 35 років
 age_36_60: від 36 до 60 років
@@ -267,13 +269,24 @@ age_65: 65 років
 15-24 years: 15-24 роки
 25-64 years: 25-64 роки
 age_15: до 15 років
+age_14_30: 14 - 30 років
 age_15_17: 15 - 17 років
 age_18_24: 18 - 24 роки
 age_25_35: 25 - 35 років
 age_36_59: 36 - 59 років
 age_40_64: 40 - 64 роки
 age_60_74: 60 - 74 роки
+age_30_plus: 30 років і старше
 age_75: 75 років і старші
+aged_6: 6 років
+aged_7: 7 років
+aged_8: 8 років
+aged_9: 9 років
+aged_10: 10 років
+aged_11: 11 років
+aged_12: 12 років
+aged_13: 13 років
+aged_14: 14 років
 aged_15: 15 років
 aged_16: 16 років
 aged_17: 17 років
@@ -496,19 +509,43 @@ Subject: Галузь
 reading: читання
 math: математика
 science: природа
+math_grade6: математика 6-й клас
+math_grade8: математика 8-й клас
+ukr_grade6: українська мова 6-й клас
+ukr_grade8: українська мова 8-й клас
 
 School type: за типом закладу освіти
 lyceum_gymnasium_specialized: ліцей / гімназія / спеціалізована школа
 general_school_complex: середня школа / навчальний комплекс
 college_technical_vocational: коледж / технікум / професійно-технічний навчальний заклад
+lyceum: ліцей
+gymnasium: гімназія
+other_institution: інші
 
 SES: за соціально-економічним статусом
 low_ses: учні із низьким соціально-економічним статусом (25% учнів з найнижчими значеннями індексу PISA соціально-економічного статусу (ESCS))
 high_ses: учні із високим соціально-економічним статусом (25% учнів з найвищими значеннями індексу PISA соціально-економічного статусу (ESCS))
 
-Type of educational institution: by type of educational institution
-gsei: general secondary educational institutions (GSEI)
-pvtei: professional (vocational and technical) educational institutions (P(VT)EI)
-ippte: other institutions 2
+Type of educational institution: за типом закладу освіти
+gsei: заклади загальної середньої освіти (ЗЗСО)
+pvtei: заклади професійної (професійно-технічної) освіти (ЗП(ПТ)О)
+ippte: заклади фахової передвищої освіти (ЗФПО)
+other_2: інші заклади 2
+specialized_school: спеціалізована школа
 
 For reference: 'Довідково: законодавчо встановлений прожитковий мінімум в розрахунку на місяць в середньому на одну особу, грн'
+
+Sources of funding: за джерелами фінансування
+state_source: з державного бюджету
+individuals_legal: кошти фізичних та юридичних осіб
+
+direct_obstetric_causes: безпосередньо пов'язаної з акушерськими причинами
+indirect_obstetric_causes: опосередковано пов'язаної з акушерськими причинами
+
+Land purpose: за призначенням земель
+arable_land: рілля
+
+outpatient: амбулаторна
+stationary: стаціонарна
+books_and_materials: учасники, які мають друковані книги та інші матеріали, необхідні для навчання
+own_room: наявність власного простору (кімнати чи робочого місця)
