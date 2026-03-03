@@ -25,14 +25,10 @@ indicator_number: '10.4.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision: []
+
+precision:
+  - decimals: 1
 reporting_status: complete
 sort: ''
 standalone: false
 tags: []
-
-graph_target_lines:
-  - series: ''
-    unit: ''
-    label_content: indicator.annotation_2020_target
-    value: 23
