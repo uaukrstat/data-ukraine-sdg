@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "GHG_ratio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "all",
-                "by main types of sources, including road transport",
-                ""
-              ]
-            },
-            "title": "Ratio of GHG emissions to 1990 level"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "13-1-1",
-  "title": "13-1-1"
+  "title": "Total volume of emissions and absorption of greenhouse gases compared to 1990, percent"
 }

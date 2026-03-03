@@ -29,7 +29,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",
@@ -54,6 +53,9 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
+                "35_reg_Kyiv_city",
+                "autonomous_Republic_of_Crimea",
+                "city_Sevastopol",
                 ""
               ]
             }

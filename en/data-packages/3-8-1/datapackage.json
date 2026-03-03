@@ -26,9 +26,7 @@
                 "Diphtheria, tetanus",
                 "Pertussis",
                 "Poliomyelitis",
-                "Tetanus",
-                "Rubella",
-                "Mumps",
+                "ill_10_haemophilic_infection",
                 ""
               ]
             },
@@ -45,6 +43,7 @@
                 "18 months",
                 "adults",
                 "14 years",
+                "age_16_years",
                 ""
               ]
             },
@@ -78,6 +77,16 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
+                "18_reg_Ivano_Frankivsk",
+                "Kyiv",
+                "23_reg_Mykolaiv",
+                "31_reg_Khmelnytskyi",
+                "the city of Kyiv",
+                "19_reg_Kyivska",
+                "31_reg_Khmelnytskyy",
+                "35_reg_Kyiv",
+                "Autonomous Republic of Crimea",
+                "city Sevastopol",
                 ""
               ]
             },
@@ -94,5 +103,5 @@
   ],
   "profile": "data-package",
   "name": "3-8-1",
-  "title": "Indicator. Level of immunization of the population according to the Calendar of preventive vaccinations by age groups during the prevention of ten infectious diseases, percent 1"
+  "title": "Level of immunization of the population according to the Calendar of preventive vaccinations by age groups during the prevention of ten infectious diseases, percent 1"
 }

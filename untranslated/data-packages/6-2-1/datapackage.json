@@ -15,10 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "PopulationGroup",
+            "type": "string",
             "constraints": {
               "enum": [
+                "rural_population",
+                "urban_population",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
                 ""
               ]
             }
@@ -33,5 +46,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-1",
-  "title": "6-2-1"
+  "title": "global_indicators.6-2-1-title"
 }

@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "males",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "4-8-1",
-  "title": "4-8-1"
+  "title": "global_indicators.4-8-1-title"
 }

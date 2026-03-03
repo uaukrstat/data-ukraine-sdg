@@ -20,8 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "age_0_5",
+                "age_6_17",
+                "18-39 years",
                 "40-64 years",
-                "65 years",
+                "65 years and older",
                 ""
               ]
             },
@@ -62,5 +65,5 @@
   ],
   "profile": "data-package",
   "name": "3-1-4",
-  "title": "Share of persons signed a declaration on the choice of a doctor who provides primary medical care, percent (SDG indicator 3.1.4)"
+  "title": "Share of persons signed a declaration on the choice of a doctor who provides primary medical care, percent"
 }

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1258",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,77 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Component",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "social cohesion and sense of ownership",
-                "tolerance and socially responsible citizenship",
-                "psycho-social adaptability",
-                "reducing negative migration trends",
-                "readiness for dialogue",
-                "civic behavior",
-                "relations with government and safety",
-                "relations between groups",
-                "psycho-social activity",
-                "tolerant and active citizenship",
-                "propensity to migrate",
-                "cooperation in the community",
-                "political security",
-                "readiness for dialogue with different groups",
-                "the belief that everyone can influence changes in the country",
-                "social tolerance",
-                "active civic position",
-                ""
-              ]
-            },
-            "title": "Сomponent of the index"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Donetsk",
-                "Luhansk",
-                "Dnipropetrovsk",
-                "Zaporizhzhya",
-                "Kharkiv",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18-35 years",
-                "36-60 years",
-                "36-59 years",
-                "61 years and older",
-                "60 years and older",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "men",
-                "women",
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -95,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-9-1",
-  "title": "16-9-1"
+  "title": "Perception of the level of corruption according to the Corruption Perceptions Index, calculated by the international organization Transparency International, points"
 }

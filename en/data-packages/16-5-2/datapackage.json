@@ -16,55 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Ammunition",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "cartridges",
-                "grenades",
-                "mines",
-                "improvised explosive devices",
-                ""
-              ]
-            },
-            "title": "Type of ammunition"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
-                "the city of Kyiv",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -75,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-5-2",
-  "title": "16-5-2"
+  "title": "Share of persons who have been granted the status of a victim of trafficking in human beings in the total number of persons who applied for the establishment of such status in the past year, percent"
 }

@@ -12,8 +12,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Article",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total number of victims of criminal offenses, Аrt. of CCU",
+                "intentional homicide (and relevant attempts), Аrticles 115-118",
+                "rape (and relevant attempts), Аrt. 152",
+                "intentional grievous bodily harm, Аrt. 121",
+                "human trafficking or other illicit transactions involving the transfer of human beings, Аrt. 149",
+                ""
+              ]
+            },
+            "title": "Article of the Criminal Code of Ukraine"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "all",
+                "females",
+                "adolescents",
+                "young (under 14)",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Victims of criminal offenses (per 100 thousand population)",
+                "Victims of criminal offenses (total)",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

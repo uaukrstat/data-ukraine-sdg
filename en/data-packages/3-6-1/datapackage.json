@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "by forms of rehabilitation assistance"
+            "title": "Forms of rehabilitation assistance"
           },
           {
             "name": "Value",
@@ -38,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "3-6-1",
-  "title": "Indicator. Share of multi-profile health care institutions of a capable network that have concluded an agreement with the National Health Service of Ukraine on the provision of rehabilitation care, percent (SDG indicator 3.6.1)"
+  "title": "Share of multi-profile health care institutions of a capable network that have concluded an agreement with the National Health Service of Ukraine on the provision of rehabilitation care, percent"
 }

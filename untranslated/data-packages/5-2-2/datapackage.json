@@ -15,18 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "male",
-                "female",
-                "children",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

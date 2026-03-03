@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "4-4-8",
-  "title": "4-4-8"
+  "title": "Share of entrants to professional (vocational and technical) educational institutions in the total number of places for entrants to professional (vocational and technical) educational institutions financed from the state and local budgets, percent"
 }

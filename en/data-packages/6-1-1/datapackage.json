@@ -16,28 +16,69 @@
             "title": "Year"
           },
           {
-            "name": "Type of residence",
+            "name": "WaterType",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "microbiological indicators",
+                "sanitary and chemical indicators",
+                "radiation indicators",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "By type of indicators"
           },
           {
-            "name": "Type of water supply",
+            "name": "SupplyType",
             "type": "string",
             "constraints": {
               "enum": [
+                "urban water pipelines",
+                "rural water pipelines",
+                "non-centralized water supply",
                 "centralized",
-                "decentralized",
                 ""
               ]
             },
             "title": "Type of water supply"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",

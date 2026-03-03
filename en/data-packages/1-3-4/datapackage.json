@@ -58,24 +58,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "households with children",
-                "households without children",
+                "households/families with children",
+                "households/families without children",
                 ""
               ]
             },
-            "title": "Households"
+            "title": "Household type"
           },
           {
             "name": "Reason of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "war actions",
+                "as a result of military action",
                 "since childhood",
                 ""
               ]
             },
-            "title": "Reason of disability"
+            "title": "Reason of obtaining disability"
           },
           {
             "name": "Value",
@@ -88,5 +88,5 @@
   ],
   "profile": "data-package",
   "name": "1-3-4",
-  "title": "Share of persons with disabilities covered by support programs in the total number of persons with disabilities according to data from the information systems of the Ministry of Social Policy, percent (SDG indicator 1.3.4)"
+  "title": "Share of persons with disabilities covered by support programs in the total number of persons with disabilities according to data from the information systems of the Ministry of Social Policy, percent"
 }

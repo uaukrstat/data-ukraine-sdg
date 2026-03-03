@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-2-1",
-  "title": "Share of post-harvest losses in the total production of cereals, %"
+  "title": "Food loss index, percent"
 }

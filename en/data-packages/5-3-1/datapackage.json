@@ -16,40 +16,53 @@
             "title": "Year"
           },
           {
-            "name": "Gender",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "15-17 years",
+                "under 15 years",
+                "under 20 years",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Age"
           },
           {
-            "name": "Type of residence",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "Ukraine",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "Autonomous Republic of Crimea",
+                "city Sevastopol",
                 ""
               ]
             },
-            "title": "Type of residence"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage",
-                "minutes per day",
-                ""
-              ]
-            },
-            "title": "Unit"
+            "title": "Region"
           },
           {
             "name": "Value",
@@ -62,5 +75,5 @@
   ],
   "profile": "data-package",
   "name": "5-3-1",
-  "title": "5-3-1"
+  "title": "Birth rate under the age of 20, per 1,000 women aged 15–19"
 }

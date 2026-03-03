@@ -16,18 +16,56 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Type of residence",
+            "type": "string",
             "constraints": {
               "enum": [
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Type of residence"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "Autonomous Republic of Crimea",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -36,5 +74,5 @@
   ],
   "profile": "data-package",
   "name": "5-4-1",
-  "title": "Share of women among the Members of Parliament of Ukraine, %"
+  "title": "Share of preschool children under the age of 2 years in the total number of children of the corresponding age, percent"
 }

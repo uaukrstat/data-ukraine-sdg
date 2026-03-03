@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of water supply",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "centralized",
+                "decentralized",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -16,18 +16,46 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Region",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -36,5 +64,5 @@
   ],
   "profile": "data-package",
   "name": "16-2-4",
-  "title": "16-2-4"
+  "title": "Area of agricultural land demined at the expenditures of funds provided in the state budget to compensate for the costs of humanitarian demining of agricultural land, hectares"
 }

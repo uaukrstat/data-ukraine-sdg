@@ -16,7 +16,45 @@
             "title": "Year"
           },
           {
-            "name": "Type of residence",
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "city Sevastopol",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +63,7 @@
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -38,5 +76,5 @@
   ],
   "profile": "data-package",
   "name": "10-1-1",
-  "title": "10-1-1"
+  "title": "Gini index"
 }

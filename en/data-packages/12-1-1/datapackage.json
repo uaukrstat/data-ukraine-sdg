@@ -16,19 +16,54 @@
             "title": "Year"
           },
           {
-            "name": "Res_inten",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "GDP energy intensity",
-                "GDP material intensity",
-                "GDP carbon intensity",
-                "GDP water intensity",
-                "GDP waste intensity",
+                "Ukraine",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "Autonomous Republic of Crimea",
+                "city Sevastopol",
                 ""
               ]
             },
-            "title": "Resource intensity of GDP"
+            "title": "Region"
+          },
+          {
+            "name": "By safety",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "hazardous waste",
+                "non-hazardous waste",
+                ""
+              ]
+            },
+            "title": "Safety"
           },
           {
             "name": "Value",
@@ -41,5 +76,5 @@
   ],
   "profile": "data-package",
   "name": "12-1-1",
-  "title": "Resource intensity of GDP (ratio of consumed volumes of natural resources, waste generated and pollutant emissions to GDP), % to 2015 level"
+  "title": "Volume of generated waste per person, kilograms"
 }

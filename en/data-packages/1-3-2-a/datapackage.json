@@ -32,20 +32,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 group (low income)",
-                "2 group",
-                "3 group",
-                "4 group",
-                "5 group",
-                "6 group",
-                "7 group",
-                "8 group",
-                "9 group",
-                "10 group (high income)",
+                "1st group (low income)",
+                "2nd group",
+                "3rd group",
+                "4th group",
+                "5th group",
+                "6th group",
+                "7th group",
+                "8th group",
+                "9th group",
+                "10th group (high income)",
                 ""
               ]
             },
-            "title": "Decile groups"
+            "title": "Decile groups of income"
           },
           {
             "name": "Value",

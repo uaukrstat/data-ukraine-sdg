@@ -16,14 +16,55 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Region",
+            "type": "string",
             "constraints": {
               "enum": [
+                "city Sevastopol",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Region"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "territorial communities",
+                "working population",
+                "non-working population",
+                "education seekers",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -36,5 +77,5 @@
   ],
   "profile": "data-package",
   "name": "11-4-1",
-  "title": "11-4-1"
+  "title": "Share of the population aware of the rules of conduct in emergency situations, percent"
 }

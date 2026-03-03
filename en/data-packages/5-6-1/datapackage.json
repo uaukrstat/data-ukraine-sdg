@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,30 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Ec_activ",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "agriculture, forestry and fisheries",
-                "industry",
-                "construction",
-                "wholesale and retail trade; repair of motor vehicles and motorcycles",
-                "transport, warehousing, post and courier services",
-                "temporary accommodation and catering",
-                "information and telecommunications",
-                "financial and insurance activities",
-                "real estate transactions",
-                "professional, scientific and technical activities",
-                "administrative and support service activities",
-                "public administration and defense; compulsory social insurance",
-                "education",
-                "health care and social assistance",
-                "arts, sports, entertainment and recreation",
-                "provision of other services",
+                "women",
+                "men",
                 ""
               ]
             },
-            "title": "Еconomic activity"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -52,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "5-6-1",
-  "title": "Ratio of average wages for men and women, %"
+  "title": "Share of persons employed in education, health care and social services in the total number of employed population aged 15 and over, percent"
 }

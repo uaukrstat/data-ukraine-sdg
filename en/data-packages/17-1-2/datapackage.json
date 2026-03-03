@@ -16,18 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-1-2",
-  "title": "Net foreign direct investment (according to the balance of payments), million USD"
+  "title": "Volume of foreign direct investment (according to the balance of payments), percent of the gross domestic product"
 }

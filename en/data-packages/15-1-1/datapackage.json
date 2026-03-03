@@ -16,14 +16,42 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Region",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
@@ -36,5 +64,5 @@
   ],
   "profile": "data-package",
   "name": "15-1-1",
-  "title": "Area of territories and objects of the natural reserve fund, thousands of hectares"
+  "title": "Area of territories and objects of the nature reserve fund, thousand hectares"
 }

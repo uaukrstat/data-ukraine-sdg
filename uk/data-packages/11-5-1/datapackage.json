@@ -16,18 +16,8 @@
             "title": "Рік"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-5-1",
-  "title": "11-5-1"
+  "title": "Маса побутових відходів, млн. тонн"
 }

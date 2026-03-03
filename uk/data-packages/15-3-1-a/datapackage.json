@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Рік"
+          },
+          {
+            "name": "Zone",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Полісся",
+                "Лісостеп",
+                "Степ",
+                ""
+              ]
+            },
+            "title": "Природні зони"
           },
           {
             "name": "Value",

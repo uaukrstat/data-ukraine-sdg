@@ -16,14 +16,28 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "girls",
+                "boys",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -36,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "4-7-1",
-  "title": "Share of rural full-time secondary schools with Internet access, %"
+  "title": "Share of children attending extracurricular educational institutions and structural divisions of legal entities under public and private law, percent"
 }

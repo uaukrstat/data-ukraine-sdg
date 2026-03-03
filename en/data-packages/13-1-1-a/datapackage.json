@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "GHG_ratio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "all",
+                "by main types of sources, including road transport",
+                ""
+              ]
+            },
+            "title": "Ratio of GHG emissions to 1990 level"
           },
           {
             "name": "Value",

@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Article",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "art_1_262",
+                "art_2_263",
+                "art_3_263_1",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1_total",
+                "2_per_100",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

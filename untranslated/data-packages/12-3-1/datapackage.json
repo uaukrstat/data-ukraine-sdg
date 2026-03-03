@@ -16,9 +16,14 @@
           },
           {
             "name": "Group",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "energy_intensity_of_the_gross_domestic_product",
+                "material_intensity_of_the_gross_domestic_product",
+                "carbon_intensity_of_the_gross_domestic_product",
+                "water_intensity_of_the_gross_domestic_product",
+                "waste_intensity_of_the_gross_domestic_product",
                 ""
               ]
             }
@@ -33,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "12-3-1",
-  "title": "12-3-1"
+  "title": "global_indicators.12-3-1-title"
 }

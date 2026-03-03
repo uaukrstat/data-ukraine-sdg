@@ -25,9 +25,7 @@
                 "ill_4_diph",
                 "ill_5_pert",
                 "ill_6_polio",
-                "ill_10_tetanus",
-                "ill_9_rubella",
-                "ill_8_mumps",
+                "ill_10_haemophilic_infection",
                 ""
               ]
             }
@@ -43,6 +41,7 @@
                 "age_vac_3_18_months",
                 "age_vac_7_adult",
                 "age_vac_5_14_years",
+                "age_16_years",
                 ""
               ]
             }
@@ -75,6 +74,16 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
+                "18_reg_Ivano_Frankivsk",
+                "19_reg_Kyiv",
+                "23_reg_Mykolaiv",
+                "31_reg_Khmelnytskyi",
+                "35_reg_Kyiv_city",
+                "19_reg_Kyivska",
+                "31_reg_Khmelnytskyy",
+                "35_reg_Kyiv",
+                "autonomous_Republic_of_Crimea",
+                "city_Sevastopol",
                 ""
               ]
             }

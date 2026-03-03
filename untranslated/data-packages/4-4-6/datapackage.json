@@ -12,11 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Category_type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "status",
+                "sphere",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "student_professional_pre_tertiary",
+                "student_tertiary",
+                "teacher_professional_pre_tertiary",
+                "academic_staff_tertiary",
+                "professional_pre_tertiary_education",
+                "tertiary_education",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
@@ -24,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "4-4-6",
-  "title": "4-4-6"
+  "title": "global_indicators.4-4-6-title"
 }

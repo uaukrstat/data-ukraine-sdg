@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -84,5 +83,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-1",
-  "title": "Indicator. Share of children aged 5 years attending pre-school educational institutions and structural divisions of legal entities under public and private law, percent (SDG indicator 4.1.1)"
+  "title": "Share of children aged 5 years attending pre-school educational institutions and structural divisions of legal entities under public and private law, percent"
 }

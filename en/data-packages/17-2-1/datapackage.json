@@ -16,14 +16,71 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Sphere",
+            "type": "string",
             "constraints": {
               "enum": [
+                "energy_water_utilities",
+                "transport_infrastructure",
+                "healthcare",
+                "tourism_recreation_culture_sport",
+                "waste_management_excl_collection_transport",
+                "others",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Sphere"
+          },
+          {
+            "name": "Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "implemented",
+                "not_implemented",
+                "suspended_due_to_war",
+                ""
+              ]
+            },
+            "title": "Status"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "Autonomous Republic of Crimea",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
@@ -36,5 +93,5 @@
   ],
   "profile": "data-package",
   "name": "17-2-1",
-  "title": "17-2-1"
+  "title": "Number of public-private partnership projects, units"
 }

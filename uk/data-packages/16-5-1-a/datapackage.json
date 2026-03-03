@@ -12,12 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Рік"
           },
           {
+            "name": "Type_weapon",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "гладкоствольна",
+                "нарізна",
+                "інша вогнепальна зброя",
+                "гранатомети та реактивні системи",
+                "холодна зброя",
+                ""
+              ]
+            },
+            "title": "Види зброї"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -16,39 +16,17 @@
             "title": "Year"
           },
           {
-            "name": "Region",
+            "name": "Wage replacement rate by pensions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
-                "the city of Kyiv",
+                "relative to 0.5 average wage",
+                "relative to full average wage",
+                "relative to 1.5 average wage",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Wage replacement rate by pensions"
           },
           {
             "name": "Value",
@@ -61,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "10-4-1",
-  "title": "Ratio of the average wage (income) of 10th and first decile groups of workers (decile coefficient), times"
+  "title": "Wage replacement rate by pensions (relative to 0.5 average wage, full average wage and 1.5 average wage) 1"
 }

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -40,6 +40,16 @@
             "title": "Age"
           },
           {
+            "name": "Type of residence",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -50,5 +60,5 @@
   ],
   "profile": "data-package",
   "name": "3-4-2",
-  "title": "Number of persons receiving antiretroviral therapy among those diagnosed with HIV/AIDS (SDG indicator 3.4.2)"
+  "title": "Number of persons receiving antiretroviral therapy among those diagnosed with HIV/AIDS"
 }

@@ -16,26 +16,91 @@
             "title": "Рік"
           },
           {
-            "name": "Ec_activ",
+            "name": "Type of economic activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Промисловість",
-                "Сiльське господарство",
-                "Лiсове господарство",
-                "Транспорт",
-                "Зв'язок",
-                "Будівництво",
-                "Торгiвля i громадське харчування",
-                "Матеріально-технічне забезпечення",
-                "Житлове та побутове господарство",
-                "Охорона здоров’я, фізичне виховання",
-                "Народна освiта",
-                "Інші галузі",
+                "accommodation_and_food_service",
+                "administrative_and_support_service",
+                "agriculture_forestry_and_fishing",
+                "arts_sports_entertainment_recreation",
+                "construction",
+                "education",
+                "electricity_gas_steam_air_conditioning_supply",
+                "financial_and_insurance",
+                "household_activities",
+                "human_health_and_social_work",
+                "information_and_telecommunications",
+                "manufacturing",
+                "mining_and_quarrying",
+                "other_service",
+                "professional_scientific_technical",
+                "public_administration_and_defense_compulsory_social_insurance",
+                "real_estate",
+                "transportation_and_storage_post_and_courier_services",
+                "water_supply_sewerage_waste_management_remediation",
+                "wholesale_retail_trade_repair_motor_vehicles_motorcycles",
                 ""
               ]
             },
             "title": "Види економічної діяльності"
+          },
+          {
+            "name": "By river basins",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "район басейну річок Приазов’я",
+                "район басейну річок Причорномор’я",
+                "район басейну річок Криму",
+                "район басейну річки Дунай",
+                "район басейну річки Дністер",
+                "район басейну річки Дніпро",
+                "район басейну річки Дон",
+                "район басейну річки Південний Буг",
+                "район басейну річки Вісла",
+                ""
+              ]
+            },
+            "title": "Річкові басейни"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
+                "Autonomous Republic of Crimea",
+                "City of Sevastopol",
+                "Україна",
+                ""
+              ]
+            },
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -48,5 +113,5 @@
   ],
   "profile": "data-package",
   "name": "6-3-1",
-  "title": "Обсяги скидів забруднених (забруднених без очистки та недостатньо очищених) стічних вод у водні об’єкти, млн. куб. м"
+  "title": "Обсяги скидів забруднених (забруднених без очищення та недостатньо очищених) стічних вод у водні об’єкти, млн. куб. метрів"
 }

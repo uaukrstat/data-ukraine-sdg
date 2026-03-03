@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "4-8-1",
-  "title": "4-8-1"
+  "title": "Share of the population who claim to be proud of their Ukrainian origin or citizenship according to sociological research, percent"
 }

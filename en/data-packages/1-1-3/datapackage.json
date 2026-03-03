@@ -44,12 +44,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "households with children",
-                "households without children",
+                "households/families with children",
+                "households/families without children",
                 ""
               ]
             },
-            "title": "Households"
+            "title": "Household type"
           },
           {
             "name": "Value",
@@ -62,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-3",
-  "title": "Share of persons with daily consumption below 6.85 USD at purchasing power parity, percent (SDG indicator 1.1.3)"
+  "title": "Share of persons with daily consumption below 6.85 USD at purchasing power parity, percent"
 }

@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "by cause of mortality"
+            "title": "Causes of mortality"
           },
           {
             "name": "Value",
@@ -38,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-1",
-  "title": "Indicator. Maternal mortality rate, per 100,000 live-births (SDG indicator 3.2.1)"
+  "title": "Maternal mortality rate, per 100,000 live-births"
 }

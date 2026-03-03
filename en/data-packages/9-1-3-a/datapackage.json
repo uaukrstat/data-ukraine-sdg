@@ -12,8 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "m_trans",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "rail",
+                "motor",
+                "sea",
+                "river",
+                "air",
+                "City electric transport",
+                "by trams",
+                "by trolleybuses",
+                "by subway trains",
+                ""
+              ]
+            },
+            "title": "Mode of transport"
           },
           {
             "name": "Value",

@@ -12,7 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Generation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "el_1_power",
+                "el_2_CHP",
+                "el_3_HPP",
+                "el_4_PSP",
+                "el_5_NPP",
+                "el_6_plants",
+                "el_7_alternative",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-2-4",
-  "title": "5-2-4"
+  "title": "Share of persons who suffered from sexual violence related to the armed aggression of the Russian Federation against Ukraine and who were provided with assistance by general and specialized victim support services in the total number of persons who submitted relevant applications, percent"
 }

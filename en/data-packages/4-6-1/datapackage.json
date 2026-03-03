@@ -16,14 +16,59 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "EducationInternetType",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Pre-school educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access",
+                "Pre-school educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access",
+                "Pre-school educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access",
+                "General secondary educational institutions with Internet access (without specifying the speed)",
+                "General secondary educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access",
+                "General secondary educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access",
+                "General secondary educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "by type of educational institution"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "Autonomous Republic of Crimea",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
@@ -36,5 +81,5 @@
   ],
   "profile": "data-package",
   "name": "4-6-1",
-  "title": "Share of men among pedagogical staff, %"
+  "title": "Share of pre-school, general secondary and extracurricular educational institutions with access to high-speed Internet, percent"
 }

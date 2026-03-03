@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Victims of criminal offenses (per 100 thousand population)",
+                "Victims of criminal offenses (Art. 152), total",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "all",
+                "females",
+                "adolescents",
+                "young (under 14)",
+                ""
+              ]
+            },
+            "title": "Group"
           },
           {
             "name": "Value",

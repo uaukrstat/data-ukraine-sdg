@@ -16,28 +16,28 @@
             "title": "Year"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 years",
-                "25-64 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "women",
+                "men",
                 ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -50,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-1",
-  "title": "Level of participation of the population in formal and informal forms of education and vocational training, %"
+  "title": "Share of persons with basic digital skills in the total population, percent"
 }

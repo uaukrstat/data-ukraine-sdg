@@ -12,8 +12,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Generation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Power generating companies of TPP",
+                "TPP and cogeneration units",
+                "HPS",
+                "HAPP",
+                "NPP",
+                "Block stations",
+                "Alternative energy sources (WPS, SPS, Biomass)",
+                ""
+              ]
+            },
+            "title": "Electricity generation"
           },
           {
             "name": "Value",

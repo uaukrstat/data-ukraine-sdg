@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Рік"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "жінки",
+                "чоловіки",
+                ""
+              ]
+            },
+            "title": "Стать"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "міська",
+                "сільська",
+                ""
+              ]
+            },
+            "title": "Місцевість проживання"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "відсотків",
+                "хвилин на добу",
+                ""
+              ]
+            },
+            "title": "Одиниця виміру"
           },
           {
             "name": "Value",

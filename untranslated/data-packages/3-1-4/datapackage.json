@@ -19,8 +19,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "age_0_5",
+                "age_6_17",
+                "age_18_39",
                 "age_40_64",
-                "age_65",
+                "age_65_plus",
                 ""
               ]
             }
@@ -30,8 +33,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "women",
+                "men",
                 ""
               ]
             }

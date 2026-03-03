@@ -12,8 +12,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Рік"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "міська",
+                "сільська",
+                ""
+              ]
+            },
+            "title": "Місцевість проживання"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "жінки",
+                "чоловіки",
+                ""
+              ]
+            },
+            "title": "Стать"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "до 15 років",
+                "15 - 17 років",
+                "18 - 24 роки",
+                "25 - 35 років",
+                "36 - 59 років",
+                "60 - 74 роки",
+                "75 років і старші",
+                ""
+              ]
+            },
+            "title": "Вік"
           },
           {
             "name": "Value",

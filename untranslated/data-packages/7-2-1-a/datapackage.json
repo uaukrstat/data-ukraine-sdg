@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sou_en",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "en_1_coal",
+                "en_2_petrol",
+                "en_3_gas",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

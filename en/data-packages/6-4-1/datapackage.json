@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-4-1",
-  "title": "Water content of GDP, cubic metres of water used per UAH 1,000 of GDP (actual prices)"
+  "title": "Water capacity of the gross domestic product, cubic metres of water used per UAH 1,000 of the gross domestic product (at current prices)"
 }

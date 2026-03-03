@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Cat",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                "C",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

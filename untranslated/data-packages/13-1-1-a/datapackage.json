@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "GHG_ratio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GHG_1_all",
+                "GHG_2_types",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-2-2",
-  "title": "Wood stock in forests, millions of cubic metres"
+  "title": "Wood stocks in forests, million cubic meters"
 }

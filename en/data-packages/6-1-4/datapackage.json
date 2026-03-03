@@ -16,14 +16,28 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "SupplyType",
+            "type": "string",
             "constraints": {
               "enum": [
+                "centralized",
+                "non_centralized",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Type of water supply"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -36,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-4",
-  "title": "Share of the rural population with access to centralized water supply, %"
+  "title": "Structure of drinking water consumption among the population by supply methods, percent"
 }

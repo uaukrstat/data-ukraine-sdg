@@ -17,13 +17,58 @@
           },
           {
             "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "of which internally displaced persons",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "Age",
             "type": "number",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "By age of the housing provided to the participants",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "By age of the housing provided to the participants"
           },
           {
             "name": "Value",
@@ -36,5 +81,5 @@
   ],
   "profile": "data-package",
   "name": "11-1-1",
-  "title": "11-1-1"
+  "title": "Share of families/citizens (total of all family members) who have benefited from housing programs in the total number of families/citizens in need of housing, percent"
 }

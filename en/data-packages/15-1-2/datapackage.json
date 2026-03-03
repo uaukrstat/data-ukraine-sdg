@@ -16,18 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-1-2",
-  "title": "Share of area of territories and objects of the natural reserve fund in the total area of the country, %"
+  "title": "Number of species of fauna and flora listed in the Red Book of Ukraine, units"
 }

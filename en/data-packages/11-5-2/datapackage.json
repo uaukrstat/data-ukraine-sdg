@@ -16,26 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Pollutants",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "suspended matter (dust)",
-                "sulfur dioxide",
-                "carbon monoxide",
-                "nitrogen dioxide",
-                "nitrogen oxide",
-                "phenol",
-                "soot",
-                "hydrogen fluoride",
-                "ammonia",
-                "formaldehyde",
-                ""
-              ]
-            },
-            "title": "Pollutants"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -46,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-5-2",
-  "title": "11-5-2"
+  "title": "Share of recovered household waste in the total volume of generated household waste, percent"
 }

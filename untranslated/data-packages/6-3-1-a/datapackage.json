@@ -12,7 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Ec_activ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s_11_indu",
+                "s_12_agri",
+                "s_13_fores",
+                "s_14_transp",
+                "s_15_commun",
+                "s_16_constr",
+                "s_17_trade",
+                "s_18_logis",
+                "s_19_resid",
+                "s_20_care",
+                "s_21_pub_ed",
+                "s_22_oth_sec",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

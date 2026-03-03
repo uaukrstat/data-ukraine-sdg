@@ -12,8 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Object",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Health care facilities",
+                "Educational institutions",
+                "Structural subdivisions on social protection issues",
+                "Employment centers",
+                "Centers for administrative services",
+                "National institutions",
+                "Railway stations, airports, bus stations",
+                "Institutions of the pension fund",
+                "Civil protection structures",
+                "Judge",
+                ""
+              ]
+            },
+            "title": "Object"
           },
           {
             "name": "Value",

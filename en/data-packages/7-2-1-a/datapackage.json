@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Sou_en",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "coal (2701)",
+                "petroleum (2709)",
+                "natural gas (271121)",
+                ""
+              ]
+            },
+            "title": "Source of energy"
           },
           {
             "name": "Value",

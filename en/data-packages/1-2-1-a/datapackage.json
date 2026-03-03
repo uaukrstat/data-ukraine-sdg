@@ -46,12 +46,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "households with children",
-                "households without children",
+                "households/families with children",
+                "households/families without children",
                 ""
               ]
             },
-            "title": "Households"
+            "title": "Household type"
           },
           {
             "name": "Value",

@@ -26,17 +26,6 @@
             }
           },
           {
-            "name": "Type of water supply",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "centralized",
-                "decentralized",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -46,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-2",
-  "title": "6-1-2"
+  "title": "global_indicators.6-1-2-title"
 }

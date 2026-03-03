@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-2-3",
-  "title": "5-2-3"
+  "title": "Share of the population that is willing to report cases of gender-based violence and domestic violence to law enforcement agencies, percent"
 }

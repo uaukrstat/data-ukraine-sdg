@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "14-2-1",
-  "title": "Area of territories and objects of the natural reserve fund of coastal regions, % of the territory of coastal areas"
+  "title": "Average annual change in hydrogen index in seawater, pH units"
 }

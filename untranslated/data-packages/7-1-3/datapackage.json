@@ -15,10 +15,16 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Type of energy resources",
+            "type": "string",
             "constraints": {
               "enum": [
+                "anthracite_coal",
+                "motor_gasolines",
+                "diesel_fuels",
+                "liquefied_petroleum_gases",
+                "natural_gas",
+                "non_irradiated_fuel_elements",
                 ""
               ]
             }
@@ -33,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "7-1-3",
-  "title": "7-1-3"
+  "title": "global_indicators.7-1-3-title"
 }

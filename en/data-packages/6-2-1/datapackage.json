@@ -16,14 +16,28 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "PopulationGroup",
+            "type": "string",
             "constraints": {
               "enum": [
+                "rural population",
+                "urban population",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Population Group"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -36,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-1",
-  "title": "6-2-1"
+  "title": "Share of the population with access to centralized water drainage systems, percent: urban population, rural population"
 }

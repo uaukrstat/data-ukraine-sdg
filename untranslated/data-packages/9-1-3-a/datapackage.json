@@ -12,7 +12,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "m_trans",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "tr_1_rail",
+                "tr_2_motor",
+                "tr_3_sea",
+                "tr_4_river",
+                "tr_6_air",
+                "3_tr_urban",
+                "tr_7_tram",
+                "tr_8_trolley",
+                "tr_9_subway",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

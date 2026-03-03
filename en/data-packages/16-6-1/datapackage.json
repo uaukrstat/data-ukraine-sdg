@@ -16,18 +16,136 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Region",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Region"
+          },
+          {
+            "name": "group_label_230",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_230",
+                ""
+              ]
+            },
+            "title": "group_label_230"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "up to 18 years",
+                "group_label_232",
+                "group_label_233",
+                "61 years and older",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "men",
+                "females",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "group_16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of place of residence"
+          },
+          {
+            "name": "group_24",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary legal aid",
+                "Secondary legal aid",
+                ""
+              ]
+            },
+            "title": "Type of legal aid"
+          },
+          {
+            "name": "group_25",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Social security",
+                "Inheritance law",
+                "Family law",
+                "Medical law",
+                "Labor law",
+                "Administrative law and administrative procedure",
+                "Land law",
+                "Contract law",
+                "Housing law",
+                "Civil law and civil procedure",
+                "Enforcement of court decisions",
+                "Non-legal issue",
+                "Other",
+                "Criminal law and criminal procedure",
+                "Pension law",
+                "Tax law",
+                "Electoral law",
+                "Commercial law",
+                "Issues related to armed aggression",
+                ""
+              ]
+            },
+            "title": "Category of issues"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -36,5 +154,5 @@
   ],
   "profile": "data-package",
   "name": "16-6-1",
-  "title": "16-6-1"
+  "title": "Number of persons applying free legal aid, persons"
 }

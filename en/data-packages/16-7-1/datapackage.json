@@ -16,14 +16,17 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "group_26",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Low",
+                "group_label_263",
+                "High",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Risk level"
           },
           {
             "name": "Value",
@@ -36,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "16-7-1",
-  "title": "16-7-1"
+  "title": "Number of identified risks based on the results of the National Risk Assessment in the field of prevention and counteraction the legalization of illegal incomes, the financing of terrorism and the proliferation of weapons of mass destruction, units"
 }

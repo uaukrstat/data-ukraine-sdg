@@ -58,12 +58,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "households with children",
-                "households without children",
+                "households/families with children",
+                "households/families without children",
                 ""
               ]
             },
-            "title": "Households"
+            "title": "Household type"
           },
           {
             "name": "Value",
@@ -76,5 +76,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-1",
-  "title": "Share of the poor population covered by state social support in the total number of the poor population, percent (SDG indicator 1.2.1)"
+  "title": "Share of the poor population covered by state social support in the total number of the poor population, percent"
 }

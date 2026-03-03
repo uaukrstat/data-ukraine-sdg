@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "4-6-2",
-  "title": "4-6-2"
+  "title": "global_indicators.4-6-2-title"
 }

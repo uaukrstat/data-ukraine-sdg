@@ -17,9 +17,14 @@
           },
           {
             "name": "Group",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "energy intensity of the gross domestic product",
+                "material intensity of the gross domestic product",
+                "carbon intensity of the gross domestic product",
+                "water intensity of the gross domestic product",
+                "waste intensity of the gross domestic product",
                 ""
               ]
             },
@@ -36,5 +41,5 @@
   ],
   "profile": "data-package",
   "name": "12-3-1",
-  "title": "12-3-1"
+  "title": "Resource intensity of the gross domestic product (ratio of consumed physical volumes of natural resources, generated waste and emissions of pollutants to the volume of the gross domestic product) compared to 2015, percent: energy intensity of the gross domestic product, material intensity of the gross domestic product, carbon intensity of the gross domestic product, water intensity of the gross domestic product, waste intensity of the gross domestic product"
 }

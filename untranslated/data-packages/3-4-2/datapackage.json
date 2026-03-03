@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "females",
+                "males",
                 ""
               ]
             }
@@ -32,6 +32,15 @@
               "enum": [
                 "age_0_17",
                 "age_18_plus",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of residence",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }

@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Zone",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zone_1_polis",
+                "zone_2_fores_st",
+                "zone_3_st",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

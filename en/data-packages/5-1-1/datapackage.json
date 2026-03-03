@@ -16,18 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-1",
-  "title": "Number of normative acts which were revised or adopted to provide men and women with equal rights and opportunities and to prevent discrimination against women and girls, units"
+  "title": "Share of regulatory and legal acts adopted by the Cabinet of Ministers of Ukraine that comply with the principle of ensuring equal rights and opportunities for women and men in the total number of regulatory and legal acts monitored, percent"
 }

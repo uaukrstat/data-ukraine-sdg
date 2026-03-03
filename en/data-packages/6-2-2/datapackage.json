@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-2",
-  "title": "Share of the urban population with access to a centralized water drain, %"
+  "title": "Share of worn-out water drainage networks in the total length of water drainage grids, percent"
 }

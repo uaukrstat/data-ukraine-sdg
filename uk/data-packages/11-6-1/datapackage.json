@@ -16,16 +16,6 @@
             "title": "Рік"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-6-1",
-  "title": "11-6-1"
+  "title": "Кількість об’єктів культурної та природної спадщини, які включені до Списку всесвітньої спадщини ЮНЕСКО, одиниць"
 }

@@ -1,5 +1,12 @@
 Value,Disaggregation combinations using this value,Number of indicators
-female,8,8
-females,40,21
-male,8,8
-males,40,21
+1_all,1,1
+age_vac_7_adult,1,1
+boys,3,3
+children,1,1
+female,12,12
+females,52,31
+girls,3,3
+male,12,12
+males,52,31
+men,52,11
+women,52,11

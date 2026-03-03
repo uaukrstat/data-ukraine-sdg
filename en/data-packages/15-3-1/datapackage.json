@@ -16,7 +16,45 @@
             "title": "Year"
           },
           {
-            "name": "Zone",
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "group_10",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +64,7 @@
                 ""
               ]
             },
-            "title": "Zone"
+            "title": "Zones"
           },
           {
             "name": "Value",
@@ -39,5 +77,5 @@
   ],
   "profile": "data-package",
   "name": "15-3-1",
-  "title": "Setting and implementation of a voluntary national objective to achieve a neutral level of land degradation in the activity area — ‘Maintaining organic matter (humus) content in soils’ (organic carbon (humus) content in agricultural soils (%)) (data from international sources and organizations may be additionally used)"
+  "title": "Content of organic matter (humus) in soils of agricultural land, percent"
 }

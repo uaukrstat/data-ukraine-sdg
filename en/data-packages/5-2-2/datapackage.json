@@ -16,19 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "male",
-                "female",
-                "children",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -39,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-2-2",
-  "title": "Number of complaints regarding domestic violence, thousands"
+  "title": "Share of women and girls aged from 15 to 49 years who have experienced gender-based violence by a spouse, fiancé or cohabiting partner in the last 12 months, percent"
 }

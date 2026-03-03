@@ -12,8 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Pollutants",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "suspended matter (dust)",
+                "sulfur dioxide",
+                "carbon monoxide",
+                "nitrogen dioxide",
+                "nitrogen oxide",
+                "phenol",
+                "soot",
+                "hydrogen fluoride",
+                "ammonia",
+                "formaldehyde",
+                ""
+              ]
+            },
+            "title": "Pollutants"
           },
           {
             "name": "Value",

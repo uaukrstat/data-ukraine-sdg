@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -108,5 +107,5 @@
   ],
   "profile": "data-package",
   "name": "4-2-1",
-  "title": "Share of children aged 6–17 attending general secondary educational institutions, percent (SDG indicator 4.2.1) 1"
+  "title": "Share of children aged 6–17 attending general secondary educational institutions, percent 1"
 }

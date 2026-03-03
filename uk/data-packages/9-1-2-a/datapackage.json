@@ -12,8 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Рік"
+          },
+          {
+            "name": "m_trans",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "залізничний",
+                "автомобільний",
+                "морський",
+                "річковий",
+                "трубопровідний",
+                "авіаційний",
+                ""
+              ]
+            },
+            "title": "Види транспорту"
           },
           {
             "name": "Value",

@@ -16,17 +16,42 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "population",
-                "participants in court proceedings",
-                "experts (attorneys, lawyers)",
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
@@ -39,5 +64,5 @@
   ],
   "profile": "data-package",
   "name": "16-3-1",
-  "title": "Level of public confidence in the court, %"
+  "title": "Share of registered unemployed internally displaced persons employed with the assistance of the State Employment Service in the total number of registered unemployed internally displaced persons, percent"
 }

@@ -16,6 +16,47 @@
           },
           {
             "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "of which internally displaced persons",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "By age of the housing provided to the participants",
             "type": "number",
             "constraints": {
               "enum": [
@@ -33,5 +74,5 @@
   ],
   "profile": "data-package",
   "name": "11-1-1",
-  "title": "11-1-1"
+  "title": "global_indicators.11-1-1-title"
 }

@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Рік"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Населення",
+                "Учасники судових проваджень",
+                "Експертне середовище (адвокати, юристи)",
+                ""
+              ]
+            },
+            "title": "Група"
           },
           {
             "name": "Value",

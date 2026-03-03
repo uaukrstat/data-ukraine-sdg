@@ -16,31 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18-35 years",
-                "36-60 years",
-                "61 years and older",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "male",
-                "female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -51,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-8-1",
-  "title": "16-8-1"
+  "title": "Share of recorded evident intentional homicide, ntentional grievous bodily harm, robbery (criminal offenses under Articles 115, 116, 118, 121, 187 of the Criminal Code of Ukraine) committed with the use of firearms and/or explosive devices in the total number of recorded evident intentional homicide, ntentional grievous bodily harm, robbery, percent"
 }

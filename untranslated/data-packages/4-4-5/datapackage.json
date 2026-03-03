@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_15_64",
+                "age_15_24",
+                "age_25_64",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "males",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +47,5 @@
   ],
   "profile": "data-package",
   "name": "4-4-5",
-  "title": "4-4-5"
+  "title": "global_indicators.4-4-5-title"
 }

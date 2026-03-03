@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -56,6 +55,9 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
+                "the city of Kyiv",
+                "Autonomous Republic of Crimea",
+                "city Sevastopol",
                 ""
               ]
             },

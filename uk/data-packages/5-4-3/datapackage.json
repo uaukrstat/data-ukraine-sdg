@@ -16,19 +16,6 @@
             "title": "Рік"
           },
           {
-            "name": "Cat",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "А",
-                "Б",
-                "В",
-                ""
-              ]
-            },
-            "title": "Категорія"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -12,7 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "m_trans",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "tr_1_land_pipe",
+                "tr_2_warer",
+                "tr_3_air_tr",
+                "tr_4_ware",
+                "tr_5_post",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

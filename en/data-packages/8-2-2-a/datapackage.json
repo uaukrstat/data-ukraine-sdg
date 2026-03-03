@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "agriculture, forestry and fisheries",
+                "industry",
+                "construction",
+                "wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "transport, warehousing, post and courier services",
+                "temporary accommodation and catering",
+                "information and telecommunications",
+                "financial and insurance activities",
+                "real estate transactions",
+                "professional, scientific and technical activities",
+                "administrative and support service activities",
+                "public administration and defense; compulsory social insurance",
+                "education",
+                "health care and social assistance",
+                "arts, sports, entertainment and recreation",
+                "provision of other services",
+                ""
+              ]
+            },
+            "title": "Group"
           },
           {
             "name": "Value",

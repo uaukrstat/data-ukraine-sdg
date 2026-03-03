@@ -1,14 +1,14 @@
 Year,by land purpose,Region,Value
-2015,,Ukraine,5.5
-2016,,Ukraine,5.7
-2017,,Ukraine,5.1
-2018,,Ukraine,5.0
-2019,,Ukraine,4.2
-2020,,Ukraine,3.6
-2021,,Ukraine,2.9
-2022,,Ukraine,2.2
-2023,,Ukraine,1.9
-2024,,Ukraine,1.8
+2015,,,5.5
+2016,,,5.7
+2017,,,5.1
+2018,,,5.0
+2019,,,4.2
+2020,,,3.6
+2021,,,2.9
+2022,,,2.2
+2023,,,1.9
+2024,,,1.8
 2015,,Vinnytsya,6.6
 2016,,Vinnytsya,6.6
 2017,,Vinnytsya,6.3
@@ -249,13 +249,25 @@ Year,by land purpose,Region,Value
 2022,,Chernihiv,1.5
 2023,,Chernihiv,1.6
 2024,,Chernihiv,0.0
-2015,arable land,Ukraine,5.5
-2016,arable land,Ukraine,5.7
-2017,arable land,Ukraine,5.1
-2018,arable land,Ukraine,5.0
-2019,arable land,Ukraine,4.2
-2020,arable land,Ukraine,3.6
-2021,arable land,Ukraine,2.9
-2022,arable land,Ukraine,2.2
-2023,arable land,Ukraine,1.9
-2024,arable land,Ukraine,1.8
+2015,,the city of Kyiv,
+2016,,the city of Kyiv,
+2017,,the city of Kyiv,
+2018,,the city of Kyiv,
+2019,,the city of Kyiv,
+2020,,the city of Kyiv,
+2021,,the city of Kyiv,
+2022,,the city of Kyiv,
+2023,,the city of Kyiv,
+2024,,the city of Kyiv,
+2015,,Autonomous Republic of Crimea,
+2015,,city Sevastopol,
+2015,arable land,,5.5
+2016,arable land,,5.7
+2017,arable land,,5.1
+2018,arable land,,5.0
+2019,arable land,,4.2
+2020,arable land,,3.6
+2021,arable land,,2.9
+2022,arable land,,2.2
+2023,arable land,,1.9
+2024,arable land,,1.8

@@ -34,8 +34,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "men",
                 "women",
+                "men",
                 ""
               ]
             },
@@ -46,12 +46,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "households with children",
-                "households without children",
+                "households/families with children",
+                "households/families without children",
                 ""
               ]
             },
-            "title": "Households"
+            "title": "Household type"
           },
           {
             "name": "Type of residence",
@@ -76,5 +76,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1",
-  "title": "Share of the population whose average per capita equivalent total expenditure is lower than the actual (estimated) subsistence minimum, percent (SDG indicator 1.1.1)"
+  "title": "Share of the population whose average per capita equivalent total expenditure is lower than the actual (estimated) subsistence minimum, percent"
 }

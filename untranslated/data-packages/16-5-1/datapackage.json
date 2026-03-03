@@ -15,22 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "Type_weapon",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "weap_1_bore",
-                "weap_2_rifled",
-                "weap_3_oth",
-                "weap_4_grenade",
-                "weap_5_cold",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

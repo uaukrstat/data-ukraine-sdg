@@ -16,34 +16,57 @@
             "title": "Year"
           },
           {
-            "name": "Age",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 18 years",
-                "18-35 years",
-                "36-60 years",
-                "61 years and older",
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Region"
           },
           {
-            "name": "Sex",
+            "name": "group_label_229",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "group_label_229",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "group_label_229"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -52,5 +75,5 @@
   ],
   "profile": "data-package",
   "name": "16-3-2",
-  "title": "16-3-2"
+  "title": "Number of internally displaced persons living in places of temporary residence, persons"
 }

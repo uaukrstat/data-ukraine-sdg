@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-3-2",
-  "title": "Amount of arable land, thousands of hectares"
+  "title": "Share of degraded lands in the total area of agricultural land, information about which is entered into the State Land Cadastre, percent"
 }

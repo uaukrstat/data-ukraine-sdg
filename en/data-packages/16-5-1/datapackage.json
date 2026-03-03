@@ -16,23 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Type_weapon",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "smooth-bore",
-                "rifled",
-                "other firearms",
-                "grenade launchers and rocket systems",
-                "cold weapons",
-                ""
-              ]
-            },
-            "title": "Type of weapons"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -41,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-5-1",
-  "title": "Number of weapons seized (criminal proceedings with completed pre-trial investigation for the past 12 months, units)"
+  "title": "Share of criminal proceedings in which persons were notified of suspicion in the total number of criminal proceedings opened in the reporting year on trafficking in human beings or other illegal transactions on the transfer of a person, percent 1"
 }

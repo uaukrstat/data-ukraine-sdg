@@ -16,45 +16,8 @@
             "title": "Рік"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18 – 35 років",
-                "36 – 60 років",
-                "61 рік і старші",
-                ""
-              ]
-            },
-            "title": "Вік"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "чоловіки",
-                "жінки",
-                ""
-              ]
-            },
-            "title": "Стать"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -63,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-8-2",
-  "title": "16-8-2"
+  "title": "Кількість добровільно зданої вогнепальної зброї з числа раніше зареєстрованої, одиниць"
 }

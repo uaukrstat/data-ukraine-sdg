@@ -16,14 +16,15 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "group_label_92",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Overall for coastal oblasts",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Overall for coastal oblasts"
           },
           {
             "name": "Value",
@@ -36,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "14-2-2",
-  "title": "Area of territories and objects of the natural reserve fund in the Black and Azov Seas, thousands of hectares"
+  "title": "Area of territories and objects of the nature reserve fund of the coastal regions in the total area of the territory of the coastal regions, percent"
 }

@@ -16,14 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "by type of residence",
+            "type": "string",
             "constraints": {
               "enum": [
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "by type of residence"
           },
           {
             "name": "Value",
@@ -36,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "10-3-1",
-  "title": "Share of rural households who suffered from deprivation due to lack of access to ambulance services in the settlement, %"
+  "title": "Share of households suffering from the absence of health care facilities near housing, percent"
 }

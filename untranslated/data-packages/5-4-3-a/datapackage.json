@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Cat",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "cat_A",
+                "cat_B",
+                "cat_C",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

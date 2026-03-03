@@ -15,12 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Type of residence",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "girls",
+                "boys",
+                "1_all",
                 ""
               ]
             }

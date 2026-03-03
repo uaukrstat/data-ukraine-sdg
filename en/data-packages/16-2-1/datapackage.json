@@ -16,30 +16,42 @@
             "title": "Year"
           },
           {
-            "name": "Unit",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Victims of criminal offenses (per 100 thousand population)",
-                "Victims of criminal offenses (Art. 149), total",
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
                 ""
               ]
             },
-            "title": "Unit"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "all",
-                "females",
-                "adolescents",
-                "young (under 14)",
-                ""
-              ]
-            },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
@@ -52,5 +64,5 @@
   ],
   "profile": "data-package",
   "name": "16-2-1",
-  "title": "16-2-1"
+  "title": "Area of the allegedly contaminated area identified by the results of a non-technical survey, square kilometers (hectares)"
 }

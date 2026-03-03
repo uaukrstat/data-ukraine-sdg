@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "m_trans",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Land and pipeline transport",
+                "Water transport",
+                "Air transport",
+                "Warehousing and auxiliary transport activities",
+                "Post and courier services",
+                ""
+              ]
+            },
+            "title": "Mode of transport"
           },
           {
             "name": "Value",

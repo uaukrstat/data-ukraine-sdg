@@ -28,18 +28,6 @@
             "title": "Type of residence"
           },
           {
-            "name": "Type of water supply",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "centralized",
-                "decentralized",
-                ""
-              ]
-            },
-            "title": "Type of water supply"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -50,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-2",
-  "title": "6-1-2"
+  "title": "Share of the population with access to centralized water supply, percent: urban population, rural population"
 }

@@ -12,12 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Type_weapon",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "smooth-bore",
+                "rifled",
+                "other firearms",
+                "grenade launchers and rocket systems",
+                "cold weapons",
+                ""
+              ]
+            },
+            "title": "Type of weapons"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -15,10 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "group_11",
+            "type": "string",
             "constraints": {
               "enum": [
+                "group_label_164",
+                "group_label_165",
+                "group_label_166",
+                "group_label_167",
                 ""
               ]
             }

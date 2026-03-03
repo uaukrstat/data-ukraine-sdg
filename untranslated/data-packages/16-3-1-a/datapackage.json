@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1_pop",
+                "2_particip",
+                "3_exper",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

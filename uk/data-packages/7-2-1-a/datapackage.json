@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Рік"
+          },
+          {
+            "name": "Sou_en",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "вугілля (2701)",
+                "нафта (2709)",
+                "газ природний (271121)",
+                ""
+              ]
+            },
+            "title": "Вид енергоресурсів"
           },
           {
             "name": "Value",
