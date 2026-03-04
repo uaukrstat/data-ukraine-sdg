@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1258",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
