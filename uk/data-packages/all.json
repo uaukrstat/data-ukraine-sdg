@@ -12146,69 +12146,6 @@
       "title": "Частка сільськогосподарських угідь під органічним виробництвом у загальній площі сільськогосподарських угідь, відсотків"
     },
     {
-      "path": "primary_medical_care_declarations_share/data.csv",
-      "name": "primary_medical_care_declarations_share",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-5 years",
-                "6-17 years",
-                "18-39 years",
-                "40-64 years",
-                "65 years and older",
-                ""
-              ]
-            },
-            "title": "Вік"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "жінок",
-                "чоловіків",
-                ""
-              ]
-            },
-            "title": "Стать"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "primary_medical_care_declarations_share"
-    },
-    {
       "path": "9-4-2-a/data.csv",
       "name": "9-4-2-a",
       "profile": "tabular-data-resource",

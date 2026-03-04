@@ -1,6 +1,6 @@
 Disaggregation,Number of indicators,Number of values
 23_educ,2,4
-Age,36,101
+Age,35,96
 Ammunition,1,4
 Article,6,13
 By form of discrimination,1,5
@@ -82,7 +82,7 @@ School type,1,3
 SES,2,4
 Settlement,1,3
 Sex of the head of household,1,2
-Sex,58,11
+Sex,57,11
 Sou_en,2,3
 Sources of funding,1,2
 Specialty,1,61
@@ -94,7 +94,7 @@ SupplyType,2,5
 Type of economic activity,4,1242
 Type of educational institution,3,8
 Type of energy resources,1,6
-Type of residence,65,2
+Type of residence,64,2
 Type of water supply,3,2
 Type_weapon,1,5
 Unit,15,15
