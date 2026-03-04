@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-3-2",
-  "title": "Share of women aged 15-49 who make their own informed decisions about sexual relations, contraceptive use and reproductive health, percent"
+  "title": "5-3-2"
 }

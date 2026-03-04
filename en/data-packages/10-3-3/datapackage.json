@@ -12,18 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
             "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
+            "title": "Year"
           },
           {
             "name": "Value",
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-3-3",
-  "title": "Share of persons provided with basic social services in territorial community in the total number of persons in need of such services, percent"
+  "title": "10-3-3"
 }

@@ -12,18 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
             "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
+            "title": "Year"
           },
           {
             "name": "Value",
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-2-6",
-  "title": "global_indicators.16-2-6-title"
+  "title": "16-2-6"
 }

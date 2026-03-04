@@ -12,24 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "inherit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "cultural",
-                "natural",
-                ""
-              ]
-            },
-            "title": "Type of inheritance"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-3-1",
-  "title": "Share of the built-up areas of cities, which is an open space for common use, percent"
+  "title": "11-3-1"
 }

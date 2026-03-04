@@ -7,23 +7,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
             "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
+            "title": "Рік"
           },
           {
             "name": "Value",
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-3-3",
-  "title": "Частка мешканців міст, які мають доступ до водних об’єктів у межах пішохідної доступності, відсотків"
+  "title": "11-3-3"
 }

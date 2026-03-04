@@ -12,18 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
             "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
+            "title": "Year"
           },
           {
             "name": "Value",
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-5-1-a",
-  "title": "Ratio of average pension to average wage in the economy (with 35 years of insurance experience), %"
+  "title": "10-5-1-a"
 }

@@ -7,27 +7,17 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Рік"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-3-2-a",
-  "title": "Кількість пам’яток національного значення, включених до Державного реєстру нерухомих пам’яток України, одиниць"
+  "title": "11-3-2-a"
 }

@@ -150,30 +150,6 @@
       "title": "Коефіцієнт покриття споживання електричної енергії власним виробництвом"
     },
     {
-      "path": "9-1-5/data.csv",
-      "name": "9-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-1-5"
-    },
-    {
       "path": "3-10-1/data.csv",
       "name": "3-10-1",
       "profile": "tabular-data-resource",
@@ -268,30 +244,6 @@
         ]
       },
       "title": "Частка дітей, які відвідують заклади позашкільної освіти та структурні підрозділи юридичних осіб публічного та приватного права, відсотків"
-    },
-    {
-      "path": "7-5-2/data.csv",
-      "name": "7-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-5-2"
     },
     {
       "path": "7-1-3/data.csv",
@@ -593,54 +545,6 @@
         ]
       },
       "title": "Частка осіб, зайнятих у сфері освіти, охорони здоров’я та надання соціальних послуг, у загальній кількості зайнятого населення у віці 15 років і старше, відсотків"
-    },
-    {
-      "path": "7-6-4/data.csv",
-      "name": "7-6-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Households",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "домогосподарства/сім’ї з дітьми",
-                "домогосподарства/сім’ї без дітей",
-                ""
-              ]
-            },
-            "title": "Тип домогосподарства"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-6-4"
     },
     {
       "path": "16-5-3-a/data.csv",
@@ -1355,64 +1259,6 @@
       "title": "Коефіцієнт смертності від навмисного самоушкодження, на 100 000 осіб"
     },
     {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка дітей з числа пільгових категорій, які забезпечені в закладах загальної середньої освіти безоплатним гарячим харчуванням, відсотків"
-    },
-    {
-      "path": "11-3-2/data.csv",
-      "name": "11-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка міст, де створено/розроблено транспортну модель у межах пішохідної доступності, відсотків"
-    },
-    {
       "path": "10-3-2-a/data.csv",
       "name": "10-3-2-a",
       "profile": "tabular-data-resource",
@@ -1513,30 +1359,6 @@
         ]
       },
       "title": "Частка жінок серед депутатів Верховної Ради України, %"
-    },
-    {
-      "path": "7-5-7/data.csv",
-      "name": "7-5-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-5-7"
     },
     {
       "path": "8-1-3/data.csv",
@@ -1947,30 +1769,6 @@
       "title": "Коефіцієнт смертності жінок від злоякісного новоутворення молочної залози у віці 30–59 років, на 100 000 жінок відповідного віку"
     },
     {
-      "path": "7-5-5/data.csv",
-      "name": "7-5-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-5-5"
-    },
-    {
       "path": "15-2-2/data.csv",
       "name": "15-2-2",
       "profile": "tabular-data-resource",
@@ -2231,40 +2029,6 @@
       "title": "16-4-1-a"
     },
     {
-      "path": "16-2-7/data.csv",
-      "name": "16-2-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-2-7"
-    },
-    {
       "path": "11-5-1-a/data.csv",
       "name": "11-5-1-a",
       "profile": "tabular-data-resource",
@@ -2396,74 +2160,6 @@
       "title": "Частка осіб, які уклали декларацію про вибір лікаря, який надає первинну медичну допомогу, відсотків"
     },
     {
-      "path": "15-3-5/data.csv",
-      "name": "15-3-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "global_indicators.15-3-5-title"
-    },
-    {
-      "path": "16-2-5/data.csv",
-      "name": "16-2-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-2-5"
-    },
-    {
       "path": "4-3-1/data.csv",
       "name": "4-3-1",
       "profile": "tabular-data-resource",
@@ -2536,40 +2232,6 @@
         ]
       },
       "title": "Частка випускників початкової школи, які досягли базового і вищих рівнів сформованості компетентностей (читацької, математичної, природничо–наукової) за шкалою загальнодержавного зовнішнього моніторингу якості початкової освіти, відсотків"
-    },
-    {
-      "path": "5-2-8/data.csv",
-      "name": "5-2-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-2-8"
     },
     {
       "path": "5-3-1-a/data.csv",
@@ -3516,40 +3178,6 @@
       "title": "Частка відновлених відходів в обсязі утворених відходів, відсотків"
     },
     {
-      "path": "11-3-3/data.csv",
-      "name": "11-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка мешканців міст, які мають доступ до водних об’єктів у межах пішохідної доступності, відсотків"
-    },
-    {
       "path": "4-2-2/data.csv",
       "name": "4-2-2",
       "profile": "tabular-data-resource",
@@ -3764,30 +3392,6 @@
       "title": "Кількість хворих з уперше в житті встановленим діагнозом активного туберкульозу, на 100 000 населення"
     },
     {
-      "path": "9-2-8/data.csv",
-      "name": "9-2-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-2-8"
-    },
-    {
       "path": "6-2-1/data.csv",
       "name": "6-2-1",
       "profile": "tabular-data-resource",
@@ -3937,129 +3541,6 @@
       "title": "Частка обсягу реалізованої інноваційної промислової продукції (товарів, послуг) у загальному обсязі реалізованої продукції (товарів, послуг) промислових підприємств, відсотків"
     },
     {
-      "path": "5-4-5/data.csv",
-      "name": "5-4-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-4-5"
-    },
-    {
-      "path": "1-3-2/data.csv",
-      "name": "1-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка осіб, які користуються базовими соціальними послугами, у загальній кількості осіб, які потребують надання соціальних послуг, відсотків"
-    },
-    {
-      "path": "5-4-6/data.csv",
-      "name": "5-4-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-4-6"
-    },
-    {
-      "path": "16-8-4/data.csv",
-      "name": "16-8-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Organization",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Збройні сили України",
-                "Державна спеціальна служба транспорту",
-                "Державна служба України з надзвичайних ситуацій",
-                "Оператори протимінної діяльності",
-                ""
-              ]
-            },
-            "title": "Організація"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Площа розмінування, га",
-                "розміновано доріг, км",
-                "розміновано залізничних шляхів, км",
-                ""
-              ]
-            },
-            "title": "Одиниця виміру"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-8-4"
-    },
-    {
       "path": "7-2-2-a/data.csv",
       "name": "7-2-2-a",
       "profile": "tabular-data-resource",
@@ -4092,64 +3573,6 @@
         ]
       },
       "title": "Частка одного постачальника на ринку ядерного палива, %"
-    },
-    {
-      "path": "5-1-3/data.csv",
-      "name": "5-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка населення, яке стверджує, що обізнане з інформацією про прояви дискримінації за ознакою статі, відсотків"
-    },
-    {
-      "path": "5-2-10/data.csv",
-      "name": "5-2-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-2-10"
     },
     {
       "path": "10-2-2/data.csv",
@@ -4395,70 +3818,6 @@
       "title": "Частка валового нагромадження основного капіталу у валовому внутрішньому продукті, відсотків"
     },
     {
-      "path": "7-6-3/data.csv",
-      "name": "7-6-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Households",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "домогосподарства/сім’ї з дітьми",
-                "домогосподарства/сім’ї без дітей",
-                ""
-              ]
-            },
-            "title": "Тип домогосподарства"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Вінницька",
-                "Волинська",
-                "Дніпропетровська",
-                "Донецька",
-                "Київська",
-                "місто Київ",
-                ""
-              ]
-            },
-            "title": "Область"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-6-3"
-    },
-    {
       "path": "8-1-3-a/data.csv",
       "name": "8-1-3-a",
       "profile": "tabular-data-resource",
@@ -4491,30 +3850,6 @@
         ]
       },
       "title": "Частка експорту товарів з використанням у виробництві технологій високого та середньовисокого рівня в загальному обсязі експорту товарів, % (групи ‘Продукція хімічної та пов’язаних з нею галузей промисловості’, ‘Полімерні матеріали, пластмаси та вироби з них’, ‘Машини, обладнання та механізми; електротехнічне обладнання’, ‘Засоби наземного транспорту, літальні апарати, плавучі засоби’, 90-та підгрупа групи ‘Прилади та апарати оптичні, фотографічні’ (згідно з УКТЗЕД))"
-    },
-    {
-      "path": "7-5-4/data.csv",
-      "name": "7-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-5-4"
     },
     {
       "path": "16-8-2-a/data.csv",
@@ -4640,30 +3975,6 @@
       "title": "Технологічні витрати електричної енергії в розподільчих електромережах, %"
     },
     {
-      "path": "7-5-8/data.csv",
-      "name": "7-5-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-5-8"
-    },
-    {
       "path": "16-3-1/data.csv",
       "name": "16-3-1",
       "profile": "tabular-data-resource",
@@ -4726,42 +4037,6 @@
       "title": "Частка працевлаштованих за сприяння Державної служби зайнятості зареєстрованих безробітних внутрішньо переміщених осіб у загальній кількості зареєстрованих безробітних внутрішньо переміщених осіб, відсотків"
     },
     {
-      "path": "3-8-2/data.csv",
-      "name": "3-8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка населення з великими витратами домогосподарств на охорону здоров'я як частка від загальних витрат або доходів домогосподарств"
-    },
-    {
       "path": "10-2-3/data.csv",
       "name": "10-2-3",
       "profile": "tabular-data-resource",
@@ -4784,30 +4059,6 @@
         ]
       },
       "title": "Різниця в середній заробітній платі за відпрацьовану годину у жінок та чоловіків, відсотків"
-    },
-    {
-      "path": "5-4-3/data.csv",
-      "name": "5-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-4-3"
     },
     {
       "path": "6-1-3-a/data.csv",
@@ -4890,30 +4141,6 @@
         ]
       },
       "title": "Частка електротранспорту у внутрішньому сполученні, %"
-    },
-    {
-      "path": "9-1-7/data.csv",
-      "name": "9-1-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-1-7"
     },
     {
       "path": "5-5-7/data.csv",
@@ -5141,42 +4368,6 @@
       "title": "Частка жінок серед депутатів обласних рад та місцевих рад міст обласного значення, %"
     },
     {
-      "path": "11-3-1/data.csv",
-      "name": "11-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "inherit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "культурна",
-                "природна",
-                ""
-              ]
-            },
-            "title": "Тип спадщини"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка забудованої території міст, яка є відкритим простором для загального користування, відсотків"
-    },
-    {
       "path": "9-1-1/data.csv",
       "name": "9-1-1",
       "profile": "tabular-data-resource",
@@ -5319,40 +4510,6 @@
         ]
       },
       "title": "Частка осіб з інвалідністю, охоплених програмами підтримки, у загальній кількості осіб з інвалідністю за даними інформаційних систем Мінсоцполітики, відсотків"
-    },
-    {
-      "path": "11-1-2/data.csv",
-      "name": "11-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-1-2"
     },
     {
       "path": "12-2-2-a/data.csv",
@@ -5834,131 +4991,6 @@
       "title": "Частка денних закладів загальної середньої освіти, у яких організовано інклюзивне навчання, %"
     },
     {
-      "path": "16-5-3/data.csv",
-      "name": "16-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Article",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Викрадення, привласнення, вимагання вогнепальної зброї, бойових припасів, вибухових речовин чи радіоактивних матеріалів або заволодіння ними шляхом шахрайства або зловживанням службовим становищем, ст.262",
-                "Незаконне поводження зі зброєю, бойовими припасами або вибуховими речовинами, ст.263",
-                "Незаконне виготовлення, переробка чи ремонт вогнепальної зброї або фальсифікація, незаконне видалення чи зміна її маркування, або незаконне виготовлення бойових припасів, вибухових речовин чи вибухових пристроїв, ст.263-1",
-                ""
-              ]
-            },
-            "title": "Стаття Кримінального Кодексу України"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Усього кримінальних правопорушень (кількість)",
-                "Рівень на 100 тис. населення",
-                ""
-              ]
-            },
-            "title": "Одиниця виміру"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-5-3"
-    },
-    {
-      "path": "7-6-2/data.csv",
-      "name": "7-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "до 18 років",
-                "60 років і старші",
-                ""
-              ]
-            },
-            "title": "Вік"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "жінки",
-                "чоловіки",
-                ""
-              ]
-            },
-            "title": "Стать"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Вінницька",
-                "Волинська",
-                "Дніпропетровська",
-                "Донецька",
-                "Київська",
-                "місто Київ",
-                ""
-              ]
-            },
-            "title": "Область"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-6-2"
-    },
-    {
       "path": "16-3-2-a/data.csv",
       "name": "16-3-2-a",
       "profile": "tabular-data-resource",
@@ -6209,30 +5241,6 @@
       "title": "Обсяг приватних грошових переказів в Україну, відсотків валового внутрішнього продукту"
     },
     {
-      "path": "9-2-7/data.csv",
-      "name": "9-2-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-2-7"
-    },
-    {
       "path": "13-1-1/data.csv",
       "name": "13-1-1",
       "profile": "tabular-data-resource",
@@ -6279,40 +5287,6 @@
         ]
       },
       "title": "Кількість видів тваринного і рослинного світу, занесених до Червоної книги України, одиниць"
-    },
-    {
-      "path": "16-2-6/data.csv",
-      "name": "16-2-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "global_indicators.16-2-6-title"
     },
     {
       "path": "4-4-1/data.csv",
@@ -6399,30 +5373,6 @@
         ]
       },
       "title": "Співвідношення жінок та чоловіків серед суддів, відсотків"
-    },
-    {
-      "path": "9-7-1/data.csv",
-      "name": "9-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-7-1"
     },
     {
       "path": "11-1-1-a/data.csv",
@@ -6923,55 +5873,6 @@
       "title": "Кількість здобувачів професійної (професійно-технічної) освіти за рівнем освіти 1, тис. осіб"
     },
     {
-      "path": "11-2-1-a/data.csv",
-      "name": "11-2-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "strategy",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Регіональна стратегія",
-                "Регіональна стратегія та план заходів з її реалізації (перший етап)",
-                "Регіональна стратегія та план заходів з її реалізації (другий етап)",
-                ""
-              ]
-            },
-            "title": "Складові регіональної стратегії"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "відсоток",
-                "кількість регіонів",
-                ""
-              ]
-            },
-            "title": "Одиниця виміру"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка регіонів, що затвердили і впроваджують регіональні стратегії розвитку та плани заходів з їх реалізації, розроблені за участю громадськості, %"
-    },
-    {
       "path": "16-3-1-a/data.csv",
       "name": "16-3-1-a",
       "profile": "tabular-data-resource",
@@ -7082,58 +5983,6 @@
       "title": "Ресурсоємність ВВП (співвідношення спожитих фізичних обсягів природних ресурсів, утворених відходів та викидів забруднюючих речовин до обсягу ВВП), % до рівня 2015 року"
     },
     {
-      "path": "7-7-1/data.csv",
-      "name": "7-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Вінницька",
-                "Волинська",
-                "Дніпропетровська",
-                "Донецька",
-                "Київська",
-                "місто Київ",
-                ""
-              ]
-            },
-            "title": "Область"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-7-1"
-    },
-    {
       "path": "5-6-5/data.csv",
       "name": "5-6-5",
       "profile": "tabular-data-resource",
@@ -7214,40 +6063,6 @@
         ]
       },
       "title": "Коефіцієнт смертності внаслідок транспортних нещасних випадків, на 100 000 осіб"
-    },
-    {
-      "path": "10-5-1/data.csv",
-      "name": "10-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка осіб з числа маломобільних груп, які повідомили про те, що в останні 12 місяців особисто стикнулися з перешкодами у доступі до публічних місць, відсотків"
     },
     {
       "path": "16-2-4/data.csv",
@@ -7380,30 +6195,6 @@
         ]
       },
       "title": "16-8-3-a"
-    },
-    {
-      "path": "9-1-9/data.csv",
-      "name": "9-1-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-1-9"
     },
     {
       "path": "14-3-1-a/data.csv",
@@ -7810,54 +6601,6 @@
       "title": "Частка прийнятих Кабінетом Міністрів України нормативно–правових актів, які відповідають принципу забезпечення рівних прав та можливостей жінок і чоловіків, у загальній кількості нормативно–правових актів, моніторинг яких проведено, відсотків"
     },
     {
-      "path": "9-1-8/data.csv",
-      "name": "9-1-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-1-8"
-    },
-    {
-      "path": "1-3-1/data.csv",
-      "name": "1-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Рівень глибокої матеріальної та соціальної депривації, відсотків"
-    },
-    {
       "path": "5-7-2/data.csv",
       "name": "5-7-2",
       "profile": "tabular-data-resource",
@@ -8009,30 +6752,6 @@
         ]
       },
       "title": "Частка сільських домогосподарств, які потерпають внаслідок відсутності регулярного щоденного транспортного сполучення з іншим населеним пунктом з розвиненою інфраструктурою, відсотків"
-    },
-    {
-      "path": "5-2-1/data.csv",
-      "name": "5-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка населення, яке обізнане з інформацією  про прояви домашнього насильства та насильства за ознакою статі, інструменти та можливості захисту прав у разі проявів такого насильства і вважає таке насильство неприйнятним (має нульову толерантність до насильства), відсотків"
     },
     {
       "path": "1-1-2-a/data.csv",
@@ -8304,58 +7023,6 @@
       "title": "4-4-4-a"
     },
     {
-      "path": "9-6-2/data.csv",
-      "name": "9-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Вінницька",
-                "Волинська",
-                "Дніпропетровська",
-                "Донецька",
-                "Київська",
-                "місто Київ",
-                ""
-              ]
-            },
-            "title": "Область"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-6-2"
-    },
-    {
       "path": "3-5-3/data.csv",
       "name": "3-5-3",
       "profile": "tabular-data-resource",
@@ -8426,108 +7093,6 @@
         ]
       },
       "title": "Частка скидів забруднених (забруднених без очищення та недостатньо очищених) стічних вод у водні об’єкти в загальному обсязі скидів, відсотків"
-    },
-    {
-      "path": "5-2-7/data.csv",
-      "name": "5-2-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-2-7"
-    },
-    {
-      "path": "2-3-3/data.csv",
-      "name": "2-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "global_indicators.2-3-3-title"
-    },
-    {
-      "path": "10-3-3-a/data.csv",
-      "name": "10-3-3-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка сільських домогосподарств, які потерпали від позбавлення через відсутність регулярного щоденного транспортного сполучення з іншим населеним пунктом з розвиненою інфраструктурою, %"
     },
     {
       "path": "4-4-6/data.csv",
@@ -9557,40 +8122,6 @@
       "title": "Кількість здобувачів загальної середньої, професійної (професійно-технічної) освіти з вразливих категорій населення, які забезпечені комп’ютерним обладнанням, тис. осіб"
     },
     {
-      "path": "15-1-3/data.csv",
-      "name": "15-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "global_indicators.15-1-3-title"
-    },
-    {
       "path": "2-4-2/data.csv",
       "name": "2-4-2",
       "profile": "tabular-data-resource",
@@ -9729,30 +8260,6 @@
         ]
       },
       "title": "Рівень задоволеності суб’єктів звернення якістю надання адміністративних послуг в центрах надання адміністративних послуг, відсотків 1"
-    },
-    {
-      "path": "5-2-4/data.csv",
-      "name": "5-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка осіб, які постраждали від сексуального насильства, пов’язаного із збройною агресією Російської Федерації проти України, та яким надано допомогу загальними та спеціалізованими службами підтримки постраждалих, у загальній кількості осіб, які подавали відповідні звернення, відсотків"
     },
     {
       "path": "3-9-1-a/data.csv",
@@ -10036,80 +8543,6 @@
       "title": "Частка осіб, які вживають тютюнові та/або нікотинові вироби, серед населення у віці 15 років і старше, відсотків"
     },
     {
-      "path": "9-2-2/data.csv",
-      "name": "9-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-2-2"
-    },
-    {
-      "path": "16-1-3/data.csv",
-      "name": "16-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Потерпіло від кримінальних правопорушень (рівень на 100 тис. населення)",
-                "Потерпіло від кримінальних правопорушень (ст.152), усього",
-                ""
-              ]
-            },
-            "title": "Одиниця виміру"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "всі",
-                "жінки",
-                "неповнолітні",
-                "малолітні (до 14 років)",
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-1-3"
-    },
-    {
       "path": "3-6-2-a/data.csv",
       "name": "3-6-2-a",
       "profile": "tabular-data-resource",
@@ -10144,64 +8577,6 @@
         ]
       },
       "title": "Кількість травмованих осіб унаслідок дорожньо-транспортних пригод, на 100 000 населення"
-    },
-    {
-      "path": "12-4-2/data.csv",
-      "name": "12-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "а) небезпечні відходи, що утворюються на душу населення; (b) частка оброблених небезпечних відходів за типом обробки"
-    },
-    {
-      "path": "9-1-6/data.csv",
-      "name": "9-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-1-6"
     },
     {
       "path": "10-4-1/data.csv",
@@ -10239,110 +8614,6 @@
         ]
       },
       "title": "Коефіцієнт заміщення заробітної плати пенсіями (відносно до 0,5 середньої заробітної плати, повної середньої заробітної плати та 1,5 середньої заробітної плати)1"
-    },
-    {
-      "path": "16-8-3/data.csv",
-      "name": "16-8-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Донецька",
-                "Луганська",
-                ""
-              ]
-            },
-            "title": "Область"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-8-3"
-    },
-    {
-      "path": "5-2-6/data.csv",
-      "name": "5-2-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-2-6"
-    },
-    {
-      "path": "5-2-12/data.csv",
-      "name": "5-2-12",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-2-12"
     },
     {
       "path": "5-1-1-a/data.csv",
@@ -10447,57 +8718,6 @@
         ]
       },
       "title": "Імовірність померти у 20-64 роки, жінки"
-    },
-    {
-      "path": "16-1-1/data.csv",
-      "name": "16-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Article",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Умисне вбивство, ст.115",
-                "Умисне вбивство, вчинене в стані сильного душевного хвилювання, ст.116",
-                "Умисне вбивство матір’ю своєї новонародженої дитини, ст.117",
-                "Умисне вбивство при перевищенні меж необхідної оборони або у разі перевищення заходів, необхідних для затримання особи, яка вчинила кримінальне правопорушення, ст.118",
-                "Умисне тяжке тілесне ушкодження, ст.121",
-                ""
-              ]
-            },
-            "title": "Стаття Кримінального Кодексу України"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Усього кримінальних правопорушень (кількість)",
-                "Рівень на 100 тис. населення",
-                ""
-              ]
-            },
-            "title": "Одиниця виміру"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-1-1"
     },
     {
       "path": "12-1-1/data.csv",
@@ -10782,82 +9002,6 @@
       "title": "Кількість проектів державно-приватного партнерства, одиниць"
     },
     {
-      "path": "7-6-1/data.csv",
-      "name": "7-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "до 18 років",
-                "60 років і старші",
-                ""
-              ]
-            },
-            "title": "Вік"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "жінки",
-                "чоловіки",
-                ""
-              ]
-            },
-            "title": "Стать"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Вінницька",
-                "Волинська",
-                "Дніпропетровська",
-                "Донецька",
-                "Київська",
-                "місто Київ",
-                ""
-              ]
-            },
-            "title": "Область"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-6-1"
-    },
-    {
       "path": "10-1-1-a/data.csv",
       "name": "10-1-1-a",
       "profile": "tabular-data-resource",
@@ -10986,70 +9130,6 @@
         ]
       },
       "title": "5-2-12-a"
-    },
-    {
-      "path": "8-2-3/data.csv",
-      "name": "8-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "жінки",
-                "чоловіки",
-                ""
-              ]
-            },
-            "title": "Стать"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Вінницька",
-                "Волинська",
-                "Дніпропетровська",
-                "Донецька",
-                "Київська",
-                "місто Київ",
-                ""
-              ]
-            },
-            "title": "Область"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-2-3"
     },
     {
       "path": "16-4-2/data.csv",
@@ -11845,30 +9925,6 @@
       "title": "Частка осіб, які уклали декларацію про вибір лікаря, який надає первинну медичну допомогу, та пройшли обстеження з профілактичною метою протягом року, відсотків"
     },
     {
-      "path": "5-2-2/data.csv",
-      "name": "5-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка жінок і дівчат віком від 15 до 49 років, які протягом останніх 12 місяців зазнали насильства за ознакою статі з боку подружжя, нареченого, особи, з якою спільно проживають, але не перебувають у шлюбі, відсотків"
-    },
-    {
       "path": "3-5-1-a/data.csv",
       "name": "3-5-1-a",
       "profile": "tabular-data-resource",
@@ -11988,65 +10044,6 @@
       "title": "Частка молоді (у віці 15-24 років) не в освіті, працевлаштуванні або навчанні"
     },
     {
-      "path": "3-4-4/data.csv",
-      "name": "3-4-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Вінницька",
-                "Волинська",
-                "Дніпропетровська",
-                "Донецька",
-                "Житомирська",
-                "Закарпатська",
-                "Запорізька",
-                "Івано-Франківська",
-                "Київська",
-                "Кіровоградська",
-                "Луганська",
-                "Львівська",
-                "Миколаївська",
-                "Одеська",
-                "Полтавська",
-                "Рівненська",
-                "Сумська",
-                "Тернопільська",
-                "Харківська",
-                "Херсонська",
-                "Хмельницька",
-                "Черкаська",
-                "Чернівецька",
-                "Чернігівська",
-                "місто Київ",
-                ""
-              ]
-            },
-            "title": "Область"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "global_indicators.3-4-4-title"
-    },
-    {
       "path": "2-4-1/data.csv",
       "name": "2-4-1",
       "profile": "tabular-data-resource",
@@ -12084,42 +10081,6 @@
         ]
       },
       "title": "Частка сільськогосподарських площ при продуктивному та сталому сільському господарстві"
-    },
-    {
-      "path": "3-6-2/data.csv",
-      "name": "3-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Mode of transport",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Автомобільний траснпорт, що використовують перевізники",
-                "Міський електричний транспорт",
-                ""
-              ]
-            },
-            "title": "Вид транспорту"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "3-6-2"
     },
     {
       "path": "2-3-2/data.csv",
@@ -12596,30 +10557,6 @@
       "title": "Частка повернутих в обробіток земель у загальній площі недоступних станом на червень 2024 року земель, відсотків"
     },
     {
-      "path": "5-1-2/data.csv",
-      "name": "5-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка звернень, які було задоволено, у загальній кількості звернень щодо визнаних дискримінаційними за ознакою статі дій, що надійшли до органів державної влади, відсотків"
-    },
-    {
       "path": "16-6-1-a/data.csv",
       "name": "16-6-1-a",
       "profile": "tabular-data-resource",
@@ -12686,30 +10623,6 @@
         ]
       },
       "title": "16-7-1-a"
-    },
-    {
-      "path": "7-5-9/data.csv",
-      "name": "7-5-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-5-9"
     },
     {
       "path": "4-3-2/data.csv",
@@ -13081,40 +10994,6 @@
       "title": "9-3-2-a"
     },
     {
-      "path": "11-3-2-a/data.csv",
-      "name": "11-3-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Кількість пам’яток національного значення, включених до Державного реєстру нерухомих пам’яток України, одиниць"
-    },
-    {
       "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
@@ -13209,30 +11088,6 @@
       "title": "Частка територій природно-заповідного фонду в гірських регіонах у загальній території країни, %"
     },
     {
-      "path": "7-3-2/data.csv",
-      "name": "7-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-3-2"
-    },
-    {
       "path": "5-5-8/data.csv",
       "name": "5-5-8",
       "profile": "tabular-data-resource",
@@ -13305,30 +11160,6 @@
       "title": "Частка витрат на охорону здоров’я у сукупних витратах домогосподарств, відсотків"
     },
     {
-      "path": "5-3-2/data.csv",
-      "name": "5-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка жінок у віці 15-49 років, які приймають власні поінформовані рішення щодо сексуальних стосунків, використання контрацептивів та репродуктивного здоров’я, відсотків"
-    },
-    {
       "path": "8-4-1-a/data.csv",
       "name": "8-4-1-a",
       "profile": "tabular-data-resource",
@@ -13397,58 +11228,6 @@
         ]
       },
       "title": "12-4-1-a"
-    },
-    {
-      "path": "9-6-3/data.csv",
-      "name": "9-6-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Вінницька",
-                "Волинська",
-                "Дніпропетровська",
-                "Донецька",
-                "Київська",
-                "місто Київ",
-                ""
-              ]
-            },
-            "title": "Область"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-6-3"
     },
     {
       "path": "7-3-1/data.csv",
@@ -13909,104 +11688,6 @@
       "title": "Структура споживання питної води серед населення за способами постачання, відсотків: централізоване водопостачання, нецентралізоване водопостачання"
     },
     {
-      "path": "9-6-4/data.csv",
-      "name": "9-6-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "жінки",
-                "чоловіки",
-                ""
-              ]
-            },
-            "title": "Стать"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Вінницька",
-                "Волинська",
-                "Дніпропетровська",
-                "Донецька",
-                "Київська",
-                "місто Київ",
-                ""
-              ]
-            },
-            "title": "Область"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-6-4"
-    },
-    {
-      "path": "5-2-9/data.csv",
-      "name": "5-2-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-2-9"
-    },
-    {
       "path": "5-2-1-a/data.csv",
       "name": "5-2-1-a",
       "profile": "tabular-data-resource",
@@ -14076,40 +11757,6 @@
         ]
       },
       "title": "Кількість звернень щодо домашнього насильства, тисяч"
-    },
-    {
-      "path": "16-4-1/data.csv",
-      "name": "16-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-4-1"
     },
     {
       "path": "15-1-2-a/data.csv",
@@ -14731,30 +12378,6 @@
       "title": "Кількість зайнятих працівників у суб’єктів середнього та малого підприємництва, млн. осіб"
     },
     {
-      "path": "8-4-2/data.csv",
-      "name": "8-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-4-2"
-    },
-    {
       "path": "11-5-2/data.csv",
       "name": "11-5-2",
       "profile": "tabular-data-resource",
@@ -14777,30 +12400,6 @@
         ]
       },
       "title": "Частка відновлених побутових відходів у загальному обсязі утворених побутових відходів, відсотків"
-    },
-    {
-      "path": "7-4-3/data.csv",
-      "name": "7-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-4-3"
     },
     {
       "path": "6-2-2-a/data.csv",
@@ -14895,40 +12494,6 @@
         ]
       },
       "title": "Коефіцієнт неонатальної смертності, на 1000 живонароджених"
-    },
-    {
-      "path": "5-2-11/data.csv",
-      "name": "5-2-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-2-11"
     },
     {
       "path": "4-4-7/data.csv",
@@ -15308,40 +12873,6 @@
       "title": "Коефіцієнт покриття споживання природного газу власним видобутком"
     },
     {
-      "path": "10-2-1-a/data.csv",
-      "name": "10-2-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "10-2-1-a"
-    },
-    {
       "path": "14-1-1/data.csv",
       "name": "14-1-1",
       "profile": "tabular-data-resource",
@@ -15489,40 +13020,6 @@
       "title": "Показник ризиків відмивання коштів та фінансування тероризму в рейтингу Basel Anti-Money Laundering Index Базельського інституту управління (Basel Institute on Governance), балів"
     },
     {
-      "path": "15-3-4/data.csv",
-      "name": "15-3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "global_indicators.15-3-4-title"
-    },
-    {
       "path": "6-3-2-a/data.csv",
       "name": "6-3-2-a",
       "profile": "tabular-data-resource",
@@ -15636,30 +13133,6 @@
         ]
       },
       "title": "Маса побутових відходів, млн. тонн"
-    },
-    {
-      "path": "7-4-4/data.csv",
-      "name": "7-4-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-4-4"
     },
     {
       "path": "3-3-1-a/data.csv",
@@ -15835,40 +13308,6 @@
         ]
       },
       "title": "Чистий притік прямих іноземних інвестицій (за даними платіжного балансу), млн. дол. США"
-    },
-    {
-      "path": "11-1-2-a/data.csv",
-      "name": "11-1-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-1-2-a"
     },
     {
       "path": "2-2-2-a/data.csv",
@@ -16115,30 +13554,6 @@
       "title": "Частка вихованців закладів дошкільної освіти віком до двох років у загальній чисельності дітей відповідного віку, відсотків"
     },
     {
-      "path": "7-5-3/data.csv",
-      "name": "7-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-5-3"
-    },
-    {
       "path": "1-3-2-a/data.csv",
       "name": "1-3-2-a",
       "profile": "tabular-data-resource",
@@ -16243,30 +13658,6 @@
         ]
       },
       "title": "Рівень безробіття населення віком 15–70 років (за методологією МОП), відсотків"
-    },
-    {
-      "path": "9-2-5/data.csv",
-      "name": "9-2-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-2-5"
     },
     {
       "path": "9-1-1-a/data.csv",
@@ -16949,82 +14340,6 @@
       "title": "global_indicators.7-2-2-title"
     },
     {
-      "path": "5-1-4/data.csv",
-      "name": "5-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка населення, яке задоволене діями органів влади щодо усунення проявів дискримінації за ознакою статі до себе чи своїх близьких за останні 12 місяців, відсотків"
-    },
-    {
-      "path": "7-7-2/data.csv",
-      "name": "7-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Вінницька",
-                "Волинська",
-                "Дніпропетровська",
-                "Донецька",
-                "Київська",
-                "місто Київ",
-                ""
-              ]
-            },
-            "title": "Область"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-7-2"
-    },
-    {
       "path": "1-1-1-a/data.csv",
       "name": "1-1-1-a",
       "profile": "tabular-data-resource",
@@ -17185,54 +14500,6 @@
       "title": "Кількість працівників, задіяних у виконанні наукових досліджень і розробок, на 1000 зайнятих (віком 15 років і старше), осіб"
     },
     {
-      "path": "9-2-3/data.csv",
-      "name": "9-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-2-3"
-    },
-    {
-      "path": "8-3-2/data.csv",
-      "name": "8-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-3-2"
-    },
-    {
       "path": "13-2-1/data.csv",
       "name": "13-2-1",
       "profile": "tabular-data-resource",
@@ -17329,30 +14596,6 @@
         ]
       },
       "title": "Ресурсоємність валового внутрішнього продукту (співвідношення спожитих фізичних обсягів природних ресурсів, утворених відходів і викидів забруднюючих речовин до обсягу валового внутрішнього продукту) порівняно з 2015 роком, відсотків: енергоємність валового внутрішнього продукту; матеріалоємність валового внутрішнього продукту; вуглецевоємність валового внутрішнього продукту; водоємність валового внутрішнього продукту; відходоємність валового внутрішнього продукту"
-    },
-    {
-      "path": "5-2-3/data.csv",
-      "name": "5-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка населення, яке готове повідомити правоохоронним органам про випадки насильства за ознакою статі та домашнього насильства, відсотків"
     },
     {
       "path": "5-5-1-a/data.csv",
@@ -17612,40 +14855,6 @@
         ]
       },
       "title": "Площа територій та об’єктів природно-заповідного фонду в акваторії Чорного та Азовського морів, тис. га"
-    },
-    {
-      "path": "11-3-3-a/data.csv",
-      "name": "11-3-3-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Площа природно-заповідного фонду загальнодержавного значення, % території країни"
     },
     {
       "path": "6-4-1/data.csv",
@@ -18247,78 +15456,6 @@
       "title": "Частка населення, яке має доступ до централізованого водопостачання, відсотків: міське населення, сільське населення"
     },
     {
-      "path": "8-2-4/data.csv",
-      "name": "8-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "жінки",
-                "чоловіки",
-                ""
-              ]
-            },
-            "title": "Стать"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-2-4"
-    },
-    {
-      "path": "5-4-4/data.csv",
-      "name": "5-4-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-4-4"
-    },
-    {
       "path": "5-2-3-a/data.csv",
       "name": "5-2-3-a",
       "profile": "tabular-data-resource",
@@ -18351,99 +15488,6 @@
         ]
       },
       "title": "5-2-3-a"
-    },
-    {
-      "path": "9-5-1/data.csv",
-      "name": "9-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка електрифікованих ділянок залізничних шляхів внутрішнього сполучення, відсотків"
-    },
-    {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Вінницька",
-                "Волинська",
-                "Дніпропетровська",
-                "Донецька",
-                "Житомирська",
-                "Закарпатська",
-                "Запорізька",
-                "Івано-Франківська",
-                "Київська",
-                "Кіровоградська",
-                "Луганська",
-                "Львівська",
-                "Миколаївська",
-                "Одеська",
-                "Полтавська",
-                "Рівненська",
-                "Сумська",
-                "Тернопільська",
-                "Харківська",
-                "Херсонська",
-                "Хмельницька",
-                "Черкаська",
-                "Чернівецька",
-                "Чернігівська",
-                "місто Київ",
-                ""
-              ]
-            },
-            "title": "Область"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Прямі іноземні інвестиції, офіційна допомога розвитку та співпраця Південь-Південь як частка валового національного доходу"
     },
     {
       "path": "11-2-10/data.csv",
@@ -18869,40 +15913,6 @@
         ]
       },
       "title": "Площа територій природно-заповідного фонду в гірських регіонах, тис. гектарів"
-    },
-    {
-      "path": "10-3-3/data.csv",
-      "name": "10-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка осіб, які забезпечені базовими соціальними послугами у територіальній громаді, у загальній кількості осіб, що потребують надання таких послуг, відсотків"
     },
     {
       "path": "11-4-5/data.csv",
@@ -19883,30 +16893,6 @@
       "title": "Співвідношення середньомісячної заробітної плати (доходів) десятої та першої децильних груп працівників (децильний коефіцієнт), разів"
     },
     {
-      "path": "9-2-4/data.csv",
-      "name": "9-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-2-4"
-    },
-    {
       "path": "15-5-2/data.csv",
       "name": "15-5-2",
       "profile": "tabular-data-resource",
@@ -20005,40 +16991,6 @@
       "title": "Частка осіб, які курять, серед жінок віком 16-29 років, %"
     },
     {
-      "path": "16-8-5/data.csv",
-      "name": "16-8-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-8-5"
-    },
-    {
       "path": "6-1-1-a/data.csv",
       "name": "6-1-1-a",
       "profile": "tabular-data-resource",
@@ -20085,64 +17037,6 @@
         ]
       },
       "title": "6-1-1-a"
-    },
-    {
-      "path": "12-4-2-a/data.csv",
-      "name": "12-4-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Частка спалених та утилізованих відходів у загальному обсязі утворених відходів, %"
-    },
-    {
-      "path": "7-5-6/data.csv",
-      "name": "7-5-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-5-6"
     },
     {
       "path": "5-4-3-a/data.csv",
@@ -20232,40 +17126,6 @@
       "title": "16-2-1-a"
     },
     {
-      "path": "10-2-1/data.csv",
-      "name": "10-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "10-2-1"
-    },
-    {
       "path": "9-3-2/data.csv",
       "name": "9-3-2",
       "profile": "tabular-data-resource",
@@ -20308,42 +17168,6 @@
         ]
       },
       "title": "9-3-2"
-    },
-    {
-      "path": "10-1-2-a/data.csv",
-      "name": "10-1-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "10-1-2-a"
     },
     {
       "path": "5-5-3/data.csv",
@@ -20486,71 +17310,6 @@
       "title": "5-2-4-a"
     },
     {
-      "path": "16-1-2/data.csv",
-      "name": "16-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Article",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "усього осіб, які потерпіли від кримінальних правопорушень, ст. ККУ",
-                "умисних убивств (та замахів), ст.ст.115-118",
-                "згвалтувань (та замахів), ст.152",
-                "умисних тяжких тілесних ушкоджень, ст.121",
-                "торгівлі людьми або інших незаконних угод щодо передачі людини, ст.149",
-                ""
-              ]
-            },
-            "title": "Стаття Кримінального Кодексу України"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "всі",
-                "жінки",
-                "неповнолітні",
-                "малолітні (до 14 років)",
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Потерпіло від кримінальних правопорушень (рівень на 100 тис. населення)",
-                "Потерпіло від  кримінальних правопорушень (усього)",
-                ""
-              ]
-            },
-            "title": "Одиниця виміру"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-1-2"
-    },
-    {
       "path": "15-3-1/data.csv",
       "name": "15-3-1",
       "profile": "tabular-data-resource",
@@ -20662,74 +17421,6 @@
       "title": "Співвідношення жінок та чоловіків серед послів України в іноземних державах, відсотків"
     },
     {
-      "path": "15-3-6/data.csv",
-      "name": "15-3-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "global_indicators.15-3-6-title"
-    },
-    {
-      "path": "10-5-1-a/data.csv",
-      "name": "10-5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Співвідношення середнього розміру пенсії та середньої заробітної плати в економіці (за наявності 35 років страхового стажу), %"
-    },
-    {
       "path": "15-3-3-a/data.csv",
       "name": "15-3-3-a",
       "profile": "tabular-data-resource",
@@ -20802,40 +17493,6 @@
       "title": "4-4-3-a"
     },
     {
-      "path": "15-3-3/data.csv",
-      "name": "15-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "global_indicators.15-3-3-title"
-    },
-    {
       "path": "3-5-5/data.csv",
       "name": "3-5-5",
       "profile": "tabular-data-resource",
@@ -20892,30 +17549,6 @@
         ]
       },
       "title": "5-2-5-a"
-    },
-    {
-      "path": "7-5-1/data.csv",
-      "name": "7-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-5-1"
     },
     {
       "path": "4-2-1/data.csv",
@@ -21023,40 +17656,6 @@
       "title": "Частка дітей віком 6–17 років, які відвідують заклади загальної середньої освіти, відсотків 1"
     },
     {
-      "path": "4-1-2/data.csv",
-      "name": "4-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Рівень завершення (початкова освіта, нижча середня освіта, вища середня освіта)"
-    },
-    {
       "path": "4-5-2-a/data.csv",
       "name": "4-5-2-a",
       "profile": "tabular-data-resource",
@@ -21120,55 +17719,6 @@
         ]
       },
       "title": "Частка населення, яке повідомило, що за останні 12 місяців користувалось послугами Інтернету, %"
-    },
-    {
-      "path": "11-2-1/data.csv",
-      "name": "11-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "strategy",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Регіональна стратегія",
-                "Регіональна стратегія та план заходів з її реалізації (перший етап)",
-                "Регіональна стратегія та план заходів з її реалізації (другий етап)",
-                ""
-              ]
-            },
-            "title": "Складові регіональної стратегії"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "відсоток",
-                "кількість регіонів",
-                ""
-              ]
-            },
-            "title": "Одиниця виміру"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Показник середньої швидкості руху громадського транспорту в обласних центрах, кілометрів на годину"
     },
     {
       "path": "5-7-3/data.csv",
@@ -21265,40 +17815,6 @@
         ]
       },
       "title": "Кількість смертей унаслідок транспортних нещасних випадків, на 100 000 населення"
-    },
-    {
-      "path": "6-1-5/data.csv",
-      "name": "6-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "global_indicators.6-1-5-title"
     },
     {
       "path": "15-1-1-a/data.csv",
@@ -21428,30 +17944,6 @@
         ]
       },
       "title": "Коефіцієнт смертності жінок від цереброваскулярних хвороб у віці 30–59 років, на 100 000 жінок відповідного віку"
-    },
-    {
-      "path": "7-5-10/data.csv",
-      "name": "7-5-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-5-10"
     },
     {
       "path": "6-1-3/data.csv",
@@ -21646,95 +18138,6 @@
       "title": "Частка дітей, які відвідують заклади спеціалізованої позашкільної освіти спортивного профілю та структурні підрозділи юридичних осіб публічного та приватного права, у загальній кількості населення у віці 6–18 років, відсотків"
     },
     {
-      "path": "9-2-6/data.csv",
-      "name": "9-2-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-2-6"
-    },
-    {
-      "path": "4-5-2/data.csv",
-      "name": "4-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "жінки",
-                "чоловіки",
-                ""
-              ]
-            },
-            "title": "Стать"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "до 15 років",
-                "15 - 17 років",
-                "18 - 24 роки",
-                "25 - 35 років",
-                "36 - 59 років",
-                "60 - 74 роки",
-                "75 років і старші",
-                ""
-              ]
-            },
-            "title": "Вік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "global_indicators.4-5-2-title"
-    },
-    {
       "path": "4-3-1-a/data.csv",
       "name": "4-3-1-a",
       "profile": "tabular-data-resource",
@@ -21826,30 +18229,6 @@
         ]
       },
       "title": "Кількість смертей жінок від цереброваскулярних хвороб у віці 30-59 років, на 100 000 жінок відповідного віку"
-    },
-    {
-      "path": "7-3-5/data.csv",
-      "name": "7-3-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-3-5"
     },
     {
       "path": "2-1-4-a/data.csv",
@@ -22886,42 +19265,6 @@
       "title": "4-4-2-a"
     },
     {
-      "path": "11-3-1-a/data.csv",
-      "name": "11-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Рік"
-          },
-          {
-            "name": "inherit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "культурна",
-                "природна",
-                ""
-              ]
-            },
-            "title": "Тип спадщини"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Кількість об’єктів культурної та природної спадщини, які включені до Списку всесвітньої спадщини ЮНЕСКО, одиниць"
-    },
-    {
       "path": "3-6-1/data.csv",
       "name": "3-6-1",
       "profile": "tabular-data-resource",
@@ -23131,6 +19474,54 @@
       "title": "Частка населення, яке поінформоване про важливість відповідального споживання, відсотків"
     },
     {
+      "path": "12-4-2-a/data.csv",
+      "name": "12-4-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "12-4-2-a"
+    },
+    {
+      "path": "9-6-4/data.csv",
+      "name": "9-6-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-6-4"
+    },
+    {
       "path": "7-3-4/data.csv",
       "name": "7-3-4",
       "profile": "tabular-data-resource",
@@ -23153,6 +19544,30 @@
         ]
       },
       "title": "7-3-4"
+    },
+    {
+      "path": "7-5-10/data.csv",
+      "name": "7-5-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-5-10"
     },
     {
       "path": "11-2-4/data.csv",
@@ -23179,6 +19594,102 @@
       "title": "11-2-4"
     },
     {
+      "path": "16-4-1/data.csv",
+      "name": "16-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-4-1"
+    },
+    {
+      "path": "7-7-2/data.csv",
+      "name": "7-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-7-2"
+    },
+    {
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-1-2"
+    },
+    {
+      "path": "7-4-3/data.csv",
+      "name": "7-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-4-3"
+    },
+    {
       "path": "11-5-3/data.csv",
       "name": "11-5-3",
       "profile": "tabular-data-resource",
@@ -23203,6 +19714,150 @@
       "title": "11-5-3"
     },
     {
+      "path": "6-1-5/data.csv",
+      "name": "6-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "6-1-5"
+    },
+    {
+      "path": "12-4-2/data.csv",
+      "name": "12-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "12-4-2"
+    },
+    {
+      "path": "9-2-7/data.csv",
+      "name": "9-2-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-2-7"
+    },
+    {
+      "path": "11-3-3/data.csv",
+      "name": "11-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-3-3"
+    },
+    {
+      "path": "2-3-3/data.csv",
+      "name": "2-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "2-3-3"
+    },
+    {
+      "path": "7-5-2/data.csv",
+      "name": "7-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-5-2"
+    },
+    {
       "path": "11-2-2/data.csv",
       "name": "11-2-2",
       "profile": "tabular-data-resource",
@@ -23225,6 +19880,30 @@
         ]
       },
       "title": "11-2-2"
+    },
+    {
+      "path": "17-3-1/data.csv",
+      "name": "17-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-3-1"
     },
     {
       "path": "11-7-1/data.csv",
@@ -23275,6 +19954,126 @@
       "title": "9-3-8"
     },
     {
+      "path": "9-2-2/data.csv",
+      "name": "9-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-2-2"
+    },
+    {
+      "path": "11-3-2/data.csv",
+      "name": "11-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-3-2"
+    },
+    {
+      "path": "16-1-3/data.csv",
+      "name": "16-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-1-3"
+    },
+    {
+      "path": "16-8-5/data.csv",
+      "name": "16-8-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-8-5"
+    },
+    {
+      "path": "1-3-1/data.csv",
+      "name": "1-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "1-3-1"
+    },
+    {
       "path": "9-3-7/data.csv",
       "name": "9-3-7",
       "profile": "tabular-data-resource",
@@ -23323,6 +20122,246 @@
       "title": "11-4-3"
     },
     {
+      "path": "7-5-6/data.csv",
+      "name": "7-5-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-5-6"
+    },
+    {
+      "path": "16-2-5/data.csv",
+      "name": "16-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-2-5"
+    },
+    {
+      "path": "9-1-9/data.csv",
+      "name": "9-1-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-1-9"
+    },
+    {
+      "path": "9-1-7/data.csv",
+      "name": "9-1-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-1-7"
+    },
+    {
+      "path": "9-6-2/data.csv",
+      "name": "9-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-6-2"
+    },
+    {
+      "path": "7-6-1/data.csv",
+      "name": "7-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-6-1"
+    },
+    {
+      "path": "15-3-6/data.csv",
+      "name": "15-3-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-3-6"
+    },
+    {
+      "path": "7-4-4/data.csv",
+      "name": "7-4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-4-4"
+    },
+    {
+      "path": "3-6-2/data.csv",
+      "name": "3-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-6-2"
+    },
+    {
+      "path": "16-2-7/data.csv",
+      "name": "16-2-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-2-7"
+    },
+    {
       "path": "11-1-6/data.csv",
       "name": "11-1-6",
       "profile": "tabular-data-resource",
@@ -23345,6 +20384,78 @@
         ]
       },
       "title": "11-1-6"
+    },
+    {
+      "path": "7-6-2/data.csv",
+      "name": "7-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-6-2"
+    },
+    {
+      "path": "8-3-2/data.csv",
+      "name": "8-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-3-2"
+    },
+    {
+      "path": "7-3-2/data.csv",
+      "name": "7-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-3-2"
     },
     {
       "path": "9-3-6/data.csv",
@@ -23371,6 +20482,54 @@
       "title": "9-3-6"
     },
     {
+      "path": "9-7-1/data.csv",
+      "name": "9-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-7-1"
+    },
+    {
+      "path": "5-1-4/data.csv",
+      "name": "5-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-1-4"
+    },
+    {
       "path": "9-3-9/data.csv",
       "name": "9-3-9",
       "profile": "tabular-data-resource",
@@ -23393,6 +20552,126 @@
         ]
       },
       "title": "9-3-9"
+    },
+    {
+      "path": "9-1-6/data.csv",
+      "name": "9-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-1-6"
+    },
+    {
+      "path": "10-2-1-a/data.csv",
+      "name": "10-2-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-2-1-a"
+    },
+    {
+      "path": "5-2-9/data.csv",
+      "name": "5-2-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-2-9"
+    },
+    {
+      "path": "1-3-2/data.csv",
+      "name": "1-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "1-3-2"
+    },
+    {
+      "path": "9-2-3/data.csv",
+      "name": "9-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-2-3"
     },
     {
       "path": "11-1-5/data.csv",
@@ -23419,6 +20698,54 @@
       "title": "11-1-5"
     },
     {
+      "path": "10-1-2-a/data.csv",
+      "name": "10-1-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-1-2-a"
+    },
+    {
+      "path": "16-1-1/data.csv",
+      "name": "16-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-1-1"
+    },
+    {
       "path": "11-3-4/data.csv",
       "name": "11-3-4",
       "profile": "tabular-data-resource",
@@ -23443,6 +20770,294 @@
       "title": "11-3-4"
     },
     {
+      "path": "16-5-3/data.csv",
+      "name": "16-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-5-3"
+    },
+    {
+      "path": "7-6-4/data.csv",
+      "name": "7-6-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-6-4"
+    },
+    {
+      "path": "15-3-3/data.csv",
+      "name": "15-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-3-3"
+    },
+    {
+      "path": "5-2-8/data.csv",
+      "name": "5-2-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-2-8"
+    },
+    {
+      "path": "5-2-4/data.csv",
+      "name": "5-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-2-4"
+    },
+    {
+      "path": "9-2-8/data.csv",
+      "name": "9-2-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-2-8"
+    },
+    {
+      "path": "9-1-5/data.csv",
+      "name": "9-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-1-5"
+    },
+    {
+      "path": "5-2-1/data.csv",
+      "name": "5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-2-1"
+    },
+    {
+      "path": "8-4-2/data.csv",
+      "name": "8-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-4-2"
+    },
+    {
+      "path": "11-1-2/data.csv",
+      "name": "11-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-1-2"
+    },
+    {
+      "path": "7-6-3/data.csv",
+      "name": "7-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-6-3"
+    },
+    {
+      "path": "11-1-2-a/data.csv",
+      "name": "11-1-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-1-2-a"
+    },
+    {
       "path": "9-7-2/data.csv",
       "name": "9-7-2",
       "profile": "tabular-data-resource",
@@ -23465,6 +21080,30 @@
         ]
       },
       "title": "9-7-2"
+    },
+    {
+      "path": "5-4-6/data.csv",
+      "name": "5-4-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-4-6"
     },
     {
       "path": "7-4-2/data.csv",
@@ -23587,6 +21226,126 @@
       "title": "9-3-4"
     },
     {
+      "path": "9-2-4/data.csv",
+      "name": "9-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-2-4"
+    },
+    {
+      "path": "9-6-3/data.csv",
+      "name": "9-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-6-3"
+    },
+    {
+      "path": "11-3-2-a/data.csv",
+      "name": "11-3-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-3-2-a"
+    },
+    {
+      "path": "10-3-3/data.csv",
+      "name": "10-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-3-3"
+    },
+    {
+      "path": "11-2-1-a/data.csv",
+      "name": "11-2-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-2-1-a"
+    },
+    {
       "path": "10-6-1/data.csv",
       "name": "10-6-1",
       "profile": "tabular-data-resource",
@@ -23611,6 +21370,54 @@
       "title": "10-6-1"
     },
     {
+      "path": "9-2-5/data.csv",
+      "name": "9-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-2-5"
+    },
+    {
+      "path": "5-1-3/data.csv",
+      "name": "5-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-1-3"
+    },
+    {
       "path": "11-1-3/data.csv",
       "name": "11-1-3",
       "profile": "tabular-data-resource",
@@ -23633,6 +21440,78 @@
         ]
       },
       "title": "11-1-3"
+    },
+    {
+      "path": "11-2-1/data.csv",
+      "name": "11-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-2-1"
+    },
+    {
+      "path": "7-5-5/data.csv",
+      "name": "7-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-5-5"
+    },
+    {
+      "path": "4-5-2/data.csv",
+      "name": "4-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-5-2"
     },
     {
       "path": "15-6-1/data.csv",
@@ -23683,6 +21562,78 @@
       "title": "11-2-7"
     },
     {
+      "path": "3-4-4/data.csv",
+      "name": "3-4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-4-4"
+    },
+    {
+      "path": "8-2-3/data.csv",
+      "name": "8-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-2-3"
+    },
+    {
+      "path": "3-8-2/data.csv",
+      "name": "3-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-8-2"
+    },
+    {
       "path": "7-3-3/data.csv",
       "name": "7-3-3",
       "profile": "tabular-data-resource",
@@ -23729,6 +21680,78 @@
         ]
       },
       "title": "6-3-3"
+    },
+    {
+      "path": "16-8-4/data.csv",
+      "name": "16-8-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-8-4"
+    },
+    {
+      "path": "11-3-1/data.csv",
+      "name": "11-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-3-1"
+    },
+    {
+      "path": "15-1-3/data.csv",
+      "name": "15-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-1-3"
     },
     {
       "path": "11-2-6/data.csv",
@@ -23779,6 +21802,174 @@
       "title": "9-3-3"
     },
     {
+      "path": "16-2-6/data.csv",
+      "name": "16-2-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-2-6"
+    },
+    {
+      "path": "5-4-5/data.csv",
+      "name": "5-4-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-4-5"
+    },
+    {
+      "path": "5-2-2/data.csv",
+      "name": "5-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-2-2"
+    },
+    {
+      "path": "7-7-1/data.csv",
+      "name": "7-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-7-1"
+    },
+    {
+      "path": "11-3-3-a/data.csv",
+      "name": "11-3-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-3-3-a"
+    },
+    {
+      "path": "7-5-3/data.csv",
+      "name": "7-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-5-3"
+    },
+    {
+      "path": "5-3-2/data.csv",
+      "name": "5-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-3-2"
+    },
+    {
       "path": "11-2-8/data.csv",
       "name": "11-2-8",
       "profile": "tabular-data-resource",
@@ -23801,6 +21992,102 @@
         ]
       },
       "title": "11-2-8"
+    },
+    {
+      "path": "9-1-8/data.csv",
+      "name": "9-1-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-1-8"
+    },
+    {
+      "path": "7-5-8/data.csv",
+      "name": "7-5-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-5-8"
+    },
+    {
+      "path": "5-2-3/data.csv",
+      "name": "5-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-2-3"
+    },
+    {
+      "path": "5-2-10/data.csv",
+      "name": "5-2-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-2-10"
     },
     {
       "path": "11-2-9/data.csv",
@@ -23827,6 +22114,30 @@
       "title": "11-2-9"
     },
     {
+      "path": "5-2-11/data.csv",
+      "name": "5-2-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-2-11"
+    },
+    {
       "path": "11-2-5/data.csv",
       "name": "11-2-5",
       "profile": "tabular-data-resource",
@@ -23849,6 +22160,198 @@
         ]
       },
       "title": "11-2-5"
+    },
+    {
+      "path": "7-5-7/data.csv",
+      "name": "7-5-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-5-7"
+    },
+    {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "1-2-2"
+    },
+    {
+      "path": "8-2-4/data.csv",
+      "name": "8-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-2-4"
+    },
+    {
+      "path": "10-2-1/data.csv",
+      "name": "10-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-2-1"
+    },
+    {
+      "path": "7-5-9/data.csv",
+      "name": "7-5-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-5-9"
+    },
+    {
+      "path": "5-2-7/data.csv",
+      "name": "5-2-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-2-7"
+    },
+    {
+      "path": "5-1-2/data.csv",
+      "name": "5-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-1-2"
+    },
+    {
+      "path": "5-4-3/data.csv",
+      "name": "5-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-4-3"
     },
     {
       "path": "14-1-2/data.csv",
@@ -23875,6 +22378,198 @@
       "title": "14-1-2"
     },
     {
+      "path": "5-2-12/data.csv",
+      "name": "5-2-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-2-12"
+    },
+    {
+      "path": "7-3-5/data.csv",
+      "name": "7-3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-3-5"
+    },
+    {
+      "path": "16-1-2/data.csv",
+      "name": "16-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-1-2"
+    },
+    {
+      "path": "9-2-6/data.csv",
+      "name": "9-2-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-2-6"
+    },
+    {
+      "path": "9-5-1/data.csv",
+      "name": "9-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-5-1"
+    },
+    {
+      "path": "15-3-4/data.csv",
+      "name": "15-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-3-4"
+    },
+    {
+      "path": "5-4-4/data.csv",
+      "name": "5-4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-4-4"
+    },
+    {
+      "path": "7-5-4/data.csv",
+      "name": "7-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-5-4"
+    },
+    {
       "path": "11-2-3/data.csv",
       "name": "11-2-3",
       "profile": "tabular-data-resource",
@@ -23897,6 +22592,198 @@
         ]
       },
       "title": "11-2-3"
+    },
+    {
+      "path": "11-3-1-a/data.csv",
+      "name": "11-3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-3-1-a"
+    },
+    {
+      "path": "10-5-1-a/data.csv",
+      "name": "10-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-5-1-a"
+    },
+    {
+      "path": "5-2-6/data.csv",
+      "name": "5-2-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-2-6"
+    },
+    {
+      "path": "10-3-3-a/data.csv",
+      "name": "10-3-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-3-3-a"
+    },
+    {
+      "path": "10-5-1/data.csv",
+      "name": "10-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-5-1"
+    },
+    {
+      "path": "16-8-3/data.csv",
+      "name": "16-8-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-8-3"
+    },
+    {
+      "path": "15-3-5/data.csv",
+      "name": "15-3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-3-5"
+    },
+    {
+      "path": "7-5-1/data.csv",
+      "name": "7-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-5-1"
     }
   ]
 }

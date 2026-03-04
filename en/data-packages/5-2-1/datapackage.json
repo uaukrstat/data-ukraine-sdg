@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-2-1",
-  "title": "Share of the population that is aware of information about manifestations of domestic violence and gender-based violence, tools and opportunities to protect rights in the event of manifestations of such violence and considers such violence unacceptable (has zero tolerance for violence), percent"
+  "title": "5-2-1"
 }

@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Type of residence"
-          },
-          {
-            "name": "Households",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "households/families with children",
-                "households/families without children",
-                ""
-              ]
-            },
-            "title": "Household type"
           },
           {
             "name": "Value",

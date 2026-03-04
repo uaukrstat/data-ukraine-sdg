@@ -12,31 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1_vic_100",
-                "2_vic_tot",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1_all",
-                "2_females",
-                "3_adolescents",
-                "4_young",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

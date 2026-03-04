@@ -12,45 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "age_15",
-                "age_15_17",
-                "age_18_24",
-                "age_25_35",
-                "age_36_59",
-                "age_60_74",
-                "age_75",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -62,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-2",
-  "title": "global_indicators.4-5-2-title"
+  "title": "4-5-2"
 }

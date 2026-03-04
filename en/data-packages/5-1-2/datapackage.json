@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-2",
-  "title": "Share of satisfied appeals in the total number of appeals regarding actions recognized as gender-based discriminatory that were received by state authorities, percent"
+  "title": "5-1-2"
 }

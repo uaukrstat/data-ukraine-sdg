@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-2-4",
-  "title": "Share of persons who suffered from sexual violence related to the armed aggression of the Russian Federation against Ukraine and who were provided with assistance by general and specialized victim support services in the total number of persons who submitted relevant applications, percent"
+  "title": "5-2-4"
 }

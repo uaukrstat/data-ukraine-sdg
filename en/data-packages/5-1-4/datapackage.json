@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-4",
-  "title": "Share of the population that is satisfied with the actions of the authorities to eliminate manifestations of gender-based discrimination against themselves or their relatives in the last 12 months, percent"
+  "title": "5-1-4"
 }

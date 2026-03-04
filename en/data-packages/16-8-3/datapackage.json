@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Donetsk",
-                "Luhansk",
-                ""
-              ]
-            },
-            "title": "Region"
           },
           {
             "name": "Value",

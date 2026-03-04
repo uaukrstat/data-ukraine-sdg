@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Mode of transport",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Road transport used by road hauliers",
-                "Urban electric transport",
-                ""
-              ]
-            },
-            "title": "Mode of transport"
           },
           {
             "name": "Value",

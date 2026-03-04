@@ -12,30 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "strategy",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10_phase",
-                "11_phase",
-                "12_phase",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per",
-                "number",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -47,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "11-2-1",
-  "title": "global_indicators.11-2-1-title"
+  "title": "11-2-1"
 }
