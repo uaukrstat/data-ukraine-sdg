@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,14 +16,99 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Region",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Region"
+          },
+          {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15–24 years",
+                "25–29 years",
+                "30–34 years",
+                "35–39 years",
+                "40–49 years",
+                "50–59 years",
+                "60–70 years",
+                ""
+              ]
+            },
+            "title": "Age groups"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "men",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "group_16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of place of residence"
+          },
+          {
+            "name": "23_educ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Complete higher",
+                "Basic higher",
+                "Incomplete higher",
+                "Professional and technical",
+                "Complete total average",
+                "Basic, primary general secondary, or no education",
+                ""
+              ]
+            },
+            "title": "education"
           },
           {
             "name": "Value",

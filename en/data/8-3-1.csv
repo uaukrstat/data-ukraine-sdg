@@ -1,46 +1,221 @@
-Year,Sex,Type of residence,Value
-2015,,,64.4
-2016,,,64.2
-2017,,,64.2
-2018,,,65.6
-2019,,,66.9
-2020,,,65.2
-2021,,,64.8
-2022,,,
-2023,,,
-2015,female,,59.1
-2016,female,,59.3
-2017,female,,59.4
-2018,female,,61.0
-2019,female,,61.6
-2020,female,,60.0
-2021,female,,59.3
-2022,female,,
-2023,female,,
-2015,male,,70.2
-2016,male,,69.5
-2017,male,,69.4
-2018,male,,70.5
-2019,male,,72.7
-2020,male,,70.8
-2021,male,,70.8
-2022,male,,
-2023,male,,
-2015,,urban,65.2
-2016,,urban,65.0
-2017,,urban,65.1
-2018,,urban,66.7
-2019,,urban,68.1
-2020,,urban,66.5
-2021,,urban,66.1
-2022,,urban,
-2023,,urban,
-2015,,rural,62.7
-2016,,rural,62.4
-2017,,rural,62.2
-2018,,rural,63.2
-2019,,rural,64.5
-2020,,rural,62.6
-2021,,rural,62.1
-2022,,rural,
-2023,,rural,
+Year,Total number and fatal outcome,Gender,Еconomic activity,Value
+2015,,,,
+2016,,,,
+2017,,,,
+2018,,,,
+2019,,,,
+2020,,,,
+2021,,,,
+2022,,,,
+2023,,,,
+2024,,,,
+2015,Total number,,,
+2016,Total number,,,
+2017,Total number,,,
+2018,Total number,,,
+2019,Total number,,,
+2020,Total number,,,
+2021,Total number,,,
+2022,Total number,,,
+2023,Total number,,,
+2024,Total number,,,22.0
+2015,With a fatal outcome,,,
+2016,With a fatal outcome,,,
+2017,With a fatal outcome,,,
+2018,With a fatal outcome,,,
+2019,With a fatal outcome,,,
+2020,With a fatal outcome,,,
+2021,With a fatal outcome,,,
+2022,With a fatal outcome,,,
+2023,With a fatal outcome,,,
+2024,With a fatal outcome,,,3.0
+2015,,females,,
+2016,,females,,
+2017,,females,,
+2018,,females,,
+2019,,females,,
+2020,,females,,
+2021,,females,,
+2022,,females,,
+2023,,females,,
+2024,,females,,6.0
+2015,,men,,
+2016,,men,,
+2017,,men,,
+2018,,men,,
+2019,,men,,
+2020,,men,,
+2021,,men,,
+2022,,men,,
+2023,,men,,
+2024,,men,,16.0
+2015,,,Coal industry,
+2016,,,Coal industry,
+2017,,,Coal industry,
+2018,,,Coal industry,
+2019,,,Coal industry,
+2020,,,Coal industry,
+2021,,,Coal industry,
+2022,,,Coal industry,
+2023,,,Coal industry,
+2024,,,Coal industry,636.0
+2015,,,Metal ore and non-metal mining industry,
+2016,,,Metal ore and non-metal mining industry,
+2017,,,Metal ore and non-metal mining industry,
+2018,,,Metal ore and non-metal mining industry,
+2019,,,Metal ore and non-metal mining industry,
+2020,,,Metal ore and non-metal mining industry,
+2021,,,Metal ore and non-metal mining industry,
+2022,,,Metal ore and non-metal mining industry,
+2023,,,Metal ore and non-metal mining industry,
+2024,,,Metal ore and non-metal mining industry,39.0
+2015,,,Oil and gas extraction industry and geological exploration,
+2016,,,Oil and gas extraction industry and geological exploration,
+2017,,,Oil and gas extraction industry and geological exploration,
+2018,,,Oil and gas extraction industry and geological exploration,
+2019,,,Oil and gas extraction industry and geological exploration,
+2020,,,Oil and gas extraction industry and geological exploration,
+2021,,,Oil and gas extraction industry and geological exploration,
+2022,,,Oil and gas extraction industry and geological exploration,
+2023,,,Oil and gas extraction industry and geological exploration,
+2024,,,Oil and gas extraction industry and geological exploration,23.0
+2015,,,Energy sector,
+2016,,,Energy sector,
+2017,,,Energy sector,
+2018,,,Energy sector,
+2019,,,Energy sector,
+2020,,,Energy sector,
+2021,,,Energy sector,
+2022,,,Energy sector,
+2023,,,Energy sector,
+2024,,,Energy sector,35.0
+2015,,,Construction,
+2016,,,Construction,
+2017,,,Construction,
+2018,,,Construction,
+2019,,,Construction,
+2020,,,Construction,
+2021,,,Construction,
+2022,,,Construction,
+2023,,,Construction,
+2024,,,Construction,37.0
+2015,,,"Boiler supervision, lifting equipment",
+2016,,,"Boiler supervision, lifting equipment",
+2017,,,"Boiler supervision, lifting equipment",
+2018,,,"Boiler supervision, lifting equipment",
+2019,,,"Boiler supervision, lifting equipment",
+2020,,,"Boiler supervision, lifting equipment",
+2021,,,"Boiler supervision, lifting equipment",
+2022,,,"Boiler supervision, lifting equipment",
+2023,,,"Boiler supervision, lifting equipment",
+2024,,,"Boiler supervision, lifting equipment",29.0
+2015,,,Machine building,
+2016,,,Machine building,
+2017,,,Machine building,
+2018,,,Machine building,
+2019,,,Machine building,
+2020,,,Machine building,
+2021,,,Machine building,
+2022,,,Machine building,
+2023,,,Machine building,
+2024,,,Machine building,32.0
+2015,,,Metallurgical industry,
+2016,,,Metallurgical industry,
+2017,,,Metallurgical industry,
+2018,,,Metallurgical industry,
+2019,,,Metallurgical industry,
+2020,,,Metallurgical industry,
+2021,,,Metallurgical industry,
+2022,,,Metallurgical industry,
+2023,,,Metallurgical industry,
+2024,,,Metallurgical industry,57.0
+2015,,,Chemical industry,
+2016,,,Chemical industry,
+2017,,,Chemical industry,
+2018,,,Chemical industry,
+2019,,,Chemical industry,
+2020,,,Chemical industry,
+2021,,,Chemical industry,
+2022,,,Chemical industry,
+2023,,,Chemical industry,
+2024,,,Chemical industry,38.0
+2015,,,transport,
+2016,,,transport,
+2017,,,transport,
+2018,,,transport,
+2019,,,transport,
+2020,,,transport,
+2021,,,transport,
+2022,,,transport,
+2023,,,transport,
+2024,,,transport,35.0
+2015,,,Communications,
+2016,,,Communications,
+2017,,,Communications,
+2018,,,Communications,
+2019,,,Communications,
+2020,,,Communications,
+2021,,,Communications,
+2022,,,Communications,
+2023,,,Communications,
+2024,,,Communications,39.0
+2015,,,Gas industry,
+2016,,,Gas industry,
+2017,,,Gas industry,
+2018,,,Gas industry,
+2019,,,Gas industry,
+2020,,,Gas industry,
+2021,,,Gas industry,
+2022,,,Gas industry,
+2023,,,Gas industry,
+2024,,,Gas industry,19.0
+2015,,,Housing and utilities sector,
+2016,,,Housing and utilities sector,
+2017,,,Housing and utilities sector,
+2018,,,Housing and utilities sector,
+2019,,,Housing and utilities sector,
+2020,,,Housing and utilities sector,
+2021,,,Housing and utilities sector,
+2022,,,Housing and utilities sector,
+2023,,,Housing and utilities sector,
+2024,,,Housing and utilities sector,22.0
+2015,,,Agro-industrial complex,
+2016,,,Agro-industrial complex,
+2017,,,Agro-industrial complex,
+2018,,,Agro-industrial complex,
+2019,,,Agro-industrial complex,
+2020,,,Agro-industrial complex,
+2021,,,Agro-industrial complex,
+2022,,,Agro-industrial complex,
+2023,,,Agro-industrial complex,
+2024,,,Agro-industrial complex,19.0
+2015,,,Woodworking industry,
+2016,,,Woodworking industry,
+2017,,,Woodworking industry,
+2018,,,Woodworking industry,
+2019,,,Woodworking industry,
+2020,,,Woodworking industry,
+2021,,,Woodworking industry,
+2022,,,Woodworking industry,
+2023,,,Woodworking industry,
+2024,,,Woodworking industry,30.0
+2015,,,Light and textile industry,
+2016,,,Light and textile industry,
+2017,,,Light and textile industry,
+2018,,,Light and textile industry,
+2019,,,Light and textile industry,
+2020,,,Light and textile industry,
+2021,,,Light and textile industry,
+2022,,,Light and textile industry,
+2023,,,Light and textile industry,
+2024,,,Light and textile industry,10.0
+2015,,,Socio-cultural sector and trade,
+2016,,,Socio-cultural sector and trade,
+2017,,,Socio-cultural sector and trade,
+2018,,,Socio-cultural sector and trade,
+2019,,,Socio-cultural sector and trade,
+2020,,,Socio-cultural sector and trade,
+2021,,,Socio-cultural sector and trade,
+2022,,,Socio-cultural sector and trade,
+2023,,,Socio-cultural sector and trade,
+2024,,,Socio-cultural sector and trade,12.0

@@ -1,154 +1,451 @@
-Year,Group,Value
-2015,,99.2
-2016,,103.5
-2017,,103.1
-2018,,102.2
-2019,,101.8
-2020,,100.3
-2021,,105.5
-2022,,
-2023,,
-2015,"agriculture, forestry and fisheries",103.0
-2016,"agriculture, forestry and fisheries",106.5
-2017,"agriculture, forestry and fisheries",97.7
-2018,"agriculture, forestry and fisheries",105.3
-2019,"agriculture, forestry and fisheries",98.6
-2020,"agriculture, forestry and fisheries",98.8
-2021,"agriculture, forestry and fisheries",116.3
-2022,"agriculture, forestry and fisheries",
-2023,"agriculture, forestry and fisheries",
-2015,industry,96.1
-2016,industry,105.0
-2017,industry,101.7
-2018,industry,102.7
-2019,industry,98.2
-2020,industry,99.6
-2021,industry,103.5
-2022,industry,
-2023,industry,
-2015,construction,94.9
-2016,construction,114.6
-2017,construction,125.7
-2018,construction,105.0
-2019,construction,117.9
-2020,construction,110.4
-2021,construction,102.7
-2022,construction,
-2023,construction,
-2015,wholesale and retail trade; repair of motor vehicles and motorcycles,95.4
-2016,wholesale and retail trade; repair of motor vehicles and motorcycles,104.1
-2017,wholesale and retail trade; repair of motor vehicles and motorcycles,102.1
-2018,wholesale and retail trade; repair of motor vehicles and motorcycles,101.0
-2019,wholesale and retail trade; repair of motor vehicles and motorcycles,99.5
-2020,wholesale and retail trade; repair of motor vehicles and motorcycles,109.5
-2021,wholesale and retail trade; repair of motor vehicles and motorcycles,101.1
-2022,wholesale and retail trade; repair of motor vehicles and motorcycles,
-2023,wholesale and retail trade; repair of motor vehicles and motorcycles,
-2015,"transport, warehousing, post and courier services",108.8
-2016,"transport, warehousing, post and courier services",103.2
-2017,"transport, warehousing, post and courier services",104.6
-2018,"transport, warehousing, post and courier services",100.9
-2019,"transport, warehousing, post and courier services",103.5
-2020,"transport, warehousing, post and courier services",86.0
-2021,"transport, warehousing, post and courier services",103.2
-2022,"transport, warehousing, post and courier services",
-2023,"transport, warehousing, post and courier services",
-2015,temporary accommodation and catering,113.9
-2016,temporary accommodation and catering,105.8
-2017,temporary accommodation and catering,104.4
-2018,temporary accommodation and catering,104.6
-2019,temporary accommodation and catering,102.1
-2020,temporary accommodation and catering,85.6
-2021,temporary accommodation and catering,146.2
-2022,temporary accommodation and catering,
-2023,temporary accommodation and catering,
-2015,information and telecommunications,104.0
-2016,information and telecommunications,105.6
-2017,information and telecommunications,108.8
-2018,information and telecommunications,104.0
-2019,information and telecommunications,103.5
-2020,information and telecommunications,104.8
-2021,information and telecommunications,113.0
-2022,information and telecommunications,
-2023,information and telecommunications,
-2015,financial and insurance activities,92.9
-2016,financial and insurance activities,97.8
-2017,financial and insurance activities,126.9
-2018,financial and insurance activities,109.6
-2019,financial and insurance activities,106.7
-2020,financial and insurance activities,101.7
-2021,financial and insurance activities,112.9
-2022,financial and insurance activities,
-2023,financial and insurance activities,
-2015,real estate transactions,110.3
-2016,real estate transactions,107.3
-2017,real estate transactions,103.2
-2018,real estate transactions,105.8
-2019,real estate transactions,106.8
-2020,real estate transactions,104.9
-2021,real estate transactions,101.4
-2022,real estate transactions,
-2023,real estate transactions,
-2015,"professional, scientific and technical activities",94.0
-2016,"professional, scientific and technical activities",103.7
-2017,"professional, scientific and technical activities",108.9
-2018,"professional, scientific and technical activities",100.6
-2019,"professional, scientific and technical activities",107.5
-2020,"professional, scientific and technical activities",88.2
-2021,"professional, scientific and technical activities",104.0
-2022,"professional, scientific and technical activities",
-2023,"professional, scientific and technical activities",
-2015,administrative and support service activities,109.1
-2016,administrative and support service activities,106.6
-2017,administrative and support service activities,102.8
-2018,administrative and support service activities,102.1
-2019,administrative and support service activities,102.1
-2020,administrative and support service activities,91.6
-2021,administrative and support service activities,98.9
-2022,administrative and support service activities,
-2023,administrative and support service activities,
-2015,public administration and defense; compulsory social insurance,101.0
-2016,public administration and defense; compulsory social insurance,101.1
-2017,public administration and defense; compulsory social insurance,93.8
-2018,public administration and defense; compulsory social insurance,103.6
-2019,public administration and defense; compulsory social insurance,117.4
-2020,public administration and defense; compulsory social insurance,97.9
-2021,public administration and defense; compulsory social insurance,100.6
-2022,public administration and defense; compulsory social insurance,
-2023,public administration and defense; compulsory social insurance,
-2015,education,102.8
-2016,education,99.2
-2017,education,102.4
-2018,education,100.4
-2019,education,103.4
-2020,education,94.9
-2021,education,112.8
-2022,education,
-2023,education,
-2015,health care and social assistance,109.8
-2016,health care and social assistance,97.9
-2017,health care and social assistance,101.5
-2018,health care and social assistance,97.7
-2019,health care and social assistance,106.9
-2020,health care and social assistance,106.7
-2021,health care and social assistance,106.5
-2022,health care and social assistance,
-2023,health care and social assistance,
-2015,"arts, sports, entertainment and recreation",92.6
-2016,"arts, sports, entertainment and recreation",101.4
-2017,"arts, sports, entertainment and recreation",101.6
-2018,"arts, sports, entertainment and recreation",103.5
-2019,"arts, sports, entertainment and recreation",104.2
-2020,"arts, sports, entertainment and recreation",91.2
-2021,"arts, sports, entertainment and recreation",118.4
-2022,"arts, sports, entertainment and recreation",
-2023,"arts, sports, entertainment and recreation",
-2015,provision of other services,110.3
-2016,provision of other services,102.9
-2017,provision of other services,106.1
-2018,provision of other services,103.1
-2019,provision of other services,108.6
-2020,provision of other services,82.2
-2021,provision of other services,107.3
-2022,provision of other services,
-2023,provision of other services,
+Year,Region,Age groups,Gender,Type of place of residence,education,Value
+2015,Ukraine,,,,,9.1
+2016,Ukraine,,,,,9.3
+2017,Ukraine,,,,,9.5
+2018,Ukraine,,,,,8.8
+2019,Ukraine,,,,,8.2
+2020,Ukraine,,,,,9.5
+2021,Ukraine,,,,,9.9
+2022,Ukraine,,,,,
+2023,Ukraine,,,,,
+2024,Ukraine,,,,,
+2015,Autonomous Republic of Crimea,,,,,
+2016,Autonomous Republic of Crimea,,,,,
+2017,Autonomous Republic of Crimea,,,,,
+2018,Autonomous Republic of Crimea,,,,,
+2019,Autonomous Republic of Crimea,,,,,
+2020,Autonomous Republic of Crimea,,,,,
+2021,Autonomous Republic of Crimea,,,,,
+2022,Autonomous Republic of Crimea,,,,,
+2023,Autonomous Republic of Crimea,,,,,
+2024,Autonomous Republic of Crimea,,,,,
+2015,Vinnytsya,,,,,8.9
+2016,Vinnytsya,,,,,9.7
+2017,Vinnytsya,,,,,10.7
+2018,Vinnytsya,,,,,9.9
+2019,Vinnytsya,,,,,9.4
+2020,Vinnytsya,,,,,10.7
+2021,Vinnytsya,,,,,11.0
+2022,Vinnytsya,,,,,
+2023,Vinnytsya,,,,,
+2024,Vinnytsya,,,,,
+2015,Volyn,,,,,9.8
+2016,Volyn,,,,,11.5
+2017,Volyn,,,,,12.5
+2018,Volyn,,,,,11.4
+2019,Volyn,,,,,10.6
+2020,Volyn,,,,,12.5
+2021,Volyn,,,,,12.7
+2022,Volyn,,,,,
+2023,Volyn,,,,,
+2024,Volyn,,,,,
+2015,Dnipropetrovsk,,,,,7.2
+2016,Dnipropetrovsk,,,,,7.9
+2017,Dnipropetrovsk,,,,,8.5
+2018,Dnipropetrovsk,,,,,8.0
+2019,Dnipropetrovsk,,,,,7.7
+2020,Dnipropetrovsk,,,,,8.6
+2021,Dnipropetrovsk,,,,,8.9
+2022,Dnipropetrovsk,,,,,
+2023,Dnipropetrovsk,,,,,
+2024,Dnipropetrovsk,,,,,
+2015,Donetsk,,,,,13.8
+2016,Donetsk,,,,,14.1
+2017,Donetsk,,,,,14.6
+2018,Donetsk,,,,,14.0
+2019,Donetsk,,,,,13.6
+2020,Donetsk,,,,,14.9
+2021,Donetsk,,,,,15.4
+2022,Donetsk,,,,,
+2023,Donetsk,,,,,
+2024,Donetsk,,,,,
+2015,Zhytomyr,,,,,11.3
+2016,Zhytomyr,,,,,11.2
+2017,Zhytomyr,,,,,10.8
+2018,Zhytomyr,,,,,10.4
+2019,Zhytomyr,,,,,9.6
+2020,Zhytomyr,,,,,10.9
+2021,Zhytomyr,,,,,11.2
+2022,Zhytomyr,,,,,
+2023,Zhytomyr,,,,,
+2024,Zhytomyr,,,,,
+2015,Zakarpattya,,,,,9.2
+2016,Zakarpattya,,,,,10.0
+2017,Zakarpattya,,,,,10.5
+2018,Zakarpattya,,,,,10.0
+2019,Zakarpattya,,,,,9.1
+2020,Zakarpattya,,,,,10.6
+2021,Zakarpattya,,,,,11.1
+2022,Zakarpattya,,,,,
+2023,Zakarpattya,,,,,
+2024,Zakarpattya,,,,,
+2015,Zaporizhzhya,,,,,9.7
+2016,Zaporizhzhya,,,,,10.0
+2017,Zaporizhzhya,,,,,10.7
+2018,Zaporizhzhya,,,,,9.9
+2019,Zaporizhzhya,,,,,9.5
+2020,Zaporizhzhya,,,,,10.7
+2021,Zaporizhzhya,,,,,11.1
+2022,Zaporizhzhya,,,,,
+2023,Zaporizhzhya,,,,,
+2024,Zaporizhzhya,,,,,
+2015,Ivano-Frankivsk,,,,,8.4
+2016,Ivano-Frankivsk,,,,,8.8
+2017,Ivano-Frankivsk,,,,,8.5
+2018,Ivano-Frankivsk,,,,,7.8
+2019,Ivano-Frankivsk,,,,,7.2
+2020,Ivano-Frankivsk,,,,,8.4
+2021,Ivano-Frankivsk,,,,,8.7
+2022,Ivano-Frankivsk,,,,,
+2023,Ivano-Frankivsk,,,,,
+2024,Ivano-Frankivsk,,,,,
+2015,Kyiv,,,,,6.4
+2016,Kyiv,,,,,6.8
+2017,Kyiv,,,,,6.5
+2018,Kyiv,,,,,6.3
+2019,Kyiv,,,,,5.9
+2020,Kyiv,,,,,6.9
+2021,Kyiv,,,,,7.2
+2022,Kyiv,,,,,
+2023,Kyiv,,,,,
+2024,Kyiv,,,,,
+2015,Kirovohrad,,,,,11.4
+2016,Kirovohrad,,,,,12.4
+2017,Kirovohrad,,,,,12.2
+2018,Kirovohrad,,,,,11.6
+2019,Kirovohrad,,,,,11.0
+2020,Kirovohrad,,,,,12.7
+2021,Kirovohrad,,,,,13.2
+2022,Kirovohrad,,,,,
+2023,Kirovohrad,,,,,
+2024,Kirovohrad,,,,,
+2015,Luhansk,,,,,15.6
+2016,Luhansk,,,,,16.0
+2017,Luhansk,,,,,16.6
+2018,Luhansk,,,,,15.1
+2019,Luhansk,,,,,13.7
+2020,Luhansk,,,,,15.4
+2021,Luhansk,,,,,16.0
+2022,Luhansk,,,,,
+2023,Luhansk,,,,,
+2024,Luhansk,,,,,
+2015,Lviv,,,,,8.2
+2016,Lviv,,,,,7.7
+2017,Lviv,,,,,7.5
+2018,Lviv,,,,,6.9
+2019,Lviv,,,,,6.5
+2020,Lviv,,,,,7.6
+2021,Lviv,,,,,7.7
+2022,Lviv,,,,,
+2023,Lviv,,,,,
+2024,Lviv,,,,,
+2015,Mykolayiv,,,,,8.9
+2016,Mykolayiv,,,,,9.7
+2017,Mykolayiv,,,,,10.3
+2018,Mykolayiv,,,,,9.6
+2019,Mykolayiv,,,,,9.3
+2020,Mykolayiv,,,,,10.7
+2021,Mykolayiv,,,,,11.3
+2022,Mykolayiv,,,,,
+2023,Mykolayiv,,,,,
+2024,Mykolayiv,,,,,
+2015,Odesa,,,,,6.5
+2016,Odesa,,,,,6.8
+2017,Odesa,,,,,7.3
+2018,Odesa,,,,,6.4
+2019,Odesa,,,,,5.9
+2020,Odesa,,,,,7.1
+2021,Odesa,,,,,7.3
+2022,Odesa,,,,,
+2023,Odesa,,,,,
+2024,Odesa,,,,,
+2015,Poltava,,,,,12.1
+2016,Poltava,,,,,12.6
+2017,Poltava,,,,,12.0
+2018,Poltava,,,,,11.2
+2019,Poltava,,,,,10.6
+2020,Poltava,,,,,12.0
+2021,Poltava,,,,,12.4
+2022,Poltava,,,,,
+2023,Poltava,,,,,
+2024,Poltava,,,,,
+2015,Rivne,,,,,9.9
+2016,Rivne,,,,,10.6
+2017,Rivne,,,,,11.6
+2018,Rivne,,,,,9.7
+2019,Rivne,,,,,8.3
+2020,Rivne,,,,,9.3
+2021,Rivne,,,,,9.6
+2022,Rivne,,,,,
+2023,Rivne,,,,,
+2024,Rivne,,,,,
+2015,Sumy,,,,,10.1
+2016,Sumy,,,,,9.3
+2017,Sumy,,,,,9.1
+2018,Sumy,,,,,8.7
+2019,Sumy,,,,,7.7
+2020,Sumy,,,,,9.4
+2021,Sumy,,,,,10.1
+2022,Sumy,,,,,
+2023,Sumy,,,,,
+2024,Sumy,,,,,
+2015,Ternopil,,,,,11.8
+2016,Ternopil,,,,,11.5
+2017,Ternopil,,,,,11.9
+2018,Ternopil,,,,,10.4
+2019,Ternopil,,,,,10.0
+2020,Ternopil,,,,,11.5
+2021,Ternopil,,,,,11.9
+2022,Ternopil,,,,,
+2023,Ternopil,,,,,
+2024,Ternopil,,,,,
+2015,Kharkiv,,,,,7.1
+2016,Kharkiv,,,,,6.4
+2017,Kharkiv,,,,,6.1
+2018,Kharkiv,,,,,5.3
+2019,Kharkiv,,,,,5.0
+2020,Kharkiv,,,,,6.2
+2021,Kharkiv,,,,,6.7
+2022,Kharkiv,,,,,
+2023,Kharkiv,,,,,
+2024,Kharkiv,,,,,
+2015,Kherson,,,,,10.2
+2016,Kherson,,,,,11.2
+2017,Kherson,,,,,11.1
+2018,Kherson,,,,,10.3
+2019,Kherson,,,,,9.6
+2020,Kherson,,,,,11.3
+2021,Kherson,,,,,11.8
+2022,Kherson,,,,,
+2023,Kherson,,,,,
+2024,Kherson,,,,,
+2015,Khmelnytskiy,,,,,10.2
+2016,Khmelnytskiy,,,,,9.4
+2017,Khmelnytskiy,,,,,8.9
+2018,Khmelnytskiy,,,,,8.4
+2019,Khmelnytskiy,,,,,8.0
+2020,Khmelnytskiy,,,,,9.9
+2021,Khmelnytskiy,,,,,10.3
+2022,Khmelnytskiy,,,,,
+2023,Khmelnytskiy,,,,,
+2024,Khmelnytskiy,,,,,
+2015,Cherkasy,,,,,9.8
+2016,Cherkasy,,,,,10.4
+2017,Cherkasy,,,,,10.2
+2018,Cherkasy,,,,,9.6
+2019,Cherkasy,,,,,8.3
+2020,Cherkasy,,,,,9.5
+2021,Cherkasy,,,,,10.1
+2022,Cherkasy,,,,,
+2023,Cherkasy,,,,,
+2024,Cherkasy,,,,,
+2015,Chernivtsi,,,,,9.3
+2016,Chernivtsi,,,,,8.7
+2017,Chernivtsi,,,,,8.4
+2018,Chernivtsi,,,,,7.9
+2019,Chernivtsi,,,,,6.9
+2020,Chernivtsi,,,,,8.9
+2021,Chernivtsi,,,,,9.3
+2022,Chernivtsi,,,,,
+2023,Chernivtsi,,,,,
+2024,Chernivtsi,,,,,
+2015,Chernihiv,,,,,10.7
+2016,Chernihiv,,,,,11.3
+2017,Chernihiv,,,,,11.2
+2018,Chernihiv,,,,,10.6
+2019,Chernihiv,,,,,10.2
+2020,Chernihiv,,,,,11.9
+2021,Chernihiv,,,,,12.4
+2022,Chernihiv,,,,,
+2023,Chernihiv,,,,,
+2024,Chernihiv,,,,,
+2015,the city of Kyiv,,,,,7.0
+2016,the city of Kyiv,,,,,6.7
+2017,the city of Kyiv,,,,,6.9
+2018,the city of Kyiv,,,,,6.2
+2019,the city of Kyiv,,,,,5.8
+2020,the city of Kyiv,,,,,6.8
+2021,the city of Kyiv,,,,,7.1
+2022,the city of Kyiv,,,,,
+2023,the city of Kyiv,,,,,
+2024,the city of Kyiv,,,,,
+2015,city Sevastopol,,,,,
+2016,city Sevastopol,,,,,
+2017,city Sevastopol,,,,,
+2018,city Sevastopol,,,,,
+2019,city Sevastopol,,,,,
+2020,city Sevastopol,,,,,
+2021,city Sevastopol,,,,,
+2022,city Sevastopol,,,,,
+2023,city Sevastopol,,,,,
+2024,city Sevastopol,,,,,
+2015,,15–24 years,,,,22.4
+2016,,15–24 years,,,,23.0
+2017,,15–24 years,,,,18.9
+2018,,15–24 years,,,,17.9
+2019,,15–24 years,,,,15.4
+2020,,15–24 years,,,,19.3
+2021,,15–24 years,,,,19.1
+2022,,15–24 years,,,,
+2023,,15–24 years,,,,
+2024,,15–24 years,,,,
+2015,,25–29 years,,,,11.2
+2016,,25–29 years,,,,11.7
+2017,,25–29 years,,,,11.3
+2018,,25–29 years,,,,9.8
+2019,,25–29 years,,,,8.4
+2020,,25–29 years,,,,8.7
+2021,,25–29 years,,,,9.4
+2022,,25–29 years,,,,
+2023,,25–29 years,,,,
+2024,,25–29 years,,,,
+2015,,30–34 years,,,,9.7
+2016,,30–34 years,,,,8.9
+2017,,30–34 years,,,,9.8
+2018,,30–34 years,,,,8.9
+2019,,30–34 years,,,,7.3
+2020,,30–34 years,,,,8.2
+2021,,30–34 years,,,,8.4
+2022,,30–34 years,,,,
+2023,,30–34 years,,,,
+2024,,30–34 years,,,,
+2015,,35–39 years,,,,7.2
+2016,,35–39 years,,,,8.0
+2017,,35–39 years,,,,8.4
+2018,,35–39 years,,,,9.5
+2019,,35–39 years,,,,7.5
+2020,,35–39 years,,,,10.3
+2021,,35–39 years,,,,10.7
+2022,,35–39 years,,,,
+2023,,35–39 years,,,,
+2024,,35–39 years,,,,
+2015,,40–49 years,,,,7.6
+2016,,40–49 years,,,,7.7
+2017,,40–49 years,,,,8.7
+2018,,40–49 years,,,,7.7
+2019,,40–49 years,,,,8.4
+2020,,40–49 years,,,,9.5
+2021,,40–49 years,,,,9.8
+2022,,40–49 years,,,,
+2023,,40–49 years,,,,
+2024,,40–49 years,,,,
+2015,,50–59 years,,,,6.3
+2016,,50–59 years,,,,7.3
+2017,,50–59 years,,,,8.1
+2018,,50–59 years,,,,7.4
+2019,,50–59 years,,,,8.0
+2020,,50–59 years,,,,9.0
+2021,,50–59 years,,,,9.5
+2022,,50–59 years,,,,
+2023,,50–59 years,,,,
+2024,,50–59 years,,,,
+2015,,60–70 years,,,,0.1
+2016,,60–70 years,,,,0.1
+2017,,60–70 years,,,,0.1
+2018,,60–70 years,,,,0.2
+2019,,60–70 years,,,,0.1
+2020,,60–70 years,,,,0.1
+2021,,60–70 years,,,,0.3
+2022,,60–70 years,,,,
+2023,,60–70 years,,,,
+2024,,60–70 years,,,,
+2015,,,females,,,8.1
+2016,,,females,,,7.7
+2017,,,females,,,7.7
+2018,,,females,,,7.4
+2019,,,females,,,7.9
+2020,,,females,,,9.1
+2021,,,females,,,10.2
+2022,,,females,,,
+2023,,,females,,,
+2024,,,females,,,
+2015,,,men,,,10.1
+2016,,,men,,,10.8
+2017,,,men,,,11.1
+2018,,,men,,,10.0
+2019,,,men,,,8.5
+2020,,,men,,,9.9
+2021,,,men,,,9.6
+2022,,,men,,,
+2023,,,men,,,
+2024,,,men,,,
+2015,,,,urban,,9.0
+2016,,,,urban,,9.2
+2017,,,,urban,,9.3
+2018,,,,urban,,8.6
+2019,,,,urban,,8.0
+2020,,,,urban,,9.1
+2021,,,,urban,,9.5
+2022,,,,urban,,
+2023,,,,urban,,
+2024,,,,urban,,
+2015,,,,rural,,9.4
+2016,,,,rural,,9.7
+2017,,,,rural,,9.9
+2018,,,,rural,,9.2
+2019,,,,rural,,8.7
+2020,,,,rural,,10.4
+2021,,,,rural,,10.7
+2022,,,,rural,,
+2023,,,,rural,,
+2024,,,,rural,,
+2015,,,,,Complete higher,7.8
+2016,,,,,Complete higher,8.0
+2017,,,,,Complete higher,7.8
+2018,,,,,Complete higher,7.8
+2019,,,,,Complete higher,6.3
+2020,,,,,Complete higher,7.3
+2021,,,,,Complete higher,8.4
+2022,,,,,Complete higher,
+2023,,,,,Complete higher,
+2024,,,,,Complete higher,
+2015,,,,,Basic higher,15.6
+2016,,,,,Basic higher,15.3
+2017,,,,,Basic higher,13.7
+2018,,,,,Basic higher,15.0
+2019,,,,,Basic higher,10.1
+2020,,,,,Basic higher,10.2
+2021,,,,,Basic higher,13.4
+2022,,,,,Basic higher,
+2023,,,,,Basic higher,
+2024,,,,,Basic higher,
+2015,,,,,Incomplete higher,8.5
+2016,,,,,Incomplete higher,8.0
+2017,,,,,Incomplete higher,9.0
+2018,,,,,Incomplete higher,7.0
+2019,,,,,Incomplete higher,8.0
+2020,,,,,Incomplete higher,9.0
+2021,,,,,Incomplete higher,9.6
+2022,,,,,Incomplete higher,
+2023,,,,,Incomplete higher,
+2024,,,,,Incomplete higher,
+2015,,,,,Professional and technical,10.4
+2016,,,,,Professional and technical,10.6
+2017,,,,,Professional and technical,11.1
+2018,,,,,Professional and technical,9.9
+2019,,,,,Professional and technical,9.2
+2020,,,,,Professional and technical,10.8
+2021,,,,,Professional and technical,10.2
+2022,,,,,Professional and technical,
+2023,,,,,Professional and technical,
+2024,,,,,Professional and technical,
+2015,,,,,Complete total average,9.6
+2016,,,,,Complete total average,10.9
+2017,,,,,Complete total average,10.2
+2018,,,,,Complete total average,10.0
+2019,,,,,Complete total average,9.6
+2020,,,,,Complete total average,11.5
+2021,,,,,Complete total average,11.5
+2022,,,,,Complete total average,
+2023,,,,,Complete total average,
+2024,,,,,Complete total average,
+2015,,,,,"Basic, primary general secondary, or no education",12.1
+2016,,,,,"Basic, primary general secondary, or no education",8.4
+2017,,,,,"Basic, primary general secondary, or no education",11.9
+2018,,,,,"Basic, primary general secondary, or no education",13.0
+2019,,,,,"Basic, primary general secondary, or no education",13.9
+2020,,,,,"Basic, primary general secondary, or no education",15.9
+2021,,,,,"Basic, primary general secondary, or no education",15.0
+2022,,,,,"Basic, primary general secondary, or no education",
+2023,,,,,"Basic, primary general secondary, or no education",
+2024,,,,,"Basic, primary general secondary, or no education",

@@ -7,23 +7,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Рік"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Група"
           },
           {
             "name": "Value",
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-4-1",
-  "title": "9-4-1"
+  "title": "Частка автомобільних доріг загального користування державного значення з твердим покриттям, що відповідають нормативним вимогам, відсотків"
 }

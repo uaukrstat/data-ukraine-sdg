@@ -12,8 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "By types of producers",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "electricity producers",
+                "consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",
+                ""
+              ]
+            },
+            "title": "Types of producers"
+          },
+          {
+            "name": "By types of renewable energy generation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "solar power plants (SPP)",
+                "wind power plants (WPP)",
+                "micro, mini and small hydroelectric power plants (mHPP)",
+                "biomass",
+                "biogas",
+                "geothermal power plants (GPP)",
+                "other_res",
+                ""
+              ]
+            },
+            "title": "Types of renewable energy generation (RES)"
           },
           {
             "name": "Value",
@@ -26,5 +55,5 @@
   ],
   "profile": "data-package",
   "name": "7-4-4",
-  "title": "7-4-4"
+  "title": "Share of renewable electricity facilities in the installed generating capacity of the Unified Energy System of Ukraine, percent"
 }

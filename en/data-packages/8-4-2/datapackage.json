@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-4-2",
-  "title": "8-4-2"
+  "title": "Share of value added by production costs of medium and small entrepreneurship in the total value added by production costs of business entities, percent"
 }

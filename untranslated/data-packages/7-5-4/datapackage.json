@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "By consumer categories",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "household",
+                "non_household",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "7-5-4",
-  "title": "7-5-4"
+  "title": "global_indicators.7-5-4-title"
 }

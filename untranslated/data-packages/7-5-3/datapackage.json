@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Average monthly electricity consumption",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "without_electric_heating",
+                "with_electric_heating",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

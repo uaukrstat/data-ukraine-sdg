@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "authorities",
+                "balances",
+                "consumption",
+                "natural monopolies",
+                "policy",
+                "reliability and safety",
+                "reporting",
+                "supply",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "electric energy",
+                "natural gas",
+                "oil and liquid fuels",
+                "thermal energy",
+                "thermal coal",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7_5_10",
+  "title": "7_5_10"
+}

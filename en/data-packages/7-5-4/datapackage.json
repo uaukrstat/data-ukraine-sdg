@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "By consumer categories",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "household",
+                "non-household",
+                ""
+              ]
+            },
+            "title": "Consumer categories"
           },
           {
             "name": "Value",
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "7-5-4",
-  "title": "7-5-4"
+  "title": "Level of equipping consumers with smart electricity meters, percent"
 }

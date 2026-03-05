@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "7-5-5",
-  "title": "7-5-5"
+  "title": "Specific natural gas consumption by household consumers for comprehensive use, including for heating, cubic meters/square meter"
 }

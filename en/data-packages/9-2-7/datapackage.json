@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-2-7",
-  "title": "9-2-7"
+  "title": "Share of operating enterprises that belong to production using technologies of high level in the total number of operating enterprises of the processing industry, percent"
 }

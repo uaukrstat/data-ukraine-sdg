@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-9",
-  "title": "9-1-9"
+  "title": "R&D personnel per million persons of the present population, persons"
 }

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "7-5-1",
-  "title": "7-5-1"
+  "title": "Energy intensity of the gross domestic product (primary energy expenditures per unit of the gross domestic product) at the purchasing power parity of the base year, tons of oil equivalent/thousand international dollars"
 }

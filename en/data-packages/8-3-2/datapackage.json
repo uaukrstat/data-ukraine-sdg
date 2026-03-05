@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-3-2",
-  "title": "8-3-2"
+  "title": "Share of workers employed in jobs with hazardous working conditions in the total number of regular employees, percent"
 }

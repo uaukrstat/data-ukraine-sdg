@@ -15,10 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "By type of area",
+            "type": "string",
             "constraints": {
               "enum": [
+                "urban",
+                "rural",
                 ""
               ]
             }

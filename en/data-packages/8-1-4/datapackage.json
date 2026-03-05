@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,18 +16,34 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Ec_activ",
+            "type": "string",
             "constraints": {
               "enum": [
+                "agriculture, forestry and fisheries",
+                "Industry",
+                "Construction",
+                "wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transportation and storage; postal and courier activities",
+                "temporary accommodation and catering",
+                "information and telecommunications",
+                "financial and insurance activities",
+                "real estate transactions",
+                "professional, scientific and technical activities",
+                "administrative and support service activities",
+                "Public administration and defence; compulsory social security",
+                "education",
+                "Human health and social work activities",
+                "arts, sports, entertainment and recreation",
+                "provision of other services",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Еconomic activity"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

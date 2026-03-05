@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "7-5-8",
-  "title": "7-5-8"
+  "title": "Specific consumption of equivalent fuel per unit of heat energy supplied (from collectors of sources) in district heating systems, kilograms of equivalent fuel per giga-calorie"
 }

@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Indicators of production and technological costs in natural gas supply grids",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "natural_gas_transportation",
+                "natural_gas_distribution",
+                ""
+              ]
+            },
+            "title": "Indicators of production and technological costs in natural gas supply grids"
           },
           {
             "name": "Value",
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "7-3-5",
-  "title": "7-3-5"
+  "title": "Indicators of production and technological costs in natural gas supply grids: production and technological costs during natural gas transportation, million cubic metres, production and technological costs during natural gas distribution, million cubic metres"
 }

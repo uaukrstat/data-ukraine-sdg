@@ -12,7 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "By types of producers",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "electricity_producers",
+                "consumers_with_own_electrical_installations",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "By types of renewable energy generation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "solar_power_plants",
+                "wind_power_plants",
+                "micro_mini_small_hydroelectric_plants",
+                "biomass",
+                "biogas",
+                "geothermal_power_plants",
+                "other_res",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +51,5 @@
   ],
   "profile": "data-package",
   "name": "7-4-4",
-  "title": "7-4-4"
+  "title": "global_indicators.7-4-4-title"
 }

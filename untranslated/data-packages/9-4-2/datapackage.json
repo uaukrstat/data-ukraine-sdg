@@ -15,10 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Unnamed: 1",
+            "type": "string",
             "constraints": {
               "enum": [
+                "100",
                 ""
               ]
             }

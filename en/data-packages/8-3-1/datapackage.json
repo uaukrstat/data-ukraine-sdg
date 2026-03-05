@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,28 +16,55 @@
             "title": "Year"
           },
           {
-            "name": "Sex",
+            "name": "group_29",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Total number",
+                "With a fatal outcome",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Total number and fatal outcome"
           },
           {
-            "name": "Type of residence",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "females",
+                "men",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Gender"
+          },
+          {
+            "name": "Ec_activ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Coal industry",
+                "Metal ore and non-metal mining industry",
+                "Oil and gas extraction industry and geological exploration",
+                "Energy sector",
+                "Construction",
+                "Boiler supervision, lifting equipment",
+                "Machine building",
+                "Metallurgical industry",
+                "Chemical industry",
+                "transport",
+                "Communications",
+                "Gas industry",
+                "Housing and utilities sector",
+                "Agro-industrial complex",
+                "Woodworking industry",
+                "Light and textile industry",
+                "Socio-cultural sector and trade",
+                ""
+              ]
+            },
+            "title": "Еconomic activity"
           },
           {
             "name": "Value",

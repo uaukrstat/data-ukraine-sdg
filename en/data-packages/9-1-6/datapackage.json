@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-6",
-  "title": "9-1-6"
+  "title": "Number of concluded agreements on technology transfer, units"
 }

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-2-5",
-  "title": "9-2-5"
+  "title": "Share of persons employed at enterprises that belong to production using technologies of high and medium-high level in the total number of persons employed at industrial enterprises, percent"
 }

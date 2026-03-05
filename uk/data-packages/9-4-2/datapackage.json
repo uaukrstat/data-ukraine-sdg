@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -16,14 +16,15 @@
             "title": "Рік"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "Unnamed: 1",
+            "type": "string",
             "constraints": {
               "enum": [
+                "100",
                 ""
               ]
             },
-            "title": "Група"
+            "title": "Unnamed: 1"
           },
           {
             "name": "Value",

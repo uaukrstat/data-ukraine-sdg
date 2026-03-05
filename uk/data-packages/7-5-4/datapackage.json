@@ -7,13 +7,25 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Рік"
+          },
+          {
+            "name": "By consumer categories",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "побутові",
+                "непобутові",
+                ""
+              ]
+            },
+            "title": "Категорії споживачів"
           },
           {
             "name": "Value",
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "7-5-4",
-  "title": "7-5-4"
+  "title": "Рівень оснащення споживачів інтелектуальними лічильниками електричної енергії (smart meters), відсотків"
 }

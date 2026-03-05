@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Indicators of energy consumption by households",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "share of energy consumption by the household sector in total final energy consumption, percent",
+                "specific energy consumption of residential buildings, kilowatt-hours per square meter",
+                ""
+              ]
+            },
+            "title": "Indicators of energy consumption by households"
           },
           {
             "name": "Value",
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "7-5-2",
-  "title": "7-5-2"
+  "title": "Indicators of energy consumption by households: share of energy consumption by the household sector in total final energy consumption, percent; specific energy consumption of residential buildings, kilowatt-hours per square metre"
 }

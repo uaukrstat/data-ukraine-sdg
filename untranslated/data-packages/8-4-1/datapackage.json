@@ -15,12 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "Ec_activ",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "11_agricul",
+                "2_indus",
+                "7_constr",
+                "14_motor_veh",
+                "group_label_269",
+                "16_cater",
+                "17_telecom",
+                "18_insurance",
+                "19_estate",
+                "20_scientific",
+                "21_support",
+                "23_educ",
+                "group_label_271",
+                "25_arts",
+                "26_other_serv",
                 ""
               ]
             }

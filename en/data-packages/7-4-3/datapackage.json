@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "7-4-3",
-  "title": "7-4-3"
+  "title": "Share of electricity from renewable sources that was not released to the Unified Energy System of Ukraine as a result of the execution of the transmission system operator's commands, percent"
 }

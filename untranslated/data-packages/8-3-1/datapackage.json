@@ -15,23 +15,49 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "group_29",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "group_label_281",
+                "group_label_282",
                 ""
               ]
             }
           },
           {
-            "name": "Type of residence",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "2_females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ec_activ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_283",
+                "group_label_284",
+                "group_label_285",
+                "group_label_286",
+                "7_constr",
+                "group_label_287",
+                "group_label_288",
+                "group_label_289",
+                "group_label_290",
+                "s_14_transp",
+                "group_label_291",
+                "group_label_292",
+                "group_label_293",
+                "group_label_294",
+                "group_label_295",
+                "group_label_296",
+                "group_label_297",
                 ""
               ]
             }

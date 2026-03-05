@@ -16,14 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "By type of area",
+            "type": "string",
             "constraints": {
               "enum": [
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Type of area"
           },
           {
             "name": "Value",

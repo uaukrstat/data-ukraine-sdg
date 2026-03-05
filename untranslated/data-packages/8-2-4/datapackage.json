@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2_females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                "group_label_280",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +47,5 @@
   ],
   "profile": "data-package",
   "name": "8-2-4",
-  "title": "8-2-4"
+  "title": "global_indicators.8-2-4-title"
 }

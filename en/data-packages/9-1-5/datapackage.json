@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-5",
-  "title": "9-1-5"
+  "title": "Share of funds attracted by tertiary educational institutions for scientific activities from other sources not prohibited by law in the total amount of funds allocated for scientific activities, percent"
 }
