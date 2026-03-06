@@ -7693,9 +7693,9 @@
                 "authorities",
                 "balances",
                 "consumption",
-                "natural monopolies",
+                "natural_monopolies",
                 "policy",
-                "reliability and safety",
+                "reliability_and_safety",
                 "reporting",
                 "supply",
                 ""
@@ -7703,22 +7703,22 @@
             }
           },
           {
-            "name": "Sector",
+            "name": "By sectors of the fuel and energy sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "electric energy",
-                "natural gas",
-                "oil and liquid fuels",
-                "thermal energy",
-                "thermal coal",
+                "natural_gas_2",
+                "electric_energy",
+                "oil_and_liquid_fuels",
+                "thermal_energy",
+                "thermal_coal",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -9581,6 +9581,97 @@
         ]
       },
       "title": "global_indicators.3-5-1-a-title"
+    },
+    {
+      "path": "7_6_2/data.csv",
+      "name": "7_6_2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "rural",
+                "urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_18",
+                "age_18_29",
+                "age_30_59",
+                "age_60",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
+                "17_reg_Zaporizhzhya",
+                "18_reg_Ivano_Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
+                "22_reg_Lviv",
+                "23_reg_Mykolaiv",
+                "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
+                "30_reg_Kherson",
+                "31_reg_Khmelnytskyi",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
+                "35_reg_Kyiv_city",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "7_6_2"
     },
     {
       "path": "16-2-5-a/data.csv",
@@ -13439,6 +13530,97 @@
         ]
       },
       "title": "global_indicators.6-5-2-title"
+    },
+    {
+      "path": "7_6_1/data.csv",
+      "name": "7_6_1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "rural",
+                "urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_18",
+                "age_18_29",
+                "age_30_59",
+                "age_60",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
+                "17_reg_Zaporizhzhya",
+                "18_reg_Ivano-Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
+                "22_reg_Lviv",
+                "23_reg_Mykolaiv",
+                "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
+                "30_reg_Kherson",
+                "31_reg_Khmelnytsya",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
+                "35_reg_Kyiv_city",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "7_6_1"
     },
     {
       "path": "5-2-5/data.csv",

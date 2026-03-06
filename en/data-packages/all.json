@@ -8224,9 +8224,9 @@
                 "authorities",
                 "balances",
                 "consumption",
-                "natural monopolies",
+                "natural_monopolies",
                 "policy",
-                "reliability and safety",
+                "reliability_and_safety",
                 "reporting",
                 "supply",
                 ""
@@ -8235,23 +8235,23 @@
             "title": "Category"
           },
           {
-            "name": "Sector",
+            "name": "By sectors of the fuel and energy sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "electric energy",
-                "natural gas",
-                "oil and liquid fuels",
-                "thermal energy",
-                "thermal coal",
+                "natural_gas_2",
+                "electric_energy",
+                "oil_and_liquid_fuels",
+                "thermal_energy",
+                "thermal_coal",
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "By sectors of the fuel and energy sector"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -10256,6 +10256,103 @@
         ]
       },
       "title": "Probability of dying at the age of 20-64, men"
+    },
+    {
+      "path": "7_6_2/data.csv",
+      "name": "7_6_2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "rural",
+                "urban",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "up to 18 years",
+                "age_18_29",
+                "age_30_59",
+                "60 years and older",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "18_reg_Ivano_Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "23_reg_Mykolaiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "31_reg_Khmelnytskyi",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7_6_2"
     },
     {
       "path": "16-2-5-a/data.csv",
@@ -14404,6 +14501,103 @@
         ]
       },
       "title": "Share of transboundary river basins for which agreements on joint water resources management have been concluded, percent"
+    },
+    {
+      "path": "7_6_1/data.csv",
+      "name": "7_6_1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "rural",
+                "urban",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "up to 18 years",
+                "age_18_29",
+                "age_30_59",
+                "60 years and older",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "23_reg_Mykolaiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "31_reg_Khmelnytsya",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7_6_1"
     },
     {
       "path": "5-2-5/data.csv",

@@ -186,8 +186,10 @@ Indicator,Disaggregations,Number of disaggregations
 #7-5-3,Average monthly electricity consumption,1
 #7-5-4,By consumer categories,1
 #7-5-7,By consumer categories,1
-#7_5_10,"Category, Sector",2
+#7_5_10,"Category, By sectors of the fuel and energy sector",2
 #7_5_9,"Resource, Building_type",2
+#7_6_1,"Sex, Type of residence, Region, Age",4
+#7_6_2,"Sex, Type of residence, Region, Age",4
 #8-1-4,Ec_activ,1
 #8-2-1,"Region, Gender, group_16, 23_educ, group_28",5
 #8-2-2,"Region, Gender, group_16, 23_educ, group_28",5
