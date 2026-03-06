@@ -182,14 +182,14 @@ Indicator,Disaggregations,Number of disaggregations
 #7-3-1,By type of area,1
 #7-3-5,Indicators of production and technological costs in natural gas supply grids,1
 #7-4-4,"By types of producers, By types of renewable energy generation",2
+#7-5-10,"Category, By sectors of the fuel and energy sector",2
 #7-5-2,Indicators of energy consumption by households,1
 #7-5-3,Average monthly electricity consumption,1
 #7-5-4,By consumer categories,1
 #7-5-7,By consumer categories,1
-#7_5_10,"Category, By sectors of the fuel and energy sector",2
-#7_5_9,"Resource, Building_type",2
-#7_6_1,"Sex, Type of residence, Region, Age",4
-#7_6_2,"Sex, Type of residence, Region, Age",4
+#7-5-9,"Resource, Building_type",2
+#7-6-1,"Sex, Type of residence, Region, Age",4
+#7-6-2,"Sex, Type of residence, Region, Age",4
 #8-1-4,Ec_activ,1
 #8-2-1,"Region, Gender, group_16, 23_educ, group_28",5
 #8-2-2,"Region, Gender, group_16, 23_educ, group_28",5

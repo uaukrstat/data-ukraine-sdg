@@ -12,11 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "authorities",
+                "balances",
+                "consumption",
+                "natural_monopolies",
+                "policy",
+                "reliability_and_safety",
+                "reporting",
+                "supply",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "By sectors of the fuel and energy sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "natural_gas_2",
+                "electric_energy",
+                "oil_and_liquid_fuels",
+                "thermal_energy",
+                "thermal_coal",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

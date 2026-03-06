@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Resource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "heat_energy",
+                "hot_water",
+                "drinking_water",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Building_type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "non_residential",
+                "residential",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
