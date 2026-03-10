@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -36,9 +36,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_256",
-                "group_label_257",
-                "group_label_258",
+                "up to 30 years",
+                "30–54 years",
+                "55 years and older",
                 ""
               ]
             },
@@ -61,9 +61,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_259",
-                "group_label_260",
-                "group_label_261",
+                "regional centers",
+                "district centers and cities",
+                "villages",
                 ""
               ]
             },
@@ -74,9 +74,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_262",
-                "group_label_263",
-                "group_label_264",
+                "below average and lowest",
+                "average",
+                "highest and above average",
                 ""
               ]
             },

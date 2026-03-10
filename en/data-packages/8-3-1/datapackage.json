@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total number",
-                "With a fatal outcome",
+                "total number",
+                "fatality",
                 ""
               ]
             },
-            "title": "Total number and fatal outcome"
+            "title": "Total number and fatality"
           },
           {
             "name": "group_13",
@@ -48,12 +48,12 @@
                 "Metal ore and non-metal mining industry",
                 "Oil and gas extraction industry and geological exploration",
                 "Energy sector",
-                "group_label_300",
+                "Construction",
                 "Boiler supervision, lifting equipment",
                 "Machine building",
                 "Metallurgical industry",
                 "Chemical industry",
-                "group_label_316",
+                "Transport",
                 "Communications",
                 "Gas industry",
                 "Housing and utilities sector",
@@ -64,7 +64,7 @@
                 ""
               ]
             },
-            "title": "group_30"
+            "title": "Types of economic activity"
           },
           {
             "name": "Value",

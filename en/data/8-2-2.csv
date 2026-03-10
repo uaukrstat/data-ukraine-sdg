@@ -1,4 +1,4 @@
-Year,Region,Age groups,Sex,Type of place of residence,group_31,Value
+Year,Region,Age groups,Sex,Type of place of residence,Education,Value
 2015,,,,,,9.1
 2016,,,,,,9.3
 2017,,,,,,9.5
@@ -399,63 +399,63 @@ Year,Region,Age groups,Sex,Type of place of residence,group_31,Value
 2022,,,,Rural,,
 2023,,,,Rural,,
 2024,,,,Rural,,
-2015,,,,,group_label_311,7.8
-2016,,,,,group_label_311,8.0
-2017,,,,,group_label_311,7.8
-2018,,,,,group_label_311,7.8
-2019,,,,,group_label_311,6.3
-2020,,,,,group_label_311,7.3
-2021,,,,,group_label_311,8.4
-2022,,,,,group_label_311,
-2023,,,,,group_label_311,
-2024,,,,,group_label_311,
-2015,,,,,group_label_312,15.6
-2016,,,,,group_label_312,15.3
-2017,,,,,group_label_312,13.7
-2018,,,,,group_label_312,15.0
-2019,,,,,group_label_312,10.1
-2020,,,,,group_label_312,10.2
-2021,,,,,group_label_312,13.4
-2022,,,,,group_label_312,
-2023,,,,,group_label_312,
-2024,,,,,group_label_312,
-2015,,,,,group_label_313,8.5
-2016,,,,,group_label_313,8.0
-2017,,,,,group_label_313,9.0
-2018,,,,,group_label_313,7.0
-2019,,,,,group_label_313,8.0
-2020,,,,,group_label_313,9.0
-2021,,,,,group_label_313,9.6
-2022,,,,,group_label_313,
-2023,,,,,group_label_313,
-2024,,,,,group_label_313,
-2015,,,,,group_label_314,10.4
-2016,,,,,group_label_314,10.6
-2017,,,,,group_label_314,11.1
-2018,,,,,group_label_314,9.9
-2019,,,,,group_label_314,9.2
-2020,,,,,group_label_314,10.8
-2021,,,,,group_label_314,10.2
-2022,,,,,group_label_314,
-2023,,,,,group_label_314,
-2024,,,,,group_label_314,
-2015,,,,,group_label_315,9.6
-2016,,,,,group_label_315,10.9
-2017,,,,,group_label_315,10.2
-2018,,,,,group_label_315,10.0
-2019,,,,,group_label_315,9.6
-2020,,,,,group_label_315,11.5
-2021,,,,,group_label_315,11.5
-2022,,,,,group_label_315,
-2023,,,,,group_label_315,
-2024,,,,,group_label_315,
-2015,,,,,group_label_319,12.1
-2016,,,,,group_label_319,8.4
-2017,,,,,group_label_319,11.9
-2018,,,,,group_label_319,13.0
-2019,,,,,group_label_319,13.9
-2020,,,,,group_label_319,15.9
-2021,,,,,group_label_319,15.0
-2022,,,,,group_label_319,
-2023,,,,,group_label_319,
-2024,,,,,group_label_319,
+2015,,,,,full tertiary education,7.8
+2016,,,,,full tertiary education,8.0
+2017,,,,,full tertiary education,7.8
+2018,,,,,full tertiary education,7.8
+2019,,,,,full tertiary education,6.3
+2020,,,,,full tertiary education,7.3
+2021,,,,,full tertiary education,8.4
+2022,,,,,full tertiary education,
+2023,,,,,full tertiary education,
+2024,,,,,full tertiary education,
+2015,,,,,basic tertiary education,15.6
+2016,,,,,basic tertiary education,15.3
+2017,,,,,basic tertiary education,13.7
+2018,,,,,basic tertiary education,15.0
+2019,,,,,basic tertiary education,10.1
+2020,,,,,basic tertiary education,10.2
+2021,,,,,basic tertiary education,13.4
+2022,,,,,basic tertiary education,
+2023,,,,,basic tertiary education,
+2024,,,,,basic tertiary education,
+2015,,,,,incomplete tertiary education,8.5
+2016,,,,,incomplete tertiary education,8.0
+2017,,,,,incomplete tertiary education,9.0
+2018,,,,,incomplete tertiary education,7.0
+2019,,,,,incomplete tertiary education,8.0
+2020,,,,,incomplete tertiary education,9.0
+2021,,,,,incomplete tertiary education,9.6
+2022,,,,,incomplete tertiary education,
+2023,,,,,incomplete tertiary education,
+2024,,,,,incomplete tertiary education,
+2015,,,,,vocational and technical education,10.4
+2016,,,,,vocational and technical education,10.6
+2017,,,,,vocational and technical education,11.1
+2018,,,,,vocational and technical education,9.9
+2019,,,,,vocational and technical education,9.2
+2020,,,,,vocational and technical education,10.8
+2021,,,,,vocational and technical education,10.2
+2022,,,,,vocational and technical education,
+2023,,,,,vocational and technical education,
+2024,,,,,vocational and technical education,
+2015,,,,,full general secondary education,9.6
+2016,,,,,full general secondary education,10.9
+2017,,,,,full general secondary education,10.2
+2018,,,,,full general secondary education,10.0
+2019,,,,,full general secondary education,9.6
+2020,,,,,full general secondary education,11.5
+2021,,,,,full general secondary education,11.5
+2022,,,,,full general secondary education,
+2023,,,,,full general secondary education,
+2024,,,,,full general secondary education,
+2015,,,,,"basic, primary general secondary or no education",12.1
+2016,,,,,"basic, primary general secondary or no education",8.4
+2017,,,,,"basic, primary general secondary or no education",11.9
+2018,,,,,"basic, primary general secondary or no education",13.0
+2019,,,,,"basic, primary general secondary or no education",13.9
+2020,,,,,"basic, primary general secondary or no education",15.9
+2021,,,,,"basic, primary general secondary or no education",15.0
+2022,,,,,"basic, primary general secondary or no education",
+2023,,,,,"basic, primary general secondary or no education",
+2024,,,,,"basic, primary general secondary or no education",

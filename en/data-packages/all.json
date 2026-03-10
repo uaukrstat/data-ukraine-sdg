@@ -842,26 +842,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "accommodation_and_food_service",
-                "administrative_and_support_service",
-                "agriculture_forestry_and_fishing",
-                "arts_sports_entertainment_recreation",
-                "construction",
-                "education",
-                "electricity_gas_steam_air_conditioning_supply",
-                "financial_and_insurance",
-                "household_activities",
-                "human_health_and_social_work",
-                "information_and_telecommunications",
-                "manufacturing",
-                "mining_and_quarrying",
-                "other_service",
-                "professional_scientific_technical",
-                "public_administration_and_defense_compulsory_social_insurance",
-                "real_estate",
-                "transportation_and_storage_post_and_courier_services",
-                "water_supply_sewerage_waste_management_remediation",
-                "wholesale_retail_trade_repair_motor_vehicles_motorcycles",
+                "Accommodation and food service activities",
+                "Administrative and support service activities",
+                "Agriculture, forestry and fishing",
+                "Arts, sports, entertainment and recreation",
+                "Construction",
+                "Education",
+                "Electricity, gas, steam and air conditioning supply",
+                "Financial and insurance activities",
+                "Household activities",
+                "Human health and social work activities",
+                "Information and telecommunications",
+                "Manufacturing",
+                "Mining and quarrying",
+                "Other service activities",
+                "Professional, scientific and technical activities",
+                "Public administration and defense; compulsory social insurance",
+                "Real estate activities",
+                "Transportation and storage, post and courier services",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
                 ""
               ]
             },
@@ -1656,11 +1656,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_229",
+                "By disability criterion",
                 ""
               ]
             },
-            "title": "group_label_229"
+            "title": "By disability criterion"
           },
           {
             "name": "Value",
@@ -1939,7 +1939,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_322",
+                "Number of registered client requests for free legal assistance",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -1977,20 +1977,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_323",
+                "including who have applied to a single contact number of the free legal aid system 0-800-213-103 2",
                 ""
               ]
             },
-            "title": "group_label_230"
+            "title": "including who have applied to a single contact number of the free legal aid system 0-800-213-103 2"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 18 years",
-                "group_label_232",
-                "group_label_233",
+                "under 18 years old",
+                "18–35 years",
+                "36–60 years",
                 "61 years and older",
                 ""
               ]
@@ -4647,7 +4647,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 18 years",
+                "under 18 years old",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older",
@@ -5106,9 +5106,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 18 years",
-                "age_18_29",
-                "age_30_59",
+                "under 18 years old",
+                "18-29 years",
+                "30-59 years",
                 "60 years and older",
                 ""
               ]
@@ -5191,7 +5191,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 18 years",
+                "under 18 years old",
                 "18-35 years",
                 "36-60 years",
                 "61 years and older",
@@ -5633,7 +5633,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 18 years",
+                "under 18 years old",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older",
@@ -5951,7 +5951,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 18 years",
+                "under 18 years old",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older",
@@ -6412,15 +6412,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "production_using_technologies_of",
-                "high_level",
-                "medium_high_level",
-                "medium_low_level",
-                "low_level",
+                "production using technologies of",
+                "high level",
+                "medium-high level",
+                "medium-low level",
+                "low level",
                 ""
               ]
             },
-            "title": "By special aggregations"
+            "title": "special aggregations"
           },
           {
             "name": "Value",
@@ -6860,7 +6860,7 @@
                 ""
               ]
             },
-            "title": "Income decile groups"
+            "title": "Decile groups by level of average per capita equivalent total income"
           },
           {
             "name": "Value",
@@ -7383,7 +7383,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 18 years",
+                "under 18 years old",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older",
@@ -8454,7 +8454,7 @@
                 ""
               ]
             },
-            "title": "Applicant status"
+            "title": "Status of the subject of the appeal"
           },
           {
             "name": "group_15",
@@ -8476,7 +8476,7 @@
           }
         ]
       },
-      "title": "Level of satisfaction of the subjects of application with the quality of the provision of administrative services in centers for the provision of administrative services, percent 1"
+      "title": "Level of satisfaction of the subjects of application with the quality of the provision of administrative services in centers for the provision of administrative services, percent"
     },
     {
       "path": "3-9-1-a/data.csv",
@@ -8779,15 +8779,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "production_using_technologies_of",
-                "high_level",
-                "medium_high_level",
-                "medium_low_level",
-                "low_level",
+                "production using technologies of",
+                "high level",
+                "medium-high level",
+                "medium-low level",
+                "low level",
                 ""
               ]
             },
-            "title": "By special aggregations"
+            "title": "special aggregations"
           },
           {
             "name": "Value",
@@ -9313,9 +9313,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 18 years",
-                "age_18_29",
-                "age_30_59",
+                "under 18 years old",
+                "18-29 years",
+                "30-59 years",
                 "60 years and older",
                 ""
               ]
@@ -9898,7 +9898,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 18 years",
+                "under 18 years old",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older",
@@ -10230,7 +10230,7 @@
           }
         ]
       },
-      "title": "Share of criminal proceedings in which persons were notified of suspicion in the total number of criminal proceedings opened in the reporting year on trafficking in human beings or other illegal transactions on the transfer of a person, percent 1"
+      "title": "Share of criminal proceedings in which persons were notified of suspicion in the total number of criminal proceedings opened in the reporting year on trafficking in human beings or other illegal transactions on the transfer of a person, percent"
     },
     {
       "path": "4-4-3/data.csv",
@@ -11269,9 +11269,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Low",
-                "group_label_324",
-                "High",
+                "low",
+                "medium",
+                "high",
                 ""
               ]
             },
@@ -11880,7 +11880,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -11931,12 +11931,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_203",
-                "group_label_204",
-                "group_label_205",
-                "group_label_206",
-                "group_label_207",
-                "group_label_208",
+                "men 18–35 years ",
+                "men 36–59 years",
+                "men 60 years and older",
+                "women 18–35 years",
+                "women 36–59 years",
+                "women 60 years and older",
                 ""
               ]
             },
@@ -11959,10 +11959,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_209",
-                "group_label_210",
-                "group_label_211",
-                "group_label_212",
+                "large cities (population 500,000 or more)",
+                "cities (population 50,000–500,000)",
+                "small cities (population less than 50,000)",
+                "rural areas",
                 ""
               ]
             },
@@ -12190,16 +12190,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_311",
-                "group_label_312",
-                "group_label_313",
-                "group_label_314",
-                "group_label_315",
-                "group_label_319",
+                "full tertiary education",
+                "basic tertiary education",
+                "incomplete tertiary education",
+                "vocational and technical education",
+                "full general secondary education",
+                "basic, primary general secondary or no education",
                 ""
               ]
             },
-            "title": "group_31"
+            "title": "Education"
           },
           {
             "name": "Value",
@@ -12317,36 +12317,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "at_least_once_a_day",
-                "at_least_onc_a_week_but_not_every_day",
-                "less_than_once_a_week",
+                "at least once a day",
+                "at least once a week, but not every day",
+                "less than once a week",
                 ""
               ]
             },
-            "title": "By frequency of use"
+            "title": "by frequency of use"
           },
           {
             "name": "By purpose of use",
             "type": "string",
             "constraints": {
               "enum": [
-                "sending e-mail",
-                "for interaction with government bodies including obtaining information",
+                "sending (receiving) e-mail",
+                "for interaction with government bodies (e-government system), including obtaining information",
                 "banking",
-                "reading/downloading newspapers magazines online",
-                "downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them",
-                "participating in social networks communicating",
+                "reading/downloading newspapers, magazines online",
+                "downloading films, images, music; watching television or videos; or listening to the radio or music; playing video or computer games or downloading them",
+                "participating in social networks, communicating (accessing websites, chats, blogs or online discussions)",
                 "downloading software",
-                "using Internet storage for personal purposes to store documents images music videos or other files",
-                "conducting training activities for educational professional or private purposes through an online course",
-                "conducting training activities for educational professional or private purposes through an online course except for full online courses",
-                "conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals",
+                "using Internet storage for personal purposes to store documents, images, music, videos or other files",
+                "conducting training activities for educational, professional or private purposes through an online course",
+                "conducting training activities for educational, professional or private purposes through an online course, except for full online courses",
+                "conducting training activities for educational, professional or private purposes through communication via the Internet with teachers or students using educational sites or portals",
                 "making an appointment with a specialist doctor through the Internet",
-                "searching for information related to health issues for yourself and others",
-                "ordering goods and services",
-                "telephone conversations through the Internet/Volp",
-                "posting opinions on civil or political issues on websites",
-                "participating in online consultations voting on civil or political issues",
+                "searching for information related to health issues (medicines, medical services, advice, etc.) for yourself and others",
+                "ordering (purchasing) goods and services",
+                "telephone conversations through the Internet/Volp (Skype, iTalk, via webcam)",
+                "posting opinions on civil or political issues on websites (using blogs, social networks, etc.)",
+                "participating in online consultations, voting on civil or political issues (e.g. on urban planning issues, signing a petition, etc.)",
                 "selling goods and services over the Internet",
                 "using services related to travel or hotel accommodation while traveling",
                 "looking for work or sending a job application",
@@ -12354,7 +12354,7 @@
                 ""
               ]
             },
-            "title": "By purpose of use"
+            "title": "purpose of use"
           },
           {
             "name": "Region",
@@ -14282,11 +14282,11 @@
             "constraints": {
               "enum": [
                 "By ministries and other central executive bodies",
-                "By oblast and Kyiv City state administrations (military administrations)",
+                "By regional, Kyiv city state administrations (military administrations)",
                 ""
               ]
             },
-            "title": "Including"
+            "title": "Conducted by"
           },
           {
             "name": "Value",
@@ -14560,16 +14560,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_311",
-                "group_label_312",
-                "group_label_313",
-                "group_label_314",
-                "group_label_315",
-                "group_label_319",
+                "full tertiary education",
+                "basic tertiary education",
+                "incomplete tertiary education",
+                "vocational and technical education",
+                "full general secondary education",
+                "basic, primary general secondary or no education",
                 ""
               ]
             },
-            "title": "group_31"
+            "title": "Education"
           },
           {
             "name": "Value",
@@ -14816,26 +14816,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_298",
-                "group_label_299",
-                "group_label_300",
-                "group_label_301",
+                "Agriculture, forestry and fishing",
+                "Industry",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "Transportation and storage; postal and courier activities",
-                "group_label_302",
-                "group_label_303",
-                "group_label_304",
-                "group_label_305",
-                "group_label_306",
-                "group_label_307",
+                "Accommodation and food service activities",
+                "Information and telecommunications ",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
                 "Public administration and defence; compulsory social security",
-                "group_label_308",
+                "Education",
                 "Human health and social work activities",
-                "group_label_309",
-                "group_label_310",
+                "Arts, sports, entertainment and recreation",
+                "Other economic activities",
                 ""
               ]
             },
-            "title": "group_30"
+            "title": "Types of economic activity"
           },
           {
             "name": "Value",
@@ -15130,25 +15130,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_317",
-                "group_label_299",
-                "group_label_300",
-                "group_label_301",
+                "Agriculture, forestry and fishing",
+                "Industry",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "Transportation and storage; postal and courier activities",
-                "group_label_302",
-                "group_label_303",
-                "group_label_304",
-                "group_label_305",
-                "group_label_306",
-                "group_label_307",
-                "group_label_308",
+                "Accommodation and food service activities",
+                "Information and telecommunications ",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Education",
                 "Human health and social work activities",
-                "group_label_309",
-                "group_label_318",
+                "Arts, sports, entertainment and recreation",
+                "Other service activities",
                 ""
               ]
             },
-            "title": "group_30"
+            "title": "Types of economic activity"
           },
           {
             "name": "Value",
@@ -15369,7 +15369,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 18 years",
+                "under 18 years old",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older",
@@ -15739,32 +15739,32 @@
                 "industry",
                 "Mining and quarrying",
                 "Processing industry",
-                "48_products",
-                "49_leather",
-                "50_wood",
-                "51_chemicals",
-                "52_rubber",
-                "53_metallurgy",
-                "54_computers",
-                "55_transport_equipment",
-                "56_furniture",
-                "57_energy",
-                "58_water_supply",
-                "59_water_collection",
-                "60_waste_management",
-                "61_trade_transport_info",
-                "62_wholesale_trade",
-                "63_transport_storage",
-                "64_transport_types",
-                "65_transport_support",
-                "66_information",
-                "67_media",
-                "68_telecom_it",
-                "69_finance",
-                "70_architecture_engineering",
-                "71_architecture_testing",
-                "72_research",
-                "73_advertising",
+                "Manufacture of food products, beverages and tobacco products",
+                "Manufacture of textiles, apparel, leather and related products",
+                "Manufacture of wood and paper products, and printing",
+                "Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",
+                "Manufacture of rubber and plastic products and other non-metallic mineral products",
+                "Metallurgical production and manufacture of fabricated metal products, except machinery and equipment",
+                "Manufacture of computers, electronic and optical products, electrical equipment, machinery and equipment n.e.c.",
+                "Manufacture of motor vehicles, trailers and semi-trailers and other transport equipment",
+                "Manufacture of furniture, other products, repair and installation of machinery and equipment",
+                "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Water collection, treatment and supply, sewerage, wastewater collection and treatment",
+                "Waste collection, treatment and disposal activities; materials recovery and other waste management activities",
+                "Wholesale trade, except of motor vehicles and motorcycles, transport, storage, postal and courier activities, information and telecommunications, financial and insurance activities, architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research",
+                "Wholesale trade, except of motor vehicles and motorcycles",
+                "Transport, storage, postal and courier activities",
+                "Land and pipeline transport, water transport, air transport",
+                "Warehousing and support activities for transportation, postal and courier activities",
+                "Information and telecommunications",
+                "Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, radio and television broadcasting",
+                "Telecommunications, computer programming, consultancy and related activities, information service activities",
+                "Financial and insurance activities",
+                "Architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research",
+                "Architectural and engineering activities; technical testing and analysis",
+                "Scientific research and development",
+                "Advertising and market research",
                 ""
               ]
             },
@@ -16072,7 +16072,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16123,12 +16123,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_203",
-                "group_label_204",
-                "group_label_205",
-                "group_label_206",
-                "group_label_207",
-                "group_label_208",
+                "men 18–35 years ",
+                "men 36–59 years",
+                "men 60 years and older",
+                "women 18–35 years",
+                "women 36–59 years",
+                "women 60 years and older",
                 ""
               ]
             },
@@ -16151,10 +16151,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_209",
-                "group_label_210",
-                "group_label_211",
-                "group_label_212",
+                "large cities (population 500,000 or more)",
+                "cities (population 50,000–500,000)",
+                "small cities (population less than 50,000)",
+                "rural areas",
                 ""
               ]
             },
@@ -16529,7 +16529,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16542,12 +16542,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_320",
-                "group_label_321",
+                "aged 15–24",
+                "aged 15–34",
                 ""
               ]
             },
-            "title": "group_32"
+            "title": "Share of youth who are not in employment, education or training, in the total population of the corresponding age, percent"
           },
           {
             "name": "group_33",
@@ -16559,7 +16559,7 @@
                 ""
               ]
             },
-            "title": "group_33"
+            "title": "Gender (age 15-24)"
           },
           {
             "name": "group_34",
@@ -16571,7 +16571,7 @@
                 ""
               ]
             },
-            "title": "group_34"
+            "title": "Type of place of residence (age 15-24)"
           },
           {
             "name": "group_35",
@@ -16583,7 +16583,7 @@
                 ""
               ]
             },
-            "title": "group_35"
+            "title": "Gender (age 15-34)"
           },
           {
             "name": "group_36",
@@ -16595,7 +16595,7 @@
                 ""
               ]
             },
-            "title": "group_36"
+            "title": "Type of place of residence (age 15-34)"
           },
           {
             "name": "Value",
@@ -17592,7 +17592,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -17621,9 +17621,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_256",
-                "group_label_257",
-                "group_label_258",
+                "up to 30 years",
+                "30–54 years",
+                "55 years and older",
                 ""
               ]
             },
@@ -17646,9 +17646,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_259",
-                "group_label_260",
-                "group_label_261",
+                "regional centers",
+                "district centers and cities",
+                "villages",
                 ""
               ]
             },
@@ -17659,9 +17659,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_262",
-                "group_label_263",
-                "group_label_264",
+                "below average and lowest",
+                "average",
+                "highest and above average",
                 ""
               ]
             },
@@ -19094,14 +19094,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "authorities",
-                "balances",
-                "consumption",
-                "natural_monopolies",
-                "policy",
-                "reliability_and_safety",
-                "reporting",
-                "supply",
+                "Authorities",
+                "Balances",
+                "Consumption",
+                "Natural Monopolies",
+                "Policy",
+                "Reliability and safety",
+                "Reporting",
+                "Supply",
                 ""
               ]
             },
@@ -19112,15 +19112,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural_gas_2",
-                "electric_energy",
-                "oil_and_liquid_fuels",
-                "thermal_energy",
-                "thermal_coal",
+                "natural gas",
+                "electric energy",
+                "oil and liquid fuels",
+                "thermal energy",
+                "thermal coal",
                 ""
               ]
             },
-            "title": "By sectors of the fuel and energy sector"
+            "title": "Fuel and energy sector"
           },
           {
             "name": "Value",
@@ -19590,12 +19590,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total number",
-                "With a fatal outcome",
+                "total number",
+                "fatality",
                 ""
               ]
             },
-            "title": "Total number and fatal outcome"
+            "title": "Total number and fatality"
           },
           {
             "name": "group_13",
@@ -19618,12 +19618,12 @@
                 "Metal ore and non-metal mining industry",
                 "Oil and gas extraction industry and geological exploration",
                 "Energy sector",
-                "group_label_300",
+                "Construction",
                 "Boiler supervision, lifting equipment",
                 "Machine building",
                 "Metallurgical industry",
                 "Chemical industry",
-                "group_label_316",
+                "Transport",
                 "Communications",
                 "Gas industry",
                 "Housing and utilities sector",
@@ -19634,7 +19634,7 @@
                 ""
               ]
             },
-            "title": "group_30"
+            "title": "Types of economic activity"
           },
           {
             "name": "Value",

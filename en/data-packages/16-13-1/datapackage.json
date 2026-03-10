@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -58,12 +58,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_203",
-                "group_label_204",
-                "group_label_205",
-                "group_label_206",
-                "group_label_207",
-                "group_label_208",
+                "men 18–35 years ",
+                "men 36–59 years",
+                "men 60 years and older",
+                "women 18–35 years",
+                "women 36–59 years",
+                "women 60 years and older",
                 ""
               ]
             },
@@ -86,10 +86,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_209",
-                "group_label_210",
-                "group_label_211",
-                "group_label_212",
+                "large cities (population 500,000 or more)",
+                "cities (population 50,000–500,000)",
+                "small cities (population less than 50,000)",
+                "rural areas",
                 ""
               ]
             },

@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "authorities",
-                "balances",
-                "consumption",
-                "natural_monopolies",
-                "policy",
-                "reliability_and_safety",
-                "reporting",
-                "supply",
+                "Authorities",
+                "Balances",
+                "Consumption",
+                "Natural Monopolies",
+                "Policy",
+                "Reliability and safety",
+                "Reporting",
+                "Supply",
                 ""
               ]
             },
@@ -38,15 +38,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural_gas_2",
-                "electric_energy",
-                "oil_and_liquid_fuels",
-                "thermal_energy",
-                "thermal_coal",
+                "natural gas",
+                "electric energy",
+                "oil and liquid fuels",
+                "thermal energy",
+                "thermal coal",
                 ""
               ]
             },
-            "title": "By sectors of the fuel and energy sector"
+            "title": "Fuel and energy sector"
           },
           {
             "name": "Value",

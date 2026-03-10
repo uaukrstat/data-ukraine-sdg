@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "production_using_technologies_of",
-                "high_level",
-                "medium_high_level",
-                "medium_low_level",
-                "low_level",
+                "виробництво з використанням технологій",
+                "високого рівня",
+                "середньовисокого рівня",
+                "середньонизького рівня",
+                "низького рівня",
                 ""
               ]
             },
-            "title": "By special aggregations"
+            "title": "спеціальні агрегації"
           },
           {
             "name": "Value",

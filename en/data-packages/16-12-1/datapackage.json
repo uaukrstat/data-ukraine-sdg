@@ -59,11 +59,11 @@
             "constraints": {
               "enum": [
                 "By ministries and other central executive bodies",
-                "By oblast and Kyiv City state administrations (military administrations)",
+                "By regional, Kyiv city state administrations (military administrations)",
                 ""
               ]
             },
-            "title": "Including"
+            "title": "Conducted by"
           },
           {
             "name": "Value",

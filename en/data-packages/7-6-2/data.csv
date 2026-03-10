@@ -3,9 +3,9 @@ Year,Type of residence,Age,Sex,Region,Value
 2015,,,,,24.2
 2015,,,women,,25.6
 2015,,,men,,23.0
-2015,,up to 18 years,,,23.3
-2015,,age_18_29,,,21.5
-2015,,age_30_59,,,23.8
+2015,,under 18 years old,,,23.3
+2015,,18-29 years,,,21.5
+2015,,30-59 years,,,23.8
 2015,,60 years and older,,,27.6
 2015,rural,,,,32.3
 2015,urban,,,,20.1
@@ -38,9 +38,9 @@ Year,Type of residence,Age,Sex,Region,Value
 2017,,,,,25.6
 2017,,,women,,26.3
 2017,,,men,,24.8
-2017,,up to 18 years,,,23.9
-2017,,age_18_29,,,24.6
-2017,,age_30_59,,,23.9
+2017,,under 18 years old,,,23.9
+2017,,18-29 years,,,24.6
+2017,,30-59 years,,,23.9
 2017,,60 years and older,,,30.9
 2017,rural,,,,33.3
 2017,urban,,,,21.7
@@ -73,9 +73,9 @@ Year,Type of residence,Age,Sex,Region,Value
 2019,,,,,21.8
 2019,,,women,,22.1
 2019,,,men,,21.3
-2019,,up to 18 years,,,20.3
-2019,,age_18_29,,,17.8
-2019,,age_30_59,,,20.5
+2019,,under 18 years old,,,20.3
+2019,,18-29 years,,,17.8
+2019,,30-59 years,,,20.5
 2019,,60 years and older,,,27.3
 2019,rural,,,,30.5
 2019,urban,,,,17.3
@@ -108,9 +108,9 @@ Year,Type of residence,Age,Sex,Region,Value
 2021,,,,,17.2
 2021,,,women,,17.9
 2021,,,men,,16.3
-2021,,up to 18 years,,,14.0
-2021,,age_18_29,,,16.5
-2021,,age_30_59,,,15.8
+2021,,under 18 years old,,,14.0
+2021,,18-29 years,,,16.5
+2021,,30-59 years,,,15.8
 2021,,60 years and older,,,22.5
 2021,rural,,,,26.4
 2021,urban,,,,12.6

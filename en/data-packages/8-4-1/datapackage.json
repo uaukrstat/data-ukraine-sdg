@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_317",
-                "group_label_299",
-                "group_label_300",
-                "group_label_301",
+                "Agriculture, forestry and fishing",
+                "Industry",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "Transportation and storage; postal and courier activities",
-                "group_label_302",
-                "group_label_303",
-                "group_label_304",
-                "group_label_305",
-                "group_label_306",
-                "group_label_307",
-                "group_label_308",
+                "Accommodation and food service activities",
+                "Information and telecommunications ",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Education",
                 "Human health and social work activities",
-                "group_label_309",
-                "group_label_318",
+                "Arts, sports, entertainment and recreation",
+                "Other service activities",
                 ""
               ]
             },
-            "title": "group_30"
+            "title": "Types of economic activity"
           },
           {
             "name": "Value",

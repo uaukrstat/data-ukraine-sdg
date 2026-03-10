@@ -279,66 +279,66 @@ Year,Region,Age,Gender,Type of place of residence,education,Employment status,In
 2022,city Sevastopol,,,,,,,,
 2023,city Sevastopol,,,,,,,,
 2024,city Sevastopol,,,,,,,,
-2015,,group_label_203,,,,,,,
-2016,,group_label_203,,,,,,,
-2017,,group_label_203,,,,,,,
-2018,,group_label_203,,,,,,,
-2019,,group_label_203,,,,,,,
-2020,,group_label_203,,,,,,,
-2021,,group_label_203,,,,,,,4.8
-2022,,group_label_203,,,,,,,
-2023,,group_label_203,,,,,,,5.4
-2024,,group_label_203,,,,,,,5.0
-2015,,group_label_204,,,,,,,
-2016,,group_label_204,,,,,,,
-2017,,group_label_204,,,,,,,
-2018,,group_label_204,,,,,,,
-2019,,group_label_204,,,,,,,
-2020,,group_label_204,,,,,,,
-2021,,group_label_204,,,,,,,4.9
-2022,,group_label_204,,,,,,,
-2023,,group_label_204,,,,,,,5.4
-2024,,group_label_204,,,,,,,5.2
-2015,,group_label_205,,,,,,,
-2016,,group_label_205,,,,,,,
-2017,,group_label_205,,,,,,,
-2018,,group_label_205,,,,,,,
-2019,,group_label_205,,,,,,,
-2020,,group_label_205,,,,,,,
-2021,,group_label_205,,,,,,,5.3
-2022,,group_label_205,,,,,,,
-2023,,group_label_205,,,,,,,5.5
-2024,,group_label_205,,,,,,,5.0
-2015,,group_label_206,,,,,,,
-2016,,group_label_206,,,,,,,
-2017,,group_label_206,,,,,,,
-2018,,group_label_206,,,,,,,
-2019,,group_label_206,,,,,,,
-2020,,group_label_206,,,,,,,
-2021,,group_label_206,,,,,,,4.9
-2022,,group_label_206,,,,,,,
-2023,,group_label_206,,,,,,,5.2
-2024,,group_label_206,,,,,,,5.0
-2015,,group_label_207,,,,,,,
-2016,,group_label_207,,,,,,,
-2017,,group_label_207,,,,,,,
-2018,,group_label_207,,,,,,,
-2019,,group_label_207,,,,,,,
-2020,,group_label_207,,,,,,,
-2021,,group_label_207,,,,,,,5.2
-2022,,group_label_207,,,,,,,
-2023,,group_label_207,,,,,,,5.6
-2024,,group_label_207,,,,,,,5.2
-2015,,group_label_208,,,,,,,
-2016,,group_label_208,,,,,,,
-2017,,group_label_208,,,,,,,
-2018,,group_label_208,,,,,,,
-2019,,group_label_208,,,,,,,
-2020,,group_label_208,,,,,,,
-2021,,group_label_208,,,,,,,5.3
-2022,,group_label_208,,,,,,,
-2023,,group_label_208,,,,,,,5.8
-2024,,group_label_208,,,,,,,5.4
+2015,,men 18–35 years ,,,,,,,
+2016,,men 18–35 years ,,,,,,,
+2017,,men 18–35 years ,,,,,,,
+2018,,men 18–35 years ,,,,,,,
+2019,,men 18–35 years ,,,,,,,
+2020,,men 18–35 years ,,,,,,,
+2021,,men 18–35 years ,,,,,,,4.8
+2022,,men 18–35 years ,,,,,,,
+2023,,men 18–35 years ,,,,,,,5.4
+2024,,men 18–35 years ,,,,,,,5.0
+2015,,men 36–59 years,,,,,,,
+2016,,men 36–59 years,,,,,,,
+2017,,men 36–59 years,,,,,,,
+2018,,men 36–59 years,,,,,,,
+2019,,men 36–59 years,,,,,,,
+2020,,men 36–59 years,,,,,,,
+2021,,men 36–59 years,,,,,,,4.9
+2022,,men 36–59 years,,,,,,,
+2023,,men 36–59 years,,,,,,,5.4
+2024,,men 36–59 years,,,,,,,5.2
+2015,,men 60 years and older,,,,,,,
+2016,,men 60 years and older,,,,,,,
+2017,,men 60 years and older,,,,,,,
+2018,,men 60 years and older,,,,,,,
+2019,,men 60 years and older,,,,,,,
+2020,,men 60 years and older,,,,,,,
+2021,,men 60 years and older,,,,,,,5.3
+2022,,men 60 years and older,,,,,,,
+2023,,men 60 years and older,,,,,,,5.5
+2024,,men 60 years and older,,,,,,,5.0
+2015,,women 18–35 years,,,,,,,
+2016,,women 18–35 years,,,,,,,
+2017,,women 18–35 years,,,,,,,
+2018,,women 18–35 years,,,,,,,
+2019,,women 18–35 years,,,,,,,
+2020,,women 18–35 years,,,,,,,
+2021,,women 18–35 years,,,,,,,4.9
+2022,,women 18–35 years,,,,,,,
+2023,,women 18–35 years,,,,,,,5.2
+2024,,women 18–35 years,,,,,,,5.0
+2015,,women 36–59 years,,,,,,,
+2016,,women 36–59 years,,,,,,,
+2017,,women 36–59 years,,,,,,,
+2018,,women 36–59 years,,,,,,,
+2019,,women 36–59 years,,,,,,,
+2020,,women 36–59 years,,,,,,,
+2021,,women 36–59 years,,,,,,,5.2
+2022,,women 36–59 years,,,,,,,
+2023,,women 36–59 years,,,,,,,5.6
+2024,,women 36–59 years,,,,,,,5.2
+2015,,women 60 years and older,,,,,,,
+2016,,women 60 years and older,,,,,,,
+2017,,women 60 years and older,,,,,,,
+2018,,women 60 years and older,,,,,,,
+2019,,women 60 years and older,,,,,,,
+2020,,women 60 years and older,,,,,,,
+2021,,women 60 years and older,,,,,,,5.3
+2022,,women 60 years and older,,,,,,,
+2023,,women 60 years and older,,,,,,,5.8
+2024,,women 60 years and older,,,,,,,5.4
 2015,,,females,,,,,,
 2016,,,females,,,,,,
 2017,,,females,,,,,,
@@ -359,46 +359,46 @@ Year,Region,Age,Gender,Type of place of residence,education,Employment status,In
 2022,,,men,,,,,,
 2023,,,men,,,,,,5.4
 2024,,,men,,,,,,5.1
-2015,,,,group_label_209,,,,,
-2016,,,,group_label_209,,,,,
-2017,,,,group_label_209,,,,,
-2018,,,,group_label_209,,,,,
-2019,,,,group_label_209,,,,,
-2020,,,,group_label_209,,,,,
-2021,,,,group_label_209,,,,,4.4
-2022,,,,group_label_209,,,,,
-2023,,,,group_label_209,,,,,5.5
-2024,,,,group_label_209,,,,,4.8
-2015,,,,group_label_210,,,,,
-2016,,,,group_label_210,,,,,
-2017,,,,group_label_210,,,,,
-2018,,,,group_label_210,,,,,
-2019,,,,group_label_210,,,,,
-2020,,,,group_label_210,,,,,
-2021,,,,group_label_210,,,,,4.7
-2022,,,,group_label_210,,,,,
-2023,,,,group_label_210,,,,,5.1
-2024,,,,group_label_210,,,,,4.9
-2015,,,,group_label_211,,,,,
-2016,,,,group_label_211,,,,,
-2017,,,,group_label_211,,,,,
-2018,,,,group_label_211,,,,,
-2019,,,,group_label_211,,,,,
-2020,,,,group_label_211,,,,,
-2021,,,,group_label_211,,,,,5.3
-2022,,,,group_label_211,,,,,
-2023,,,,group_label_211,,,,,5.4
-2024,,,,group_label_211,,,,,5.1
-2015,,,,group_label_212,,,,,
-2016,,,,group_label_212,,,,,
-2017,,,,group_label_212,,,,,
-2018,,,,group_label_212,,,,,
-2019,,,,group_label_212,,,,,
-2020,,,,group_label_212,,,,,
-2021,,,,group_label_212,,,,,5.8
-2022,,,,group_label_212,,,,,
-2023,,,,group_label_212,,,,,5.8
-2024,,,,group_label_212,,,,,5.5
+2015,,,,"large cities (population 500,000 or more)",,,,,
+2016,,,,"large cities (population 500,000 or more)",,,,,
+2017,,,,"large cities (population 500,000 or more)",,,,,
+2018,,,,"large cities (population 500,000 or more)",,,,,
+2019,,,,"large cities (population 500,000 or more)",,,,,
+2020,,,,"large cities (population 500,000 or more)",,,,,
+2021,,,,"large cities (population 500,000 or more)",,,,,4.4
+2022,,,,"large cities (population 500,000 or more)",,,,,
+2023,,,,"large cities (population 500,000 or more)",,,,,5.5
+2024,,,,"large cities (population 500,000 or more)",,,,,4.8
+2015,,,,"cities (population 50,000–500,000)",,,,,
+2016,,,,"cities (population 50,000–500,000)",,,,,
+2017,,,,"cities (population 50,000–500,000)",,,,,
+2018,,,,"cities (population 50,000–500,000)",,,,,
+2019,,,,"cities (population 50,000–500,000)",,,,,
+2020,,,,"cities (population 50,000–500,000)",,,,,
+2021,,,,"cities (population 50,000–500,000)",,,,,4.7
+2022,,,,"cities (population 50,000–500,000)",,,,,
+2023,,,,"cities (population 50,000–500,000)",,,,,5.1
+2024,,,,"cities (population 50,000–500,000)",,,,,4.9
+2015,,,,"small cities (population less than 50,000)",,,,,
+2016,,,,"small cities (population less than 50,000)",,,,,
+2017,,,,"small cities (population less than 50,000)",,,,,
+2018,,,,"small cities (population less than 50,000)",,,,,
+2019,,,,"small cities (population less than 50,000)",,,,,
+2020,,,,"small cities (population less than 50,000)",,,,,
+2021,,,,"small cities (population less than 50,000)",,,,,5.3
+2022,,,,"small cities (population less than 50,000)",,,,,
+2023,,,,"small cities (population less than 50,000)",,,,,5.4
+2024,,,,"small cities (population less than 50,000)",,,,,5.1
+2015,,,,rural areas,,,,,
+2016,,,,rural areas,,,,,
+2017,,,,rural areas,,,,,
+2018,,,,rural areas,,,,,
+2019,,,,rural areas,,,,,
+2020,,,,rural areas,,,,,
+2021,,,,rural areas,,,,,5.8
+2022,,,,rural areas,,,,,
+2023,,,,rural areas,,,,,5.8
+2024,,,,rural areas,,,,,5.5
 2015,,,,,Primary education,,,,
 2016,,,,,Primary education,,,,
 2017,,,,,Primary education,,,,

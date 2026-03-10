@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_320",
-                "group_label_321",
+                "aged 15–24",
+                "aged 15–34",
                 ""
               ]
             },
-            "title": "group_32"
+            "title": "Share of youth who are not in employment, education or training, in the total population of the corresponding age, percent"
           },
           {
             "name": "group_33",
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "group_33"
+            "title": "Gender (age 15-24)"
           },
           {
             "name": "group_34",
@@ -49,7 +49,7 @@
                 ""
               ]
             },
-            "title": "group_34"
+            "title": "Type of place of residence (age 15-24)"
           },
           {
             "name": "group_35",
@@ -61,7 +61,7 @@
                 ""
               ]
             },
-            "title": "group_35"
+            "title": "Gender (age 15-34)"
           },
           {
             "name": "group_36",
@@ -73,7 +73,7 @@
                 ""
               ]
             },
-            "title": "group_36"
+            "title": "Type of place of residence (age 15-34)"
           },
           {
             "name": "Value",

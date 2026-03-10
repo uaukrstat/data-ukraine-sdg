@@ -1,4 +1,4 @@
-Year,Вік,Стать,Місцевість проживання,By frequency of use,By purpose of use,Область,Value
+Year,Вік,Стать,Місцевість проживання,by frequency of use,за метою користування,Область,Value
 2015,,,,,,,
 2016,,,,,,,
 2017,,,,,,,
@@ -9,16 +9,16 @@ Year,Вік,Стать,Місцевість проживання,By frequency of
 2022,,,,,,,
 2023,,,,,,,
 2024,,,,,,,
-2015,age_16_17,,,,,,
-2016,age_16_17,,,,,,
-2017,age_16_17,,,,,,
-2018,age_16_17,,,,,,
-2019,age_16_17,,,,,,
-2020,age_16_17,,,,,,99.2
-2021,age_16_17,,,,,,100.0
-2022,age_16_17,,,,,,
-2023,age_16_17,,,,,,
-2024,age_16_17,,,,,,
+2015,16–17 years,,,,,,
+2016,16–17 years,,,,,,
+2017,16–17 years,,,,,,
+2018,16–17 years,,,,,,
+2019,16–17 years,,,,,,
+2020,16–17 years,,,,,,99.2
+2021,16–17 years,,,,,,100.0
+2022,16–17 years,,,,,,
+2023,16–17 years,,,,,,
+2024,16–17 years,,,,,,
 2015,18 - 24 роки,,,,,,
 2016,18 - 24 роки,,,,,,
 2017,18 - 24 роки,,,,,,
@@ -99,246 +99,246 @@ Year,Вік,Стать,Місцевість проживання,By frequency of
 2022,,,сільська,,,,
 2023,,,сільська,,,,
 2024,,,сільська,,,,
-2015,,,,at_least_once_a_day,,,
-2016,,,,at_least_once_a_day,,,
-2017,,,,at_least_once_a_day,,,
-2018,,,,at_least_once_a_day,,,
-2019,,,,at_least_once_a_day,,,
-2020,,,,at_least_once_a_day,,,85.5
-2021,,,,at_least_once_a_day,,,87.2
-2022,,,,at_least_once_a_day,,,
-2023,,,,at_least_once_a_day,,,
-2024,,,,at_least_once_a_day,,,
-2015,,,,at_least_onc_a_week_but_not_every_day,,,
-2016,,,,at_least_onc_a_week_but_not_every_day,,,
-2017,,,,at_least_onc_a_week_but_not_every_day,,,
-2018,,,,at_least_onc_a_week_but_not_every_day,,,
-2019,,,,at_least_onc_a_week_but_not_every_day,,,
-2020,,,,at_least_onc_a_week_but_not_every_day,,,12.9
-2021,,,,at_least_onc_a_week_but_not_every_day,,,11.8
-2022,,,,at_least_onc_a_week_but_not_every_day,,,
-2023,,,,at_least_onc_a_week_but_not_every_day,,,
-2024,,,,at_least_onc_a_week_but_not_every_day,,,
-2015,,,,less_than_once_a_week,,,
-2016,,,,less_than_once_a_week,,,
-2017,,,,less_than_once_a_week,,,
-2018,,,,less_than_once_a_week,,,
-2019,,,,less_than_once_a_week,,,
-2020,,,,less_than_once_a_week,,,1.6
-2021,,,,less_than_once_a_week,,,1.0
-2022,,,,less_than_once_a_week,,,
-2023,,,,less_than_once_a_week,,,
-2024,,,,less_than_once_a_week,,,
-2015,,,,,sending e-mail,,
-2016,,,,,sending e-mail,,
-2017,,,,,sending e-mail,,
-2018,,,,,sending e-mail,,
-2019,,,,,sending e-mail,,
-2020,,,,,sending e-mail,,36.5
-2021,,,,,sending e-mail,,38.2
-2022,,,,,sending e-mail,,
-2023,,,,,sending e-mail,,
-2024,,,,,sending e-mail,,
-2015,,,,,for interaction with government bodies including obtaining information,,
-2016,,,,,for interaction with government bodies including obtaining information,,
-2017,,,,,for interaction with government bodies including obtaining information,,
-2018,,,,,for interaction with government bodies including obtaining information,,
-2019,,,,,for interaction with government bodies including obtaining information,,
-2020,,,,,for interaction with government bodies including obtaining information,,3.9
-2021,,,,,for interaction with government bodies including obtaining information,,5.2
-2022,,,,,for interaction with government bodies including obtaining information,,
-2023,,,,,for interaction with government bodies including obtaining information,,
-2024,,,,,for interaction with government bodies including obtaining information,,
-2015,,,,,banking,,
-2016,,,,,banking,,
-2017,,,,,banking,,
-2018,,,,,banking,,
-2019,,,,,banking,,
-2020,,,,,banking,,43.0
-2021,,,,,banking,,50.4
-2022,,,,,banking,,
-2023,,,,,banking,,
-2024,,,,,banking,,
-2015,,,,,reading/downloading newspapers magazines online,,
-2016,,,,,reading/downloading newspapers magazines online,,
-2017,,,,,reading/downloading newspapers magazines online,,
-2018,,,,,reading/downloading newspapers magazines online,,
-2019,,,,,reading/downloading newspapers magazines online,,
-2020,,,,,reading/downloading newspapers magazines online,,21.8
-2021,,,,,reading/downloading newspapers magazines online,,23.0
-2022,,,,,reading/downloading newspapers magazines online,,
-2023,,,,,reading/downloading newspapers magazines online,,
-2024,,,,,reading/downloading newspapers magazines online,,
-2015,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
-2016,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
-2017,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
-2018,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
-2019,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
-2020,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,68.2
-2021,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,69.2
-2022,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
-2023,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
-2024,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
-2015,,,,,participating in social networks communicating,,
-2016,,,,,participating in social networks communicating,,
-2017,,,,,participating in social networks communicating,,
-2018,,,,,participating in social networks communicating,,
-2019,,,,,participating in social networks communicating,,
-2020,,,,,participating in social networks communicating,,62.4
-2021,,,,,participating in social networks communicating,,64.3
-2022,,,,,participating in social networks communicating,,
-2023,,,,,participating in social networks communicating,,
-2024,,,,,participating in social networks communicating,,
-2015,,,,,downloading software,,
-2016,,,,,downloading software,,
-2017,,,,,downloading software,,
-2018,,,,,downloading software,,
-2019,,,,,downloading software,,
-2020,,,,,downloading software,,4.3
-2021,,,,,downloading software,,3.2
-2022,,,,,downloading software,,
-2023,,,,,downloading software,,
-2024,,,,,downloading software,,
-2015,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
-2016,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
-2017,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
-2018,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
-2019,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
-2020,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,6.4
-2021,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,5.4
-2022,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
-2023,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
-2024,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
-2015,,,,,conducting training activities for educational professional or private purposes through an online course,,
-2016,,,,,conducting training activities for educational professional or private purposes through an online course,,
-2017,,,,,conducting training activities for educational professional or private purposes through an online course,,
-2018,,,,,conducting training activities for educational professional or private purposes through an online course,,
-2019,,,,,conducting training activities for educational professional or private purposes through an online course,,
-2020,,,,,conducting training activities for educational professional or private purposes through an online course,,2.5
-2021,,,,,conducting training activities for educational professional or private purposes through an online course,,1.7
-2022,,,,,conducting training activities for educational professional or private purposes through an online course,,
-2023,,,,,conducting training activities for educational professional or private purposes through an online course,,
-2024,,,,,conducting training activities for educational professional or private purposes through an online course,,
-2015,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
-2016,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
-2017,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
-2018,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
-2019,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
-2020,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,2.8
-2021,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,1.9
-2022,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
-2023,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
-2024,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
-2015,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
-2016,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
-2017,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
-2018,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
-2019,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
-2020,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,5.7
-2021,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,5.2
-2022,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
-2023,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
-2024,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
-2015,,,,,making an appointment with a specialist doctor through the Internet,,
-2016,,,,,making an appointment with a specialist doctor through the Internet,,
-2017,,,,,making an appointment with a specialist doctor through the Internet,,
-2018,,,,,making an appointment with a specialist doctor through the Internet,,
-2019,,,,,making an appointment with a specialist doctor through the Internet,,
-2020,,,,,making an appointment with a specialist doctor through the Internet,,14.6
-2021,,,,,making an appointment with a specialist doctor through the Internet,,19.0
-2022,,,,,making an appointment with a specialist doctor through the Internet,,
-2023,,,,,making an appointment with a specialist doctor through the Internet,,
-2024,,,,,making an appointment with a specialist doctor through the Internet,,
-2015,,,,,searching for information related to health issues for yourself and others,,
-2016,,,,,searching for information related to health issues for yourself and others,,
-2017,,,,,searching for information related to health issues for yourself and others,,
-2018,,,,,searching for information related to health issues for yourself and others,,
-2019,,,,,searching for information related to health issues for yourself and others,,
-2020,,,,,searching for information related to health issues for yourself and others,,32.6
-2021,,,,,searching for information related to health issues for yourself and others,,31.3
-2022,,,,,searching for information related to health issues for yourself and others,,
-2023,,,,,searching for information related to health issues for yourself and others,,
-2024,,,,,searching for information related to health issues for yourself and others,,
-2015,,,,,ordering goods and services,,
-2016,,,,,ordering goods and services,,
-2017,,,,,ordering goods and services,,
-2018,,,,,ordering goods and services,,
-2019,,,,,ordering goods and services,,
-2020,,,,,ordering goods and services,,24.3
-2021,,,,,ordering goods and services,,24.6
-2022,,,,,ordering goods and services,,
-2023,,,,,ordering goods and services,,
-2024,,,,,ordering goods and services,,
-2015,,,,,telephone conversations through the Internet/Volp,,
-2016,,,,,telephone conversations through the Internet/Volp,,
-2017,,,,,telephone conversations through the Internet/Volp,,
-2018,,,,,telephone conversations through the Internet/Volp,,
-2019,,,,,telephone conversations through the Internet/Volp,,
-2020,,,,,telephone conversations through the Internet/Volp,,37.0
-2021,,,,,telephone conversations through the Internet/Volp,,39.4
-2022,,,,,telephone conversations through the Internet/Volp,,
-2023,,,,,telephone conversations through the Internet/Volp,,
-2024,,,,,telephone conversations through the Internet/Volp,,
-2015,,,,,posting opinions on civil or political issues on websites,,
-2016,,,,,posting opinions on civil or political issues on websites,,
-2017,,,,,posting opinions on civil or political issues on websites,,
-2018,,,,,posting opinions on civil or political issues on websites,,
-2019,,,,,posting opinions on civil or political issues on websites,,
-2020,,,,,posting opinions on civil or political issues on websites,,0.6
-2021,,,,,posting opinions on civil or political issues on websites,,0.4
-2022,,,,,posting opinions on civil or political issues on websites,,
-2023,,,,,posting opinions on civil or political issues on websites,,
-2024,,,,,posting opinions on civil or political issues on websites,,
-2015,,,,,participating in online consultations voting on civil or political issues,,
-2016,,,,,participating in online consultations voting on civil or political issues,,
-2017,,,,,participating in online consultations voting on civil or political issues,,
-2018,,,,,participating in online consultations voting on civil or political issues,,
-2019,,,,,participating in online consultations voting on civil or political issues,,
-2020,,,,,participating in online consultations voting on civil or political issues,,0.4
-2021,,,,,participating in online consultations voting on civil or political issues,,0.1
-2022,,,,,participating in online consultations voting on civil or political issues,,
-2023,,,,,participating in online consultations voting on civil or political issues,,
-2024,,,,,participating in online consultations voting on civil or political issues,,
-2015,,,,,selling goods and services over the Internet,,
-2016,,,,,selling goods and services over the Internet,,
-2017,,,,,selling goods and services over the Internet,,
-2018,,,,,selling goods and services over the Internet,,
-2019,,,,,selling goods and services over the Internet,,
-2020,,,,,selling goods and services over the Internet,,2.9
-2021,,,,,selling goods and services over the Internet,,1.9
-2022,,,,,selling goods and services over the Internet,,
-2023,,,,,selling goods and services over the Internet,,
-2024,,,,,selling goods and services over the Internet,,
-2015,,,,,using services related to travel or hotel accommodation while traveling,,
-2016,,,,,using services related to travel or hotel accommodation while traveling,,
-2017,,,,,using services related to travel or hotel accommodation while traveling,,
-2018,,,,,using services related to travel or hotel accommodation while traveling,,
-2019,,,,,using services related to travel or hotel accommodation while traveling,,
-2020,,,,,using services related to travel or hotel accommodation while traveling,,0.3
-2021,,,,,using services related to travel or hotel accommodation while traveling,,0.4
-2022,,,,,using services related to travel or hotel accommodation while traveling,,
-2023,,,,,using services related to travel or hotel accommodation while traveling,,
-2024,,,,,using services related to travel or hotel accommodation while traveling,,
-2015,,,,,looking for work or sending a job application,,
-2016,,,,,looking for work or sending a job application,,
-2017,,,,,looking for work or sending a job application,,
-2018,,,,,looking for work or sending a job application,,
-2019,,,,,looking for work or sending a job application,,
-2020,,,,,looking for work or sending a job application,,3.3
-2021,,,,,looking for work or sending a job application,,2.3
-2022,,,,,looking for work or sending a job application,,
-2023,,,,,looking for work or sending a job application,,
-2024,,,,,looking for work or sending a job application,,
-2015,,,,,searching for information about goods and services not previously mentioned,,
-2016,,,,,searching for information about goods and services not previously mentioned,,
-2017,,,,,searching for information about goods and services not previously mentioned,,
-2018,,,,,searching for information about goods and services not previously mentioned,,
-2019,,,,,searching for information about goods and services not previously mentioned,,
-2020,,,,,searching for information about goods and services not previously mentioned,,5.3
-2021,,,,,searching for information about goods and services not previously mentioned,,5.2
-2022,,,,,searching for information about goods and services not previously mentioned,,
-2023,,,,,searching for information about goods and services not previously mentioned,,
-2024,,,,,searching for information about goods and services not previously mentioned,,
+2015,,,,"не менше, ніж раз на день",,,
+2016,,,,"не менше, ніж раз на день",,,
+2017,,,,"не менше, ніж раз на день",,,
+2018,,,,"не менше, ніж раз на день",,,
+2019,,,,"не менше, ніж раз на день",,,
+2020,,,,"не менше, ніж раз на день",,,85.5
+2021,,,,"не менше, ніж раз на день",,,87.2
+2022,,,,"не менше, ніж раз на день",,,
+2023,,,,"не менше, ніж раз на день",,,
+2024,,,,"не менше, ніж раз на день",,,
+2015,,,,"не менше, ніж раз на тиждень, але не кожен  день",,,
+2016,,,,"не менше, ніж раз на тиждень, але не кожен  день",,,
+2017,,,,"не менше, ніж раз на тиждень, але не кожен  день",,,
+2018,,,,"не менше, ніж раз на тиждень, але не кожен  день",,,
+2019,,,,"не менше, ніж раз на тиждень, але не кожен  день",,,
+2020,,,,"не менше, ніж раз на тиждень, але не кожен  день",,,12.9
+2021,,,,"не менше, ніж раз на тиждень, але не кожен  день",,,11.8
+2022,,,,"не менше, ніж раз на тиждень, але не кожен  день",,,
+2023,,,,"не менше, ніж раз на тиждень, але не кожен  день",,,
+2024,,,,"не менше, ніж раз на тиждень, але не кожен  день",,,
+2015,,,,"менше, ніж раз на тиждень",,,
+2016,,,,"менше, ніж раз на тиждень",,,
+2017,,,,"менше, ніж раз на тиждень",,,
+2018,,,,"менше, ніж раз на тиждень",,,
+2019,,,,"менше, ніж раз на тиждень",,,
+2020,,,,"менше, ніж раз на тиждень",,,1.6
+2021,,,,"менше, ніж раз на тиждень",,,1.0
+2022,,,,"менше, ніж раз на тиждень",,,
+2023,,,,"менше, ніж раз на тиждень",,,
+2024,,,,"менше, ніж раз на тиждень",,,
+2015,,,,,відправлення (отримання) електронної пошти,,
+2016,,,,,відправлення (отримання) електронної пошти,,
+2017,,,,,відправлення (отримання) електронної пошти,,
+2018,,,,,відправлення (отримання) електронної пошти,,
+2019,,,,,відправлення (отримання) електронної пошти,,
+2020,,,,,відправлення (отримання) електронної пошти,,36.5
+2021,,,,,відправлення (отримання) електронної пошти,,38.2
+2022,,,,,відправлення (отримання) електронної пошти,,
+2023,,,,,відправлення (отримання) електронної пошти,,
+2024,,,,,відправлення (отримання) електронної пошти,,
+2015,,,,,"для взаємодії з органами державної влади (система електронний уряд), у тому числі отримання інформації",,
+2016,,,,,"для взаємодії з органами державної влади (система електронний уряд), у тому числі отримання інформації",,
+2017,,,,,"для взаємодії з органами державної влади (система електронний уряд), у тому числі отримання інформації",,
+2018,,,,,"для взаємодії з органами державної влади (система електронний уряд), у тому числі отримання інформації",,
+2019,,,,,"для взаємодії з органами державної влади (система електронний уряд), у тому числі отримання інформації",,
+2020,,,,,"для взаємодії з органами державної влади (система електронний уряд), у тому числі отримання інформації",,3.9
+2021,,,,,"для взаємодії з органами державної влади (система електронний уряд), у тому числі отримання інформації",,5.2
+2022,,,,,"для взаємодії з органами державної влади (система електронний уряд), у тому числі отримання інформації",,
+2023,,,,,"для взаємодії з органами державної влади (система електронний уряд), у тому числі отримання інформації",,
+2024,,,,,"для взаємодії з органами державної влади (система електронний уряд), у тому числі отримання інформації",,
+2015,,,,,банківське обслуговування,,
+2016,,,,,банківське обслуговування,,
+2017,,,,,банківське обслуговування,,
+2018,,,,,банківське обслуговування,,
+2019,,,,,банківське обслуговування,,
+2020,,,,,банківське обслуговування,,43.0
+2021,,,,,банківське обслуговування,,50.4
+2022,,,,,банківське обслуговування,,
+2023,,,,,банківське обслуговування,,
+2024,,,,,банківське обслуговування,,
+2015,,,,,"читання/скачування газет, журналів у режимі онлайн",,
+2016,,,,,"читання/скачування газет, журналів у режимі онлайн",,
+2017,,,,,"читання/скачування газет, журналів у режимі онлайн",,
+2018,,,,,"читання/скачування газет, журналів у режимі онлайн",,
+2019,,,,,"читання/скачування газет, журналів у режимі онлайн",,
+2020,,,,,"читання/скачування газет, журналів у режимі онлайн",,21.8
+2021,,,,,"читання/скачування газет, журналів у режимі онлайн",,23.0
+2022,,,,,"читання/скачування газет, журналів у режимі онлайн",,
+2023,,,,,"читання/скачування газет, журналів у режимі онлайн",,
+2024,,,,,"читання/скачування газет, журналів у режимі онлайн",,
+2015,,,,,"скачування фільмів, зображень, музики; перегляд телебачення чи відео; або прослуховування радіо чи музики; гра у відео - чи комп'ютерні ігри або їх скачування",,
+2016,,,,,"скачування фільмів, зображень, музики; перегляд телебачення чи відео; або прослуховування радіо чи музики; гра у відео - чи комп'ютерні ігри або їх скачування",,
+2017,,,,,"скачування фільмів, зображень, музики; перегляд телебачення чи відео; або прослуховування радіо чи музики; гра у відео - чи комп'ютерні ігри або їх скачування",,
+2018,,,,,"скачування фільмів, зображень, музики; перегляд телебачення чи відео; або прослуховування радіо чи музики; гра у відео - чи комп'ютерні ігри або їх скачування",,
+2019,,,,,"скачування фільмів, зображень, музики; перегляд телебачення чи відео; або прослуховування радіо чи музики; гра у відео - чи комп'ютерні ігри або їх скачування",,
+2020,,,,,"скачування фільмів, зображень, музики; перегляд телебачення чи відео; або прослуховування радіо чи музики; гра у відео - чи комп'ютерні ігри або їх скачування",,68.2
+2021,,,,,"скачування фільмів, зображень, музики; перегляд телебачення чи відео; або прослуховування радіо чи музики; гра у відео - чи комп'ютерні ігри або їх скачування",,69.2
+2022,,,,,"скачування фільмів, зображень, музики; перегляд телебачення чи відео; або прослуховування радіо чи музики; гра у відео - чи комп'ютерні ігри або їх скачування",,
+2023,,,,,"скачування фільмів, зображень, музики; перегляд телебачення чи відео; або прослуховування радіо чи музики; гра у відео - чи комп'ютерні ігри або їх скачування",,
+2024,,,,,"скачування фільмів, зображень, музики; перегляд телебачення чи відео; або прослуховування радіо чи музики; гра у відео - чи комп'ютерні ігри або їх скачування",,
+2015,,,,,"участь у соціальних мережах, спілкування (доступ до сайтів, чатів, блогів або обговорення онлайн)",,
+2016,,,,,"участь у соціальних мережах, спілкування (доступ до сайтів, чатів, блогів або обговорення онлайн)",,
+2017,,,,,"участь у соціальних мережах, спілкування (доступ до сайтів, чатів, блогів або обговорення онлайн)",,
+2018,,,,,"участь у соціальних мережах, спілкування (доступ до сайтів, чатів, блогів або обговорення онлайн)",,
+2019,,,,,"участь у соціальних мережах, спілкування (доступ до сайтів, чатів, блогів або обговорення онлайн)",,
+2020,,,,,"участь у соціальних мережах, спілкування (доступ до сайтів, чатів, блогів або обговорення онлайн)",,62.4
+2021,,,,,"участь у соціальних мережах, спілкування (доступ до сайтів, чатів, блогів або обговорення онлайн)",,64.3
+2022,,,,,"участь у соціальних мережах, спілкування (доступ до сайтів, чатів, блогів або обговорення онлайн)",,
+2023,,,,,"участь у соціальних мережах, спілкування (доступ до сайтів, чатів, блогів або обговорення онлайн)",,
+2024,,,,,"участь у соціальних мережах, спілкування (доступ до сайтів, чатів, блогів або обговорення онлайн)",,
+2015,,,,,скачування програмного забезпечення,,
+2016,,,,,скачування програмного забезпечення,,
+2017,,,,,скачування програмного забезпечення,,
+2018,,,,,скачування програмного забезпечення,,
+2019,,,,,скачування програмного забезпечення,,
+2020,,,,,скачування програмного забезпечення,,4.3
+2021,,,,,скачування програмного забезпечення,,3.2
+2022,,,,,скачування програмного забезпечення,,
+2023,,,,,скачування програмного забезпечення,,
+2024,,,,,скачування програмного забезпечення,,
+2015,,,,,"використання інтернет-сховища в особистих цілях для зберігання документів, зображень, музики, відео або інших файлів",,
+2016,,,,,"використання інтернет-сховища в особистих цілях для зберігання документів, зображень, музики, відео або інших файлів",,
+2017,,,,,"використання інтернет-сховища в особистих цілях для зберігання документів, зображень, музики, відео або інших файлів",,
+2018,,,,,"використання інтернет-сховища в особистих цілях для зберігання документів, зображень, музики, відео або інших файлів",,
+2019,,,,,"використання інтернет-сховища в особистих цілях для зберігання документів, зображень, музики, відео або інших файлів",,
+2020,,,,,"використання інтернет-сховища в особистих цілях для зберігання документів, зображень, музики, відео або інших файлів",,6.4
+2021,,,,,"використання інтернет-сховища в особистих цілях для зберігання документів, зображень, музики, відео або інших файлів",,5.4
+2022,,,,,"використання інтернет-сховища в особистих цілях для зберігання документів, зображень, музики, відео або інших файлів",,
+2023,,,,,"використання інтернет-сховища в особистих цілях для зберігання документів, зображень, музики, відео або інших файлів",,
+2024,,,,,"використання інтернет-сховища в особистих цілях для зберігання документів, зображень, музики, відео або інших файлів",,
+2015,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу",,
+2016,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу",,
+2017,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу",,
+2018,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу",,
+2019,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу",,
+2020,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу",,2.5
+2021,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу",,1.7
+2022,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу",,
+2023,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу",,
+2024,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу",,
+2015,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу, крім повних онлайн-курсів",,
+2016,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу, крім повних онлайн-курсів",,
+2017,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу, крім повних онлайн-курсів",,
+2018,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу, крім повних онлайн-курсів",,
+2019,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу, крім повних онлайн-курсів",,
+2020,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу, крім повних онлайн-курсів",,2.8
+2021,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу, крім повних онлайн-курсів",,1.9
+2022,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу, крім повних онлайн-курсів",,
+2023,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу, крім повних онлайн-курсів",,
+2024,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом онлайн-курсу, крім повних онлайн-курсів",,
+2015,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом спілкування через Інтернет з викладачами або студентами з використанням освітніх сайтів або порталів",,
+2016,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом спілкування через Інтернет з викладачами або студентами з використанням освітніх сайтів або порталів",,
+2017,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом спілкування через Інтернет з викладачами або студентами з використанням освітніх сайтів або порталів",,
+2018,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом спілкування через Інтернет з викладачами або студентами з використанням освітніх сайтів або порталів",,
+2019,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом спілкування через Інтернет з викладачами або студентами з використанням освітніх сайтів або порталів",,
+2020,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом спілкування через Інтернет з викладачами або студентами з використанням освітніх сайтів або порталів",,5.7
+2021,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом спілкування через Інтернет з викладачами або студентами з використанням освітніх сайтів або порталів",,5.2
+2022,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом спілкування через Інтернет з викладачами або студентами з використанням освітніх сайтів або порталів",,
+2023,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом спілкування через Інтернет з викладачами або студентами з використанням освітніх сайтів або порталів",,
+2024,,,,,"проведення навчальних заходів в освітніх, професійних або приватних цілях шляхом спілкування через Інтернет з викладачами або студентами з використанням освітніх сайтів або порталів",,
+2015,,,,,запис на прийом до лікаря-спеціаліста через Інтернет,,
+2016,,,,,запис на прийом до лікаря-спеціаліста через Інтернет,,
+2017,,,,,запис на прийом до лікаря-спеціаліста через Інтернет,,
+2018,,,,,запис на прийом до лікаря-спеціаліста через Інтернет,,
+2019,,,,,запис на прийом до лікаря-спеціаліста через Інтернет,,
+2020,,,,,запис на прийом до лікаря-спеціаліста через Інтернет,,14.6
+2021,,,,,запис на прийом до лікаря-спеціаліста через Інтернет,,19.0
+2022,,,,,запис на прийом до лікаря-спеціаліста через Інтернет,,
+2023,,,,,запис на прийом до лікаря-спеціаліста через Інтернет,,
+2024,,,,,запис на прийом до лікаря-спеціаліста через Інтернет,,
+2015,,,,,"пошук інформації, пов'язаної з питаннями здоров'я (ліки, медичні послуги, поради тощо) як для себе, так і для інших",,
+2016,,,,,"пошук інформації, пов'язаної з питаннями здоров'я (ліки, медичні послуги, поради тощо) як для себе, так і для інших",,
+2017,,,,,"пошук інформації, пов'язаної з питаннями здоров'я (ліки, медичні послуги, поради тощо) як для себе, так і для інших",,
+2018,,,,,"пошук інформації, пов'язаної з питаннями здоров'я (ліки, медичні послуги, поради тощо) як для себе, так і для інших",,
+2019,,,,,"пошук інформації, пов'язаної з питаннями здоров'я (ліки, медичні послуги, поради тощо) як для себе, так і для інших",,
+2020,,,,,"пошук інформації, пов'язаної з питаннями здоров'я (ліки, медичні послуги, поради тощо) як для себе, так і для інших",,32.6
+2021,,,,,"пошук інформації, пов'язаної з питаннями здоров'я (ліки, медичні послуги, поради тощо) як для себе, так і для інших",,31.3
+2022,,,,,"пошук інформації, пов'язаної з питаннями здоров'я (ліки, медичні послуги, поради тощо) як для себе, так і для інших",,
+2023,,,,,"пошук інформації, пов'язаної з питаннями здоров'я (ліки, медичні послуги, поради тощо) як для себе, так і для інших",,
+2024,,,,,"пошук інформації, пов'язаної з питаннями здоров'я (ліки, медичні послуги, поради тощо) як для себе, так і для інших",,
+2015,,,,,замовлення (купівля) товарів та послуг,,
+2016,,,,,замовлення (купівля) товарів та послуг,,
+2017,,,,,замовлення (купівля) товарів та послуг,,
+2018,,,,,замовлення (купівля) товарів та послуг,,
+2019,,,,,замовлення (купівля) товарів та послуг,,
+2020,,,,,замовлення (купівля) товарів та послуг,,24.3
+2021,,,,,замовлення (купівля) товарів та послуг,,24.6
+2022,,,,,замовлення (купівля) товарів та послуг,,
+2023,,,,,замовлення (купівля) товарів та послуг,,
+2024,,,,,замовлення (купівля) товарів та послуг,,
+2015,,,,,"телефонні переговори через інтернет/Volp (Skype, iTalk, через web-камеру)",,
+2016,,,,,"телефонні переговори через інтернет/Volp (Skype, iTalk, через web-камеру)",,
+2017,,,,,"телефонні переговори через інтернет/Volp (Skype, iTalk, через web-камеру)",,
+2018,,,,,"телефонні переговори через інтернет/Volp (Skype, iTalk, через web-камеру)",,
+2019,,,,,"телефонні переговори через інтернет/Volp (Skype, iTalk, через web-камеру)",,
+2020,,,,,"телефонні переговори через інтернет/Volp (Skype, iTalk, через web-камеру)",,37.0
+2021,,,,,"телефонні переговори через інтернет/Volp (Skype, iTalk, через web-камеру)",,39.4
+2022,,,,,"телефонні переговори через інтернет/Volp (Skype, iTalk, через web-камеру)",,
+2023,,,,,"телефонні переговори через інтернет/Volp (Skype, iTalk, через web-камеру)",,
+2024,,,,,"телефонні переговори через інтернет/Volp (Skype, iTalk, через web-камеру)",,
+2015,,,,,"розміщення думок з цивільних або політичних питань на веб-сайтах (з використанням блогів, соціальних мереж та ін.)",,
+2016,,,,,"розміщення думок з цивільних або політичних питань на веб-сайтах (з використанням блогів, соціальних мереж та ін.)",,
+2017,,,,,"розміщення думок з цивільних або політичних питань на веб-сайтах (з використанням блогів, соціальних мереж та ін.)",,
+2018,,,,,"розміщення думок з цивільних або політичних питань на веб-сайтах (з використанням блогів, соціальних мереж та ін.)",,
+2019,,,,,"розміщення думок з цивільних або політичних питань на веб-сайтах (з використанням блогів, соціальних мереж та ін.)",,
+2020,,,,,"розміщення думок з цивільних або політичних питань на веб-сайтах (з використанням блогів, соціальних мереж та ін.)",,0.6
+2021,,,,,"розміщення думок з цивільних або політичних питань на веб-сайтах (з використанням блогів, соціальних мереж та ін.)",,0.4
+2022,,,,,"розміщення думок з цивільних або політичних питань на веб-сайтах (з використанням блогів, соціальних мереж та ін.)",,
+2023,,,,,"розміщення думок з цивільних або політичних питань на веб-сайтах (з використанням блогів, соціальних мереж та ін.)",,
+2024,,,,,"розміщення думок з цивільних або політичних питань на веб-сайтах (з використанням блогів, соціальних мереж та ін.)",,
+2015,,,,,"участь в онлайн консультаціях, голосування з цивільних або політичних питань (наприклад, з питань міського планування, підписання петиції тощо)",,
+2016,,,,,"участь в онлайн консультаціях, голосування з цивільних або політичних питань (наприклад, з питань міського планування, підписання петиції тощо)",,
+2017,,,,,"участь в онлайн консультаціях, голосування з цивільних або політичних питань (наприклад, з питань міського планування, підписання петиції тощо)",,
+2018,,,,,"участь в онлайн консультаціях, голосування з цивільних або політичних питань (наприклад, з питань міського планування, підписання петиції тощо)",,
+2019,,,,,"участь в онлайн консультаціях, голосування з цивільних або політичних питань (наприклад, з питань міського планування, підписання петиції тощо)",,
+2020,,,,,"участь в онлайн консультаціях, голосування з цивільних або політичних питань (наприклад, з питань міського планування, підписання петиції тощо)",,0.4
+2021,,,,,"участь в онлайн консультаціях, голосування з цивільних або політичних питань (наприклад, з питань міського планування, підписання петиції тощо)",,0.1
+2022,,,,,"участь в онлайн консультаціях, голосування з цивільних або політичних питань (наприклад, з питань міського планування, підписання петиції тощо)",,
+2023,,,,,"участь в онлайн консультаціях, голосування з цивільних або політичних питань (наприклад, з питань міського планування, підписання петиції тощо)",,
+2024,,,,,"участь в онлайн консультаціях, голосування з цивільних або політичних питань (наприклад, з питань міського планування, підписання петиції тощо)",,
+2015,,,,,продаж товарів та послуг через Інтернет,,
+2016,,,,,продаж товарів та послуг через Інтернет,,
+2017,,,,,продаж товарів та послуг через Інтернет,,
+2018,,,,,продаж товарів та послуг через Інтернет,,
+2019,,,,,продаж товарів та послуг через Інтернет,,
+2020,,,,,продаж товарів та послуг через Інтернет,,2.9
+2021,,,,,продаж товарів та послуг через Інтернет,,1.9
+2022,,,,,продаж товарів та послуг через Інтернет,,
+2023,,,,,продаж товарів та послуг через Інтернет,,
+2024,,,,,продаж товарів та послуг через Інтернет,,
+2015,,,,,"користування послугами, пов'язаними з подорожами або розміщенням в готелях під час подорожей",,
+2016,,,,,"користування послугами, пов'язаними з подорожами або розміщенням в готелях під час подорожей",,
+2017,,,,,"користування послугами, пов'язаними з подорожами або розміщенням в готелях під час подорожей",,
+2018,,,,,"користування послугами, пов'язаними з подорожами або розміщенням в готелях під час подорожей",,
+2019,,,,,"користування послугами, пов'язаними з подорожами або розміщенням в готелях під час подорожей",,
+2020,,,,,"користування послугами, пов'язаними з подорожами або розміщенням в готелях під час подорожей",,0.3
+2021,,,,,"користування послугами, пов'язаними з подорожами або розміщенням в готелях під час подорожей",,0.4
+2022,,,,,"користування послугами, пов'язаними з подорожами або розміщенням в готелях під час подорожей",,
+2023,,,,,"користування послугами, пов'язаними з подорожами або розміщенням в готелях під час подорожей",,
+2024,,,,,"користування послугами, пов'язаними з подорожами або розміщенням в готелях під час подорожей",,
+2015,,,,,пошук роботи або відправка заяви про прийом на роботу,,
+2016,,,,,пошук роботи або відправка заяви про прийом на роботу,,
+2017,,,,,пошук роботи або відправка заяви про прийом на роботу,,
+2018,,,,,пошук роботи або відправка заяви про прийом на роботу,,
+2019,,,,,пошук роботи або відправка заяви про прийом на роботу,,
+2020,,,,,пошук роботи або відправка заяви про прийом на роботу,,3.3
+2021,,,,,пошук роботи або відправка заяви про прийом на роботу,,2.3
+2022,,,,,пошук роботи або відправка заяви про прийом на роботу,,
+2023,,,,,пошук роботи або відправка заяви про прийом на роботу,,
+2024,,,,,пошук роботи або відправка заяви про прийом на роботу,,
+2015,,,,,"пошук інформації щодо товарів та послуг, не названих раніше",,
+2016,,,,,"пошук інформації щодо товарів та послуг, не названих раніше",,
+2017,,,,,"пошук інформації щодо товарів та послуг, не названих раніше",,
+2018,,,,,"пошук інформації щодо товарів та послуг, не названих раніше",,
+2019,,,,,"пошук інформації щодо товарів та послуг, не названих раніше",,
+2020,,,,,"пошук інформації щодо товарів та послуг, не названих раніше",,5.3
+2021,,,,,"пошук інформації щодо товарів та послуг, не названих раніше",,5.2
+2022,,,,,"пошук інформації щодо товарів та послуг, не названих раніше",,
+2023,,,,,"пошук інформації щодо товарів та послуг, не названих раніше",,
+2024,,,,,"пошук інформації щодо товарів та послуг, не названих раніше",,
 2015,,,,,,,
 2016,,,,,,,
 2017,,,,,,,

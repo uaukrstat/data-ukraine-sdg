@@ -1,14 +1,14 @@
-Year,Region,group_label_230,Age,Gender,Type of place of residence,Type of legal aid,Category of issues,Value
-2015,group_label_322,,,,,,,41309.0
-2016,group_label_322,,,,,,,275039.0
-2017,group_label_322,,,,,,,567340.0
-2018,group_label_322,,,,,,,623842.0
-2019,group_label_322,,,,,,,623977.0
-2020,group_label_322,,,,,,,568931.0
-2021,group_label_322,,,,,,,713202.0
-2022,group_label_322,,,,,,,556548.0
-2023,group_label_322,,,,,,,563654.0
-2024,group_label_322,,,,,,,524070.0
+Year,Region,including who have applied to a single contact number of the free legal aid system 0-800-213-103 2,Age,Gender,Type of place of residence,Type of legal aid,Category of issues,Value
+2015,Number of registered client requests for free legal assistance,,,,,,,41309.0
+2016,Number of registered client requests for free legal assistance,,,,,,,275039.0
+2017,Number of registered client requests for free legal assistance,,,,,,,567340.0
+2018,Number of registered client requests for free legal assistance,,,,,,,623842.0
+2019,Number of registered client requests for free legal assistance,,,,,,,623977.0
+2020,Number of registered client requests for free legal assistance,,,,,,,568931.0
+2021,Number of registered client requests for free legal assistance,,,,,,,713202.0
+2022,Number of registered client requests for free legal assistance,,,,,,,556548.0
+2023,Number of registered client requests for free legal assistance,,,,,,,563654.0
+2024,Number of registered client requests for free legal assistance,,,,,,,524070.0
 2015,Autonomous Republic of Crimea,,,,,,,
 2016,Autonomous Republic of Crimea,,,,,,,
 2017,Autonomous Republic of Crimea,,,,,,,
@@ -279,46 +279,46 @@ Year,Region,group_label_230,Age,Gender,Type of place of residence,Type of legal 
 2022,city Sevastopol,,,,,,,
 2023,city Sevastopol,,,,,,,
 2024,city Sevastopol,,,,,,,
-2015,,group_label_323,,,,,,
-2016,,group_label_323,,,,,,
-2017,,group_label_323,,,,,,
-2018,,group_label_323,,,,,,
-2019,,group_label_323,,,,,,
-2020,,group_label_323,,,,,,
-2021,,group_label_323,,,,,,
-2022,,group_label_323,,,,,,121832.0
-2023,,group_label_323,,,,,,121108.0
-2024,,group_label_323,,,,,,102969.0
-2015,,,up to 18 years,,,,,169.0
-2016,,,up to 18 years,,,,,1413.0
-2017,,,up to 18 years,,,,,1803.0
-2018,,,up to 18 years,,,,,2051.0
-2019,,,up to 18 years,,,,,1976.0
-2020,,,up to 18 years,,,,,1893.0
-2021,,,up to 18 years,,,,,2972.0
-2022,,,up to 18 years,,,,,4601.0
-2023,,,up to 18 years,,,,,4830.0
-2024,,,up to 18 years,,,,,5253.0
-2015,,,group_label_232,,,,,5827.0
-2016,,,group_label_232,,,,,48456.0
-2017,,,group_label_232,,,,,88404.0
-2018,,,group_label_232,,,,,86792.0
-2019,,,group_label_232,,,,,70756.0
-2020,,,group_label_232,,,,,71945.0
-2021,,,group_label_232,,,,,93881.0
-2022,,,group_label_232,,,,,85801.0
-2023,,,group_label_232,,,,,75787.0
-2024,,,group_label_232,,,,,83558.0
-2015,,,group_label_233,,,,,18009.0
-2016,,,group_label_233,,,,,110488.0
-2017,,,group_label_233,,,,,196311.0
-2018,,,group_label_233,,,,,193433.0
-2019,,,group_label_233,,,,,185227.0
-2020,,,group_label_233,,,,,172036.0
-2021,,,group_label_233,,,,,220951.0
-2022,,,group_label_233,,,,,192322.0
-2023,,,group_label_233,,,,,185630.0
-2024,,,group_label_233,,,,,167067.0
+2015,,including who have applied to a single contact number of the free legal aid system 0-800-213-103 2,,,,,,
+2016,,including who have applied to a single contact number of the free legal aid system 0-800-213-103 2,,,,,,
+2017,,including who have applied to a single contact number of the free legal aid system 0-800-213-103 2,,,,,,
+2018,,including who have applied to a single contact number of the free legal aid system 0-800-213-103 2,,,,,,
+2019,,including who have applied to a single contact number of the free legal aid system 0-800-213-103 2,,,,,,
+2020,,including who have applied to a single contact number of the free legal aid system 0-800-213-103 2,,,,,,
+2021,,including who have applied to a single contact number of the free legal aid system 0-800-213-103 2,,,,,,
+2022,,including who have applied to a single contact number of the free legal aid system 0-800-213-103 2,,,,,,121832.0
+2023,,including who have applied to a single contact number of the free legal aid system 0-800-213-103 2,,,,,,121108.0
+2024,,including who have applied to a single contact number of the free legal aid system 0-800-213-103 2,,,,,,102969.0
+2015,,,under 18 years old,,,,,169.0
+2016,,,under 18 years old,,,,,1413.0
+2017,,,under 18 years old,,,,,1803.0
+2018,,,under 18 years old,,,,,2051.0
+2019,,,under 18 years old,,,,,1976.0
+2020,,,under 18 years old,,,,,1893.0
+2021,,,under 18 years old,,,,,2972.0
+2022,,,under 18 years old,,,,,4601.0
+2023,,,under 18 years old,,,,,4830.0
+2024,,,under 18 years old,,,,,5253.0
+2015,,,18–35 years,,,,,5827.0
+2016,,,18–35 years,,,,,48456.0
+2017,,,18–35 years,,,,,88404.0
+2018,,,18–35 years,,,,,86792.0
+2019,,,18–35 years,,,,,70756.0
+2020,,,18–35 years,,,,,71945.0
+2021,,,18–35 years,,,,,93881.0
+2022,,,18–35 years,,,,,85801.0
+2023,,,18–35 years,,,,,75787.0
+2024,,,18–35 years,,,,,83558.0
+2015,,,36–60 years,,,,,18009.0
+2016,,,36–60 years,,,,,110488.0
+2017,,,36–60 years,,,,,196311.0
+2018,,,36–60 years,,,,,193433.0
+2019,,,36–60 years,,,,,185227.0
+2020,,,36–60 years,,,,,172036.0
+2021,,,36–60 years,,,,,220951.0
+2022,,,36–60 years,,,,,192322.0
+2023,,,36–60 years,,,,,185630.0
+2024,,,36–60 years,,,,,167067.0
 2015,,,61 years and older,,,,,14298.0
 2016,,,61 years and older,,,,,59624.0
 2017,,,61 years and older,,,,,106710.0

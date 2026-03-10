@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "production_using_technologies_of",
-                "high_level",
-                "medium_high_level",
-                "medium_low_level",
-                "low_level",
+                "production using technologies of",
+                "high level",
+                "medium-high level",
+                "medium-low level",
+                "low level",
                 ""
               ]
             },
-            "title": "By special aggregations"
+            "title": "special aggregations"
           },
           {
             "name": "Value",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_322",
+                "Number of registered client requests for free legal assistance",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -58,20 +58,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_323",
+                "including who have applied to a single contact number of the free legal aid system 0-800-213-103 2",
                 ""
               ]
             },
-            "title": "group_label_230"
+            "title": "including who have applied to a single contact number of the free legal aid system 0-800-213-103 2"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 18 years",
-                "group_label_232",
-                "group_label_233",
+                "under 18 years old",
+                "18–35 years",
+                "36–60 years",
                 "61 years and older",
                 ""
               ]

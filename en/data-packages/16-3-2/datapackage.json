@@ -58,11 +58,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_229",
+                "By disability criterion",
                 ""
               ]
             },
-            "title": "group_label_229"
+            "title": "By disability criterion"
           },
           {
             "name": "Value",

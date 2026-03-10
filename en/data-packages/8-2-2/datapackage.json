@@ -99,16 +99,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_311",
-                "group_label_312",
-                "group_label_313",
-                "group_label_314",
-                "group_label_315",
-                "group_label_319",
+                "full tertiary education",
+                "basic tertiary education",
+                "incomplete tertiary education",
+                "vocational and technical education",
+                "full general secondary education",
+                "basic, primary general secondary or no education",
                 ""
               ]
             },
-            "title": "group_31"
+            "title": "Education"
           },
           {
             "name": "Value",
