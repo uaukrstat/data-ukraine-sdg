@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Рік"
+          },
+          {
+            "name": "By special aggregations",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "production_using_technologies_of",
+                "high_level",
+                "medium_high_level",
+                "medium_low_level",
+                "low_level",
+                ""
+              ]
+            },
+            "title": "By special aggregations"
           },
           {
             "name": "Value",
@@ -26,5 +41,5 @@
   ],
   "profile": "data-package",
   "name": "9-2-2",
-  "title": "9-2-2"
+  "title": "Частка зайнятих працівників на підприємствах, які належать до виробництва з використанням технологій високого, середньовисокого, середньонизького та низького рівня, у загальній кількості зайнятих працівників на підприємствах промисловості, відсотків"
 }

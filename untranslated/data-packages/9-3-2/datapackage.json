@@ -15,20 +15,19 @@
             "type": "integer"
           },
           {
-            "name": "Object",
+            "name": "m_trans",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_health",
-                "2_educational",
-                "3_soc_prot",
-                "4_employ",
-                "5_admin",
-                "6_nation",
-                "7_transport",
-                "8_pension",
-                "9_civ_prot",
-                "99_judge",
+                "tr_1_rail",
+                "tr_2_motor",
+                "tr_3_sea",
+                "tr_4_river",
+                "tr_6_air",
+                "3_tr_urban",
+                "tr_7_tram",
+                "tr_8_trolley",
+                "tr_9_subway",
                 ""
               ]
             }
@@ -43,5 +42,5 @@
   ],
   "profile": "data-package",
   "name": "9-3-2",
-  "title": "9-3-2"
+  "title": "global_indicators.9-3-2-title"
 }

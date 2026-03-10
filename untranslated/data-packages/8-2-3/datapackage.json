@@ -52,12 +52,12 @@
             }
           },
           {
-            "name": "Gender",
+            "name": "group_13",
             "type": "string",
             "constraints": {
               "enum": [
-                "2_females",
-                "males",
+                "group_label_174",
+                "group_label_175",
                 ""
               ]
             }
@@ -67,8 +67,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "group_label_189",
+                "group_label_190",
                 ""
               ]
             }

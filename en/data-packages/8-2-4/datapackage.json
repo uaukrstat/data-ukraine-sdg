@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -16,29 +16,64 @@
             "title": "Year"
           },
           {
-            "name": "Gender",
+            "name": "group_32",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
+                "group_label_320",
+                "group_label_321",
+                ""
+              ]
+            },
+            "title": "group_32"
+          },
+          {
+            "name": "group_33",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
                 "men",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "group_33"
           },
           {
-            "name": "group_16",
+            "name": "group_34",
             "type": "string",
             "constraints": {
               "enum": [
                 "urban",
                 "rural",
-                "Share of youth aged 15–34 who are not in employment, education or training, in the total population of the corresponding age, percent",
                 ""
               ]
             },
-            "title": "Type of place of residence"
+            "title": "group_34"
+          },
+          {
+            "name": "group_35",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "group_35"
+          },
+          {
+            "name": "group_36",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "group_36"
           },
           {
             "name": "Value",

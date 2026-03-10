@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "By special aggregations",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "production_using_technologies_of",
+                "high_level",
+                "medium_high_level",
+                "medium_low_level",
+                "low_level",
+                ""
+              ]
+            },
+            "title": "By special aggregations"
           },
           {
             "name": "Value",
@@ -26,5 +41,5 @@
   ],
   "profile": "data-package",
   "name": "9-2-2",
-  "title": "9-2-2"
+  "title": "Share of persons employed at enterprises that belong to production using technologies of high, medium-high, medium-low and low level in the total number of persons employed at industrial enterprises, percent"
 }

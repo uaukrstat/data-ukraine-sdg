@@ -16,14 +16,20 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "m_trans",
+            "type": "string",
             "constraints": {
               "enum": [
+                "rail",
+                "motor",
+                "sea",
+                "river",
+                "pipeline",
+                "air",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Mode of transport"
           },
           {
             "name": "Value",

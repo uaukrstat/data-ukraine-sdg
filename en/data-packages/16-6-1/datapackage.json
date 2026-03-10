@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
+                "group_label_322",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -58,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_230",
+                "group_label_323",
                 ""
               ]
             },

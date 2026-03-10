@@ -16,14 +16,19 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "By special aggregations",
+            "type": "string",
             "constraints": {
               "enum": [
+                "production_using_technologies_of",
+                "high_level",
+                "medium_high_level",
+                "medium_low_level",
+                "low_level",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "By special aggregations"
           },
           {
             "name": "Value",

@@ -9,6 +9,7 @@ Year,By level of education,Value
 2022,,6.0
 2023,,6.0
 2023,,6.0
+2024,,6.0
 2015,primary_level_of_education,
 2016,primary_level_of_education,
 2017,primary_level_of_education,
@@ -19,6 +20,7 @@ Year,By level of education,Value
 2022,primary_level_of_education,4.0
 2023,primary_level_of_education,4.0
 2023,primary_level_of_education,4.0
+2024,primary_level_of_education,4.0
 2015,basic_secondary_level_of_education,
 2016,basic_secondary_level_of_education,
 2017,basic_secondary_level_of_education,
@@ -29,6 +31,7 @@ Year,By level of education,Value
 2022,basic_secondary_level_of_education,1.0
 2023,basic_secondary_level_of_education,1.0
 2023,basic_secondary_level_of_education,1.0
+2024,basic_secondary_level_of_education,1.0
 2015,profile_level_of_education,
 2016,profile_level_of_education,
 2017,profile_level_of_education,
@@ -39,3 +42,4 @@ Year,By level of education,Value
 2022,profile_level_of_education,1.0
 2023,profile_level_of_education,1.0
 2023,profile_level_of_education,1.0
+2024,profile_level_of_education,1.0

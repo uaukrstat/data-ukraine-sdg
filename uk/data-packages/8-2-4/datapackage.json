@@ -16,7 +16,19 @@
             "title": "Рік"
           },
           {
-            "name": "Gender",
+            "name": "group_32",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_320",
+                "group_label_321",
+                ""
+              ]
+            },
+            "title": "group_32"
+          },
+          {
+            "name": "group_33",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,20 +37,43 @@
                 ""
               ]
             },
-            "title": "Стать"
+            "title": "group_33"
           },
           {
-            "name": "group_16",
+            "name": "group_34",
             "type": "string",
             "constraints": {
               "enum": [
                 "міська",
                 "сільська",
-                "Частка молоді у віці 15–34 роки, яка не працює, не навчається і не набуває професійних навичок, у загальній кількості населення відповідного віку, відсотків",
                 ""
               ]
             },
-            "title": "Тип місцевості проживання"
+            "title": "group_34"
+          },
+          {
+            "name": "group_35",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "жінки",
+                "чоловіки",
+                ""
+              ]
+            },
+            "title": "group_35"
+          },
+          {
+            "name": "group_36",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "міська",
+                "сільська",
+                ""
+              ]
+            },
+            "title": "group_36"
           },
           {
             "name": "Value",

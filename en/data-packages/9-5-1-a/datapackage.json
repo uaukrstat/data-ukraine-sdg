@@ -12,18 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
             "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
+            "title": "Year"
           },
           {
             "name": "Value",
@@ -36,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-5-1-a",
-  "title": "Share of expenditure on scientific research and development in GDP, %"
+  "title": "9-5-1-a"
 }

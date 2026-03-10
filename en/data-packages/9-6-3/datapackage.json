@@ -12,8 +12,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "Autonomous Republic of Crimea",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -26,5 +75,5 @@
   ],
   "profile": "data-package",
   "name": "9-6-3",
-  "title": "9-6-3"
+  "title": "Share of households with fixed broadband Internet access at a speed of at least 1 Gbps, percent"
 }

@@ -100,7 +100,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "primary education",
+                "Primary education",
                 "Secondary education",
                 "Secondary vocational education",
                 "tertiary education",

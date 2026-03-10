@@ -95,7 +95,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A551",
+                "group_label_213",
                 "group_label_214",
                 "group_label_215",
                 "tertiary_education",

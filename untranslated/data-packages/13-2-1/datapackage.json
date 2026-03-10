@@ -19,6 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ukraine",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",

@@ -15,25 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "Ec_activ",
+            "name": "group_30",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_agricul",
-                "2_indus",
-                "7_constr",
-                "14_motor_veh",
+                "group_label_317",
+                "group_label_299",
+                "group_label_300",
+                "group_label_301",
                 "group_label_269",
-                "16_cater",
-                "17_telecom",
-                "18_insurance",
-                "19_estate",
-                "20_scientific",
-                "21_support",
-                "23_educ",
+                "group_label_302",
+                "group_label_303",
+                "group_label_304",
+                "group_label_305",
+                "group_label_306",
+                "group_label_307",
+                "group_label_308",
                 "group_label_271",
-                "25_arts",
-                "26_other_serv",
+                "group_label_309",
+                "group_label_318",
                 ""
               ]
             }

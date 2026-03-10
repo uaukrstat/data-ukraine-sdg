@@ -71,44 +71,44 @@
             "title": "Age groups"
           },
           {
-            "name": "Gender",
+            "name": "group_13",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "men",
+                "Women",
+                "Men",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
             "name": "group_16",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
             "title": "Type of place of residence"
           },
           {
-            "name": "23_educ",
+            "name": "group_31",
             "type": "string",
             "constraints": {
               "enum": [
-                "Complete higher",
-                "Basic higher",
-                "Incomplete higher",
-                "Professional and technical",
-                "Complete total average",
-                "Basic, primary general secondary, or no education",
+                "group_label_311",
+                "group_label_312",
+                "group_label_313",
+                "group_label_314",
+                "group_label_315",
+                "group_label_319",
                 ""
               ]
             },
-            "title": "education"
+            "title": "group_31"
           },
           {
             "name": "Value",

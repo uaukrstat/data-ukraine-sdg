@@ -54,24 +54,24 @@
             "title": "Region"
           },
           {
-            "name": "Gender",
+            "name": "group_13",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "men",
+                "Women",
+                "Men",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
             "name": "group_16",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "Urban",
+                "Rural",
                 ""
               ]
             },

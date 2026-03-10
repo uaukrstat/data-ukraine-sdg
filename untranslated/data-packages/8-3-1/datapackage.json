@@ -26,18 +26,18 @@
             }
           },
           {
-            "name": "Gender",
+            "name": "group_13",
             "type": "string",
             "constraints": {
               "enum": [
-                "2_females",
-                "males",
+                "group_label_174",
+                "group_label_175",
                 ""
               ]
             }
           },
           {
-            "name": "Ec_activ",
+            "name": "group_30",
             "type": "string",
             "constraints": {
               "enum": [
@@ -45,12 +45,12 @@
                 "group_label_284",
                 "group_label_285",
                 "group_label_286",
-                "7_constr",
+                "group_label_300",
                 "group_label_287",
                 "group_label_288",
                 "group_label_289",
                 "group_label_290",
-                "s_14_transp",
+                "group_label_316",
                 "group_label_291",
                 "group_label_292",
                 "group_label_293",

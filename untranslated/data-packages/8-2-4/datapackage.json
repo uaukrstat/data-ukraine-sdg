@@ -15,24 +15,56 @@
             "type": "integer"
           },
           {
-            "name": "Gender",
+            "name": "group_32",
             "type": "string",
             "constraints": {
               "enum": [
-                "2_females",
+                "group_label_320",
+                "group_label_321",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_33",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
                 "males",
                 ""
               ]
             }
           },
           {
-            "name": "group_16",
+            "name": "group_34",
             "type": "string",
             "constraints": {
               "enum": [
                 "urban",
                 "rural",
-                "group_label_280",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_35",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_36",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
                 ""
               ]
             }

@@ -16,24 +16,23 @@
             "title": "Year"
           },
           {
-            "name": "Object",
+            "name": "m_trans",
             "type": "string",
             "constraints": {
               "enum": [
-                "Health care facilities",
-                "Educational institutions",
-                "Structural subdivisions on social protection issues",
-                "Employment centers",
-                "Centers for administrative services",
-                "National institutions",
-                "Railway stations, airports, bus stations",
-                "Institutions of the pension fund",
-                "Civil protection structures",
-                "Judge",
+                "rail",
+                "motor",
+                "sea",
+                "river",
+                "air",
+                "City electric transport",
+                "by trams",
+                "by trolleybuses",
+                "by subway trains",
                 ""
               ]
             },
-            "title": "Object"
+            "title": "Mode of transport"
           },
           {
             "name": "Value",
@@ -46,5 +45,5 @@
   ],
   "profile": "data-package",
   "name": "9-3-2",
-  "title": "9-3-2"
+  "title": "Number of passengers transported by all modes of transport, million persons per year"
 }

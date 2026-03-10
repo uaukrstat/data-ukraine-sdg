@@ -1,11 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
-1_health,2,2
-2_educational,2,2
-3_soc_prot,2,2
-4_employ,2,2
-5_admin,2,2
-6_nation,2,2
-7_transport,2,2
-8_pension,2,2
-99_judge,2,2
-9_civ_prot,2,2
+1_health,1,1
+2_educational,1,1
+3_soc_prot,1,1
+4_employ,1,1
+5_admin,1,1
+6_nation,1,1
+7_transport,1,1
+8_pension,1,1
+99_judge,1,1
+9_civ_prot,1,1

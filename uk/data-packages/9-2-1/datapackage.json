@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -16,14 +16,19 @@
             "title": "Рік"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "By special aggregations",
+            "type": "string",
             "constraints": {
               "enum": [
+                "production_using_technologies_of",
+                "high_level",
+                "medium_high_level",
+                "medium_low_level",
+                "low_level",
                 ""
               ]
             },
-            "title": "Група"
+            "title": "By special aggregations"
           },
           {
             "name": "Value",

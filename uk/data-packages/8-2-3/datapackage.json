@@ -54,7 +54,7 @@
             "title": "Область"
           },
           {
-            "name": "Gender",
+            "name": "group_13",
             "type": "string",
             "constraints": {
               "enum": [

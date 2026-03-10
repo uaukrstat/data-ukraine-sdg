@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "rural",
+                "urban",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "Households",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "hh_ch_v2",
+                "hh_ch_0_v2",
+                ""
+              ]
+            },
+            "title": "Household type"
           },
           {
             "name": "Value",
@@ -26,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "7-6-4",
-  "title": "7-6-4"
+  "title": "Average monthly share of the total expenditures of an average household for housing and communal services (apartment building management service, natural gas supply and distribution services, electricity supply and distribution services, heat supply, hot water supply, centralized water supply, centralized water drainage, household waste management), which is covered by benefits and subsidies, percent"
 }

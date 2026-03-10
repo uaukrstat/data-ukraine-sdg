@@ -15,10 +15,16 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
+            "name": "m_trans",
+            "type": "string",
             "constraints": {
               "enum": [
+                "tr_1_rail",
+                "tr_2_motor",
+                "tr_3_sea",
+                "tr_4_river",
+                "tr_5_pipeline",
+                "tr_6_air",
                 ""
               ]
             }

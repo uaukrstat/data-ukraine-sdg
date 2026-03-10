@@ -12,7 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "By special aggregations",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "production_using_technologies_of",
+                "high_level",
+                "medium_high_level",
+                "medium_low_level",
+                "low_level",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "9-2-2",
-  "title": "9-2-2"
+  "title": "global_indicators.9-2-2-title"
 }

@@ -71,7 +71,7 @@
             "title": "Вікові групи"
           },
           {
-            "name": "Gender",
+            "name": "group_13",
             "type": "string",
             "constraints": {
               "enum": [
@@ -95,20 +95,20 @@
             "title": "Тип місцевості проживання"
           },
           {
-            "name": "23_educ",
+            "name": "group_31",
             "type": "string",
             "constraints": {
               "enum": [
-                "Повна вища",
-                "Базова вища",
-                "Неповна вища",
-                "Професійно-технічна",
-                "Повна загальна середня",
-                "базова, початкова загальна середня або не мають освіти",
+                "group_label_311",
+                "group_label_312",
+                "group_label_313",
+                "group_label_314",
+                "group_label_315",
+                "group_label_319",
                 ""
               ]
             },
-            "title": "Освіта"
+            "title": "group_31"
           },
           {
             "name": "Value",

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -28,19 +28,19 @@
             "title": "Total number and fatal outcome"
           },
           {
-            "name": "Gender",
+            "name": "group_13",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "men",
+                "Women",
+                "Men",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
-            "name": "Ec_activ",
+            "name": "group_30",
             "type": "string",
             "constraints": {
               "enum": [
@@ -48,12 +48,12 @@
                 "Metal ore and non-metal mining industry",
                 "Oil and gas extraction industry and geological exploration",
                 "Energy sector",
-                "Construction",
+                "group_label_300",
                 "Boiler supervision, lifting equipment",
                 "Machine building",
                 "Metallurgical industry",
                 "Chemical industry",
-                "transport",
+                "group_label_316",
                 "Communications",
                 "Gas industry",
                 "Housing and utilities sector",
@@ -64,7 +64,7 @@
                 ""
               ]
             },
-            "title": "Еconomic activity"
+            "title": "group_30"
           },
           {
             "name": "Value",
