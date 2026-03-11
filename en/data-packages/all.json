@@ -14730,7 +14730,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -16842,7 +16841,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "city Sevastopol",
                 "Vinnytsya",
