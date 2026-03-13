@@ -1014,12 +1014,6 @@
                 "Chernihiv",
                 "the city of Kyiv",
                 "city Sevastopol",
-                "18_reg_Ivano_Frankivsk",
-                "19_reg_Kyivska",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytskyi",
-                "31_reg_Khmelnytskyy",
-                "35_reg_Kyiv",
                 ""
               ]
             },
@@ -3931,6 +3925,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -3943,6 +3938,7 @@
                 "Kirovohrad",
                 "Luhansk",
                 "Lviv",
+                "Mykolayiv",
                 "Odesa",
                 "Poltava",
                 "Rivne",
@@ -3950,11 +3946,12 @@
                 "Ternopil",
                 "Kharkiv",
                 "Kherson",
+                "Khmelnytskiy",
                 "Cherkasy",
+                "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytsya",
+                "city Sevastopol",
                 ""
               ]
             },
@@ -4791,6 +4788,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -4816,6 +4814,7 @@
                 "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
+                "city Sevastopol",
                 ""
               ]
             },
@@ -5132,6 +5131,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -5139,10 +5139,12 @@
                 "Zhytomyr",
                 "Zakarpattya",
                 "Zaporizhzhya",
+                "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
                 "Luhansk",
                 "Lviv",
+                "Mykolayiv",
                 "Odesa",
                 "Poltava",
                 "Rivne",
@@ -5150,13 +5152,12 @@
                 "Ternopil",
                 "Kharkiv",
                 "Kherson",
+                "Khmelnytskiy",
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
-                "18_reg_Ivano_Frankivsk",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytskyi",
+                "city Sevastopol",
                 ""
               ]
             },
@@ -6209,6 +6210,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -6221,6 +6223,7 @@
                 "Kirovohrad",
                 "Luhansk",
                 "Lviv",
+                "Mykolayiv",
                 "Odesa",
                 "Poltava",
                 "Rivne",
@@ -6228,12 +6231,12 @@
                 "Ternopil",
                 "Kharkiv",
                 "Kherson",
+                "Khmelnytskiy",
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytsya",
+                "city Sevastopol",
                 ""
               ]
             },
@@ -9339,6 +9342,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -9351,6 +9355,7 @@
                 "Kirovohrad",
                 "Luhansk",
                 "Lviv",
+                "Mykolayiv",
                 "Odesa",
                 "Poltava",
                 "Rivne",
@@ -9358,12 +9363,12 @@
                 "Ternopil",
                 "Kharkiv",
                 "Kherson",
+                "Khmelnytskiy",
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytsya",
+                "city Sevastopol",
                 ""
               ]
             },
@@ -12687,15 +12692,18 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
+                "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
                 "Zaporizhzhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
+                "Luhansk",
                 "Lviv",
                 "Mykolayiv",
                 "Odesa",
@@ -12710,6 +12718,7 @@
                 "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
+                "city Sevastopol",
                 ""
               ]
             },
@@ -13011,11 +13020,31 @@
               "enum": [
                 "Ukraine",
                 "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
                 "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
                 "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
                 "Mykolayiv",
                 "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
                 "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -14334,12 +14363,14 @@
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
+                "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
                 "Zaporizhzhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
+                "Luhansk",
                 "Lviv",
                 "Mykolayiv",
                 "Odesa",
@@ -15310,6 +15341,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -15320,7 +15352,9 @@
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
+                "Luhansk",
                 "Lviv",
+                "Mykolayiv",
                 "Odesa",
                 "Poltava",
                 "Rivne",
@@ -15328,12 +15362,12 @@
                 "Ternopil",
                 "Kharkiv",
                 "Kherson",
+                "Khmelnytskiy",
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytsya",
+                "city Sevastopol",
                 ""
               ]
             },
@@ -15562,6 +15596,7 @@
             "constraints": {
               "enum": [
                 "Ukraine",
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -15587,6 +15622,7 @@
                 "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
+                "city Sevastopol",
                 ""
               ]
             },
@@ -16990,12 +17026,14 @@
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
+                "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
                 "Zaporizhzhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
+                "Luhansk",
                 "Lviv",
                 "Mykolayiv",
                 "Odesa",
@@ -17604,7 +17642,33 @@
             "constraints": {
               "enum": [
                 "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
                 "the city of Kyiv",
+                "city Sevastopol",
                 "Center",
                 "East",
                 "South",
@@ -18687,6 +18751,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -18712,6 +18777,7 @@
                 "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
+                "city Sevastopol",
                 ""
               ]
             },

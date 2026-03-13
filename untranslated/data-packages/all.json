@@ -942,12 +942,6 @@
                 "34_reg_Chernihiv",
                 "35_reg_Kyiv_city",
                 "city_Sevastopol",
-                "18_reg_Ivano_Frankivsk",
-                "19_reg_Kyivska",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytskyi",
-                "31_reg_Khmelnytskyy",
-                "35_reg_Kyiv",
                 ""
               ]
             }
@@ -3684,6 +3678,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",
@@ -3696,6 +3691,7 @@
                 "20_reg_Kirovohrad",
                 "21_reg_Luhansk",
                 "22_reg_Lviv",
+                "23_reg_Mykolayiv",
                 "24_reg_Odesa",
                 "25_reg_Poltava",
                 "26_reg_Rivne",
@@ -3703,11 +3699,12 @@
                 "28_reg_Ternopil",
                 "29_reg_Kharkiv",
                 "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
                 "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
                 "35_reg_Kyiv_city",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytsya",
+                "city_Sevastopol",
                 ""
               ]
             }
@@ -4476,6 +4473,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",
@@ -4501,6 +4499,7 @@
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
                 "35_reg_Kyiv_city",
+                "city_Sevastopol",
                 ""
               ]
             }
@@ -4790,6 +4789,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",
@@ -4797,10 +4797,12 @@
                 "15_reg_Zhytomyr",
                 "16_reg_Zakarpattya",
                 "17_reg_Zaporizhzhya",
+                "18_reg_Ivano-Frankivsk",
                 "19_reg_Kyiv",
                 "20_reg_Kirovohrad",
                 "21_reg_Luhansk",
                 "22_reg_Lviv",
+                "23_reg_Mykolayiv",
                 "24_reg_Odesa",
                 "25_reg_Poltava",
                 "26_reg_Rivne",
@@ -4808,13 +4810,12 @@
                 "28_reg_Ternopil",
                 "29_reg_Kharkiv",
                 "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
                 "35_reg_Kyiv_city",
-                "18_reg_Ivano_Frankivsk",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytskyi",
+                "city_Sevastopol",
                 ""
               ]
             }
@@ -5781,6 +5782,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",
@@ -5793,6 +5795,7 @@
                 "20_reg_Kirovohrad",
                 "21_reg_Luhansk",
                 "22_reg_Lviv",
+                "23_reg_Mykolayiv",
                 "24_reg_Odesa",
                 "25_reg_Poltava",
                 "26_reg_Rivne",
@@ -5800,12 +5803,12 @@
                 "28_reg_Ternopil",
                 "29_reg_Kharkiv",
                 "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
                 "35_reg_Kyiv_city",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytsya",
+                "city_Sevastopol",
                 ""
               ]
             }
@@ -8735,6 +8738,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",
@@ -8747,6 +8751,7 @@
                 "20_reg_Kirovohrad",
                 "21_reg_Luhansk",
                 "22_reg_Lviv",
+                "23_reg_Mykolayiv",
                 "24_reg_Odesa",
                 "25_reg_Poltava",
                 "26_reg_Rivne",
@@ -8754,12 +8759,12 @@
                 "28_reg_Ternopil",
                 "29_reg_Kharkiv",
                 "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
                 "35_reg_Kyiv_city",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytsya",
+                "city_Sevastopol",
                 ""
               ]
             }
@@ -11839,15 +11844,18 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
                 "15_reg_Zhytomyr",
                 "16_reg_Zakarpattya",
                 "17_reg_Zaporizhzhya",
                 "18_reg_Ivano-Frankivsk",
                 "19_reg_Kyiv",
                 "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
                 "22_reg_Lviv",
                 "23_reg_Mykolayiv",
                 "24_reg_Odesa",
@@ -11862,6 +11870,7 @@
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
                 "35_reg_Kyiv_city",
+                "city_Sevastopol",
                 ""
               ]
             }
@@ -12145,11 +12154,31 @@
               "enum": [
                 "Ukraine",
                 "autonomous_Republic_of_Crimea",
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
                 "14_reg_Donetsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
                 "17_reg_Zaporizhzhya",
+                "18_reg_Ivano-Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
+                "22_reg_Lviv",
                 "23_reg_Mykolayiv",
                 "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
                 "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
+                "35_reg_Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -13380,12 +13409,14 @@
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
                 "15_reg_Zhytomyr",
                 "16_reg_Zakarpattya",
                 "17_reg_Zaporizhzhya",
                 "18_reg_Ivano-Frankivsk",
                 "19_reg_Kyiv",
                 "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
                 "22_reg_Lviv",
                 "23_reg_Mykolayiv",
                 "24_reg_Odesa",
@@ -14292,6 +14323,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",
@@ -14302,7 +14334,9 @@
                 "18_reg_Ivano-Frankivsk",
                 "19_reg_Kyiv",
                 "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
                 "22_reg_Lviv",
+                "23_reg_Mykolayiv",
                 "24_reg_Odesa",
                 "25_reg_Poltava",
                 "26_reg_Rivne",
@@ -14310,12 +14344,12 @@
                 "28_reg_Ternopil",
                 "29_reg_Kharkiv",
                 "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
                 "35_reg_Kyiv_city",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytsya",
+                "city_Sevastopol",
                 ""
               ]
             }
@@ -14527,6 +14561,7 @@
             "constraints": {
               "enum": [
                 "Ukraine",
+                "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",
@@ -14552,6 +14587,7 @@
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
                 "35_reg_Kyiv_city",
+                "city_Sevastopol",
                 ""
               ]
             }
@@ -15857,12 +15893,14 @@
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
                 "15_reg_Zhytomyr",
                 "16_reg_Zakarpattya",
                 "17_reg_Zaporizhzhya",
                 "18_reg_Ivano-Frankivsk",
                 "19_reg_Kyiv",
                 "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
                 "22_reg_Lviv",
                 "23_reg_Mykolayiv",
                 "24_reg_Odesa",
@@ -16428,7 +16466,33 @@
             "constraints": {
               "enum": [
                 "Ukraine",
+                "autonomous_Republic_of_Crimea",
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
+                "17_reg_Zaporizhzhya",
+                "18_reg_Ivano-Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
+                "22_reg_Lviv",
+                "23_reg_Mykolayiv",
+                "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
+                "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
                 "35_reg_Kyiv_city",
+                "city_Sevastopol",
                 "Center",
                 "East",
                 "South",
@@ -17430,6 +17494,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
                 "13_reg_Dnipropetrovsk",
@@ -17455,6 +17520,7 @@
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
                 "35_reg_Kyiv_city",
+                "city_Sevastopol",
                 ""
               ]
             }
