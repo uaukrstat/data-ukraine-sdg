@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -44,6 +44,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -69,7 +70,6 @@
                 "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
-                "Autonomous Republic of Crimea",
                 "city Sevastopol",
                 ""
               ]

@@ -39,16 +39,6 @@ Year,Region,Sex,Age,Value
 2022,Ukraine,,,416.2
 2023,Ukraine,,,577.7
 2024,Ukraine,,,1397.0
-2015,city Sevastopol,,,
-2016,city Sevastopol,,,
-2017,city Sevastopol,,,
-2018,city Sevastopol,,,
-2019,city Sevastopol,,,
-2020,city Sevastopol,,,
-2021,city Sevastopol,,,
-2022,city Sevastopol,,,
-2023,city Sevastopol,,,
-2024,city Sevastopol,,,
 2015,Autonomous Republic of Crimea,,,
 2016,Autonomous Republic of Crimea,,,
 2017,Autonomous Republic of Crimea,,,
@@ -309,3 +299,13 @@ Year,Region,Sex,Age,Value
 2022,the city of Kyiv,,,808.9
 2023,the city of Kyiv,,,1071.2
 2024,the city of Kyiv,,,1758.4
+2015,city Sevastopol,,,
+2016,city Sevastopol,,,
+2017,city Sevastopol,,,
+2018,city Sevastopol,,,
+2019,city Sevastopol,,,
+2020,city Sevastopol,,,
+2021,city Sevastopol,,,
+2022,city Sevastopol,,,
+2023,city Sevastopol,,,
+2024,city Sevastopol,,,

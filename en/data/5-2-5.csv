@@ -41,6 +41,14 @@ Year,Sex,Age,Region,Value
 2022,,men,,
 2023,,men,,
 2024,,men,,
+2017,,,Autonomous Republic of Crimea,
+2018,,,Autonomous Republic of Crimea,
+2019,,,Autonomous Republic of Crimea,
+2020,,,Autonomous Republic of Crimea,
+2021,,,Autonomous Republic of Crimea,
+2022,,,Autonomous Republic of Crimea,
+2023,,,Autonomous Republic of Crimea,
+2024,,,Autonomous Republic of Crimea,
 2017,,,Vinnytsya,9.0
 2018,,,Vinnytsya,6.0
 2019,,,Vinnytsya,13.0
@@ -234,26 +242,18 @@ Year,Sex,Age,Region,Value
 2023,,,Chernihiv,24.0
 2024,,,Chernihiv,48.0
 2017,,,the city of Kyiv,25.0
-2017,,,Autonomous Republic of Crimea,
-2017,,,city Sevastopol,
 2018,,,the city of Kyiv,21.0
-2018,,,Autonomous Republic of Crimea,
-2018,,,city Sevastopol,
 2019,,,the city of Kyiv,7.0
-2019,,,Autonomous Republic of Crimea,
-2019,,,city Sevastopol,
 2020,,,the city of Kyiv,2.0
-2020,,,Autonomous Republic of Crimea,
-2020,,,city Sevastopol,
 2021,,,the city of Kyiv,7.0
-2021,,,Autonomous Republic of Crimea,
-2021,,,city Sevastopol,
 2022,,,the city of Kyiv,7.0
-2022,,,Autonomous Republic of Crimea,
-2022,,,city Sevastopol,
 2023,,,the city of Kyiv,18.0
-2023,,,Autonomous Republic of Crimea,
-2023,,,city Sevastopol,
 2024,,,the city of Kyiv,11.0
-2024,,,Autonomous Republic of Crimea,
+2017,,,city Sevastopol,
+2018,,,city Sevastopol,
+2019,,,city Sevastopol,
+2020,,,city Sevastopol,
+2021,,,city Sevastopol,
+2022,,,city Sevastopol,
+2023,,,city Sevastopol,
 2024,,,city Sevastopol,

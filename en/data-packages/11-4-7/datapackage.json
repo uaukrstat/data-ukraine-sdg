@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "city Sevastopol",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -47,6 +46,7 @@
                 "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
+                "city Sevastopol",
                 ""
               ]
             },
@@ -57,7 +57,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "by_territorial_automated_centralized_warning_systems",
+                "by territorial automated centralized warning systems",
                 "by local automated centralized warning systems",
                 ""
               ]

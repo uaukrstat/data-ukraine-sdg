@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -32,6 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -42,8 +43,9 @@
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
+                "Luhansk",
                 "Lviv",
-                "23_reg_Mykolaiv",
+                "Mykolayiv",
                 "Odesa",
                 "Poltava",
                 "Rivne",
@@ -51,11 +53,13 @@
                 "Ternopil",
                 "Kharkiv",
                 "Kherson",
-                "31_reg_Khmelnytsya",
+                "Khmelnytskiy",
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
+                "city Sevastopol",
+                "31_reg_Khmelnytsya",
                 ""
               ]
             },

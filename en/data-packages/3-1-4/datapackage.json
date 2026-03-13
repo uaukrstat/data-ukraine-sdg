@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_0_5",
-                "age_6_17",
+                "0-5 years",
+                "6-17 years",
                 "18-39 years",
                 "40-64 years",
                 "65 years and older",

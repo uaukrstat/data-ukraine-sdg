@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -26,7 +26,7 @@
                 "Diphtheria, tetanus",
                 "Pertussis",
                 "Poliomyelitis",
-                "ill_10_haemophilic_infection",
+                "Haemophilus infection",
                 ""
               ]
             },
@@ -54,6 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -62,6 +63,7 @@
                 "Zakarpattya",
                 "Zaporizhzhya",
                 "Ivano-Frankivsk",
+                "Kyiv",
                 "Kirovohrad",
                 "Luhansk",
                 "Lviv",
@@ -77,15 +79,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "18_reg_Ivano_Frankivsk",
-                "Kyiv",
-                "23_reg_Mykolaiv",
-                "31_reg_Khmelnytskyi",
                 "the city of Kyiv",
-                "19_reg_Kyivska",
-                "31_reg_Khmelnytskyy",
-                "35_reg_Kyiv",
-                "Autonomous Republic of Crimea",
                 "city Sevastopol",
                 ""
               ]

@@ -1,154 +1,23 @@
 Year,Infectious diseases,Age,Region,Value
 2015,Tuberculosis,under 1 year,,40.2
-2016,Tuberculosis,under 1 year,,72.3
-2017,Tuberculosis,under 1 year,,83.6
-2018,Tuberculosis,under 1 year,,90.1
-2019,Tuberculosis,under 1 year,,88.6
-2020,Tuberculosis,under 1 year,,88.8
-2021,Tuberculosis,under 1 year,,81.8
-2022,Tuberculosis,under 1 year,,71.0
-2023,Tuberculosis,under 1 year,,83.5
-2024,Tuberculosis,under 1 year,,92.8
 2015,Hepatitis B,under 1 year,,25.7
-2016,Hepatitis B,under 1 year,,29.2
-2017,Hepatitis B,under 1 year,,57.0
-2018,Hepatitis B,under 1 year,,67.0
-2019,Hepatitis B,under 1 year,,77.0
-2020,Hepatitis B,under 1 year,,79.8
-2021,Hepatitis B,under 1 year,,78.8
-2022,Hepatitis B,under 1 year,,62.4
-2023,Hepatitis B,under 1 year,,79.2
-2024,Hepatitis B,under 1 year,,88.0
 2015,"Measles, mumps, rubella",1 year,,63.7
-2016,"Measles, mumps, rubella",1 year,,46.1
-2017,"Measles, mumps, rubella",1 year,,93.3
-2018,"Measles, mumps, rubella",1 year,,91.0
-2019,"Measles, mumps, rubella",1 year,,93.2
-2020,"Measles, mumps, rubella",1 year,,83.3
-2021,"Measles, mumps, rubella",1 year,,88.5
-2022,"Measles, mumps, rubella",1 year,,74.1
-2023,"Measles, mumps, rubella",1 year,,92.4
-2024,"Measles, mumps, rubella",1 year,,91.4
 2015,"Measles, mumps, rubella",6 years,,62.2
-2016,"Measles, mumps, rubella",6 years,,31.0
-2017,"Measles, mumps, rubella",6 years,,90.7
-2018,"Measles, mumps, rubella",6 years,,89.5
-2019,"Measles, mumps, rubella",6 years,,91.7
-2020,"Measles, mumps, rubella",6 years,,83.4
-2021,"Measles, mumps, rubella",6 years,,86.8
-2022,"Measles, mumps, rubella",6 years,,69.1
-2023,"Measles, mumps, rubella",6 years,,87.3
-2024,"Measles, mumps, rubella",6 years,,83.4
 2015,"Diphtheria, tetanus",under 1 year,,26.8
-2016,"Diphtheria, tetanus",under 1 year,,21.5
-2017,"Diphtheria, tetanus",under 1 year,,53.2
-2018,"Diphtheria, tetanus",under 1 year,,69.3
-2019,"Diphtheria, tetanus",under 1 year,,80.5
-2020,"Diphtheria, tetanus",under 1 year,,80.1
-2021,"Diphtheria, tetanus",under 1 year,,80.0
-2022,"Diphtheria, tetanus",under 1 year,,72.9
-2023,"Diphtheria, tetanus",under 1 year,,83.4
-2024,"Diphtheria, tetanus",under 1 year,,88.3
 2015,"Diphtheria, tetanus",18 months,,33.7
-2016,"Diphtheria, tetanus",18 months,,23.7
-2017,"Diphtheria, tetanus",18 months,,51.2
-2018,"Diphtheria, tetanus",18 months,,66.1
-2019,"Diphtheria, tetanus",18 months,,80.5
-2020,"Diphtheria, tetanus",18 months,,78.1
-2021,"Diphtheria, tetanus",18 months,,77.8
-2022,"Diphtheria, tetanus",18 months,,71.9
-2023,"Diphtheria, tetanus",18 months,,82.7
-2024,"Diphtheria, tetanus",18 months,,86.8
 2015,"Diphtheria, tetanus",6 years,,4.2
-2016,"Diphtheria, tetanus",6 years,,58.8
-2017,"Diphtheria, tetanus",6 years,,83.5
-2018,"Diphtheria, tetanus",6 years,,83.4
-2019,"Diphtheria, tetanus",6 years,,72.9
-2020,"Diphtheria, tetanus",6 years,,59.7
-2021,"Diphtheria, tetanus",6 years,,69.9
-2022,"Diphtheria, tetanus",6 years,,68.2
-2023,"Diphtheria, tetanus",6 years,,70.9
-2024,"Diphtheria, tetanus",6 years,,77.0
 2015,"Diphtheria, tetanus",adults,,0.1
-2016,"Diphtheria, tetanus",adults,,20.6
-2017,"Diphtheria, tetanus",adults,,44.8
-2018,"Diphtheria, tetanus",adults,,55.6
-2019,"Diphtheria, tetanus",adults,,83.4
-2020,"Diphtheria, tetanus",adults,,47.0
-2021,"Diphtheria, tetanus",adults,,45.4
-2022,"Diphtheria, tetanus",adults,,40.2
-2023,"Diphtheria, tetanus",adults,,52.0
-2024,"Diphtheria, tetanus",adults,,80.7
 2015,Pertussis,under 1 year,,26.8
-2016,Pertussis,under 1 year,,21.5
-2017,Pertussis,under 1 year,,53.2
-2018,Pertussis,under 1 year,,69.3
-2019,Pertussis,under 1 year,,80.5
-2020,Pertussis,under 1 year,,80.1
-2021,Pertussis,under 1 year,,80.0
-2022,Pertussis,under 1 year,,72.9
-2023,Pertussis,under 1 year,,83.4
-2024,Pertussis,under 1 year,,88.3
 2015,Pertussis,18 months,,33.7
-2016,Pertussis,18 months,,23.7
-2017,Pertussis,18 months,,51.2
-2018,Pertussis,18 months,,66.1
-2019,Pertussis,18 months,,80.5
-2020,Pertussis,18 months,,78.1
-2021,Pertussis,18 months,,77.8
-2022,Pertussis,18 months,,71.9
-2023,Pertussis,18 months,,82.7
-2024,Pertussis,18 months,,86.8
 2015,Poliomyelitis,under 1 year,,63.7
-2016,Poliomyelitis,under 1 year,,60.9
-2017,Poliomyelitis,under 1 year,,51.9
-2018,Poliomyelitis,under 1 year,,71.1
-2019,Poliomyelitis,under 1 year,,78.4
-2020,Poliomyelitis,under 1 year,,83.0
-2021,Poliomyelitis,under 1 year,,80.1
-2022,Poliomyelitis,under 1 year,,68.9
-2023,Poliomyelitis,under 1 year,,84.9
-2024,Poliomyelitis,under 1 year,,87.8
 2015,Poliomyelitis,18 months,,86.1
-2016,Poliomyelitis,18 months,,66.9
-2017,Poliomyelitis,18 months,,71.4
-2018,Poliomyelitis,18 months,,67.8
-2019,Poliomyelitis,18 months,,78.7
-2020,Poliomyelitis,18 months,,83.0
-2021,Poliomyelitis,18 months,,80.5
-2022,Poliomyelitis,18 months,,66.7
-2023,Poliomyelitis,18 months,,85.5
-2024,Poliomyelitis,18 months,,87.3
 2015,Poliomyelitis,6 years,,49.3
-2016,Poliomyelitis,6 years,,86.1
-2017,Poliomyelitis,6 years,,88.2
-2018,Poliomyelitis,6 years,,81.3
-2019,Poliomyelitis,6 years,,80.3
-2020,Poliomyelitis,6 years,,81.7
-2021,Poliomyelitis,6 years,,78.4
-2022,Poliomyelitis,6 years,,63.4
-2023,Poliomyelitis,6 years,,82.3
-2024,Poliomyelitis,6 years,,83.6
 2015,Poliomyelitis,14 years,,51.0
-2016,Poliomyelitis,14 years,,80.5
-2017,Poliomyelitis,14 years,,88.1
-2018,Poliomyelitis,14 years,,80.2
-2019,Poliomyelitis,14 years,,80.9
-2020,Poliomyelitis,14 years,,81.8
-2021,Poliomyelitis,14 years,,76.1
-2022,Poliomyelitis,14 years,,58.9
-2023,Poliomyelitis,14 years,,78.9
-2024,Poliomyelitis,14 years,,80.8
 2015,Poliomyelitis,1 year,,39.2
-2016,Poliomyelitis,1 year,,52.1
-2017,Poliomyelitis,1 year,,44.5
-2018,Poliomyelitis,1 year,,57.7
-2019,Poliomyelitis,1 year,,80.0
-2020,Poliomyelitis,1 year,,83.6
-2021,Poliomyelitis,1 year,,87.0
-2022,Poliomyelitis,1 year,,69.8
-2023,Poliomyelitis,1 year,,78.2
-2024,Poliomyelitis,1 year,,92.7
+2015,Haemophilus infection,under 1 year,,43.28719598135232
+2015,Haemophilus infection,1 year,,39.17324589896643
+2015,"Diphtheria, tetanus",age_16_years,,1.8
+2015,,,Autonomous Republic of Crimea,
 2015,Tuberculosis,under 1 year,Vinnytsya,27.1
 2015,Poliomyelitis,under 1 year,Vinnytsya,73.6
 2015,Poliomyelitis,18 months,Vinnytsya,92.8
@@ -163,6 +32,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Vinnytsya,56.9
 2015,"Measles, mumps, rubella",6 years,Vinnytsya,65.6
 2015,Hepatitis B,under 1 year,Vinnytsya,29.9
+2015,Haemophilus infection,under 1 year,Vinnytsya,32.4
+2015,Haemophilus infection,1 year,Vinnytsya,28.7
+2015,"Diphtheria, tetanus",age_16_years,Vinnytsya,0.0
 2015,Tuberculosis,under 1 year,Volyn,16.4
 2015,Poliomyelitis,under 1 year,Volyn,53.6
 2015,Poliomyelitis,18 months,Volyn,91.6
@@ -177,6 +49,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Volyn,56.3
 2015,"Measles, mumps, rubella",6 years,Volyn,72.1
 2015,Hepatitis B,under 1 year,Volyn,14.4
+2015,Haemophilus infection,under 1 year,Volyn,26.3
+2015,Haemophilus infection,1 year,Volyn,63.2
+2015,"Diphtheria, tetanus",age_16_years,Volyn,0.0
 2015,Tuberculosis,under 1 year,Dnipropetrovsk,28.6
 2015,Poliomyelitis,under 1 year,Dnipropetrovsk,81.8
 2015,Poliomyelitis,18 months,Dnipropetrovsk,99.7
@@ -191,6 +66,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Dnipropetrovsk,79.7
 2015,"Measles, mumps, rubella",6 years,Dnipropetrovsk,73.5
 2015,Hepatitis B,under 1 year,Dnipropetrovsk,41.1
+2015,Haemophilus infection,under 1 year,Dnipropetrovsk,45.8
+2015,Haemophilus infection,1 year,Dnipropetrovsk,39.5
+2015,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,3.2
 2015,Tuberculosis,under 1 year,Donetsk,51.5
 2015,Poliomyelitis,under 1 year,Donetsk,82.0
 2015,Poliomyelitis,18 months,Donetsk,100.0
@@ -205,6 +83,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Donetsk,86.3
 2015,"Measles, mumps, rubella",6 years,Donetsk,79.2
 2015,Hepatitis B,under 1 year,Donetsk,6.2
+2015,Haemophilus infection,under 1 year,Donetsk,53.7
+2015,Haemophilus infection,1 year,Donetsk,67.2
+2015,"Diphtheria, tetanus",age_16_years,Donetsk,1.5
 2015,Tuberculosis,under 1 year,Zhytomyr,34.4
 2015,Poliomyelitis,under 1 year,Zhytomyr,79.4
 2015,Poliomyelitis,18 months,Zhytomyr,119.3
@@ -219,6 +100,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Zhytomyr,57.4
 2015,"Measles, mumps, rubella",6 years,Zhytomyr,67.2
 2015,Hepatitis B,under 1 year,Zhytomyr,41.6
+2015,Haemophilus infection,under 1 year,Zhytomyr,47.5
+2015,Haemophilus infection,1 year,Zhytomyr,38.9
+2015,"Diphtheria, tetanus",age_16_years,Zhytomyr,0.1
 2015,Tuberculosis,under 1 year,Zakarpattya,37.9
 2015,Poliomyelitis,under 1 year,Zakarpattya,57.8
 2015,Poliomyelitis,18 months,Zakarpattya,72.6
@@ -233,6 +117,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Zakarpattya,61.4
 2015,"Measles, mumps, rubella",6 years,Zakarpattya,71.4
 2015,Hepatitis B,under 1 year,Zakarpattya,19.1
+2015,Haemophilus infection,under 1 year,Zakarpattya,45.7
+2015,Haemophilus infection,1 year,Zakarpattya,20.2
+2015,"Diphtheria, tetanus",age_16_years,Zakarpattya,0.0
 2015,Tuberculosis,under 1 year,Zaporizhzhya,44.5
 2015,Poliomyelitis,under 1 year,Zaporizhzhya,47.8
 2015,Poliomyelitis,18 months,Zaporizhzhya,74.9
@@ -247,6 +134,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Zaporizhzhya,72.8
 2015,"Measles, mumps, rubella",6 years,Zaporizhzhya,50.7
 2015,Hepatitis B,under 1 year,Zaporizhzhya,31.3
+2015,Haemophilus infection,under 1 year,Zaporizhzhya,43.3
+2015,Haemophilus infection,1 year,Zaporizhzhya,53.0
+2015,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,4.9
 2015,Tuberculosis,under 1 year,Ivano-Frankivsk,29.5
 2015,Poliomyelitis,under 1 year,Ivano-Frankivsk,43.1
 2015,Poliomyelitis,18 months,Ivano-Frankivsk,56.2
@@ -261,6 +151,12 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,64.0
 2015,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,47.8
 2015,Hepatitis B,under 1 year,Ivano-Frankivsk,38.5
+2015,Haemophilus infection,under 1 year,Ivano-Frankivsk,46.2
+2015,Haemophilus infection,1 year,Ivano-Frankivsk,79.1
+2015,"Diphtheria, tetanus",age_16_years,Ivano-Frankivsk,0.0
+2015,Haemophilus infection,under 1 year,Kyiv,35.7
+2015,Haemophilus infection,1 year,Kyiv,29.6
+2015,"Diphtheria, tetanus",age_16_years,Kyiv,3.6
 2015,Tuberculosis,under 1 year,Kirovohrad,51.9
 2015,Poliomyelitis,under 1 year,Kirovohrad,66.9
 2015,Poliomyelitis,18 months,Kirovohrad,94.1
@@ -275,6 +171,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Kirovohrad,39.6
 2015,"Measles, mumps, rubella",6 years,Kirovohrad,27.4
 2015,Hepatitis B,under 1 year,Kirovohrad,22.2
+2015,Haemophilus infection,under 1 year,Kirovohrad,42.3
+2015,Haemophilus infection,1 year,Kirovohrad,34.3
+2015,"Diphtheria, tetanus",age_16_years,Kirovohrad,0.0
 2015,Tuberculosis,under 1 year,Luhansk,78.4
 2015,Poliomyelitis,under 1 year,Luhansk,50.2
 2015,Poliomyelitis,18 months,Luhansk,70.6
@@ -289,6 +188,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Luhansk,96.6
 2015,"Measles, mumps, rubella",6 years,Luhansk,67.8
 2015,Hepatitis B,under 1 year,Luhansk,45.5
+2015,Haemophilus infection,under 1 year,Luhansk,51.451138868479056
+2015,Haemophilus infection,1 year,Luhansk,85.20879120879121
+2015,"Diphtheria, tetanus",age_16_years,Luhansk,1.5367877056983543
 2015,Tuberculosis,under 1 year,Lviv,15.2
 2015,Poliomyelitis,under 1 year,Lviv,59.0
 2015,Poliomyelitis,18 months,Lviv,80.5
@@ -303,6 +205,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Lviv,73.0
 2015,"Measles, mumps, rubella",6 years,Lviv,77.6
 2015,Hepatitis B,under 1 year,Lviv,26.9
+2015,Haemophilus infection,under 1 year,Lviv,53.3
+2015,Haemophilus infection,1 year,Lviv,18.3
+2015,"Diphtheria, tetanus",age_16_years,Lviv,0.0
 2015,Tuberculosis,under 1 year,Mykolayiv,61.0
 2015,Poliomyelitis,under 1 year,Mykolayiv,48.5
 2015,Poliomyelitis,18 months,Mykolayiv,65.5
@@ -317,6 +222,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Mykolayiv,75.0
 2015,"Measles, mumps, rubella",6 years,Mykolayiv,63.4
 2015,Hepatitis B,under 1 year,Mykolayiv,20.9
+2015,Haemophilus infection,under 1 year,Mykolayiv,39.3
+2015,Haemophilus infection,1 year,Mykolayiv,42.0
+2015,"Diphtheria, tetanus",age_16_years,Mykolayiv,0.0
 2015,Tuberculosis,under 1 year,Odesa,39.3
 2015,Poliomyelitis,under 1 year,Odesa,65.9
 2015,Poliomyelitis,18 months,Odesa,88.1
@@ -331,6 +239,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Odesa,61.9
 2015,"Measles, mumps, rubella",6 years,Odesa,65.6
 2015,Hepatitis B,under 1 year,Odesa,11.4
+2015,Haemophilus infection,under 1 year,Odesa,49.4
+2015,Haemophilus infection,1 year,Odesa,44.3
+2015,"Diphtheria, tetanus",age_16_years,Odesa,9.1
 2015,Tuberculosis,under 1 year,Poltava,16.5
 2015,Poliomyelitis,under 1 year,Poltava,23.4
 2015,Poliomyelitis,18 months,Poltava,87.7
@@ -345,6 +256,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Poltava,31.5
 2015,"Measles, mumps, rubella",6 years,Poltava,23.4
 2015,Hepatitis B,under 1 year,Poltava,6.3
+2015,Haemophilus infection,under 1 year,Poltava,19.4
+2015,Haemophilus infection,1 year,Poltava,29.6
+2015,"Diphtheria, tetanus",age_16_years,Poltava,0.0
 2015,Tuberculosis,under 1 year,Rivne,25.3
 2015,Poliomyelitis,under 1 year,Rivne,63.6
 2015,Poliomyelitis,18 months,Rivne,78.2
@@ -359,6 +273,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Rivne,43.3
 2015,"Measles, mumps, rubella",6 years,Rivne,58.0
 2015,Hepatitis B,under 1 year,Rivne,10.1
+2015,Haemophilus infection,under 1 year,Rivne,30.4
+2015,Haemophilus infection,1 year,Rivne,49.5
+2015,"Diphtheria, tetanus",age_16_years,Rivne,0.0
 2015,Tuberculosis,under 1 year,Sumy,67.9
 2015,Poliomyelitis,under 1 year,Sumy,63.6
 2015,Poliomyelitis,18 months,Sumy,84.3
@@ -373,6 +290,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Sumy,44.5
 2015,"Measles, mumps, rubella",6 years,Sumy,25.6
 2015,Hepatitis B,under 1 year,Sumy,14.7
+2015,Haemophilus infection,under 1 year,Sumy,40.8
+2015,Haemophilus infection,1 year,Sumy,42.4
+2015,"Diphtheria, tetanus",age_16_years,Sumy,0.5
 2015,Tuberculosis,under 1 year,Ternopil,17.4
 2015,Poliomyelitis,under 1 year,Ternopil,37.1
 2015,Poliomyelitis,18 months,Ternopil,80.9
@@ -387,6 +307,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Ternopil,64.3
 2015,"Measles, mumps, rubella",6 years,Ternopil,68.4
 2015,Hepatitis B,under 1 year,Ternopil,16.6
+2015,Haemophilus infection,under 1 year,Ternopil,32.4
+2015,Haemophilus infection,1 year,Ternopil,12.2
+2015,"Diphtheria, tetanus",age_16_years,Ternopil,0.0
 2015,Tuberculosis,under 1 year,Kharkiv,73.0
 2015,Poliomyelitis,under 1 year,Kharkiv,46.9
 2015,Poliomyelitis,18 months,Kharkiv,99.3
@@ -401,6 +324,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Kharkiv,51.8
 2015,"Measles, mumps, rubella",6 years,Kharkiv,56.0
 2015,Hepatitis B,under 1 year,Kharkiv,16.6
+2015,Haemophilus infection,under 1 year,Kharkiv,36.9
+2015,Haemophilus infection,1 year,Kharkiv,74.0
+2015,"Diphtheria, tetanus",age_16_years,Kharkiv,6.9
 2015,Tuberculosis,under 1 year,Kherson,51.6
 2015,Poliomyelitis,under 1 year,Kherson,47.9
 2015,Poliomyelitis,18 months,Kherson,78.4
@@ -415,6 +341,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Kherson,63.0
 2015,"Measles, mumps, rubella",6 years,Kherson,68.7
 2015,Hepatitis B,under 1 year,Kherson,19.4
+2015,Haemophilus infection,under 1 year,Kherson,45.2
+2015,Haemophilus infection,1 year,Kherson,20.9
+2015,"Diphtheria, tetanus",age_16_years,Kherson,0.0
 2015,Tuberculosis,under 1 year,Khmelnytskiy,23.8
 2015,Poliomyelitis,under 1 year,Khmelnytskiy,93.5
 2015,Poliomyelitis,18 months,Khmelnytskiy,86.3
@@ -429,6 +358,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Khmelnytskiy,69.9
 2015,"Measles, mumps, rubella",6 years,Khmelnytskiy,75.7
 2015,Hepatitis B,under 1 year,Khmelnytskiy,9.7
+2015,Haemophilus infection,under 1 year,Khmelnytskiy,25.8
+2015,Haemophilus infection,1 year,Khmelnytskiy,0.3
+2015,"Diphtheria, tetanus",age_16_years,Khmelnytskiy,0.0
 2015,Tuberculosis,under 1 year,Cherkasy,66.5
 2015,Poliomyelitis,under 1 year,Cherkasy,49.9
 2015,Poliomyelitis,18 months,Cherkasy,83.4
@@ -443,6 +375,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Cherkasy,49.3
 2015,"Measles, mumps, rubella",6 years,Cherkasy,47.3
 2015,Hepatitis B,under 1 year,Cherkasy,19.9
+2015,Haemophilus infection,under 1 year,Cherkasy,44.5
+2015,Haemophilus infection,1 year,Cherkasy,69.2
+2015,"Diphtheria, tetanus",age_16_years,Cherkasy,5.0
 2015,Tuberculosis,under 1 year,Chernivtsi,38.7
 2015,Poliomyelitis,under 1 year,Chernivtsi,71.2
 2015,Poliomyelitis,18 months,Chernivtsi,94.5
@@ -457,6 +392,9 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Chernivtsi,64.1
 2015,"Measles, mumps, rubella",6 years,Chernivtsi,62.5
 2015,Hepatitis B,under 1 year,Chernivtsi,14.8
+2015,Haemophilus infection,under 1 year,Chernivtsi,41.6
+2015,Haemophilus infection,1 year,Chernivtsi,8.1
+2015,"Diphtheria, tetanus",age_16_years,Chernivtsi,0.2
 2015,Tuberculosis,under 1 year,Chernihiv,64.3
 2015,Poliomyelitis,under 1 year,Chernihiv,85.5
 2015,Poliomyelitis,18 months,Chernihiv,101.4
@@ -471,6 +409,32 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Chernihiv,88.1
 2015,"Measles, mumps, rubella",6 years,Chernihiv,84.2
 2015,Hepatitis B,under 1 year,Chernihiv,11.8
+2015,Haemophilus infection,under 1 year,Chernihiv,43.8
+2015,Haemophilus infection,1 year,Chernihiv,36.0
+2015,"Diphtheria, tetanus",age_16_years,Chernihiv,0.0
+2015,Haemophilus infection,under 1 year,the city of Kyiv,75.1
+2015,Haemophilus infection,1 year,the city of Kyiv,45.9
+2015,"Diphtheria, tetanus",age_16_years,the city of Kyiv,7.5
+2015,,,city Sevastopol,
+2016,Tuberculosis,under 1 year,,72.3
+2016,Hepatitis B,under 1 year,,29.2
+2016,"Measles, mumps, rubella",1 year,,46.1
+2016,"Measles, mumps, rubella",6 years,,31.0
+2016,"Diphtheria, tetanus",under 1 year,,21.5
+2016,"Diphtheria, tetanus",18 months,,23.7
+2016,"Diphtheria, tetanus",6 years,,58.8
+2016,"Diphtheria, tetanus",adults,,20.6
+2016,Pertussis,under 1 year,,21.5
+2016,Pertussis,18 months,,23.7
+2016,Poliomyelitis,under 1 year,,60.9
+2016,Poliomyelitis,18 months,,66.9
+2016,Poliomyelitis,6 years,,86.1
+2016,Poliomyelitis,14 years,,80.5
+2016,Poliomyelitis,1 year,,52.1
+2016,Haemophilus infection,under 1 year,,36.692999751903166
+2016,Haemophilus infection,1 year,,52.13479899662477
+2016,"Diphtheria, tetanus",age_16_years,,55.9
+2016,Tuberculosis,under 1 year,Autonomous Republic of Crimea,
 2016,Tuberculosis,under 1 year,Vinnytsya,71.2
 2016,Poliomyelitis,under 1 year,Vinnytsya,61.2
 2016,Poliomyelitis,18 months,Vinnytsya,65.6
@@ -485,6 +449,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Vinnytsya,45.9
 2016,"Measles, mumps, rubella",6 years,Vinnytsya,30.6
 2016,Hepatitis B,under 1 year,Vinnytsya,22.0
+2016,Haemophilus infection,under 1 year,Vinnytsya,28.3
+2016,Haemophilus infection,1 year,Vinnytsya,49.9
+2016,"Diphtheria, tetanus",age_16_years,Vinnytsya,63.4
 2016,Tuberculosis,under 1 year,Volyn,54.4
 2016,Poliomyelitis,under 1 year,Volyn,54.1
 2016,Poliomyelitis,18 months,Volyn,61.7
@@ -499,6 +466,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Volyn,30.2
 2016,"Measles, mumps, rubella",6 years,Volyn,19.5
 2016,Hepatitis B,under 1 year,Volyn,10.7
+2016,Haemophilus infection,under 1 year,Volyn,20.0
+2016,Haemophilus infection,1 year,Volyn,41.1
+2016,"Diphtheria, tetanus",age_16_years,Volyn,42.4
 2016,Tuberculosis,under 1 year,Dnipropetrovsk,60.2
 2016,Poliomyelitis,under 1 year,Dnipropetrovsk,88.1
 2016,Poliomyelitis,18 months,Dnipropetrovsk,90.8
@@ -513,6 +483,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Dnipropetrovsk,51.6
 2016,"Measles, mumps, rubella",6 years,Dnipropetrovsk,40.0
 2016,Hepatitis B,under 1 year,Dnipropetrovsk,48.8
+2016,Haemophilus infection,under 1 year,Dnipropetrovsk,36.1
+2016,Haemophilus infection,1 year,Dnipropetrovsk,60.0
+2016,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,76.4
 2016,Tuberculosis,under 1 year,Donetsk,76.5
 2016,Poliomyelitis,under 1 year,Donetsk,70.5
 2016,Poliomyelitis,18 months,Donetsk,100.0
@@ -527,6 +500,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Donetsk,74.2
 2016,"Measles, mumps, rubella",6 years,Donetsk,78.6
 2016,Hepatitis B,under 1 year,Donetsk,39.9
+2016,Haemophilus infection,under 1 year,Donetsk,83.7
+2016,Haemophilus infection,1 year,Donetsk,79.0
+2016,"Diphtheria, tetanus",age_16_years,Donetsk,55.4
 2016,Tuberculosis,under 1 year,Zhytomyr,75.4
 2016,Poliomyelitis,under 1 year,Zhytomyr,69.3
 2016,Poliomyelitis,18 months,Zhytomyr,63.4
@@ -541,6 +517,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Zhytomyr,42.3
 2016,"Measles, mumps, rubella",6 years,Zhytomyr,23.7
 2016,Hepatitis B,under 1 year,Zhytomyr,41.9
+2016,Haemophilus infection,under 1 year,Zhytomyr,37.3
+2016,Haemophilus infection,1 year,Zhytomyr,33.6
+2016,"Diphtheria, tetanus",age_16_years,Zhytomyr,72.4
 2016,Tuberculosis,under 1 year,Zakarpattya,68.8
 2016,Poliomyelitis,under 1 year,Zakarpattya,42.9
 2016,Poliomyelitis,18 months,Zakarpattya,52.3
@@ -555,6 +534,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Zakarpattya,33.6
 2016,"Measles, mumps, rubella",6 years,Zakarpattya,25.5
 2016,Hepatitis B,under 1 year,Zakarpattya,17.8
+2016,Haemophilus infection,under 1 year,Zakarpattya,34.0
+2016,Haemophilus infection,1 year,Zakarpattya,44.1
+2016,"Diphtheria, tetanus",age_16_years,Zakarpattya,30.6
 2016,Tuberculosis,under 1 year,Zaporizhzhya,75.5
 2016,Poliomyelitis,under 1 year,Zaporizhzhya,42.7
 2016,Poliomyelitis,18 months,Zaporizhzhya,28.2
@@ -569,6 +551,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Zaporizhzhya,48.2
 2016,"Measles, mumps, rubella",6 years,Zaporizhzhya,22.8
 2016,Hepatitis B,under 1 year,Zaporizhzhya,22.5
+2016,Haemophilus infection,under 1 year,Zaporizhzhya,25.5
+2016,Haemophilus infection,1 year,Zaporizhzhya,56.6
+2016,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,34.6
 2016,Tuberculosis,under 1 year,Ivano-Frankivsk,57.9
 2016,Poliomyelitis,under 1 year,Ivano-Frankivsk,49.4
 2016,Poliomyelitis,18 months,Ivano-Frankivsk,50.8
@@ -583,6 +568,12 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,58.8
 2016,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,41.1
 2016,Hepatitis B,under 1 year,Ivano-Frankivsk,29.4
+2016,Haemophilus infection,under 1 year,Ivano-Frankivsk,33.6
+2016,Haemophilus infection,1 year,Ivano-Frankivsk,57.6
+2016,"Diphtheria, tetanus",age_16_years,Ivano-Frankivsk,37.5
+2016,Haemophilus infection,under 1 year,Kyiv,36.2
+2016,Haemophilus infection,1 year,Kyiv,67.2
+2016,"Diphtheria, tetanus",age_16_years,Kyiv,70.4
 2016,Tuberculosis,under 1 year,Kirovohrad,81.2
 2016,Poliomyelitis,under 1 year,Kirovohrad,79.3
 2016,Poliomyelitis,18 months,Kirovohrad,79.0
@@ -597,6 +588,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Kirovohrad,45.9
 2016,"Measles, mumps, rubella",6 years,Kirovohrad,11.4
 2016,Hepatitis B,under 1 year,Kirovohrad,42.1
+2016,Haemophilus infection,under 1 year,Kirovohrad,39.7
+2016,Haemophilus infection,1 year,Kirovohrad,54.5
+2016,"Diphtheria, tetanus",age_16_years,Kirovohrad,59.5
 2016,Tuberculosis,under 1 year,Luhansk,72.1
 2016,Poliomyelitis,under 1 year,Luhansk,70.6
 2016,Poliomyelitis,18 months,Luhansk,90.2
@@ -611,6 +605,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Luhansk,94.3
 2016,"Measles, mumps, rubella",6 years,Luhansk,85.4
 2016,Hepatitis B,under 1 year,Luhansk,58.4
+2016,Haemophilus infection,under 1 year,Luhansk,94.7936507936508
+2016,Haemophilus infection,1 year,Luhansk,93.62962962962963
+2016,"Diphtheria, tetanus",age_16_years,Luhansk,43.72681049883194
 2016,Tuberculosis,under 1 year,Lviv,50.1
 2016,Poliomyelitis,under 1 year,Lviv,47.4
 2016,Poliomyelitis,18 months,Lviv,58.5
@@ -625,6 +622,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Lviv,35.4
 2016,"Measles, mumps, rubella",6 years,Lviv,30.9
 2016,Hepatitis B,under 1 year,Lviv,25.0
+2016,Haemophilus infection,under 1 year,Lviv,28.0
+2016,Haemophilus infection,1 year,Lviv,43.3
+2016,"Diphtheria, tetanus",age_16_years,Lviv,51.3
 2016,Tuberculosis,under 1 year,Mykolayiv,85.3
 2016,Poliomyelitis,under 1 year,Mykolayiv,56.6
 2016,Poliomyelitis,18 months,Mykolayiv,61.4
@@ -639,6 +639,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Mykolayiv,50.6
 2016,"Measles, mumps, rubella",6 years,Mykolayiv,24.7
 2016,Hepatitis B,under 1 year,Mykolayiv,35.2
+2016,Haemophilus infection,under 1 year,Mykolayiv,29.4
+2016,Haemophilus infection,1 year,Mykolayiv,49.2
+2016,"Diphtheria, tetanus",age_16_years,Mykolayiv,72.1
 2016,Tuberculosis,under 1 year,Odesa,79.3
 2016,Poliomyelitis,under 1 year,Odesa,45.9
 2016,Poliomyelitis,18 months,Odesa,50.2
@@ -653,6 +656,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Odesa,42.7
 2016,"Measles, mumps, rubella",6 years,Odesa,28.9
 2016,Hepatitis B,under 1 year,Odesa,16.3
+2016,Haemophilus infection,under 1 year,Odesa,42.3
+2016,Haemophilus infection,1 year,Odesa,42.7
+2016,"Diphtheria, tetanus",age_16_years,Odesa,58.6
 2016,Tuberculosis,under 1 year,Poltava,78.5
 2016,Poliomyelitis,under 1 year,Poltava,20.9
 2016,Poliomyelitis,18 months,Poltava,38.1
@@ -667,6 +673,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Poltava,28.1
 2016,"Measles, mumps, rubella",6 years,Poltava,13.5
 2016,Hepatitis B,under 1 year,Poltava,15.0
+2016,Haemophilus infection,under 1 year,Poltava,22.0
+2016,Haemophilus infection,1 year,Poltava,58.4
+2016,"Diphtheria, tetanus",age_16_years,Poltava,51.5
 2016,Tuberculosis,under 1 year,Rivne,80.7
 2016,Poliomyelitis,under 1 year,Rivne,57.3
 2016,Poliomyelitis,18 months,Rivne,70.3
@@ -681,6 +690,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Rivne,26.6
 2016,"Measles, mumps, rubella",6 years,Rivne,20.9
 2016,Hepatitis B,under 1 year,Rivne,17.1
+2016,Haemophilus infection,under 1 year,Rivne,22.2
+2016,Haemophilus infection,1 year,Rivne,48.1
+2016,"Diphtheria, tetanus",age_16_years,Rivne,63.0
 2016,Tuberculosis,under 1 year,Sumy,92.3
 2016,Poliomyelitis,under 1 year,Sumy,60.8
 2016,Poliomyelitis,18 months,Sumy,66.1
@@ -695,6 +707,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Sumy,53.2
 2016,"Measles, mumps, rubella",6 years,Sumy,32.0
 2016,Hepatitis B,under 1 year,Sumy,18.0
+2016,Haemophilus infection,under 1 year,Sumy,19.6
+2016,Haemophilus infection,1 year,Sumy,39.6
+2016,"Diphtheria, tetanus",age_16_years,Sumy,52.4
 2016,Tuberculosis,under 1 year,Ternopil,67.3
 2016,Poliomyelitis,under 1 year,Ternopil,40.0
 2016,Poliomyelitis,18 months,Ternopil,65.2
@@ -709,6 +724,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Ternopil,20.0
 2016,"Measles, mumps, rubella",6 years,Ternopil,14.7
 2016,Hepatitis B,under 1 year,Ternopil,13.6
+2016,Haemophilus infection,under 1 year,Ternopil,37.2
+2016,Haemophilus infection,1 year,Ternopil,51.3
+2016,"Diphtheria, tetanus",age_16_years,Ternopil,46.4
 2016,Tuberculosis,under 1 year,Kharkiv,68.7
 2016,Poliomyelitis,under 1 year,Kharkiv,36.3
 2016,Poliomyelitis,18 months,Kharkiv,61.7
@@ -723,6 +741,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Kharkiv,33.9
 2016,"Measles, mumps, rubella",6 years,Kharkiv,24.2
 2016,Hepatitis B,under 1 year,Kharkiv,23.6
+2016,Haemophilus infection,under 1 year,Kharkiv,30.6
+2016,Haemophilus infection,1 year,Kharkiv,71.2
+2016,"Diphtheria, tetanus",age_16_years,Kharkiv,62.8
 2016,Tuberculosis,under 1 year,Kherson,95.3
 2016,Poliomyelitis,under 1 year,Kherson,54.2
 2016,Poliomyelitis,18 months,Kherson,48.9
@@ -737,6 +758,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Kherson,51.3
 2016,"Measles, mumps, rubella",6 years,Kherson,11.0
 2016,Hepatitis B,under 1 year,Kherson,33.9
+2016,Haemophilus infection,under 1 year,Kherson,26.3
+2016,Haemophilus infection,1 year,Kherson,93.7
+2016,"Diphtheria, tetanus",age_16_years,Kherson,76.9
 2016,Tuberculosis,under 1 year,Khmelnytskiy,93.0
 2016,Poliomyelitis,under 1 year,Khmelnytskiy,50.3
 2016,Poliomyelitis,18 months,Khmelnytskiy,68.2
@@ -751,6 +775,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Khmelnytskiy,56.4
 2016,"Measles, mumps, rubella",6 years,Khmelnytskiy,9.0
 2016,Hepatitis B,under 1 year,Khmelnytskiy,16.1
+2016,Haemophilus infection,under 1 year,Khmelnytskiy,14.4
+2016,Haemophilus infection,1 year,Khmelnytskiy,45.9
+2016,"Diphtheria, tetanus",age_16_years,Khmelnytskiy,56.0
 2016,Tuberculosis,under 1 year,Cherkasy,74.8
 2016,Poliomyelitis,under 1 year,Cherkasy,55.7
 2016,Poliomyelitis,18 months,Cherkasy,61.4
@@ -765,6 +792,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Cherkasy,63.6
 2016,"Measles, mumps, rubella",6 years,Cherkasy,27.4
 2016,Hepatitis B,under 1 year,Cherkasy,23.7
+2016,Haemophilus infection,under 1 year,Cherkasy,46.3
+2016,Haemophilus infection,1 year,Cherkasy,87.4
+2016,"Diphtheria, tetanus",age_16_years,Cherkasy,62.6
 2016,Tuberculosis,under 1 year,Chernivtsi,84.2
 2016,Poliomyelitis,under 1 year,Chernivtsi,63.9
 2016,Poliomyelitis,18 months,Chernivtsi,71.6
@@ -779,6 +809,9 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Chernivtsi,51.1
 2016,"Measles, mumps, rubella",6 years,Chernivtsi,41.7
 2016,Hepatitis B,under 1 year,Chernivtsi,19.4
+2016,Haemophilus infection,under 1 year,Chernivtsi,32.8
+2016,Haemophilus infection,1 year,Chernivtsi,6.0
+2016,"Diphtheria, tetanus",age_16_years,Chernivtsi,51.5
 2016,Tuberculosis,under 1 year,Chernihiv,73.1
 2016,Poliomyelitis,under 1 year,Chernihiv,76.8
 2016,Poliomyelitis,18 months,Chernihiv,88.6
@@ -793,6 +826,32 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Chernihiv,70.7
 2016,"Measles, mumps, rubella",6 years,Chernihiv,39.9
 2016,Hepatitis B,under 1 year,Chernihiv,26.7
+2016,Haemophilus infection,under 1 year,Chernihiv,39.0
+2016,Haemophilus infection,1 year,Chernihiv,58.8
+2016,"Diphtheria, tetanus",age_16_years,Chernihiv,64.6
+2016,Haemophilus infection,under 1 year,the city of Kyiv,71.8
+2016,Haemophilus infection,1 year,the city of Kyiv,41.4
+2016,"Diphtheria, tetanus",age_16_years,the city of Kyiv,42.1
+2016,Tuberculosis,under 1 year,city Sevastopol,
+2017,Tuberculosis,under 1 year,,83.6
+2017,Hepatitis B,under 1 year,,57.0
+2017,"Measles, mumps, rubella",1 year,,93.3
+2017,"Measles, mumps, rubella",6 years,,90.7
+2017,"Diphtheria, tetanus",under 1 year,,53.2
+2017,"Diphtheria, tetanus",18 months,,51.2
+2017,"Diphtheria, tetanus",6 years,,83.5
+2017,"Diphtheria, tetanus",adults,,44.8
+2017,Pertussis,under 1 year,,53.2
+2017,Pertussis,18 months,,51.2
+2017,Poliomyelitis,under 1 year,,51.9
+2017,Poliomyelitis,18 months,,71.4
+2017,Poliomyelitis,6 years,,88.2
+2017,Poliomyelitis,14 years,,88.1
+2017,Poliomyelitis,1 year,,44.5
+2017,Haemophilus infection,under 1 year,,34.8
+2017,Haemophilus infection,1 year,,44.5
+2017,"Diphtheria, tetanus",age_16_years,,76.7
+2017,Tuberculosis,under 1 year,Autonomous Republic of Crimea,
 2017,Tuberculosis,under 1 year,Vinnytsya,76.8
 2017,Poliomyelitis,under 1 year,Vinnytsya,43.7
 2017,Poliomyelitis,18 months,Vinnytsya,72.6
@@ -807,6 +866,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Vinnytsya,93.3
 2017,"Measles, mumps, rubella",6 years,Vinnytsya,91.7
 2017,Hepatitis B,under 1 year,Vinnytsya,57.0
+2017,Haemophilus infection,under 1 year,Vinnytsya,33.2
+2017,Haemophilus infection,1 year,Vinnytsya,47.3
+2017,"Diphtheria, tetanus",age_16_years,Vinnytsya,70.3
 2017,Tuberculosis,under 1 year,Volyn,91.5
 2017,Poliomyelitis,under 1 year,Volyn,31.4
 2017,Poliomyelitis,18 months,Volyn,61.2
@@ -821,6 +883,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Volyn,87.0
 2017,"Measles, mumps, rubella",6 years,Volyn,82.3
 2017,Hepatitis B,under 1 year,Volyn,33.8
+2017,Haemophilus infection,under 1 year,Volyn,8.3
+2017,Haemophilus infection,1 year,Volyn,9.3
+2017,"Diphtheria, tetanus",age_16_years,Volyn,72.0
 2017,Tuberculosis,under 1 year,Dnipropetrovsk,78.8
 2017,Poliomyelitis,under 1 year,Dnipropetrovsk,51.0
 2017,Poliomyelitis,18 months,Dnipropetrovsk,74.4
@@ -835,6 +900,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Dnipropetrovsk,99.6
 2017,"Measles, mumps, rubella",6 years,Dnipropetrovsk,99.4
 2017,Hepatitis B,under 1 year,Dnipropetrovsk,75.3
+2017,Haemophilus infection,under 1 year,Dnipropetrovsk,44.0
+2017,Haemophilus infection,1 year,Dnipropetrovsk,60.6
+2017,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,85.2
 2017,Tuberculosis,under 1 year,Donetsk,93.9
 2017,Poliomyelitis,under 1 year,Donetsk,73.3
 2017,Poliomyelitis,18 months,Donetsk,78.4
@@ -849,6 +917,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Donetsk,99.8
 2017,"Measles, mumps, rubella",6 years,Donetsk,94.3
 2017,Hepatitis B,under 1 year,Donetsk,56.2
+2017,Haemophilus infection,under 1 year,Donetsk,54.3
+2017,Haemophilus infection,1 year,Donetsk,65.7
+2017,"Diphtheria, tetanus",age_16_years,Donetsk,82.7
 2017,Tuberculosis,under 1 year,Zhytomyr,63.7
 2017,Poliomyelitis,under 1 year,Zhytomyr,43.3
 2017,Poliomyelitis,18 months,Zhytomyr,73.0
@@ -863,6 +934,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Zhytomyr,96.8
 2017,"Measles, mumps, rubella",6 years,Zhytomyr,95.9
 2017,Hepatitis B,under 1 year,Zhytomyr,57.9
+2017,Haemophilus infection,under 1 year,Zhytomyr,17.2
+2017,Haemophilus infection,1 year,Zhytomyr,16.9
+2017,"Diphtheria, tetanus",age_16_years,Zhytomyr,79.4
 2017,Tuberculosis,under 1 year,Zakarpattya,86.8
 2017,Poliomyelitis,under 1 year,Zakarpattya,49.1
 2017,Poliomyelitis,18 months,Zakarpattya,57.9
@@ -877,6 +951,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Zakarpattya,71.2
 2017,"Measles, mumps, rubella",6 years,Zakarpattya,49.1
 2017,Hepatitis B,under 1 year,Zakarpattya,19.9
+2017,Haemophilus infection,under 1 year,Zakarpattya,25.2
+2017,Haemophilus infection,1 year,Zakarpattya,33.3
+2017,"Diphtheria, tetanus",age_16_years,Zakarpattya,62.4
 2017,Tuberculosis,under 1 year,Zaporizhzhya,90.8
 2017,Poliomyelitis,under 1 year,Zaporizhzhya,40.8
 2017,Poliomyelitis,18 months,Zaporizhzhya,68.3
@@ -891,6 +968,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Zaporizhzhya,97.3
 2017,"Measles, mumps, rubella",6 years,Zaporizhzhya,91.8
 2017,Hepatitis B,under 1 year,Zaporizhzhya,58.9
+2017,Haemophilus infection,under 1 year,Zaporizhzhya,34.5
+2017,Haemophilus infection,1 year,Zaporizhzhya,57.5
+2017,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,75.1
 2017,Tuberculosis,under 1 year,Ivano-Frankivsk,71.7
 2017,Poliomyelitis,under 1 year,Ivano-Frankivsk,42.4
 2017,Poliomyelitis,18 months,Ivano-Frankivsk,56.1
@@ -905,6 +985,12 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,90.6
 2017,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,87.9
 2017,Hepatitis B,under 1 year,Ivano-Frankivsk,68.2
+2017,Haemophilus infection,under 1 year,Ivano-Frankivsk,32.1
+2017,Haemophilus infection,1 year,Ivano-Frankivsk,55.3
+2017,"Diphtheria, tetanus",age_16_years,Ivano-Frankivsk,58.1
+2017,Haemophilus infection,under 1 year,Kyiv,32.8
+2017,Haemophilus infection,1 year,Kyiv,41.8
+2017,"Diphtheria, tetanus",age_16_years,Kyiv,88.0
 2017,Tuberculosis,under 1 year,Kirovohrad,81.0
 2017,Poliomyelitis,under 1 year,Kirovohrad,53.6
 2017,Poliomyelitis,18 months,Kirovohrad,81.6
@@ -919,6 +1005,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Kirovohrad,98.3
 2017,"Measles, mumps, rubella",6 years,Kirovohrad,89.2
 2017,Hepatitis B,under 1 year,Kirovohrad,75.6
+2017,Haemophilus infection,under 1 year,Kirovohrad,20.3
+2017,Haemophilus infection,1 year,Kirovohrad,48.5
+2017,"Diphtheria, tetanus",age_16_years,Kirovohrad,79.9
 2017,Tuberculosis,under 1 year,Luhansk,91.4
 2017,Poliomyelitis,under 1 year,Luhansk,77.6
 2017,Poliomyelitis,18 months,Luhansk,95.3
@@ -933,6 +1022,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Luhansk,95.5
 2017,"Measles, mumps, rubella",6 years,Luhansk,86.9
 2017,Hepatitis B,under 1 year,Luhansk,90.5
+2017,Haemophilus infection,under 1 year,Luhansk,88.3
+2017,Haemophilus infection,1 year,Luhansk,32.1
+2017,"Diphtheria, tetanus",age_16_years,Luhansk,82.8
 2017,Tuberculosis,under 1 year,Lviv,81.2
 2017,Poliomyelitis,under 1 year,Lviv,48.7
 2017,Poliomyelitis,18 months,Lviv,51.3
@@ -947,6 +1039,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Lviv,85.9
 2017,"Measles, mumps, rubella",6 years,Lviv,80.6
 2017,Hepatitis B,under 1 year,Lviv,55.2
+2017,Haemophilus infection,under 1 year,Lviv,39.2
+2017,Haemophilus infection,1 year,Lviv,54.0
+2017,"Diphtheria, tetanus",age_16_years,Lviv,69.1
 2017,Tuberculosis,under 1 year,Mykolayiv,89.8
 2017,Poliomyelitis,under 1 year,Mykolayiv,38.6
 2017,Poliomyelitis,18 months,Mykolayiv,65.2
@@ -961,6 +1056,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Mykolayiv,93.8
 2017,"Measles, mumps, rubella",6 years,Mykolayiv,89.9
 2017,Hepatitis B,under 1 year,Mykolayiv,65.4
+2017,Haemophilus infection,under 1 year,Mykolayiv,30.2
+2017,Haemophilus infection,1 year,Mykolayiv,28.5
+2017,"Diphtheria, tetanus",age_16_years,Mykolayiv,92.3
 2017,Tuberculosis,under 1 year,Odesa,78.8
 2017,Poliomyelitis,under 1 year,Odesa,39.9
 2017,Poliomyelitis,18 months,Odesa,62.9
@@ -975,6 +1073,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Odesa,95.0
 2017,"Measles, mumps, rubella",6 years,Odesa,95.9
 2017,Hepatitis B,under 1 year,Odesa,39.6
+2017,Haemophilus infection,under 1 year,Odesa,33.4
+2017,Haemophilus infection,1 year,Odesa,40.5
+2017,"Diphtheria, tetanus",age_16_years,Odesa,69.3
 2017,Tuberculosis,under 1 year,Poltava,92.7
 2017,Poliomyelitis,under 1 year,Poltava,69.4
 2017,Poliomyelitis,18 months,Poltava,87.4
@@ -989,6 +1090,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Poltava,94.9
 2017,"Measles, mumps, rubella",6 years,Poltava,95.3
 2017,Hepatitis B,under 1 year,Poltava,65.5
+2017,Haemophilus infection,under 1 year,Poltava,46.2
+2017,Haemophilus infection,1 year,Poltava,62.7
+2017,"Diphtheria, tetanus",age_16_years,Poltava,73.4
 2017,Tuberculosis,under 1 year,Rivne,90.7
 2017,Poliomyelitis,under 1 year,Rivne,24.4
 2017,Poliomyelitis,18 months,Rivne,51.4
@@ -1003,6 +1107,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Rivne,81.3
 2017,"Measles, mumps, rubella",6 years,Rivne,80.9
 2017,Hepatitis B,under 1 year,Rivne,51.5
+2017,Haemophilus infection,under 1 year,Rivne,11.2
+2017,Haemophilus infection,1 year,Rivne,14.4
+2017,"Diphtheria, tetanus",age_16_years,Rivne,66.6
 2017,Tuberculosis,under 1 year,Sumy,95.7
 2017,Poliomyelitis,under 1 year,Sumy,60.4
 2017,Poliomyelitis,18 months,Sumy,90.5
@@ -1017,6 +1124,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Sumy,98.0
 2017,"Measles, mumps, rubella",6 years,Sumy,97.3
 2017,Hepatitis B,under 1 year,Sumy,60.5
+2017,Haemophilus infection,under 1 year,Sumy,32.5
+2017,Haemophilus infection,1 year,Sumy,48.6
+2017,"Diphtheria, tetanus",age_16_years,Sumy,91.4
 2017,Tuberculosis,under 1 year,Ternopil,79.1
 2017,Poliomyelitis,under 1 year,Ternopil,40.9
 2017,Poliomyelitis,18 months,Ternopil,55.5
@@ -1031,6 +1141,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Ternopil,95.8
 2017,"Measles, mumps, rubella",6 years,Ternopil,95.2
 2017,Hepatitis B,under 1 year,Ternopil,35.7
+2017,Haemophilus infection,under 1 year,Ternopil,28.7
+2017,Haemophilus infection,1 year,Ternopil,60.6
+2017,"Diphtheria, tetanus",age_16_years,Ternopil,70.7
 2017,Tuberculosis,under 1 year,Kharkiv,73.9
 2017,Poliomyelitis,under 1 year,Kharkiv,47.1
 2017,Poliomyelitis,18 months,Kharkiv,88.4
@@ -1045,6 +1158,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Kharkiv,91.7
 2017,"Measles, mumps, rubella",6 years,Kharkiv,90.6
 2017,Hepatitis B,under 1 year,Kharkiv,55.9
+2017,Haemophilus infection,under 1 year,Kharkiv,22.5
+2017,Haemophilus infection,1 year,Kharkiv,43.7
+2017,"Diphtheria, tetanus",age_16_years,Kharkiv,71.7
 2017,Tuberculosis,under 1 year,Kherson,90.0
 2017,Poliomyelitis,under 1 year,Kherson,33.1
 2017,Poliomyelitis,18 months,Kherson,53.2
@@ -1059,6 +1175,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Kherson,93.8
 2017,"Measles, mumps, rubella",6 years,Kherson,98.4
 2017,Hepatitis B,under 1 year,Kherson,72.4
+2017,Haemophilus infection,under 1 year,Kherson,28.7
+2017,Haemophilus infection,1 year,Kherson,55.2
+2017,"Diphtheria, tetanus",age_16_years,Kherson,88.0
 2017,Tuberculosis,under 1 year,Khmelnytskiy,95.8
 2017,Poliomyelitis,under 1 year,Khmelnytskiy,55.6
 2017,Poliomyelitis,18 months,Khmelnytskiy,64.5
@@ -1073,6 +1192,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Khmelnytskiy,90.1
 2017,"Measles, mumps, rubella",6 years,Khmelnytskiy,93.0
 2017,Hepatitis B,under 1 year,Khmelnytskiy,29.0
+2017,Haemophilus infection,under 1 year,Khmelnytskiy,21.6
+2017,Haemophilus infection,1 year,Khmelnytskiy,17.3
+2017,"Diphtheria, tetanus",age_16_years,Khmelnytskiy,76.6
 2017,Tuberculosis,under 1 year,Cherkasy,97.1
 2017,Poliomyelitis,under 1 year,Cherkasy,64.1
 2017,Poliomyelitis,18 months,Cherkasy,86.1
@@ -1087,6 +1209,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Cherkasy,96.3
 2017,"Measles, mumps, rubella",6 years,Cherkasy,99.7
 2017,Hepatitis B,under 1 year,Cherkasy,64.5
+2017,Haemophilus infection,under 1 year,Cherkasy,47.5
+2017,Haemophilus infection,1 year,Cherkasy,75.0
+2017,"Diphtheria, tetanus",age_16_years,Cherkasy,83.3
 2017,Tuberculosis,under 1 year,Chernivtsi,95.0
 2017,Poliomyelitis,under 1 year,Chernivtsi,69.7
 2017,Poliomyelitis,18 months,Chernivtsi,79.1
@@ -1101,6 +1226,9 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Chernivtsi,96.4
 2017,"Measles, mumps, rubella",6 years,Chernivtsi,97.7
 2017,Hepatitis B,under 1 year,Chernivtsi,47.0
+2017,Haemophilus infection,under 1 year,Chernivtsi,17.7
+2017,Haemophilus infection,1 year,Chernivtsi,11.2
+2017,"Diphtheria, tetanus",age_16_years,Chernivtsi,59.9
 2017,Tuberculosis,under 1 year,Chernihiv,75.7
 2017,Poliomyelitis,under 1 year,Chernihiv,53.9
 2017,Poliomyelitis,18 months,Chernihiv,82.3
@@ -1115,6 +1243,32 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Chernihiv,97.8
 2017,"Measles, mumps, rubella",6 years,Chernihiv,95.1
 2017,Hepatitis B,under 1 year,Chernihiv,82.8
+2017,Haemophilus infection,under 1 year,Chernihiv,21.3
+2017,Haemophilus infection,1 year,Chernihiv,21.1
+2017,"Diphtheria, tetanus",age_16_years,Chernihiv,73.5
+2017,Haemophilus infection,under 1 year,the city of Kyiv,80.5
+2017,Haemophilus infection,1 year,the city of Kyiv,73.9
+2017,"Diphtheria, tetanus",age_16_years,the city of Kyiv,96.1
+2017,Tuberculosis,under 1 year,city Sevastopol,
+2018,Tuberculosis,under 1 year,,90.1
+2018,Hepatitis B,under 1 year,,67.0
+2018,"Measles, mumps, rubella",1 year,,91.0
+2018,"Measles, mumps, rubella",6 years,,89.5
+2018,"Diphtheria, tetanus",under 1 year,,69.3
+2018,"Diphtheria, tetanus",18 months,,66.1
+2018,"Diphtheria, tetanus",6 years,,83.4
+2018,"Diphtheria, tetanus",adults,,55.6
+2018,Pertussis,under 1 year,,69.3
+2018,Pertussis,18 months,,66.1
+2018,Poliomyelitis,under 1 year,,71.1
+2018,Poliomyelitis,18 months,,67.8
+2018,Poliomyelitis,6 years,,81.3
+2018,Poliomyelitis,14 years,,80.2
+2018,Poliomyelitis,1 year,,57.7
+2018,Haemophilus infection,under 1 year,,52.5
+2018,Haemophilus infection,1 year,,57.7
+2018,"Diphtheria, tetanus",age_16_years,,77.9
+2018,Tuberculosis,under 1 year,Autonomous Republic of Crimea,
 2018,Tuberculosis,under 1 year,Vinnytsya,91.6
 2018,Poliomyelitis,under 1 year,Vinnytsya,76.2
 2018,Poliomyelitis,18 months,Vinnytsya,67.8
@@ -1129,6 +1283,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Vinnytsya,92.5
 2018,"Measles, mumps, rubella",6 years,Vinnytsya,90.2
 2018,Hepatitis B,under 1 year,Vinnytsya,66.9
+2018,Haemophilus infection,under 1 year,Vinnytsya,50.8
+2018,Haemophilus infection,1 year,Vinnytsya,54.5
+2018,"Diphtheria, tetanus",age_16_years,Vinnytsya,69.1
 2018,Tuberculosis,under 1 year,Volyn,93.4
 2018,Poliomyelitis,under 1 year,Volyn,44.8
 2018,Poliomyelitis,18 months,Volyn,47.6
@@ -1143,6 +1300,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Volyn,97.0
 2018,"Measles, mumps, rubella",6 years,Volyn,95.5
 2018,Hepatitis B,under 1 year,Volyn,40.2
+2018,Haemophilus infection,under 1 year,Volyn,30.0
+2018,Haemophilus infection,1 year,Volyn,51.1
+2018,"Diphtheria, tetanus",age_16_years,Volyn,83.2
 2018,Tuberculosis,under 1 year,Dnipropetrovsk,93.3
 2018,Poliomyelitis,under 1 year,Dnipropetrovsk,46.7
 2018,Poliomyelitis,18 months,Dnipropetrovsk,36.8
@@ -1157,6 +1317,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Dnipropetrovsk,94.6
 2018,"Measles, mumps, rubella",6 years,Dnipropetrovsk,95.7
 2018,Hepatitis B,under 1 year,Dnipropetrovsk,75.7
+2018,Haemophilus infection,under 1 year,Dnipropetrovsk,53.6
+2018,Haemophilus infection,1 year,Dnipropetrovsk,64.1
+2018,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,74.3
 2018,Tuberculosis,under 1 year,Donetsk,69.7
 2018,Poliomyelitis,under 1 year,Donetsk,51.3
 2018,Poliomyelitis,18 months,Donetsk,71.6
@@ -1171,6 +1334,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Donetsk,94.1
 2018,"Measles, mumps, rubella",6 years,Donetsk,93.8
 2018,Hepatitis B,under 1 year,Donetsk,47.9
+2018,Haemophilus infection,under 1 year,Donetsk,36.0
+2018,Haemophilus infection,1 year,Donetsk,54.7
+2018,"Diphtheria, tetanus",age_16_years,Donetsk,77.0
 2018,Tuberculosis,under 1 year,Zhytomyr,99.7
 2018,Poliomyelitis,under 1 year,Zhytomyr,68.2
 2018,Poliomyelitis,18 months,Zhytomyr,68.0
@@ -1185,6 +1351,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Zhytomyr,94.4
 2018,"Measles, mumps, rubella",6 years,Zhytomyr,91.5
 2018,Hepatitis B,under 1 year,Zhytomyr,68.4
+2018,Haemophilus infection,under 1 year,Zhytomyr,36.5
+2018,Haemophilus infection,1 year,Zhytomyr,60.7
+2018,"Diphtheria, tetanus",age_16_years,Zhytomyr,78.7
 2018,Tuberculosis,under 1 year,Zakarpattya,93.6
 2018,Poliomyelitis,under 1 year,Zakarpattya,69.6
 2018,Poliomyelitis,18 months,Zakarpattya,62.9
@@ -1199,6 +1368,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Zakarpattya,84.8
 2018,"Measles, mumps, rubella",6 years,Zakarpattya,86.9
 2018,Hepatitis B,under 1 year,Zakarpattya,36.7
+2018,Haemophilus infection,under 1 year,Zakarpattya,69.3
+2018,Haemophilus infection,1 year,Zakarpattya,51.2
+2018,"Diphtheria, tetanus",age_16_years,Zakarpattya,57.0
 2018,Tuberculosis,under 1 year,Zaporizhzhya,93.5
 2018,Poliomyelitis,under 1 year,Zaporizhzhya,76.0
 2018,Poliomyelitis,18 months,Zaporizhzhya,83.3
@@ -1213,6 +1385,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Zaporizhzhya,92.3
 2018,"Measles, mumps, rubella",6 years,Zaporizhzhya,83.3
 2018,Hepatitis B,under 1 year,Zaporizhzhya,72.0
+2018,Haemophilus infection,under 1 year,Zaporizhzhya,63.7
+2018,Haemophilus infection,1 year,Zaporizhzhya,75.2
+2018,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,79.1
 2018,Tuberculosis,under 1 year,Ivano-Frankivsk,88.3
 2018,Poliomyelitis,under 1 year,Ivano-Frankivsk,48.9
 2018,Poliomyelitis,18 months,Ivano-Frankivsk,55.8
@@ -1227,6 +1402,12 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,78.9
 2018,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,69.6
 2018,Hepatitis B,under 1 year,Ivano-Frankivsk,58.7
+2018,Haemophilus infection,under 1 year,Ivano-Frankivsk,34.2
+2018,Haemophilus infection,1 year,Ivano-Frankivsk,36.9
+2018,"Diphtheria, tetanus",age_16_years,Ivano-Frankivsk,52.7
+2018,Haemophilus infection,under 1 year,Kyiv,61.9
+2018,Haemophilus infection,1 year,Kyiv,61.5
+2018,"Diphtheria, tetanus",age_16_years,Kyiv,89.9
 2018,Tuberculosis,under 1 year,Kirovohrad,95.0
 2018,Poliomyelitis,under 1 year,Kirovohrad,87.9
 2018,Poliomyelitis,18 months,Kirovohrad,77.9
@@ -1241,6 +1422,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Kirovohrad,99.9
 2018,"Measles, mumps, rubella",6 years,Kirovohrad,98.6
 2018,Hepatitis B,under 1 year,Kirovohrad,88.9
+2018,Haemophilus infection,under 1 year,Kirovohrad,56.2
+2018,Haemophilus infection,1 year,Kirovohrad,74.3
+2018,"Diphtheria, tetanus",age_16_years,Kirovohrad,88.0
 2018,Tuberculosis,under 1 year,Luhansk,60.5
 2018,Poliomyelitis,under 1 year,Luhansk,47.6
 2018,Poliomyelitis,18 months,Luhansk,84.0
@@ -1255,6 +1439,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Luhansk,96.4
 2018,"Measles, mumps, rubella",6 years,Luhansk,90.9
 2018,Hepatitis B,under 1 year,Luhansk,62.1
+2018,Haemophilus infection,under 1 year,Luhansk,66.7
+2018,Haemophilus infection,1 year,Luhansk,93.9
+2018,"Diphtheria, tetanus",age_16_years,Luhansk,86.7
 2018,Tuberculosis,under 1 year,Lviv,90.6
 2018,Poliomyelitis,under 1 year,Lviv,67.7
 2018,Poliomyelitis,18 months,Lviv,57.5
@@ -1269,6 +1456,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Lviv,89.9
 2018,"Measles, mumps, rubella",6 years,Lviv,83.2
 2018,Hepatitis B,under 1 year,Lviv,63.2
+2018,Haemophilus infection,under 1 year,Lviv,65.2
+2018,Haemophilus infection,1 year,Lviv,62.4
+2018,"Diphtheria, tetanus",age_16_years,Lviv,68.4
 2018,Tuberculosis,under 1 year,Mykolayiv,95.5
 2018,Poliomyelitis,under 1 year,Mykolayiv,89.3
 2018,Poliomyelitis,18 months,Mykolayiv,83.2
@@ -1283,6 +1473,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Mykolayiv,99.2
 2018,"Measles, mumps, rubella",6 years,Mykolayiv,91.3
 2018,Hepatitis B,under 1 year,Mykolayiv,86.3
+2018,Haemophilus infection,under 1 year,Mykolayiv,63.4
+2018,Haemophilus infection,1 year,Mykolayiv,68.7
+2018,"Diphtheria, tetanus",age_16_years,Mykolayiv,83.8
 2018,Tuberculosis,under 1 year,Odesa,89.7
 2018,Poliomyelitis,under 1 year,Odesa,59.8
 2018,Poliomyelitis,18 months,Odesa,62.5
@@ -1297,6 +1490,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Odesa,84.8
 2018,"Measles, mumps, rubella",6 years,Odesa,85.6
 2018,Hepatitis B,under 1 year,Odesa,45.0
+2018,Haemophilus infection,under 1 year,Odesa,36.4
+2018,Haemophilus infection,1 year,Odesa,39.8
+2018,"Diphtheria, tetanus",age_16_years,Odesa,76.9
 2018,Tuberculosis,under 1 year,Poltava,94.2
 2018,Poliomyelitis,under 1 year,Poltava,93.1
 2018,Poliomyelitis,18 months,Poltava,96.5
@@ -1311,6 +1507,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Poltava,94.7
 2018,"Measles, mumps, rubella",6 years,Poltava,96.0
 2018,Hepatitis B,under 1 year,Poltava,90.0
+2018,Haemophilus infection,under 1 year,Poltava,77.6
+2018,Haemophilus infection,1 year,Poltava,83.7
+2018,"Diphtheria, tetanus",age_16_years,Poltava,85.4
 2018,Tuberculosis,under 1 year,Rivne,92.6
 2018,Poliomyelitis,under 1 year,Rivne,57.1
 2018,Poliomyelitis,18 months,Rivne,49.2
@@ -1325,6 +1524,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Rivne,84.8
 2018,"Measles, mumps, rubella",6 years,Rivne,93.0
 2018,Hepatitis B,under 1 year,Rivne,57.9
+2018,Haemophilus infection,under 1 year,Rivne,41.5
+2018,Haemophilus infection,1 year,Rivne,60.0
+2018,"Diphtheria, tetanus",age_16_years,Rivne,82.0
 2018,Tuberculosis,under 1 year,Sumy,97.2
 2018,Poliomyelitis,under 1 year,Sumy,88.6
 2018,Poliomyelitis,18 months,Sumy,85.4
@@ -1339,6 +1541,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Sumy,97.2
 2018,"Measles, mumps, rubella",6 years,Sumy,94.1
 2018,Hepatitis B,under 1 year,Sumy,89.2
+2018,Haemophilus infection,under 1 year,Sumy,64.3
+2018,Haemophilus infection,1 year,Sumy,63.8
+2018,"Diphtheria, tetanus",age_16_years,Sumy,94.2
 2018,Tuberculosis,under 1 year,Ternopil,86.9
 2018,Poliomyelitis,under 1 year,Ternopil,65.4
 2018,Poliomyelitis,18 months,Ternopil,59.5
@@ -1353,6 +1558,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Ternopil,94.5
 2018,"Measles, mumps, rubella",6 years,Ternopil,93.6
 2018,Hepatitis B,under 1 year,Ternopil,54.6
+2018,Haemophilus infection,under 1 year,Ternopil,40.3
+2018,Haemophilus infection,1 year,Ternopil,36.0
+2018,"Diphtheria, tetanus",age_16_years,Ternopil,80.2
 2018,Tuberculosis,under 1 year,Kharkiv,87.5
 2018,Poliomyelitis,under 1 year,Kharkiv,66.4
 2018,Poliomyelitis,18 months,Kharkiv,40.2
@@ -1367,6 +1575,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Kharkiv,80.8
 2018,"Measles, mumps, rubella",6 years,Kharkiv,82.2
 2018,Hepatitis B,under 1 year,Kharkiv,63.5
+2018,Haemophilus infection,under 1 year,Kharkiv,56.1
+2018,Haemophilus infection,1 year,Kharkiv,66.7
+2018,"Diphtheria, tetanus",age_16_years,Kharkiv,77.3
 2018,Tuberculosis,under 1 year,Kherson,86.8
 2018,Poliomyelitis,under 1 year,Kherson,69.9
 2018,Poliomyelitis,18 months,Kherson,49.7
@@ -1381,6 +1592,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Kherson,91.2
 2018,"Measles, mumps, rubella",6 years,Kherson,97.1
 2018,Hepatitis B,under 1 year,Kherson,76.1
+2018,Haemophilus infection,under 1 year,Kherson,40.9
+2018,Haemophilus infection,1 year,Kherson,66.0
+2018,"Diphtheria, tetanus",age_16_years,Kherson,87.3
 2018,Tuberculosis,under 1 year,Khmelnytskiy,99.5
 2018,Poliomyelitis,under 1 year,Khmelnytskiy,93.1
 2018,Poliomyelitis,18 months,Khmelnytskiy,87.4
@@ -1395,6 +1609,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Khmelnytskiy,92.6
 2018,"Measles, mumps, rubella",6 years,Khmelnytskiy,93.4
 2018,Hepatitis B,under 1 year,Khmelnytskiy,65.5
+2018,Haemophilus infection,under 1 year,Khmelnytskiy,43.2
+2018,Haemophilus infection,1 year,Khmelnytskiy,32.0
+2018,"Diphtheria, tetanus",age_16_years,Khmelnytskiy,72.4
 2018,Tuberculosis,under 1 year,Cherkasy,92.6
 2018,Poliomyelitis,under 1 year,Cherkasy,87.5
 2018,Poliomyelitis,18 months,Cherkasy,82.7
@@ -1409,6 +1626,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Cherkasy,87.5
 2018,"Measles, mumps, rubella",6 years,Cherkasy,95.8
 2018,Hepatitis B,under 1 year,Cherkasy,79.8
+2018,Haemophilus infection,under 1 year,Cherkasy,68.2
+2018,Haemophilus infection,1 year,Cherkasy,68.4
+2018,"Diphtheria, tetanus",age_16_years,Cherkasy,73.9
 2018,Tuberculosis,under 1 year,Chernivtsi,95.3
 2018,Poliomyelitis,under 1 year,Chernivtsi,86.2
 2018,Poliomyelitis,18 months,Chernivtsi,88.8
@@ -1423,6 +1643,9 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Chernivtsi,93.5
 2018,"Measles, mumps, rubella",6 years,Chernivtsi,88.1
 2018,Hepatitis B,under 1 year,Chernivtsi,59.7
+2018,Haemophilus infection,under 1 year,Chernivtsi,42.5
+2018,Haemophilus infection,1 year,Chernivtsi,40.2
+2018,"Diphtheria, tetanus",age_16_years,Chernivtsi,70.3
 2018,Tuberculosis,under 1 year,Chernihiv,96.1
 2018,Poliomyelitis,under 1 year,Chernihiv,87.4
 2018,Poliomyelitis,18 months,Chernihiv,76.1
@@ -1437,6 +1660,32 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Chernihiv,93.9
 2018,"Measles, mumps, rubella",6 years,Chernihiv,88.9
 2018,Hepatitis B,under 1 year,Chernihiv,86.3
+2018,Haemophilus infection,under 1 year,Chernihiv,59.8
+2018,Haemophilus infection,1 year,Chernihiv,76.5
+2018,"Diphtheria, tetanus",age_16_years,Chernihiv,86.8
+2018,Haemophilus infection,under 1 year,the city of Kyiv,58.6
+2018,Haemophilus infection,1 year,the city of Kyiv,46.9
+2018,"Diphtheria, tetanus",age_16_years,the city of Kyiv,89.4
+2018,Tuberculosis,under 1 year,city Sevastopol,
+2019,Tuberculosis,under 1 year,,88.6
+2019,Hepatitis B,under 1 year,,77.0
+2019,"Measles, mumps, rubella",1 year,,93.2
+2019,"Measles, mumps, rubella",6 years,,91.7
+2019,"Diphtheria, tetanus",under 1 year,,80.5
+2019,"Diphtheria, tetanus",18 months,,80.5
+2019,"Diphtheria, tetanus",6 years,,72.9
+2019,"Diphtheria, tetanus",adults,,83.4
+2019,Pertussis,under 1 year,,80.5
+2019,Pertussis,18 months,,80.5
+2019,Poliomyelitis,under 1 year,,78.4
+2019,Poliomyelitis,18 months,,78.7
+2019,Poliomyelitis,6 years,,80.3
+2019,Poliomyelitis,14 years,,80.9
+2019,Poliomyelitis,1 year,,80.0
+2019,Haemophilus infection,under 1 year,,76.5
+2019,Haemophilus infection,1 year,,80.0
+2019,"Diphtheria, tetanus",age_16_years,,91.5
+2019,Tuberculosis,under 1 year,Autonomous Republic of Crimea,
 2019,Tuberculosis,under 1 year,Vinnytsya,76.3
 2019,Poliomyelitis,under 1 year,Vinnytsya,79.1
 2019,Poliomyelitis,18 months,Vinnytsya,86.0
@@ -1451,6 +1700,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Vinnytsya,93.6
 2019,"Measles, mumps, rubella",6 years,Vinnytsya,84.5
 2019,Hepatitis B,under 1 year,Vinnytsya,80.8
+2019,Haemophilus infection,under 1 year,Vinnytsya,79.1
+2019,Haemophilus infection,1 year,Vinnytsya,76.5
+2019,"Diphtheria, tetanus",age_16_years,Vinnytsya,88.7
 2019,Tuberculosis,under 1 year,Volyn,91.3
 2019,Poliomyelitis,under 1 year,Volyn,74.4
 2019,Poliomyelitis,18 months,Volyn,71.9
@@ -1465,6 +1717,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Volyn,96.7
 2019,"Measles, mumps, rubella",6 years,Volyn,96.1
 2019,Hepatitis B,under 1 year,Volyn,80.0
+2019,Haemophilus infection,under 1 year,Volyn,65.5
+2019,Haemophilus infection,1 year,Volyn,74.8
+2019,"Diphtheria, tetanus",age_16_years,Volyn,96.2
 2019,Tuberculosis,under 1 year,Dnipropetrovsk,87.8
 2019,Poliomyelitis,under 1 year,Dnipropetrovsk,62.7
 2019,Poliomyelitis,18 months,Dnipropetrovsk,57.6
@@ -1479,6 +1734,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Dnipropetrovsk,99.9
 2019,"Measles, mumps, rubella",6 years,Dnipropetrovsk,99.9
 2019,Hepatitis B,under 1 year,Dnipropetrovsk,93.5
+2019,Haemophilus infection,under 1 year,Dnipropetrovsk,78.1
+2019,Haemophilus infection,1 year,Dnipropetrovsk,86.0
+2019,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,94.1
 2019,Tuberculosis,under 1 year,Donetsk,83.6
 2019,Poliomyelitis,under 1 year,Donetsk,77.6
 2019,Poliomyelitis,18 months,Donetsk,77.4
@@ -1493,6 +1751,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Donetsk,85.5
 2019,"Measles, mumps, rubella",6 years,Donetsk,86.3
 2019,Hepatitis B,under 1 year,Donetsk,72.7
+2019,Haemophilus infection,under 1 year,Donetsk,65.2
+2019,Haemophilus infection,1 year,Donetsk,67.2
+2019,"Diphtheria, tetanus",age_16_years,Donetsk,91.8
 2019,Tuberculosis,under 1 year,Zhytomyr,93.6
 2019,Poliomyelitis,under 1 year,Zhytomyr,75.2
 2019,Poliomyelitis,18 months,Zhytomyr,74.4
@@ -1507,6 +1768,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Zhytomyr,94.1
 2019,"Measles, mumps, rubella",6 years,Zhytomyr,97.1
 2019,Hepatitis B,under 1 year,Zhytomyr,80.2
+2019,Haemophilus infection,under 1 year,Zhytomyr,80.6
+2019,Haemophilus infection,1 year,Zhytomyr,84.0
+2019,"Diphtheria, tetanus",age_16_years,Zhytomyr,90.4
 2019,Tuberculosis,under 1 year,Zakarpattya,90.5
 2019,Poliomyelitis,under 1 year,Zakarpattya,71.4
 2019,Poliomyelitis,18 months,Zakarpattya,74.0
@@ -1521,6 +1785,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Zakarpattya,90.5
 2019,"Measles, mumps, rubella",6 years,Zakarpattya,91.7
 2019,Hepatitis B,under 1 year,Zakarpattya,54.6
+2019,Haemophilus infection,under 1 year,Zakarpattya,59.4
+2019,Haemophilus infection,1 year,Zakarpattya,69.3
+2019,"Diphtheria, tetanus",age_16_years,Zakarpattya,86.7
 2019,Tuberculosis,under 1 year,Zaporizhzhya,85.3
 2019,Poliomyelitis,under 1 year,Zaporizhzhya,83.0
 2019,Poliomyelitis,18 months,Zaporizhzhya,79.1
@@ -1535,6 +1802,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Zaporizhzhya,93.6
 2019,"Measles, mumps, rubella",6 years,Zaporizhzhya,91.9
 2019,Hepatitis B,under 1 year,Zaporizhzhya,75.9
+2019,Haemophilus infection,under 1 year,Zaporizhzhya,77.8
+2019,Haemophilus infection,1 year,Zaporizhzhya,84.4
+2019,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,98.2
 2019,Tuberculosis,under 1 year,Ivano-Frankivsk,91.5
 2019,Poliomyelitis,under 1 year,Ivano-Frankivsk,75.2
 2019,Poliomyelitis,18 months,Ivano-Frankivsk,71.2
@@ -1549,6 +1819,12 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,90.0
 2019,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,87.5
 2019,Hepatitis B,under 1 year,Ivano-Frankivsk,75.2
+2019,Haemophilus infection,under 1 year,Ivano-Frankivsk,64.8
+2019,Haemophilus infection,1 year,Ivano-Frankivsk,62.5
+2019,"Diphtheria, tetanus",age_16_years,Ivano-Frankivsk,81.3
+2019,Haemophilus infection,under 1 year,Kyiv,78.4
+2019,Haemophilus infection,1 year,Kyiv,83.8
+2019,"Diphtheria, tetanus",age_16_years,Kyiv,94.5
 2019,Tuberculosis,under 1 year,Kirovohrad,93.3
 2019,Poliomyelitis,under 1 year,Kirovohrad,87.6
 2019,Poliomyelitis,18 months,Kirovohrad,91.0
@@ -1563,6 +1839,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Kirovohrad,98.2
 2019,"Measles, mumps, rubella",6 years,Kirovohrad,99.1
 2019,Hepatitis B,under 1 year,Kirovohrad,80.9
+2019,Haemophilus infection,under 1 year,Kirovohrad,71.7
+2019,Haemophilus infection,1 year,Kirovohrad,85.2
+2019,"Diphtheria, tetanus",age_16_years,Kirovohrad,89.8
 2019,Tuberculosis,under 1 year,Luhansk,85.8
 2019,Poliomyelitis,under 1 year,Luhansk,75.0
 2019,Poliomyelitis,18 months,Luhansk,83.4
@@ -1577,6 +1856,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Luhansk,95.7
 2019,"Measles, mumps, rubella",6 years,Luhansk,89.5
 2019,Hepatitis B,under 1 year,Luhansk,89.6
+2019,Haemophilus infection,under 1 year,Luhansk,90.1
+2019,Haemophilus infection,1 year,Luhansk,98.7
+2019,"Diphtheria, tetanus",age_16_years,Luhansk,81.0
 2019,Tuberculosis,under 1 year,Lviv,88.1
 2019,Poliomyelitis,under 1 year,Lviv,75.4
 2019,Poliomyelitis,18 months,Lviv,70.5
@@ -1591,6 +1873,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Lviv,90.0
 2019,"Measles, mumps, rubella",6 years,Lviv,81.9
 2019,Hepatitis B,under 1 year,Lviv,67.5
+2019,Haemophilus infection,under 1 year,Lviv,81.5
+2019,Haemophilus infection,1 year,Lviv,80.9
+2019,"Diphtheria, tetanus",age_16_years,Lviv,89.8
 2019,Tuberculosis,under 1 year,Mykolayiv,91.4
 2019,Poliomyelitis,under 1 year,Mykolayiv,96.5
 2019,Poliomyelitis,18 months,Mykolayiv,95.9
@@ -1605,6 +1890,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Mykolayiv,100.0
 2019,"Measles, mumps, rubella",6 years,Mykolayiv,100.0
 2019,Hepatitis B,under 1 year,Mykolayiv,90.8
+2019,Haemophilus infection,under 1 year,Mykolayiv,84.3
+2019,Haemophilus infection,1 year,Mykolayiv,85.4
+2019,"Diphtheria, tetanus",age_16_years,Mykolayiv,95.6
 2019,Tuberculosis,under 1 year,Odesa,84.3
 2019,Poliomyelitis,under 1 year,Odesa,67.3
 2019,Poliomyelitis,18 months,Odesa,67.3
@@ -1619,6 +1907,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Odesa,86.8
 2019,"Measles, mumps, rubella",6 years,Odesa,84.2
 2019,Hepatitis B,under 1 year,Odesa,60.1
+2019,Haemophilus infection,under 1 year,Odesa,66.6
+2019,Haemophilus infection,1 year,Odesa,70.8
+2019,"Diphtheria, tetanus",age_16_years,Odesa,84.2
 2019,Tuberculosis,under 1 year,Poltava,95.6
 2019,Poliomyelitis,under 1 year,Poltava,94.0
 2019,Poliomyelitis,18 months,Poltava,93.2
@@ -1633,6 +1924,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Poltava,97.0
 2019,"Measles, mumps, rubella",6 years,Poltava,95.2
 2019,Hepatitis B,under 1 year,Poltava,93.7
+2019,Haemophilus infection,under 1 year,Poltava,94.4
+2019,Haemophilus infection,1 year,Poltava,92.4
+2019,"Diphtheria, tetanus",age_16_years,Poltava,95.2
 2019,Tuberculosis,under 1 year,Rivne,91.1
 2019,Poliomyelitis,under 1 year,Rivne,63.8
 2019,Poliomyelitis,18 months,Rivne,67.6
@@ -1647,6 +1941,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Rivne,84.9
 2019,"Measles, mumps, rubella",6 years,Rivne,91.3
 2019,Hepatitis B,under 1 year,Rivne,61.1
+2019,Haemophilus infection,under 1 year,Rivne,69.2
+2019,Haemophilus infection,1 year,Rivne,68.8
+2019,"Diphtheria, tetanus",age_16_years,Rivne,85.9
 2019,Tuberculosis,under 1 year,Sumy,95.7
 2019,Poliomyelitis,under 1 year,Sumy,95.1
 2019,Poliomyelitis,18 months,Sumy,97.4
@@ -1661,6 +1958,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Sumy,93.4
 2019,"Measles, mumps, rubella",6 years,Sumy,93.4
 2019,Hepatitis B,under 1 year,Sumy,91.6
+2019,Haemophilus infection,under 1 year,Sumy,77.4
+2019,Haemophilus infection,1 year,Sumy,78.2
+2019,"Diphtheria, tetanus",age_16_years,Sumy,96.1
 2019,Tuberculosis,under 1 year,Ternopil,87.2
 2019,Poliomyelitis,under 1 year,Ternopil,87.4
 2019,Poliomyelitis,18 months,Ternopil,86.2
@@ -1675,6 +1975,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Ternopil,97.1
 2019,"Measles, mumps, rubella",6 years,Ternopil,95.8
 2019,Hepatitis B,under 1 year,Ternopil,71.8
+2019,Haemophilus infection,under 1 year,Ternopil,74.2
+2019,Haemophilus infection,1 year,Ternopil,79.7
+2019,"Diphtheria, tetanus",age_16_years,Ternopil,89.4
 2019,Tuberculosis,under 1 year,Kharkiv,86.2
 2019,Poliomyelitis,under 1 year,Kharkiv,71.3
 2019,Poliomyelitis,18 months,Kharkiv,76.5
@@ -1689,6 +1992,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Kharkiv,98.4
 2019,"Measles, mumps, rubella",6 years,Kharkiv,89.4
 2019,Hepatitis B,under 1 year,Kharkiv,76.1
+2019,Haemophilus infection,under 1 year,Kharkiv,77.1
+2019,Haemophilus infection,1 year,Kharkiv,87.5
+2019,"Diphtheria, tetanus",age_16_years,Kharkiv,89.0
 2019,Tuberculosis,under 1 year,Kherson,83.6
 2019,Poliomyelitis,under 1 year,Kherson,69.2
 2019,Poliomyelitis,18 months,Kherson,69.7
@@ -1703,6 +2009,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Kherson,87.0
 2019,"Measles, mumps, rubella",6 years,Kherson,95.1
 2019,Hepatitis B,under 1 year,Kherson,73.6
+2019,Haemophilus infection,under 1 year,Kherson,78.8
+2019,Haemophilus infection,1 year,Kherson,91.4
+2019,"Diphtheria, tetanus",age_16_years,Kherson,96.9
 2019,Tuberculosis,under 1 year,Khmelnytskiy,96.5
 2019,Poliomyelitis,under 1 year,Khmelnytskiy,86.6
 2019,Poliomyelitis,18 months,Khmelnytskiy,86.7
@@ -1717,6 +2026,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Khmelnytskiy,94.8
 2019,"Measles, mumps, rubella",6 years,Khmelnytskiy,93.4
 2019,Hepatitis B,under 1 year,Khmelnytskiy,73.0
+2019,Haemophilus infection,under 1 year,Khmelnytskiy,67.3
+2019,Haemophilus infection,1 year,Khmelnytskiy,55.5
+2019,"Diphtheria, tetanus",age_16_years,Khmelnytskiy,93.1
 2019,Tuberculosis,under 1 year,Cherkasy,92.1
 2019,Poliomyelitis,under 1 year,Cherkasy,83.1
 2019,Poliomyelitis,18 months,Cherkasy,86.4
@@ -1731,6 +2043,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Cherkasy,86.5
 2019,"Measles, mumps, rubella",6 years,Cherkasy,88.6
 2019,Hepatitis B,under 1 year,Cherkasy,77.5
+2019,Haemophilus infection,under 1 year,Cherkasy,86.6
+2019,Haemophilus infection,1 year,Cherkasy,91.4
+2019,"Diphtheria, tetanus",age_16_years,Cherkasy,89.4
 2019,Tuberculosis,under 1 year,Chernivtsi,91.9
 2019,Poliomyelitis,under 1 year,Chernivtsi,80.2
 2019,Poliomyelitis,18 months,Chernivtsi,86.7
@@ -1745,6 +2060,9 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Chernivtsi,94.9
 2019,"Measles, mumps, rubella",6 years,Chernivtsi,90.6
 2019,Hepatitis B,under 1 year,Chernivtsi,76.6
+2019,Haemophilus infection,under 1 year,Chernivtsi,87.5
+2019,Haemophilus infection,1 year,Chernivtsi,88.5
+2019,"Diphtheria, tetanus",age_16_years,Chernivtsi,91.9
 2019,Tuberculosis,under 1 year,Chernihiv,87.2
 2019,Poliomyelitis,under 1 year,Chernihiv,89.1
 2019,Poliomyelitis,18 months,Chernihiv,93.2
@@ -1759,6 +2077,32 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Chernihiv,99.3
 2019,"Measles, mumps, rubella",6 years,Chernihiv,90.0
 2019,Hepatitis B,under 1 year,Chernihiv,81.6
+2019,Haemophilus infection,under 1 year,Chernihiv,84.5
+2019,Haemophilus infection,1 year,Chernihiv,85.3
+2019,"Diphtheria, tetanus",age_16_years,Chernihiv,92.6
+2019,Haemophilus infection,under 1 year,the city of Kyiv,84.4
+2019,Haemophilus infection,1 year,the city of Kyiv,86.4
+2019,"Diphtheria, tetanus",age_16_years,the city of Kyiv,98.7
+2019,Tuberculosis,under 1 year,city Sevastopol,
+2020,Tuberculosis,under 1 year,,88.8
+2020,Hepatitis B,under 1 year,,79.8
+2020,"Measles, mumps, rubella",1 year,,83.3
+2020,"Measles, mumps, rubella",6 years,,83.4
+2020,"Diphtheria, tetanus",under 1 year,,80.1
+2020,"Diphtheria, tetanus",18 months,,78.1
+2020,"Diphtheria, tetanus",6 years,,59.7
+2020,"Diphtheria, tetanus",adults,,47.0
+2020,Pertussis,under 1 year,,80.1
+2020,Pertussis,18 months,,78.1
+2020,Poliomyelitis,under 1 year,,83.0
+2020,Poliomyelitis,18 months,,83.0
+2020,Poliomyelitis,6 years,,81.7
+2020,Poliomyelitis,14 years,,81.8
+2020,Poliomyelitis,1 year,,83.6
+2020,Haemophilus infection,under 1 year,,85.1
+2020,Haemophilus infection,1 year,,83.6
+2020,"Diphtheria, tetanus",age_16_years,,73.6
+2020,Tuberculosis,under 1 year,Autonomous Republic of Crimea,
 2020,Tuberculosis,under 1 year,Vinnytsya,84.0
 2020,Poliomyelitis,under 1 year,Vinnytsya,82.8
 2020,Poliomyelitis,18 months,Vinnytsya,84.1
@@ -1773,6 +2117,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Vinnytsya,79.3
 2020,"Measles, mumps, rubella",6 years,Vinnytsya,76.7
 2020,Hepatitis B,under 1 year,Vinnytsya,79.0
+2020,Haemophilus infection,under 1 year,Vinnytsya,83.7
+2020,Haemophilus infection,1 year,Vinnytsya,86.4
+2020,"Diphtheria, tetanus",age_16_years,Vinnytsya,74.6
 2020,Tuberculosis,under 1 year,Volyn,95.8
 2020,Poliomyelitis,under 1 year,Volyn,90.0
 2020,Poliomyelitis,18 months,Volyn,91.6
@@ -1787,6 +2134,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Volyn,85.2
 2020,"Measles, mumps, rubella",6 years,Volyn,90.3
 2020,Hepatitis B,under 1 year,Volyn,91.9
+2020,Haemophilus infection,under 1 year,Volyn,76.5
+2020,Haemophilus infection,1 year,Volyn,73.2
+2020,"Diphtheria, tetanus",age_16_years,Volyn,88.3
 2020,Tuberculosis,under 1 year,Dnipropetrovsk,87.2
 2020,Poliomyelitis,under 1 year,Dnipropetrovsk,88.0
 2020,Poliomyelitis,18 months,Dnipropetrovsk,99.3
@@ -1801,6 +2151,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Dnipropetrovsk,92.0
 2020,"Measles, mumps, rubella",6 years,Dnipropetrovsk,89.4
 2020,Hepatitis B,under 1 year,Dnipropetrovsk,95.1
+2020,Haemophilus infection,under 1 year,Dnipropetrovsk,86.1
+2020,Haemophilus infection,1 year,Dnipropetrovsk,86.5
+2020,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,49.1
 2020,Tuberculosis,under 1 year,Donetsk,84.8
 2020,Poliomyelitis,under 1 year,Donetsk,87.0
 2020,Poliomyelitis,18 months,Donetsk,75.2
@@ -1815,6 +2168,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Donetsk,92.6
 2020,"Measles, mumps, rubella",6 years,Donetsk,86.9
 2020,Hepatitis B,under 1 year,Donetsk,81.9
+2020,Haemophilus infection,under 1 year,Donetsk,76.7
+2020,Haemophilus infection,1 year,Donetsk,74.1
+2020,"Diphtheria, tetanus",age_16_years,Donetsk,84.3
 2020,Tuberculosis,under 1 year,Zhytomyr,93.7
 2020,Poliomyelitis,under 1 year,Zhytomyr,88.4
 2020,Poliomyelitis,18 months,Zhytomyr,91.9
@@ -1829,6 +2185,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Zhytomyr,84.7
 2020,"Measles, mumps, rubella",6 years,Zhytomyr,85.1
 2020,Hepatitis B,under 1 year,Zhytomyr,86.8
+2020,Haemophilus infection,under 1 year,Zhytomyr,84.2
+2020,Haemophilus infection,1 year,Zhytomyr,77.2
+2020,"Diphtheria, tetanus",age_16_years,Zhytomyr,58.2
 2020,Tuberculosis,under 1 year,Zakarpattya,88.2
 2020,Poliomyelitis,under 1 year,Zakarpattya,70.7
 2020,Poliomyelitis,18 months,Zakarpattya,68.9
@@ -1843,6 +2202,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Zakarpattya,72.9
 2020,"Measles, mumps, rubella",6 years,Zakarpattya,78.8
 2020,Hepatitis B,under 1 year,Zakarpattya,62.3
+2020,Haemophilus infection,under 1 year,Zakarpattya,92.9
+2020,Haemophilus infection,1 year,Zakarpattya,88.9
+2020,"Diphtheria, tetanus",age_16_years,Zakarpattya,55.9
 2020,Tuberculosis,under 1 year,Zaporizhzhya,84.0
 2020,Poliomyelitis,under 1 year,Zaporizhzhya,76.8
 2020,Poliomyelitis,18 months,Zaporizhzhya,86.6
@@ -1857,6 +2219,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Zaporizhzhya,83.2
 2020,"Measles, mumps, rubella",6 years,Zaporizhzhya,79.4
 2020,Hepatitis B,under 1 year,Zaporizhzhya,76.9
+2020,Haemophilus infection,under 1 year,Zaporizhzhya,77.9
+2020,Haemophilus infection,1 year,Zaporizhzhya,83.2
+2020,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,75.2
 2020,Tuberculosis,under 1 year,Ivano-Frankivsk,84.3
 2020,Poliomyelitis,under 1 year,Ivano-Frankivsk,77.4
 2020,Poliomyelitis,18 months,Ivano-Frankivsk,73.4
@@ -1871,6 +2236,12 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,74.8
 2020,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,72.2
 2020,Hepatitis B,under 1 year,Ivano-Frankivsk,63.7
+2020,Haemophilus infection,under 1 year,Ivano-Frankivsk,78.6
+2020,Haemophilus infection,1 year,Ivano-Frankivsk,74.7
+2020,"Diphtheria, tetanus",age_16_years,Ivano-Frankivsk,66.0
+2020,Haemophilus infection,under 1 year,Kyiv,90.2
+2020,Haemophilus infection,1 year,Kyiv,89.0
+2020,"Diphtheria, tetanus",age_16_years,Kyiv,83.5
 2020,Tuberculosis,under 1 year,Kirovohrad,92.3
 2020,Poliomyelitis,under 1 year,Kirovohrad,93.5
 2020,Poliomyelitis,18 months,Kirovohrad,97.9
@@ -1885,6 +2256,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Kirovohrad,93.9
 2020,"Measles, mumps, rubella",6 years,Kirovohrad,89.6
 2020,Hepatitis B,under 1 year,Kirovohrad,87.8
+2020,Haemophilus infection,under 1 year,Kirovohrad,89.3
+2020,Haemophilus infection,1 year,Kirovohrad,100.0
+2020,"Diphtheria, tetanus",age_16_years,Kirovohrad,62.3
 2020,Tuberculosis,under 1 year,Luhansk,75.6
 2020,Poliomyelitis,under 1 year,Luhansk,91.9
 2020,Poliomyelitis,18 months,Luhansk,85.2
@@ -1899,6 +2273,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Luhansk,93.2
 2020,"Measles, mumps, rubella",6 years,Luhansk,92.7
 2020,Hepatitis B,under 1 year,Luhansk,90.4
+2020,Haemophilus infection,under 1 year,Luhansk,90.2
+2020,Haemophilus infection,1 year,Luhansk,94.9
+2020,"Diphtheria, tetanus",age_16_years,Luhansk,76.6
 2020,Tuberculosis,under 1 year,Lviv,91.4
 2020,Poliomyelitis,under 1 year,Lviv,72.3
 2020,Poliomyelitis,18 months,Lviv,65.0
@@ -1913,6 +2290,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Lviv,76.9
 2020,"Measles, mumps, rubella",6 years,Lviv,69.2
 2020,Hepatitis B,under 1 year,Lviv,68.2
+2020,Haemophilus infection,under 1 year,Lviv,83.2
+2020,Haemophilus infection,1 year,Lviv,85.5
+2020,"Diphtheria, tetanus",age_16_years,Lviv,61.5
 2020,Tuberculosis,under 1 year,Mykolayiv,92.2
 2020,Poliomyelitis,under 1 year,Mykolayiv,93.2
 2020,Poliomyelitis,18 months,Mykolayiv,94.8
@@ -1927,6 +2307,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Mykolayiv,88.8
 2020,"Measles, mumps, rubella",6 years,Mykolayiv,93.7
 2020,Hepatitis B,under 1 year,Mykolayiv,93.9
+2020,Haemophilus infection,under 1 year,Mykolayiv,89.3
+2020,Haemophilus infection,1 year,Mykolayiv,85.1
+2020,"Diphtheria, tetanus",age_16_years,Mykolayiv,92.7
 2020,Tuberculosis,under 1 year,Odesa,88.6
 2020,Poliomyelitis,under 1 year,Odesa,65.4
 2020,Poliomyelitis,18 months,Odesa,62.9
@@ -1941,6 +2324,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Odesa,68.4
 2020,"Measles, mumps, rubella",6 years,Odesa,74.5
 2020,Hepatitis B,under 1 year,Odesa,60.3
+2020,Haemophilus infection,under 1 year,Odesa,75.0
+2020,Haemophilus infection,1 year,Odesa,66.7
+2020,"Diphtheria, tetanus",age_16_years,Odesa,63.8
 2020,Tuberculosis,under 1 year,Poltava,95.6
 2020,Poliomyelitis,under 1 year,Poltava,92.0
 2020,Poliomyelitis,18 months,Poltava,92.7
@@ -1955,6 +2341,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Poltava,94.8
 2020,"Measles, mumps, rubella",6 years,Poltava,92.0
 2020,Hepatitis B,under 1 year,Poltava,91.8
+2020,Haemophilus infection,under 1 year,Poltava,91.2
+2020,Haemophilus infection,1 year,Poltava,90.3
+2020,"Diphtheria, tetanus",age_16_years,Poltava,90.4
 2020,Tuberculosis,under 1 year,Rivne,89.0
 2020,Poliomyelitis,under 1 year,Rivne,83.6
 2020,Poliomyelitis,18 months,Rivne,72.8
@@ -1969,6 +2358,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Rivne,81.2
 2020,"Measles, mumps, rubella",6 years,Rivne,79.2
 2020,Hepatitis B,under 1 year,Rivne,74.4
+2020,Haemophilus infection,under 1 year,Rivne,78.5
+2020,Haemophilus infection,1 year,Rivne,80.4
+2020,"Diphtheria, tetanus",age_16_years,Rivne,76.4
 2020,Tuberculosis,under 1 year,Sumy,90.9
 2020,Poliomyelitis,under 1 year,Sumy,95.5
 2020,Poliomyelitis,18 months,Sumy,92.4
@@ -1983,6 +2375,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Sumy,92.2
 2020,"Measles, mumps, rubella",6 years,Sumy,92.0
 2020,Hepatitis B,under 1 year,Sumy,93.7
+2020,Haemophilus infection,under 1 year,Sumy,88.9
+2020,Haemophilus infection,1 year,Sumy,88.9
+2020,"Diphtheria, tetanus",age_16_years,Sumy,90.4
 2020,Tuberculosis,under 1 year,Ternopil,84.6
 2020,Poliomyelitis,under 1 year,Ternopil,73.2
 2020,Poliomyelitis,18 months,Ternopil,77.7
@@ -1997,6 +2392,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Ternopil,84.4
 2020,"Measles, mumps, rubella",6 years,Ternopil,82.5
 2020,Hepatitis B,under 1 year,Ternopil,71.1
+2020,Haemophilus infection,under 1 year,Ternopil,85.0
+2020,Haemophilus infection,1 year,Ternopil,96.0
+2020,"Diphtheria, tetanus",age_16_years,Ternopil,73.7
 2020,Tuberculosis,under 1 year,Kharkiv,82.4
 2020,Poliomyelitis,under 1 year,Kharkiv,73.8
 2020,Poliomyelitis,18 months,Kharkiv,82.2
@@ -2011,6 +2409,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Kharkiv,74.6
 2020,"Measles, mumps, rubella",6 years,Kharkiv,81.4
 2020,Hepatitis B,under 1 year,Kharkiv,71.0
+2020,Haemophilus infection,under 1 year,Kharkiv,87.7
+2020,Haemophilus infection,1 year,Kharkiv,92.6
+2020,"Diphtheria, tetanus",age_16_years,Kharkiv,80.0
 2020,Tuberculosis,under 1 year,Kherson,88.8
 2020,Poliomyelitis,under 1 year,Kherson,80.8
 2020,Poliomyelitis,18 months,Kherson,70.8
@@ -2025,6 +2426,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Kherson,82.1
 2020,"Measles, mumps, rubella",6 years,Kherson,89.6
 2020,Hepatitis B,under 1 year,Kherson,75.9
+2020,Haemophilus infection,under 1 year,Kherson,79.8
+2020,Haemophilus infection,1 year,Kherson,83.8
+2020,"Diphtheria, tetanus",age_16_years,Kherson,80.4
 2020,Tuberculosis,under 1 year,Khmelnytskiy,92.7
 2020,Poliomyelitis,under 1 year,Khmelnytskiy,89.9
 2020,Poliomyelitis,18 months,Khmelnytskiy,87.0
@@ -2039,6 +2443,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Khmelnytskiy,87.9
 2020,"Measles, mumps, rubella",6 years,Khmelnytskiy,80.5
 2020,Hepatitis B,under 1 year,Khmelnytskiy,82.0
+2020,Haemophilus infection,under 1 year,Khmelnytskiy,79.9
+2020,Haemophilus infection,1 year,Khmelnytskiy,69.5
+2020,"Diphtheria, tetanus",age_16_years,Khmelnytskiy,83.5
 2020,Tuberculosis,under 1 year,Cherkasy,88.5
 2020,Poliomyelitis,under 1 year,Cherkasy,87.9
 2020,Poliomyelitis,18 months,Cherkasy,84.1
@@ -2053,6 +2460,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Cherkasy,82.1
 2020,"Measles, mumps, rubella",6 years,Cherkasy,87.0
 2020,Hepatitis B,under 1 year,Cherkasy,87.3
+2020,Haemophilus infection,under 1 year,Cherkasy,92.1
+2020,Haemophilus infection,1 year,Cherkasy,92.9
+2020,"Diphtheria, tetanus",age_16_years,Cherkasy,81.7
 2020,Tuberculosis,under 1 year,Chernivtsi,89.5
 2020,Poliomyelitis,under 1 year,Chernivtsi,77.2
 2020,Poliomyelitis,18 months,Chernivtsi,73.1
@@ -2067,6 +2477,9 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Chernivtsi,78.8
 2020,"Measles, mumps, rubella",6 years,Chernivtsi,78.6
 2020,Hepatitis B,under 1 year,Chernivtsi,78.3
+2020,Haemophilus infection,under 1 year,Chernivtsi,79.8
+2020,Haemophilus infection,1 year,Chernivtsi,76.3
+2020,"Diphtheria, tetanus",age_16_years,Chernivtsi,68.3
 2020,Tuberculosis,under 1 year,Chernihiv,81.9
 2020,Poliomyelitis,under 1 year,Chernihiv,93.6
 2020,Poliomyelitis,18 months,Chernihiv,87.6
@@ -2081,6 +2494,32 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Chernihiv,79.4
 2020,"Measles, mumps, rubella",6 years,Chernihiv,82.1
 2020,Hepatitis B,under 1 year,Chernihiv,83.9
+2020,Haemophilus infection,under 1 year,Chernihiv,81.4
+2020,Haemophilus infection,1 year,Chernihiv,68.3
+2020,"Diphtheria, tetanus",age_16_years,Chernihiv,56.1
+2020,Haemophilus infection,under 1 year,the city of Kyiv,99.0
+2020,Haemophilus infection,1 year,the city of Kyiv,91.3
+2020,"Diphtheria, tetanus",age_16_years,the city of Kyiv,99.0
+2020,Tuberculosis,under 1 year,city Sevastopol,
+2021,Tuberculosis,under 1 year,,81.8
+2021,Hepatitis B,under 1 year,,78.8
+2021,"Measles, mumps, rubella",1 year,,88.5
+2021,"Measles, mumps, rubella",6 years,,86.8
+2021,"Diphtheria, tetanus",under 1 year,,80.0
+2021,"Diphtheria, tetanus",18 months,,77.8
+2021,"Diphtheria, tetanus",6 years,,69.9
+2021,"Diphtheria, tetanus",adults,,45.4
+2021,Pertussis,under 1 year,,80.0
+2021,Pertussis,18 months,,77.8
+2021,Poliomyelitis,under 1 year,,80.1
+2021,Poliomyelitis,18 months,,80.5
+2021,Poliomyelitis,6 years,,78.4
+2021,Poliomyelitis,14 years,,76.1
+2021,Poliomyelitis,1 year,,87.0
+2021,Haemophilus infection,under 1 year,,90.9
+2021,Haemophilus infection,1 year,,87.0
+2021,"Diphtheria, tetanus",age_16_years,,79.6
+2021,Tuberculosis,under 1 year,Autonomous Republic of Crimea,
 2021,Tuberculosis,under 1 year,Vinnytsya,74.4
 2021,Poliomyelitis,under 1 year,Vinnytsya,80.0
 2021,Poliomyelitis,18 months,Vinnytsya,78.1
@@ -2095,6 +2534,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Vinnytsya,82.4
 2021,"Measles, mumps, rubella",6 years,Vinnytsya,79.7
 2021,Hepatitis B,under 1 year,Vinnytsya,77.8
+2021,Haemophilus infection,under 1 year,Vinnytsya,86.2
+2021,Haemophilus infection,1 year,Vinnytsya,80.6
+2021,"Diphtheria, tetanus",age_16_years,Vinnytsya,71.1
 2021,Tuberculosis,under 1 year,Volyn,85.6
 2021,Poliomyelitis,under 1 year,Volyn,77.7
 2021,Poliomyelitis,18 months,Volyn,73.0
@@ -2109,6 +2551,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Volyn,92.1
 2021,"Measles, mumps, rubella",6 years,Volyn,96.4
 2021,Hepatitis B,under 1 year,Volyn,74.9
+2021,Haemophilus infection,under 1 year,Volyn,78.3
+2021,Haemophilus infection,1 year,Volyn,72.8
+2021,"Diphtheria, tetanus",age_16_years,Volyn,78.4
 2021,Tuberculosis,under 1 year,Dnipropetrovsk,76.4
 2021,Poliomyelitis,under 1 year,Dnipropetrovsk,78.9
 2021,Poliomyelitis,18 months,Dnipropetrovsk,83.7
@@ -2123,6 +2568,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Dnipropetrovsk,96.1
 2021,"Measles, mumps, rubella",6 years,Dnipropetrovsk,94.3
 2021,Hepatitis B,under 1 year,Dnipropetrovsk,90.8
+2021,Haemophilus infection,under 1 year,Dnipropetrovsk,97.8
+2021,Haemophilus infection,1 year,Dnipropetrovsk,99.9
+2021,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,72.6
 2021,Tuberculosis,under 1 year,Donetsk,80.0
 2021,Poliomyelitis,under 1 year,Donetsk,81.3
 2021,Poliomyelitis,18 months,Donetsk,69.6
@@ -2137,6 +2585,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Donetsk,93.4
 2021,"Measles, mumps, rubella",6 years,Donetsk,85.9
 2021,Hepatitis B,under 1 year,Donetsk,79.4
+2021,Haemophilus infection,under 1 year,Donetsk,86.3
+2021,Haemophilus infection,1 year,Donetsk,83.2
+2021,"Diphtheria, tetanus",age_16_years,Donetsk,82.6
 2021,Tuberculosis,under 1 year,Zhytomyr,82.7
 2021,Poliomyelitis,under 1 year,Zhytomyr,83.1
 2021,Poliomyelitis,18 months,Zhytomyr,86.8
@@ -2151,6 +2602,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Zhytomyr,92.3
 2021,"Measles, mumps, rubella",6 years,Zhytomyr,81.9
 2021,Hepatitis B,under 1 year,Zhytomyr,87.5
+2021,Haemophilus infection,under 1 year,Zhytomyr,92.3
+2021,Haemophilus infection,1 year,Zhytomyr,82.0
+2021,"Diphtheria, tetanus",age_16_years,Zhytomyr,80.5
 2021,Tuberculosis,under 1 year,Zakarpattya,71.9
 2021,Poliomyelitis,under 1 year,Zakarpattya,68.5
 2021,Poliomyelitis,18 months,Zakarpattya,67.7
@@ -2165,6 +2619,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Zakarpattya,81.6
 2021,"Measles, mumps, rubella",6 years,Zakarpattya,84.5
 2021,Hepatitis B,under 1 year,Zakarpattya,48.2
+2021,Haemophilus infection,under 1 year,Zakarpattya,71.2
+2021,Haemophilus infection,1 year,Zakarpattya,63.0
+2021,"Diphtheria, tetanus",age_16_years,Zakarpattya,67.6
 2021,Tuberculosis,under 1 year,Zaporizhzhya,81.7
 2021,Poliomyelitis,under 1 year,Zaporizhzhya,74.7
 2021,Poliomyelitis,18 months,Zaporizhzhya,80.5
@@ -2179,6 +2636,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Zaporizhzhya,78.2
 2021,"Measles, mumps, rubella",6 years,Zaporizhzhya,82.0
 2021,Hepatitis B,under 1 year,Zaporizhzhya,77.3
+2021,Haemophilus infection,under 1 year,Zaporizhzhya,82.5
+2021,Haemophilus infection,1 year,Zaporizhzhya,71.6
+2021,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,79.1
 2021,Tuberculosis,under 1 year,Ivano-Frankivsk,79.3
 2021,Poliomyelitis,under 1 year,Ivano-Frankivsk,70.1
 2021,Poliomyelitis,18 months,Ivano-Frankivsk,72.7
@@ -2193,6 +2653,12 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,79.9
 2021,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,85.3
 2021,Hepatitis B,under 1 year,Ivano-Frankivsk,79.7
+2021,Haemophilus infection,under 1 year,Ivano-Frankivsk,92.2
+2021,Haemophilus infection,1 year,Ivano-Frankivsk,78.0
+2021,"Diphtheria, tetanus",age_16_years,Ivano-Frankivsk,82.7
+2021,Haemophilus infection,under 1 year,Kyiv,93.5
+2021,Haemophilus infection,1 year,Kyiv,91.7
+2021,"Diphtheria, tetanus",age_16_years,Kyiv,80.9
 2021,Tuberculosis,under 1 year,Kirovohrad,92.6
 2021,Poliomyelitis,under 1 year,Kirovohrad,93.6
 2021,Poliomyelitis,18 months,Kirovohrad,92.1
@@ -2207,6 +2673,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Kirovohrad,97.3
 2021,"Measles, mumps, rubella",6 years,Kirovohrad,90.8
 2021,Hepatitis B,under 1 year,Kirovohrad,79.9
+2021,Haemophilus infection,under 1 year,Kirovohrad,92.1
+2021,Haemophilus infection,1 year,Kirovohrad,98.9
+2021,"Diphtheria, tetanus",age_16_years,Kirovohrad,88.9
 2021,Tuberculosis,under 1 year,Luhansk,76.6
 2021,Poliomyelitis,under 1 year,Luhansk,84.5
 2021,Poliomyelitis,18 months,Luhansk,90.7
@@ -2221,6 +2690,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Luhansk,95.1
 2021,"Measles, mumps, rubella",6 years,Luhansk,90.9
 2021,Hepatitis B,under 1 year,Luhansk,83.3
+2021,Haemophilus infection,under 1 year,Luhansk,88.1
+2021,Haemophilus infection,1 year,Luhansk,96.1
+2021,"Diphtheria, tetanus",age_16_years,Luhansk,90.5
 2021,Tuberculosis,under 1 year,Lviv,83.4
 2021,Poliomyelitis,under 1 year,Lviv,73.9
 2021,Poliomyelitis,18 months,Lviv,66.8
@@ -2235,6 +2707,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Lviv,85.3
 2021,"Measles, mumps, rubella",6 years,Lviv,77.0
 2021,Hepatitis B,under 1 year,Lviv,70.2
+2021,Haemophilus infection,under 1 year,Lviv,92.7
+2021,Haemophilus infection,1 year,Lviv,89.6
+2021,"Diphtheria, tetanus",age_16_years,Lviv,62.9
 2021,Tuberculosis,under 1 year,Mykolayiv,86.3
 2021,Poliomyelitis,under 1 year,Mykolayiv,91.3
 2021,Poliomyelitis,18 months,Mykolayiv,97.3
@@ -2249,6 +2724,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Mykolayiv,97.0
 2021,"Measles, mumps, rubella",6 years,Mykolayiv,99.9
 2021,Hepatitis B,under 1 year,Mykolayiv,96.8
+2021,Haemophilus infection,under 1 year,Mykolayiv,100.0
+2021,Haemophilus infection,1 year,Mykolayiv,98.1
+2021,"Diphtheria, tetanus",age_16_years,Mykolayiv,87.7
 2021,Tuberculosis,under 1 year,Odesa,77.6
 2021,Poliomyelitis,under 1 year,Odesa,75.5
 2021,Poliomyelitis,18 months,Odesa,74.3
@@ -2263,6 +2741,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Odesa,85.4
 2021,"Measles, mumps, rubella",6 years,Odesa,80.0
 2021,Hepatitis B,under 1 year,Odesa,77.4
+2021,Haemophilus infection,under 1 year,Odesa,98.1
+2021,Haemophilus infection,1 year,Odesa,99.9
+2021,"Diphtheria, tetanus",age_16_years,Odesa,72.1
 2021,Tuberculosis,under 1 year,Poltava,88.7
 2021,Poliomyelitis,under 1 year,Poltava,89.7
 2021,Poliomyelitis,18 months,Poltava,91.5
@@ -2277,6 +2758,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Poltava,96.6
 2021,"Measles, mumps, rubella",6 years,Poltava,92.8
 2021,Hepatitis B,under 1 year,Poltava,91.0
+2021,Haemophilus infection,under 1 year,Poltava,93.1
+2021,Haemophilus infection,1 year,Poltava,94.5
+2021,"Diphtheria, tetanus",age_16_years,Poltava,92.2
 2021,Tuberculosis,under 1 year,Rivne,82.2
 2021,Poliomyelitis,under 1 year,Rivne,80.8
 2021,Poliomyelitis,18 months,Rivne,82.1
@@ -2291,6 +2775,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Rivne,81.5
 2021,"Measles, mumps, rubella",6 years,Rivne,82.9
 2021,Hepatitis B,under 1 year,Rivne,69.9
+2021,Haemophilus infection,under 1 year,Rivne,82.5
+2021,Haemophilus infection,1 year,Rivne,82.8
+2021,"Diphtheria, tetanus",age_16_years,Rivne,81.7
 2021,Tuberculosis,under 1 year,Sumy,88.5
 2021,Poliomyelitis,under 1 year,Sumy,93.7
 2021,Poliomyelitis,18 months,Sumy,97.7
@@ -2305,6 +2792,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Sumy,97.3
 2021,"Measles, mumps, rubella",6 years,Sumy,95.5
 2021,Hepatitis B,under 1 year,Sumy,95.8
+2021,Haemophilus infection,under 1 year,Sumy,98.9
+2021,Haemophilus infection,1 year,Sumy,98.6
+2021,"Diphtheria, tetanus",age_16_years,Sumy,90.2
 2021,Tuberculosis,under 1 year,Ternopil,77.0
 2021,Poliomyelitis,under 1 year,Ternopil,75.7
 2021,Poliomyelitis,18 months,Ternopil,77.3
@@ -2319,6 +2809,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Ternopil,86.3
 2021,"Measles, mumps, rubella",6 years,Ternopil,78.6
 2021,Hepatitis B,under 1 year,Ternopil,57.9
+2021,Haemophilus infection,under 1 year,Ternopil,83.2
+2021,Haemophilus infection,1 year,Ternopil,80.8
+2021,"Diphtheria, tetanus",age_16_years,Ternopil,74.5
 2021,Tuberculosis,under 1 year,Kharkiv,77.3
 2021,Poliomyelitis,under 1 year,Kharkiv,73.5
 2021,Poliomyelitis,18 months,Kharkiv,74.2
@@ -2333,6 +2826,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Kharkiv,81.5
 2021,"Measles, mumps, rubella",6 years,Kharkiv,82.5
 2021,Hepatitis B,under 1 year,Kharkiv,77.2
+2021,Haemophilus infection,under 1 year,Kharkiv,94.3
+2021,Haemophilus infection,1 year,Kharkiv,93.0
+2021,"Diphtheria, tetanus",age_16_years,Kharkiv,83.5
 2021,Tuberculosis,under 1 year,Kherson,84.0
 2021,Poliomyelitis,under 1 year,Kherson,72.1
 2021,Poliomyelitis,18 months,Kherson,66.0
@@ -2347,6 +2843,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Kherson,89.8
 2021,"Measles, mumps, rubella",6 years,Kherson,90.0
 2021,Hepatitis B,under 1 year,Kherson,82.8
+2021,Haemophilus infection,under 1 year,Kherson,85.3
+2021,Haemophilus infection,1 year,Kherson,88.4
+2021,"Diphtheria, tetanus",age_16_years,Kherson,86.0
 2021,Tuberculosis,under 1 year,Khmelnytskiy,88.1
 2021,Poliomyelitis,under 1 year,Khmelnytskiy,78.1
 2021,Poliomyelitis,18 months,Khmelnytskiy,83.3
@@ -2361,6 +2860,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Khmelnytskiy,86.7
 2021,"Measles, mumps, rubella",6 years,Khmelnytskiy,89.7
 2021,Hepatitis B,under 1 year,Khmelnytskiy,64.0
+2021,Haemophilus infection,under 1 year,Khmelnytskiy,86.0
+2021,Haemophilus infection,1 year,Khmelnytskiy,69.9
+2021,"Diphtheria, tetanus",age_16_years,Khmelnytskiy,82.6
 2021,Tuberculosis,under 1 year,Cherkasy,88.1
 2021,Poliomyelitis,under 1 year,Cherkasy,93.5
 2021,Poliomyelitis,18 months,Cherkasy,93.3
@@ -2375,6 +2877,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Cherkasy,94.5
 2021,"Measles, mumps, rubella",6 years,Cherkasy,82.8
 2021,Hepatitis B,under 1 year,Cherkasy,93.8
+2021,Haemophilus infection,under 1 year,Cherkasy,99.1
+2021,Haemophilus infection,1 year,Cherkasy,99.5
+2021,"Diphtheria, tetanus",age_16_years,Cherkasy,88.1
 2021,Tuberculosis,under 1 year,Chernivtsi,85.9
 2021,Poliomyelitis,under 1 year,Chernivtsi,73.4
 2021,Poliomyelitis,18 months,Chernivtsi,77.2
@@ -2389,6 +2894,9 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Chernivtsi,81.5
 2021,"Measles, mumps, rubella",6 years,Chernivtsi,82.3
 2021,Hepatitis B,under 1 year,Chernivtsi,76.6
+2021,Haemophilus infection,under 1 year,Chernivtsi,87.4
+2021,Haemophilus infection,1 year,Chernivtsi,84.2
+2021,"Diphtheria, tetanus",age_16_years,Chernivtsi,60.9
 2021,Tuberculosis,under 1 year,Chernihiv,80.1
 2021,Poliomyelitis,under 1 year,Chernihiv,85.3
 2021,Poliomyelitis,18 months,Chernihiv,76.1
@@ -2403,6 +2911,32 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Chernihiv,86.7
 2021,"Measles, mumps, rubella",6 years,Chernihiv,88.0
 2021,Hepatitis B,under 1 year,Chernihiv,72.7
+2021,Haemophilus infection,under 1 year,Chernihiv,81.9
+2021,Haemophilus infection,1 year,Chernihiv,81.4
+2021,"Diphtheria, tetanus",age_16_years,Chernihiv,83.3
+2021,Haemophilus infection,under 1 year,the city of Kyiv,100.0
+2021,Haemophilus infection,1 year,the city of Kyiv,88.4
+2021,"Diphtheria, tetanus",age_16_years,the city of Kyiv,99.8
+2021,Tuberculosis,under 1 year,city Sevastopol,
+2022,Tuberculosis,under 1 year,,71.0
+2022,Hepatitis B,under 1 year,,62.4
+2022,"Measles, mumps, rubella",1 year,,74.1
+2022,"Measles, mumps, rubella",6 years,,69.1
+2022,"Diphtheria, tetanus",under 1 year,,72.9
+2022,"Diphtheria, tetanus",18 months,,71.9
+2022,"Diphtheria, tetanus",6 years,,68.2
+2022,"Diphtheria, tetanus",adults,,40.2
+2022,Pertussis,under 1 year,,72.9
+2022,Pertussis,18 months,,71.9
+2022,Poliomyelitis,under 1 year,,68.9
+2022,Poliomyelitis,18 months,,66.7
+2022,Poliomyelitis,6 years,,63.4
+2022,Poliomyelitis,14 years,,58.9
+2022,Poliomyelitis,1 year,,69.8
+2022,Haemophilus infection,under 1 year,,74.0
+2022,Haemophilus infection,1 year,,69.8
+2022,"Diphtheria, tetanus",age_16_years,,68.8
+2022,Tuberculosis,under 1 year,Autonomous Republic of Crimea,
 2022,Tuberculosis,under 1 year,Vinnytsya,82.2
 2022,Poliomyelitis,under 1 year,Vinnytsya,70.0
 2022,Poliomyelitis,18 months,Vinnytsya,69.8
@@ -2417,6 +2951,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Vinnytsya,81.7
 2022,"Measles, mumps, rubella",6 years,Vinnytsya,78.4
 2022,Hepatitis B,under 1 year,Vinnytsya,67.8
+2022,Haemophilus infection,under 1 year,Vinnytsya,76.0
+2022,Haemophilus infection,1 year,Vinnytsya,74.7
+2022,"Diphtheria, tetanus",age_16_years,Vinnytsya,72.5
 2022,Tuberculosis,under 1 year,Volyn,90.7
 2022,Poliomyelitis,under 1 year,Volyn,79.5
 2022,Poliomyelitis,18 months,Volyn,78.1
@@ -2431,6 +2968,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Volyn,86.1
 2022,"Measles, mumps, rubella",6 years,Volyn,94.4
 2022,Hepatitis B,under 1 year,Volyn,77.0
+2022,Haemophilus infection,under 1 year,Volyn,81.6
+2022,Haemophilus infection,1 year,Volyn,74.7
+2022,"Diphtheria, tetanus",age_16_years,Volyn,90.7
 2022,Tuberculosis,under 1 year,Dnipropetrovsk,69.3
 2022,Poliomyelitis,under 1 year,Dnipropetrovsk,64.1
 2022,Poliomyelitis,18 months,Dnipropetrovsk,65.7
@@ -2445,6 +2985,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Dnipropetrovsk,73.7
 2022,"Measles, mumps, rubella",6 years,Dnipropetrovsk,69.2
 2022,Hepatitis B,under 1 year,Dnipropetrovsk,53.5
+2022,Haemophilus infection,under 1 year,Dnipropetrovsk,62.3
+2022,Haemophilus infection,1 year,Dnipropetrovsk,66.1
+2022,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,64.8
 2022,Tuberculosis,under 1 year,Donetsk,29.9
 2022,Poliomyelitis,under 1 year,Donetsk,53.4
 2022,Poliomyelitis,18 months,Donetsk,55.3
@@ -2459,6 +3002,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Donetsk,70.5
 2022,"Measles, mumps, rubella",6 years,Donetsk,63.9
 2022,Hepatitis B,under 1 year,Donetsk,35.9
+2022,Haemophilus infection,under 1 year,Donetsk,76.3
+2022,Haemophilus infection,1 year,Donetsk,78.1
+2022,"Diphtheria, tetanus",age_16_years,Donetsk,63.3
 2022,Tuberculosis,under 1 year,Zhytomyr,71.8
 2022,Poliomyelitis,under 1 year,Zhytomyr,69.8
 2022,Poliomyelitis,18 months,Zhytomyr,70.0
@@ -2473,6 +3019,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Zhytomyr,80.0
 2022,"Measles, mumps, rubella",6 years,Zhytomyr,63.9
 2022,Hepatitis B,under 1 year,Zhytomyr,68.3
+2022,Haemophilus infection,under 1 year,Zhytomyr,75.0
+2022,Haemophilus infection,1 year,Zhytomyr,69.2
+2022,"Diphtheria, tetanus",age_16_years,Zhytomyr,77.9
 2022,Tuberculosis,under 1 year,Zakarpattya,64.0
 2022,Poliomyelitis,under 1 year,Zakarpattya,74.4
 2022,Poliomyelitis,18 months,Zakarpattya,74.0
@@ -2487,6 +3036,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Zakarpattya,78.1
 2022,"Measles, mumps, rubella",6 years,Zakarpattya,76.4
 2022,Hepatitis B,under 1 year,Zakarpattya,51.6
+2022,Haemophilus infection,under 1 year,Zakarpattya,80.1
+2022,Haemophilus infection,1 year,Zakarpattya,67.7
+2022,"Diphtheria, tetanus",age_16_years,Zakarpattya,65.0
 2022,Tuberculosis,under 1 year,Zaporizhzhya,64.7
 2022,Poliomyelitis,under 1 year,Zaporizhzhya,51.3
 2022,Poliomyelitis,18 months,Zaporizhzhya,50.9
@@ -2501,6 +3053,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Zaporizhzhya,56.0
 2022,"Measles, mumps, rubella",6 years,Zaporizhzhya,48.3
 2022,Hepatitis B,under 1 year,Zaporizhzhya,45.1
+2022,Haemophilus infection,under 1 year,Zaporizhzhya,59.4
+2022,Haemophilus infection,1 year,Zaporizhzhya,55.1
+2022,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,49.7
 2022,Tuberculosis,under 1 year,Ivano-Frankivsk,76.2
 2022,Poliomyelitis,under 1 year,Ivano-Frankivsk,68.9
 2022,Poliomyelitis,18 months,Ivano-Frankivsk,67.0
@@ -2515,6 +3070,12 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,70.8
 2022,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,60.4
 2022,Hepatitis B,under 1 year,Ivano-Frankivsk,63.2
+2022,Haemophilus infection,under 1 year,Ivano-Frankivsk,70.1
+2022,Haemophilus infection,1 year,Ivano-Frankivsk,70.0
+2022,"Diphtheria, tetanus",age_16_years,Ivano-Frankivsk,64.7
+2022,Haemophilus infection,under 1 year,Kyiv,85.2
+2022,Haemophilus infection,1 year,Kyiv,83.1
+2022,"Diphtheria, tetanus",age_16_years,Kyiv,77.4
 2022,Tuberculosis,under 1 year,Kirovohrad,82.8
 2022,Poliomyelitis,under 1 year,Kirovohrad,90.9
 2022,Poliomyelitis,18 months,Kirovohrad,87.0
@@ -2529,6 +3090,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Kirovohrad,95.9
 2022,"Measles, mumps, rubella",6 years,Kirovohrad,75.7
 2022,Hepatitis B,under 1 year,Kirovohrad,74.4
+2022,Haemophilus infection,under 1 year,Kirovohrad,86.7
+2022,Haemophilus infection,1 year,Kirovohrad,96.8
+2022,"Diphtheria, tetanus",age_16_years,Kirovohrad,73.1
 2022,Tuberculosis,under 1 year,Luhansk,6.9
 2022,Poliomyelitis,under 1 year,Luhansk,6.8
 2022,Poliomyelitis,18 months,Luhansk,6.6
@@ -2543,6 +3107,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Luhansk,7.6
 2022,"Measles, mumps, rubella",6 years,Luhansk,3.6
 2022,Hepatitis B,under 1 year,Luhansk,5.2
+2022,Haemophilus infection,under 1 year,Luhansk,7.6
+2022,Haemophilus infection,1 year,Luhansk,8.0
+2022,"Diphtheria, tetanus",age_16_years,Luhansk,2.8
 2022,Tuberculosis,under 1 year,Lviv,77.4
 2022,Poliomyelitis,under 1 year,Lviv,61.5
 2022,Poliomyelitis,18 months,Lviv,51.6
@@ -2557,6 +3124,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Lviv,67.0
 2022,"Measles, mumps, rubella",6 years,Lviv,54.9
 2022,Hepatitis B,under 1 year,Lviv,55.6
+2022,Haemophilus infection,under 1 year,Lviv,78.9
+2022,Haemophilus infection,1 year,Lviv,63.2
+2022,"Diphtheria, tetanus",age_16_years,Lviv,60.1
 2022,Tuberculosis,under 1 year,Mykolayiv,82.5
 2022,Poliomyelitis,under 1 year,Mykolayiv,63.9
 2022,Poliomyelitis,18 months,Mykolayiv,66.9
@@ -2571,6 +3141,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Mykolayiv,66.6
 2022,"Measles, mumps, rubella",6 years,Mykolayiv,68.0
 2022,Hepatitis B,under 1 year,Mykolayiv,61.7
+2022,Haemophilus infection,under 1 year,Mykolayiv,64.2
+2022,Haemophilus infection,1 year,Mykolayiv,63.2
+2022,"Diphtheria, tetanus",age_16_years,Mykolayiv,63.6
 2022,Tuberculosis,under 1 year,Odesa,66.3
 2022,Poliomyelitis,under 1 year,Odesa,62.3
 2022,Poliomyelitis,18 months,Odesa,55.7
@@ -2585,6 +3158,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Odesa,66.7
 2022,"Measles, mumps, rubella",6 years,Odesa,63.0
 2022,Hepatitis B,under 1 year,Odesa,54.4
+2022,Haemophilus infection,under 1 year,Odesa,74.0
+2022,Haemophilus infection,1 year,Odesa,70.7
+2022,"Diphtheria, tetanus",age_16_years,Odesa,59.0
 2022,Tuberculosis,under 1 year,Poltava,91.1
 2022,Poliomyelitis,under 1 year,Poltava,86.1
 2022,Poliomyelitis,18 months,Poltava,85.3
@@ -2599,6 +3175,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Poltava,96.8
 2022,"Measles, mumps, rubella",6 years,Poltava,88.1
 2022,Hepatitis B,under 1 year,Poltava,90.3
+2022,Haemophilus infection,under 1 year,Poltava,94.9
+2022,Haemophilus infection,1 year,Poltava,93.4
+2022,"Diphtheria, tetanus",age_16_years,Poltava,87.0
 2022,Tuberculosis,under 1 year,Rivne,83.5
 2022,Poliomyelitis,under 1 year,Rivne,90.1
 2022,Poliomyelitis,18 months,Rivne,85.7
@@ -2613,6 +3192,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Rivne,86.6
 2022,"Measles, mumps, rubella",6 years,Rivne,83.7
 2022,Hepatitis B,under 1 year,Rivne,84.6
+2022,Haemophilus infection,under 1 year,Rivne,85.7
+2022,Haemophilus infection,1 year,Rivne,87.5
+2022,"Diphtheria, tetanus",age_16_years,Rivne,87.7
 2022,Tuberculosis,under 1 year,Sumy,91.9
 2022,Poliomyelitis,under 1 year,Sumy,84.4
 2022,Poliomyelitis,18 months,Sumy,85.8
@@ -2627,6 +3209,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Sumy,95.8
 2022,"Measles, mumps, rubella",6 years,Sumy,97.5
 2022,Hepatitis B,under 1 year,Sumy,80.9
+2022,Haemophilus infection,under 1 year,Sumy,78.8
+2022,Haemophilus infection,1 year,Sumy,82.1
+2022,"Diphtheria, tetanus",age_16_years,Sumy,92.7
 2022,Tuberculosis,under 1 year,Ternopil,65.7
 2022,Poliomyelitis,under 1 year,Ternopil,66.1
 2022,Poliomyelitis,18 months,Ternopil,67.6
@@ -2641,6 +3226,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Ternopil,82.4
 2022,"Measles, mumps, rubella",6 years,Ternopil,70.8
 2022,Hepatitis B,under 1 year,Ternopil,55.6
+2022,Haemophilus infection,under 1 year,Ternopil,71.1
+2022,Haemophilus infection,1 year,Ternopil,63.5
+2022,"Diphtheria, tetanus",age_16_years,Ternopil,67.5
 2022,Tuberculosis,under 1 year,Kharkiv,76.9
 2022,Poliomyelitis,under 1 year,Kharkiv,45.5
 2022,Poliomyelitis,18 months,Kharkiv,42.2
@@ -2655,6 +3243,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Kharkiv,43.8
 2022,"Measles, mumps, rubella",6 years,Kharkiv,43.4
 2022,Hepatitis B,under 1 year,Kharkiv,38.2
+2022,Haemophilus infection,under 1 year,Kharkiv,53.2
+2022,Haemophilus infection,1 year,Kharkiv,44.7
+2022,"Diphtheria, tetanus",age_16_years,Kharkiv,42.3
 2022,Tuberculosis,under 1 year,Kherson,28.2
 2022,Poliomyelitis,under 1 year,Kherson,9.6
 2022,Poliomyelitis,18 months,Kherson,7.2
@@ -2669,6 +3260,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Kherson,29.3
 2022,"Measles, mumps, rubella",6 years,Kherson,38.4
 2022,Hepatitis B,under 1 year,Kherson,20.8
+2022,Haemophilus infection,under 1 year,Kherson,36.7
+2022,Haemophilus infection,1 year,Kherson,32.3
+2022,"Diphtheria, tetanus",age_16_years,Kherson,45.8
 2022,Tuberculosis,under 1 year,Khmelnytskiy,73.3
 2022,Poliomyelitis,under 1 year,Khmelnytskiy,76.8
 2022,Poliomyelitis,18 months,Khmelnytskiy,71.6
@@ -2683,6 +3277,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Khmelnytskiy,90.3
 2022,"Measles, mumps, rubella",6 years,Khmelnytskiy,78.0
 2022,Hepatitis B,under 1 year,Khmelnytskiy,61.8
+2022,Haemophilus infection,under 1 year,Khmelnytskiy,75.6
+2022,Haemophilus infection,1 year,Khmelnytskiy,76.9
+2022,"Diphtheria, tetanus",age_16_years,Khmelnytskiy,70.3
 2022,Tuberculosis,under 1 year,Cherkasy,85.2
 2022,Poliomyelitis,under 1 year,Cherkasy,90.7
 2022,Poliomyelitis,18 months,Cherkasy,85.5
@@ -2697,6 +3294,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Cherkasy,88.3
 2022,"Measles, mumps, rubella",6 years,Cherkasy,81.2
 2022,Hepatitis B,under 1 year,Cherkasy,85.9
+2022,Haemophilus infection,under 1 year,Cherkasy,94.2
+2022,Haemophilus infection,1 year,Cherkasy,95.3
+2022,"Diphtheria, tetanus",age_16_years,Cherkasy,84.6
 2022,Tuberculosis,under 1 year,Chernivtsi,89.9
 2022,Poliomyelitis,under 1 year,Chernivtsi,78.4
 2022,Poliomyelitis,18 months,Chernivtsi,67.4
@@ -2711,6 +3311,9 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Chernivtsi,84.3
 2022,"Measles, mumps, rubella",6 years,Chernivtsi,69.7
 2022,Hepatitis B,under 1 year,Chernivtsi,61.4
+2022,Haemophilus infection,under 1 year,Chernivtsi,82.9
+2022,Haemophilus infection,1 year,Chernivtsi,70.5
+2022,"Diphtheria, tetanus",age_16_years,Chernivtsi,64.5
 2022,Tuberculosis,under 1 year,Chernihiv,86.3
 2022,Poliomyelitis,under 1 year,Chernihiv,77.0
 2022,Poliomyelitis,18 months,Chernihiv,79.6
@@ -2725,6 +3328,32 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Chernihiv,82.6
 2022,"Measles, mumps, rubella",6 years,Chernihiv,76.9
 2022,Hepatitis B,under 1 year,Chernihiv,73.2
+2022,Haemophilus infection,under 1 year,Chernihiv,76.6
+2022,Haemophilus infection,1 year,Chernihiv,62.8
+2022,"Diphtheria, tetanus",age_16_years,Chernihiv,85.7
+2022,Haemophilus infection,under 1 year,the city of Kyiv,81.9
+2022,Haemophilus infection,1 year,the city of Kyiv,77.1
+2022,"Diphtheria, tetanus",age_16_years,the city of Kyiv,93.9
+2022,Tuberculosis,under 1 year,city Sevastopol,
+2023,Tuberculosis,under 1 year,,83.5
+2023,Hepatitis B,under 1 year,,79.2
+2023,"Measles, mumps, rubella",1 year,,92.4
+2023,"Measles, mumps, rubella",6 years,,87.3
+2023,"Diphtheria, tetanus",under 1 year,,83.4
+2023,"Diphtheria, tetanus",18 months,,82.7
+2023,"Diphtheria, tetanus",6 years,,70.9
+2023,"Diphtheria, tetanus",adults,,52.0
+2023,Pertussis,under 1 year,,83.4
+2023,Pertussis,18 months,,82.7
+2023,Poliomyelitis,under 1 year,,84.9
+2023,Poliomyelitis,18 months,,85.5
+2023,Poliomyelitis,6 years,,82.3
+2023,Poliomyelitis,14 years,,78.9
+2023,Poliomyelitis,1 year,,78.2
+2023,Haemophilus infection,under 1 year,,86.4
+2023,Haemophilus infection,1 year,,78.2
+2023,"Diphtheria, tetanus",age_16_years,,78.3
+2023,Tuberculosis,under 1 year,Autonomous Republic of Crimea,
 2023,Tuberculosis,under 1 year,Vinnytsya,79.9
 2023,Poliomyelitis,under 1 year,Vinnytsya,85.2
 2023,Poliomyelitis,18 months,Vinnytsya,89.5
@@ -2739,6 +3368,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Vinnytsya,96.2
 2023,"Measles, mumps, rubella",6 years,Vinnytsya,87.7
 2023,Hepatitis B,under 1 year,Vinnytsya,78.1
+2023,Haemophilus infection,under 1 year,Vinnytsya,86.1
+2023,Haemophilus infection,1 year,Vinnytsya,87.8
+2023,"Diphtheria, tetanus",age_16_years,Vinnytsya,73.3
 2023,Tuberculosis,under 1 year,Volyn,89.4
 2023,Poliomyelitis,under 1 year,Volyn,85.0
 2023,Poliomyelitis,18 months,Volyn,85.6
@@ -2753,6 +3385,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Volyn,98.8
 2023,"Measles, mumps, rubella",6 years,Volyn,95.7
 2023,Hepatitis B,under 1 year,Volyn,85.4
+2023,Haemophilus infection,under 1 year,Volyn,76.2
+2023,Haemophilus infection,1 year,Volyn,53.6
+2023,"Diphtheria, tetanus",age_16_years,Volyn,89.7
 2023,Tuberculosis,under 1 year,Dnipropetrovsk,83.0
 2023,Poliomyelitis,under 1 year,Dnipropetrovsk,84.5
 2023,Poliomyelitis,18 months,Dnipropetrovsk,94.7
@@ -2767,6 +3402,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Dnipropetrovsk,92.6
 2023,"Measles, mumps, rubella",6 years,Dnipropetrovsk,91.7
 2023,Hepatitis B,under 1 year,Dnipropetrovsk,79.5
+2023,Haemophilus infection,under 1 year,Dnipropetrovsk,90.4
+2023,Haemophilus infection,1 year,Dnipropetrovsk,89.8
+2023,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,77.0
 2023,Tuberculosis,under 1 year,Donetsk,89.8
 2023,Poliomyelitis,under 1 year,Donetsk,79.4
 2023,Poliomyelitis,18 months,Donetsk,78.8
@@ -2781,6 +3419,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Donetsk,94.8
 2023,"Measles, mumps, rubella",6 years,Donetsk,79.8
 2023,Hepatitis B,under 1 year,Donetsk,79.6
+2023,Haemophilus infection,under 1 year,Donetsk,93.0
+2023,Haemophilus infection,1 year,Donetsk,89.9
+2023,"Diphtheria, tetanus",age_16_years,Donetsk,75.6
 2023,Tuberculosis,under 1 year,Zhytomyr,74.7
 2023,Poliomyelitis,under 1 year,Zhytomyr,90.7
 2023,Poliomyelitis,18 months,Zhytomyr,86.2
@@ -2795,6 +3436,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Zhytomyr,87.2
 2023,"Measles, mumps, rubella",6 years,Zhytomyr,83.2
 2023,Hepatitis B,under 1 year,Zhytomyr,92.0
+2023,Haemophilus infection,under 1 year,Zhytomyr,95.4
+2023,Haemophilus infection,1 year,Zhytomyr,70.7
+2023,"Diphtheria, tetanus",age_16_years,Zhytomyr,83.5
 2023,Tuberculosis,under 1 year,Zakarpattya,77.7
 2023,Poliomyelitis,under 1 year,Zakarpattya,73.9
 2023,Poliomyelitis,18 months,Zakarpattya,81.5
@@ -2809,6 +3453,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Zakarpattya,85.5
 2023,"Measles, mumps, rubella",6 years,Zakarpattya,82.5
 2023,Hepatitis B,under 1 year,Zakarpattya,58.0
+2023,Haemophilus infection,under 1 year,Zakarpattya,81.3
+2023,Haemophilus infection,1 year,Zakarpattya,82.2
+2023,"Diphtheria, tetanus",age_16_years,Zakarpattya,68.2
 2023,Tuberculosis,under 1 year,Zaporizhzhya,78.8
 2023,Poliomyelitis,under 1 year,Zaporizhzhya,91.6
 2023,Poliomyelitis,18 months,Zaporizhzhya,94.6
@@ -2823,6 +3470,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Zaporizhzhya,99.8
 2023,"Measles, mumps, rubella",6 years,Zaporizhzhya,89.2
 2023,Hepatitis B,under 1 year,Zaporizhzhya,98.9
+2023,Haemophilus infection,under 1 year,Zaporizhzhya,100.0
+2023,Haemophilus infection,1 year,Zaporizhzhya,99.1
+2023,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,92.5
 2023,Tuberculosis,under 1 year,Ivano-Frankivsk,81.4
 2023,Poliomyelitis,under 1 year,Ivano-Frankivsk,87.2
 2023,Poliomyelitis,18 months,Ivano-Frankivsk,89.1
@@ -2837,6 +3487,12 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,94.5
 2023,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,83.2
 2023,Hepatitis B,under 1 year,Ivano-Frankivsk,69.2
+2023,Haemophilus infection,under 1 year,Ivano-Frankivsk,62.6
+2023,Haemophilus infection,1 year,Ivano-Frankivsk,55.6
+2023,"Diphtheria, tetanus",age_16_years,Ivano-Frankivsk,67.6
+2023,Haemophilus infection,under 1 year,Kyiv,87.3
+2023,Haemophilus infection,1 year,Kyiv,82.6
+2023,"Diphtheria, tetanus",age_16_years,Kyiv,82.0
 2023,Tuberculosis,under 1 year,Kirovohrad,87.9
 2023,Poliomyelitis,under 1 year,Kirovohrad,90.8
 2023,Poliomyelitis,18 months,Kirovohrad,94.1
@@ -2851,6 +3507,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Kirovohrad,99.5
 2023,"Measles, mumps, rubella",6 years,Kirovohrad,95.1
 2023,Hepatitis B,under 1 year,Kirovohrad,69.0
+2023,Haemophilus infection,under 1 year,Kirovohrad,74.7
+2023,Haemophilus infection,1 year,Kirovohrad,78.6
+2023,"Diphtheria, tetanus",age_16_years,Kirovohrad,78.0
 2023,Tuberculosis,under 1 year,Luhansk,0.0
 2023,Poliomyelitis,under 1 year,Luhansk,0.0
 2023,Poliomyelitis,18 months,Luhansk,0.0
@@ -2865,6 +3524,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Luhansk,0.0
 2023,"Measles, mumps, rubella",6 years,Luhansk,0.0
 2023,Hepatitis B,under 1 year,Luhansk,0.0
+2023,Haemophilus infection,under 1 year,Luhansk,0.0
+2023,Haemophilus infection,1 year,Luhansk,0.0
+2023,"Diphtheria, tetanus",age_16_years,Luhansk,0.0
 2023,Tuberculosis,under 1 year,Lviv,79.8
 2023,Poliomyelitis,under 1 year,Lviv,73.4
 2023,Poliomyelitis,18 months,Lviv,63.1
@@ -2879,6 +3541,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Lviv,87.7
 2023,"Measles, mumps, rubella",6 years,Lviv,80.2
 2023,Hepatitis B,under 1 year,Lviv,70.3
+2023,Haemophilus infection,under 1 year,Lviv,90.9
+2023,Haemophilus infection,1 year,Lviv,59.4
+2023,"Diphtheria, tetanus",age_16_years,Lviv,58.7
 2023,Tuberculosis,under 1 year,Mykolayiv,91.4
 2023,Poliomyelitis,under 1 year,Mykolayiv,89.5
 2023,Poliomyelitis,18 months,Mykolayiv,89.2
@@ -2893,6 +3558,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Mykolayiv,94.3
 2023,"Measles, mumps, rubella",6 years,Mykolayiv,86.9
 2023,Hepatitis B,under 1 year,Mykolayiv,96.5
+2023,Haemophilus infection,under 1 year,Mykolayiv,94.4
+2023,Haemophilus infection,1 year,Mykolayiv,96.2
+2023,"Diphtheria, tetanus",age_16_years,Mykolayiv,91.0
 2023,Tuberculosis,under 1 year,Odesa,81.5
 2023,Poliomyelitis,under 1 year,Odesa,72.7
 2023,Poliomyelitis,18 months,Odesa,76.4
@@ -2907,6 +3575,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Odesa,85.6
 2023,"Measles, mumps, rubella",6 years,Odesa,74.0
 2023,Hepatitis B,under 1 year,Odesa,70.3
+2023,Haemophilus infection,under 1 year,Odesa,78.1
+2023,Haemophilus infection,1 year,Odesa,81.7
+2023,"Diphtheria, tetanus",age_16_years,Odesa,62.2
 2023,Tuberculosis,under 1 year,Poltava,79.7
 2023,Poliomyelitis,under 1 year,Poltava,87.1
 2023,Poliomyelitis,18 months,Poltava,87.1
@@ -2921,6 +3592,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Poltava,94.2
 2023,"Measles, mumps, rubella",6 years,Poltava,91.3
 2023,Hepatitis B,under 1 year,Poltava,83.0
+2023,Haemophilus infection,under 1 year,Poltava,88.7
+2023,Haemophilus infection,1 year,Poltava,78.5
+2023,"Diphtheria, tetanus",age_16_years,Poltava,92.4
 2023,Tuberculosis,under 1 year,Rivne,89.1
 2023,Poliomyelitis,under 1 year,Rivne,97.2
 2023,Poliomyelitis,18 months,Rivne,91.2
@@ -2935,6 +3609,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Rivne,98.3
 2023,"Measles, mumps, rubella",6 years,Rivne,95.1
 2023,Hepatitis B,under 1 year,Rivne,91.2
+2023,Haemophilus infection,under 1 year,Rivne,95.5
+2023,Haemophilus infection,1 year,Rivne,96.5
+2023,"Diphtheria, tetanus",age_16_years,Rivne,89.7
 2023,Tuberculosis,under 1 year,Sumy,96.2
 2023,Poliomyelitis,under 1 year,Sumy,93.5
 2023,Poliomyelitis,18 months,Sumy,92.1
@@ -2949,6 +3626,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Sumy,92.4
 2023,"Measles, mumps, rubella",6 years,Sumy,89.2
 2023,Hepatitis B,under 1 year,Sumy,95.5
+2023,Haemophilus infection,under 1 year,Sumy,91.3
+2023,Haemophilus infection,1 year,Sumy,91.7
+2023,"Diphtheria, tetanus",age_16_years,Sumy,88.1
 2023,Tuberculosis,under 1 year,Ternopil,90.5
 2023,Poliomyelitis,under 1 year,Ternopil,80.6
 2023,Poliomyelitis,18 months,Ternopil,80.3
@@ -2963,6 +3643,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Ternopil,99.0
 2023,"Measles, mumps, rubella",6 years,Ternopil,88.7
 2023,Hepatitis B,under 1 year,Ternopil,69.0
+2023,Haemophilus infection,under 1 year,Ternopil,87.9
+2023,Haemophilus infection,1 year,Ternopil,79.9
+2023,"Diphtheria, tetanus",age_16_years,Ternopil,71.6
 2023,Tuberculosis,under 1 year,Kharkiv,86.2
 2023,Poliomyelitis,under 1 year,Kharkiv,77.3
 2023,Poliomyelitis,18 months,Kharkiv,83.9
@@ -2977,6 +3660,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Kharkiv,95.4
 2023,"Measles, mumps, rubella",6 years,Kharkiv,89.6
 2023,Hepatitis B,under 1 year,Kharkiv,83.1
+2023,Haemophilus infection,under 1 year,Kharkiv,91.8
+2023,Haemophilus infection,1 year,Kharkiv,94.5
+2023,"Diphtheria, tetanus",age_16_years,Kharkiv,90.3
 2023,Tuberculosis,under 1 year,Kherson,96.7
 2023,Poliomyelitis,under 1 year,Kherson,100.0
 2023,Poliomyelitis,18 months,Kherson,100.0
@@ -2991,6 +3677,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Kherson,100.0
 2023,"Measles, mumps, rubella",6 years,Kherson,99.3
 2023,Hepatitis B,under 1 year,Kherson,84.7
+2023,Haemophilus infection,under 1 year,Kherson,98.7
+2023,Haemophilus infection,1 year,Kherson,100.0
+2023,"Diphtheria, tetanus",age_16_years,Kherson,100.0
 2023,Tuberculosis,under 1 year,Khmelnytskiy,94.8
 2023,Poliomyelitis,under 1 year,Khmelnytskiy,92.6
 2023,Poliomyelitis,18 months,Khmelnytskiy,84.9
@@ -3005,6 +3694,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Khmelnytskiy,96.0
 2023,"Measles, mumps, rubella",6 years,Khmelnytskiy,89.3
 2023,Hepatitis B,under 1 year,Khmelnytskiy,67.2
+2023,Haemophilus infection,under 1 year,Khmelnytskiy,78.7
+2023,Haemophilus infection,1 year,Khmelnytskiy,55.9
+2023,"Diphtheria, tetanus",age_16_years,Khmelnytskiy,76.1
 2023,Tuberculosis,under 1 year,Cherkasy,88.4
 2023,Poliomyelitis,under 1 year,Cherkasy,92.9
 2023,Poliomyelitis,18 months,Cherkasy,85.7
@@ -3019,6 +3711,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Cherkasy,86.2
 2023,"Measles, mumps, rubella",6 years,Cherkasy,86.3
 2023,Hepatitis B,under 1 year,Cherkasy,95.2
+2023,Haemophilus infection,under 1 year,Cherkasy,93.1
+2023,Haemophilus infection,1 year,Cherkasy,88.0
+2023,"Diphtheria, tetanus",age_16_years,Cherkasy,87.3
 2023,Tuberculosis,under 1 year,Chernivtsi,80.1
 2023,Poliomyelitis,under 1 year,Chernivtsi,75.9
 2023,Poliomyelitis,18 months,Chernivtsi,84.3
@@ -3033,6 +3728,9 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Chernivtsi,79.2
 2023,"Measles, mumps, rubella",6 years,Chernivtsi,81.0
 2023,Hepatitis B,under 1 year,Chernivtsi,71.0
+2023,Haemophilus infection,under 1 year,Chernivtsi,69.4
+2023,Haemophilus infection,1 year,Chernivtsi,54.7
+2023,"Diphtheria, tetanus",age_16_years,Chernivtsi,73.1
 2023,Tuberculosis,under 1 year,Chernihiv,86.8
 2023,Poliomyelitis,under 1 year,Chernihiv,87.1
 2023,Poliomyelitis,18 months,Chernihiv,92.2
@@ -3047,6 +3745,32 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Chernihiv,89.6
 2023,"Measles, mumps, rubella",6 years,Chernihiv,91.4
 2023,Hepatitis B,under 1 year,Chernihiv,79.2
+2023,Haemophilus infection,under 1 year,Chernihiv,88.2
+2023,Haemophilus infection,1 year,Chernihiv,85.3
+2023,"Diphtheria, tetanus",age_16_years,Chernihiv,70.0
+2023,Haemophilus infection,under 1 year,the city of Kyiv,100.0
+2023,Haemophilus infection,1 year,the city of Kyiv,86.0
+2023,"Diphtheria, tetanus",age_16_years,the city of Kyiv,93.7
+2023,Tuberculosis,under 1 year,city Sevastopol,
+2024,Tuberculosis,under 1 year,,92.8
+2024,Hepatitis B,under 1 year,,88.0
+2024,"Measles, mumps, rubella",1 year,,91.4
+2024,"Measles, mumps, rubella",6 years,,83.4
+2024,"Diphtheria, tetanus",under 1 year,,88.3
+2024,"Diphtheria, tetanus",18 months,,86.8
+2024,"Diphtheria, tetanus",6 years,,77.0
+2024,"Diphtheria, tetanus",adults,,80.7
+2024,Pertussis,under 1 year,,88.3
+2024,Pertussis,18 months,,86.8
+2024,Poliomyelitis,under 1 year,,87.8
+2024,Poliomyelitis,18 months,,87.3
+2024,Poliomyelitis,6 years,,83.6
+2024,Poliomyelitis,14 years,,80.8
+2024,Poliomyelitis,1 year,,92.7
+2024,Haemophilus infection,under 1 year,,94.63914970096992
+2024,Haemophilus infection,1 year,,92.7314422761916
+2024,"Diphtheria, tetanus",age_16_years,,82.1
+2024,Tuberculosis,under 1 year,Autonomous Republic of Crimea,
 2024,Tuberculosis,under 1 year,Vinnytsya,96.5
 2024,Poliomyelitis,under 1 year,Vinnytsya,91.5
 2024,Poliomyelitis,18 months,Vinnytsya,91.7
@@ -3061,6 +3785,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Vinnytsya,90.1
 2024,"Measles, mumps, rubella",6 years,Vinnytsya,76.5
 2024,Hepatitis B,under 1 year,Vinnytsya,90.0
+2024,Haemophilus infection,under 1 year,Vinnytsya,98.1132075471698
+2024,Haemophilus infection,1 year,Vinnytsya,83.19715340010544
+2024,"Diphtheria, tetanus",age_16_years,Vinnytsya,72.21076885762794
 2024,Tuberculosis,under 1 year,Volyn,93.6
 2024,Poliomyelitis,under 1 year,Volyn,88.8
 2024,Poliomyelitis,18 months,Volyn,88.5
@@ -3075,6 +3802,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Volyn,95.3
 2024,"Measles, mumps, rubella",6 years,Volyn,87.9
 2024,Hepatitis B,under 1 year,Volyn,90.9
+2024,Haemophilus infection,under 1 year,Volyn,94.46457035212288
+2024,Haemophilus infection,1 year,Volyn,91.28562945368172
+2024,"Diphtheria, tetanus",age_16_years,Volyn,87.51347079531575
 2024,Tuberculosis,under 1 year,Dnipropetrovsk,94.0
 2024,Poliomyelitis,under 1 year,Dnipropetrovsk,91.8
 2024,Poliomyelitis,18 months,Dnipropetrovsk,89.7
@@ -3089,6 +3819,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Dnipropetrovsk,93.4
 2024,"Measles, mumps, rubella",6 years,Dnipropetrovsk,87.1
 2024,Hepatitis B,under 1 year,Dnipropetrovsk,97.7
+2024,Haemophilus infection,under 1 year,Dnipropetrovsk,98.84792626728112
+2024,Haemophilus infection,1 year,Dnipropetrovsk,99.54225352112675
+2024,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,89.56014265643574
 2024,Tuberculosis,under 1 year,Donetsk,76.8
 2024,Poliomyelitis,under 1 year,Donetsk,92.1
 2024,Poliomyelitis,18 months,Donetsk,93.0
@@ -3103,6 +3836,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Donetsk,86.1
 2024,"Measles, mumps, rubella",6 years,Donetsk,99.4
 2024,Hepatitis B,under 1 year,Donetsk,99.9
+2024,Haemophilus infection,under 1 year,Donetsk,99.58202716823406
+2024,Haemophilus infection,1 year,Donetsk,99.43609022556392
+2024,"Diphtheria, tetanus",age_16_years,Donetsk,96.24945486262538
 2024,Tuberculosis,under 1 year,Zhytomyr,95.8
 2024,Poliomyelitis,under 1 year,Zhytomyr,92.5
 2024,Poliomyelitis,18 months,Zhytomyr,95.5
@@ -3117,6 +3853,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Zhytomyr,96.4
 2024,"Measles, mumps, rubella",6 years,Zhytomyr,86.0
 2024,Hepatitis B,under 1 year,Zhytomyr,97.0
+2024,Haemophilus infection,under 1 year,Zhytomyr,98.57235561323816
+2024,Haemophilus infection,1 year,Zhytomyr,99.17965545529124
+2024,"Diphtheria, tetanus",age_16_years,Zhytomyr,88.28738641614045
 2024,Tuberculosis,under 1 year,Zakarpattya,91.3
 2024,Poliomyelitis,under 1 year,Zakarpattya,84.1
 2024,Poliomyelitis,18 months,Zakarpattya,79.9
@@ -3131,6 +3870,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Zakarpattya,85.0
 2024,"Measles, mumps, rubella",6 years,Zakarpattya,80.8
 2024,Hepatitis B,under 1 year,Zakarpattya,77.4
+2024,Haemophilus infection,under 1 year,Zakarpattya,85.7066808623902
+2024,Haemophilus infection,1 year,Zakarpattya,83.63929546018358
+2024,"Diphtheria, tetanus",age_16_years,Zakarpattya,75.87532888079336
 2024,Tuberculosis,under 1 year,Zaporizhzhya,96.3
 2024,Poliomyelitis,under 1 year,Zaporizhzhya,91.6
 2024,Poliomyelitis,18 months,Zaporizhzhya,93.5
@@ -3145,6 +3887,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Zaporizhzhya,98.0
 2024,"Measles, mumps, rubella",6 years,Zaporizhzhya,99.7
 2024,Hepatitis B,under 1 year,Zaporizhzhya,98.0
+2024,Haemophilus infection,under 1 year,Zaporizhzhya,99.48339483394834
+2024,Haemophilus infection,1 year,Zaporizhzhya,99.39690915944212
+2024,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,99.5412064570943
 2024,Tuberculosis,under 1 year,Ivano-Frankivsk,91.4
 2024,Poliomyelitis,under 1 year,Ivano-Frankivsk,85.6
 2024,Poliomyelitis,18 months,Ivano-Frankivsk,81.7
@@ -3159,6 +3904,12 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,91.6
 2024,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,82.5
 2024,Hepatitis B,under 1 year,Ivano-Frankivsk,85.0
+2024,Haemophilus infection,under 1 year,Ivano-Frankivsk,92.43250804308296
+2024,Haemophilus infection,1 year,Ivano-Frankivsk,91.90121412803532
+2024,"Diphtheria, tetanus",age_16_years,Ivano-Frankivsk,74.12031782065834
+2024,Haemophilus infection,under 1 year,Kyiv,90.85193057031526
+2024,Haemophilus infection,1 year,Kyiv,91.78526391641144
+2024,"Diphtheria, tetanus",age_16_years,Kyiv,77.71410084577344
 2024,Tuberculosis,under 1 year,Kirovohrad,96.5
 2024,Poliomyelitis,under 1 year,Kirovohrad,98.1
 2024,Poliomyelitis,18 months,Kirovohrad,93.3
@@ -3173,6 +3924,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Kirovohrad,93.7
 2024,"Measles, mumps, rubella",6 years,Kirovohrad,90.9
 2024,Hepatitis B,under 1 year,Kirovohrad,86.5
+2024,Haemophilus infection,under 1 year,Kirovohrad,88.33333333333333
+2024,Haemophilus infection,1 year,Kirovohrad,97.48826291079811
+2024,"Diphtheria, tetanus",age_16_years,Kirovohrad,89.77072310405644
 2024,Tuberculosis,under 1 year,Luhansk,0.0
 2024,Poliomyelitis,under 1 year,Luhansk,0.0
 2024,Poliomyelitis,18 months,Luhansk,0.0
@@ -3187,6 +3941,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Luhansk,0.0
 2024,"Measles, mumps, rubella",6 years,Luhansk,0.0
 2024,Hepatitis B,under 1 year,Luhansk,0.0
+2024,Haemophilus infection,under 1 year,Luhansk,0.0
+2024,Haemophilus infection,1 year,Luhansk,0.0
+2024,"Diphtheria, tetanus",age_16_years,Luhansk,0.0
 2024,Tuberculosis,under 1 year,Lviv,91.6
 2024,Poliomyelitis,under 1 year,Lviv,75.0
 2024,Poliomyelitis,18 months,Lviv,74.9
@@ -3201,6 +3958,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Lviv,92.3
 2024,"Measles, mumps, rubella",6 years,Lviv,65.8
 2024,Hepatitis B,under 1 year,Lviv,73.2
+2024,Haemophilus infection,under 1 year,Lviv,97.21816491833754
+2024,Haemophilus infection,1 year,Lviv,95.1862912400455
+2024,"Diphtheria, tetanus",age_16_years,Lviv,55.58976132826011
 2024,Tuberculosis,under 1 year,Mykolayiv,95.8
 2024,Poliomyelitis,under 1 year,Mykolayiv,93.9
 2024,Poliomyelitis,18 months,Mykolayiv,92.9
@@ -3215,6 +3975,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Mykolayiv,91.6
 2024,"Measles, mumps, rubella",6 years,Mykolayiv,85.1
 2024,Hepatitis B,under 1 year,Mykolayiv,97.5
+2024,Haemophilus infection,under 1 year,Mykolayiv,97.69595662977186
+2024,Haemophilus infection,1 year,Mykolayiv,100.0
+2024,"Diphtheria, tetanus",age_16_years,Mykolayiv,98.63793453954057
 2024,Tuberculosis,under 1 year,Odesa,93.1
 2024,Poliomyelitis,under 1 year,Odesa,74.2
 2024,Poliomyelitis,18 months,Odesa,71.0
@@ -3229,6 +3992,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Odesa,84.4
 2024,"Measles, mumps, rubella",6 years,Odesa,73.4
 2024,Hepatitis B,under 1 year,Odesa,77.9
+2024,Haemophilus infection,under 1 year,Odesa,88.95037177935328
+2024,Haemophilus infection,1 year,Odesa,88.13764482102715
+2024,"Diphtheria, tetanus",age_16_years,Odesa,77.41288744536669
 2024,Tuberculosis,under 1 year,Poltava,95.9
 2024,Poliomyelitis,under 1 year,Poltava,90.5
 2024,Poliomyelitis,18 months,Poltava,90.9
@@ -3243,6 +4009,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Poltava,91.2
 2024,"Measles, mumps, rubella",6 years,Poltava,91.6
 2024,Hepatitis B,under 1 year,Poltava,92.4
+2024,Haemophilus infection,under 1 year,Poltava,93.47079037800688
+2024,Haemophilus infection,1 year,Poltava,86.35243882410904
+2024,"Diphtheria, tetanus",age_16_years,Poltava,91.96320330884976
 2024,Tuberculosis,under 1 year,Rivne,90.7
 2024,Poliomyelitis,under 1 year,Rivne,94.3
 2024,Poliomyelitis,18 months,Rivne,93.9
@@ -3257,6 +4026,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Rivne,93.8
 2024,"Measles, mumps, rubella",6 years,Rivne,90.1
 2024,Hepatitis B,under 1 year,Rivne,95.1
+2024,Haemophilus infection,under 1 year,Rivne,94.86256151722482
+2024,Haemophilus infection,1 year,Rivne,96.53102868803263
+2024,"Diphtheria, tetanus",age_16_years,Rivne,90.3868397378229
 2024,Tuberculosis,under 1 year,Sumy,89.3
 2024,Poliomyelitis,under 1 year,Sumy,91.2
 2024,Poliomyelitis,18 months,Sumy,91.8
@@ -3271,6 +4043,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Sumy,93.3
 2024,"Measles, mumps, rubella",6 years,Sumy,90.6
 2024,Hepatitis B,under 1 year,Sumy,94.3
+2024,Haemophilus infection,under 1 year,Sumy,93.35576114381834
+2024,Haemophilus infection,1 year,Sumy,94.5503355704698
+2024,"Diphtheria, tetanus",age_16_years,Sumy,90.05200090436355
 2024,Tuberculosis,under 1 year,Ternopil,94.0
 2024,Poliomyelitis,under 1 year,Ternopil,94.3
 2024,Poliomyelitis,18 months,Ternopil,93.5
@@ -3285,6 +4060,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Ternopil,92.8
 2024,"Measles, mumps, rubella",6 years,Ternopil,92.3
 2024,Hepatitis B,under 1 year,Ternopil,80.3
+2024,Haemophilus infection,under 1 year,Ternopil,99.93201903467028
+2024,Haemophilus infection,1 year,Ternopil,94.67713787085516
+2024,"Diphtheria, tetanus",age_16_years,Ternopil,90.53287351207032
 2024,Tuberculosis,under 1 year,Kharkiv,93.2
 2024,Poliomyelitis,under 1 year,Kharkiv,84.0
 2024,Poliomyelitis,18 months,Kharkiv,87.5
@@ -3299,6 +4077,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Kharkiv,88.0
 2024,"Measles, mumps, rubella",6 years,Kharkiv,92.2
 2024,Hepatitis B,under 1 year,Kharkiv,88.9
+2024,Haemophilus infection,under 1 year,Kharkiv,99.32203389830508
+2024,Haemophilus infection,1 year,Kharkiv,96.11976779712802
+2024,"Diphtheria, tetanus",age_16_years,Kharkiv,95.59767198925536
 2024,Tuberculosis,under 1 year,Kherson,99.6
 2024,Poliomyelitis,under 1 year,Kherson,99.3
 2024,Poliomyelitis,18 months,Kherson,99.8
@@ -3313,6 +4094,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Kherson,98.1
 2024,"Measles, mumps, rubella",6 years,Kherson,100.0
 2024,Hepatitis B,under 1 year,Kherson,95.6
+2024,Haemophilus infection,under 1 year,Kherson,100.0
+2024,Haemophilus infection,1 year,Kherson,98.3451536643026
+2024,"Diphtheria, tetanus",age_16_years,Kherson,99.51456310679612
 2024,Tuberculosis,under 1 year,Khmelnytskiy,98.0
 2024,Poliomyelitis,under 1 year,Khmelnytskiy,93.8
 2024,Poliomyelitis,18 months,Khmelnytskiy,87.4
@@ -3327,6 +4111,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Khmelnytskiy,92.9
 2024,"Measles, mumps, rubella",6 years,Khmelnytskiy,81.8
 2024,Hepatitis B,under 1 year,Khmelnytskiy,92.5
+2024,Haemophilus infection,under 1 year,Khmelnytskiy,92.37116612174997
+2024,Haemophilus infection,1 year,Khmelnytskiy,91.76579638498376
+2024,"Diphtheria, tetanus",age_16_years,Khmelnytskiy,72.44796828543112
 2024,Tuberculosis,under 1 year,Cherkasy,93.7
 2024,Poliomyelitis,under 1 year,Cherkasy,90.9
 2024,Poliomyelitis,18 months,Cherkasy,92.3
@@ -3341,6 +4128,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Cherkasy,93.2
 2024,"Measles, mumps, rubella",6 years,Cherkasy,80.7
 2024,Hepatitis B,under 1 year,Cherkasy,90.4
+2024,Haemophilus infection,under 1 year,Cherkasy,94.7226502311248
+2024,Haemophilus infection,1 year,Cherkasy,95.59341950646298
+2024,"Diphtheria, tetanus",age_16_years,Cherkasy,82.46991104133961
 2024,Tuberculosis,under 1 year,Chernivtsi,92.9
 2024,Poliomyelitis,under 1 year,Chernivtsi,78.1
 2024,Poliomyelitis,18 months,Chernivtsi,80.2
@@ -3355,6 +4145,9 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Chernivtsi,83.2
 2024,"Measles, mumps, rubella",6 years,Chernivtsi,78.0
 2024,Hepatitis B,under 1 year,Chernivtsi,78.9
+2024,Haemophilus infection,under 1 year,Chernivtsi,81.19105833042263
+2024,Haemophilus infection,1 year,Chernivtsi,82.7657025500599
+2024,"Diphtheria, tetanus",age_16_years,Chernivtsi,66.64770572620402
 2024,Tuberculosis,under 1 year,Chernihiv,79.9
 2024,Poliomyelitis,under 1 year,Chernihiv,96.0
 2024,Poliomyelitis,18 months,Chernihiv,95.6
@@ -3369,785 +4162,10 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Chernihiv,94.5
 2024,"Measles, mumps, rubella",6 years,Chernihiv,85.8
 2024,Hepatitis B,under 1 year,Chernihiv,96.4
-2015,ill_10_haemophilic_infection,under 1 year,,43.28719598135232
-2015,ill_10_haemophilic_infection,1 year,,39.17324589896643
-2015,ill_10_haemophilic_infection,under 1 year,Vinnytsya,32.4
-2015,ill_10_haemophilic_infection,1 year,Vinnytsya,28.7
-2015,ill_10_haemophilic_infection,under 1 year,Volyn,26.3
-2015,ill_10_haemophilic_infection,1 year,Volyn,63.2
-2015,ill_10_haemophilic_infection,under 1 year,Dnipropetrovsk,45.8
-2015,ill_10_haemophilic_infection,1 year,Dnipropetrovsk,39.5
-2015,ill_10_haemophilic_infection,under 1 year,Donetsk,53.7
-2015,ill_10_haemophilic_infection,1 year,Donetsk,67.2
-2015,ill_10_haemophilic_infection,under 1 year,Zhytomyr,47.5
-2015,ill_10_haemophilic_infection,1 year,Zhytomyr,38.9
-2015,ill_10_haemophilic_infection,under 1 year,Zakarpattya,45.7
-2015,ill_10_haemophilic_infection,1 year,Zakarpattya,20.2
-2015,ill_10_haemophilic_infection,under 1 year,Zaporizhzhya,43.3
-2015,ill_10_haemophilic_infection,1 year,Zaporizhzhya,53.0
-2015,ill_10_haemophilic_infection,under 1 year,18_reg_Ivano_Frankivsk,46.2
-2015,ill_10_haemophilic_infection,1 year,18_reg_Ivano_Frankivsk,79.1
-2015,ill_10_haemophilic_infection,under 1 year,Kyiv,35.7
-2015,ill_10_haemophilic_infection,1 year,Kyiv,29.6
-2015,ill_10_haemophilic_infection,under 1 year,Kirovohrad,42.3
-2015,ill_10_haemophilic_infection,1 year,Kirovohrad,34.3
-2015,ill_10_haemophilic_infection,under 1 year,Luhansk,51.451138868479056
-2015,ill_10_haemophilic_infection,1 year,Luhansk,85.20879120879121
-2015,ill_10_haemophilic_infection,under 1 year,Lviv,53.3
-2015,ill_10_haemophilic_infection,1 year,Lviv,18.3
-2015,ill_10_haemophilic_infection,under 1 year,23_reg_Mykolaiv,39.3
-2015,ill_10_haemophilic_infection,1 year,23_reg_Mykolaiv,42.0
-2015,ill_10_haemophilic_infection,under 1 year,Odesa,49.4
-2015,ill_10_haemophilic_infection,1 year,Odesa,44.3
-2015,ill_10_haemophilic_infection,under 1 year,Poltava,19.4
-2015,ill_10_haemophilic_infection,1 year,Poltava,29.6
-2015,ill_10_haemophilic_infection,under 1 year,Rivne,30.4
-2015,ill_10_haemophilic_infection,1 year,Rivne,49.5
-2015,ill_10_haemophilic_infection,under 1 year,Sumy,40.8
-2015,ill_10_haemophilic_infection,1 year,Sumy,42.4
-2015,ill_10_haemophilic_infection,under 1 year,Ternopil,32.4
-2015,ill_10_haemophilic_infection,1 year,Ternopil,12.2
-2015,ill_10_haemophilic_infection,under 1 year,Kharkiv,36.9
-2015,ill_10_haemophilic_infection,1 year,Kharkiv,74.0
-2015,ill_10_haemophilic_infection,under 1 year,Kherson,45.2
-2015,ill_10_haemophilic_infection,1 year,Kherson,20.9
-2015,ill_10_haemophilic_infection,under 1 year,31_reg_Khmelnytskyi,25.8
-2015,ill_10_haemophilic_infection,1 year,31_reg_Khmelnytskyi,0.3
-2015,ill_10_haemophilic_infection,under 1 year,Cherkasy,44.5
-2015,ill_10_haemophilic_infection,1 year,Cherkasy,69.2
-2015,ill_10_haemophilic_infection,under 1 year,Chernivtsi,41.6
-2015,ill_10_haemophilic_infection,1 year,Chernivtsi,8.1
-2015,ill_10_haemophilic_infection,under 1 year,Chernihiv,43.8
-2015,ill_10_haemophilic_infection,1 year,Chernihiv,36.0
-2015,ill_10_haemophilic_infection,under 1 year,the city of Kyiv,75.1
-2015,ill_10_haemophilic_infection,1 year,the city of Kyiv,45.9
-2016,ill_10_haemophilic_infection,under 1 year,,36.692999751903166
-2016,ill_10_haemophilic_infection,1 year,,52.13479899662477
-2016,ill_10_haemophilic_infection,under 1 year,Vinnytsya,28.3
-2016,ill_10_haemophilic_infection,1 year,Vinnytsya,49.9
-2016,ill_10_haemophilic_infection,under 1 year,Volyn,20.0
-2016,ill_10_haemophilic_infection,1 year,Volyn,41.1
-2016,ill_10_haemophilic_infection,under 1 year,Dnipropetrovsk,36.1
-2016,ill_10_haemophilic_infection,1 year,Dnipropetrovsk,60.0
-2016,ill_10_haemophilic_infection,under 1 year,Donetsk,83.7
-2016,ill_10_haemophilic_infection,1 year,Donetsk,79.0
-2016,ill_10_haemophilic_infection,under 1 year,Zhytomyr,37.3
-2016,ill_10_haemophilic_infection,1 year,Zhytomyr,33.6
-2016,ill_10_haemophilic_infection,under 1 year,Zakarpattya,34.0
-2016,ill_10_haemophilic_infection,1 year,Zakarpattya,44.1
-2016,ill_10_haemophilic_infection,under 1 year,Zaporizhzhya,25.5
-2016,ill_10_haemophilic_infection,1 year,Zaporizhzhya,56.6
-2016,ill_10_haemophilic_infection,under 1 year,18_reg_Ivano_Frankivsk,33.6
-2016,ill_10_haemophilic_infection,1 year,18_reg_Ivano_Frankivsk,57.6
-2016,ill_10_haemophilic_infection,under 1 year,Kyiv,36.2
-2016,ill_10_haemophilic_infection,1 year,Kyiv,67.2
-2016,ill_10_haemophilic_infection,under 1 year,Kirovohrad,39.7
-2016,ill_10_haemophilic_infection,1 year,Kirovohrad,54.5
-2016,ill_10_haemophilic_infection,under 1 year,Luhansk,94.7936507936508
-2016,ill_10_haemophilic_infection,1 year,Luhansk,93.62962962962963
-2016,ill_10_haemophilic_infection,under 1 year,Lviv,28.0
-2016,ill_10_haemophilic_infection,1 year,Lviv,43.3
-2016,ill_10_haemophilic_infection,under 1 year,23_reg_Mykolaiv,29.4
-2016,ill_10_haemophilic_infection,1 year,23_reg_Mykolaiv,49.2
-2016,ill_10_haemophilic_infection,under 1 year,Odesa,42.3
-2016,ill_10_haemophilic_infection,1 year,Odesa,42.7
-2016,ill_10_haemophilic_infection,under 1 year,Poltava,22.0
-2016,ill_10_haemophilic_infection,1 year,Poltava,58.4
-2016,ill_10_haemophilic_infection,under 1 year,Rivne,22.2
-2016,ill_10_haemophilic_infection,1 year,Rivne,48.1
-2016,ill_10_haemophilic_infection,under 1 year,Sumy,19.6
-2016,ill_10_haemophilic_infection,1 year,Sumy,39.6
-2016,ill_10_haemophilic_infection,under 1 year,Ternopil,37.2
-2016,ill_10_haemophilic_infection,1 year,Ternopil,51.3
-2016,ill_10_haemophilic_infection,under 1 year,Kharkiv,30.6
-2016,ill_10_haemophilic_infection,1 year,Kharkiv,71.2
-2016,ill_10_haemophilic_infection,under 1 year,Kherson,26.3
-2016,ill_10_haemophilic_infection,1 year,Kherson,93.7
-2016,ill_10_haemophilic_infection,under 1 year,31_reg_Khmelnytskyi,14.4
-2016,ill_10_haemophilic_infection,1 year,31_reg_Khmelnytskyi,45.9
-2016,ill_10_haemophilic_infection,under 1 year,Cherkasy,46.3
-2016,ill_10_haemophilic_infection,1 year,Cherkasy,87.4
-2016,ill_10_haemophilic_infection,under 1 year,Chernivtsi,32.8
-2016,ill_10_haemophilic_infection,1 year,Chernivtsi,6.0
-2016,ill_10_haemophilic_infection,under 1 year,Chernihiv,39.0
-2016,ill_10_haemophilic_infection,1 year,Chernihiv,58.8
-2016,ill_10_haemophilic_infection,under 1 year,the city of Kyiv,71.8
-2016,ill_10_haemophilic_infection,1 year,the city of Kyiv,41.4
-2017,ill_10_haemophilic_infection,under 1 year,,34.8
-2017,ill_10_haemophilic_infection,1 year,,44.5
-2017,ill_10_haemophilic_infection,under 1 year,Vinnytsya,33.2
-2017,ill_10_haemophilic_infection,1 year,Vinnytsya,47.3
-2017,ill_10_haemophilic_infection,under 1 year,Volyn,8.3
-2017,ill_10_haemophilic_infection,1 year,Volyn,9.3
-2017,ill_10_haemophilic_infection,under 1 year,Dnipropetrovsk,44.0
-2017,ill_10_haemophilic_infection,1 year,Dnipropetrovsk,60.6
-2017,ill_10_haemophilic_infection,under 1 year,Donetsk,54.3
-2017,ill_10_haemophilic_infection,1 year,Donetsk,65.7
-2017,ill_10_haemophilic_infection,under 1 year,Zhytomyr,17.2
-2017,ill_10_haemophilic_infection,1 year,Zhytomyr,16.9
-2017,ill_10_haemophilic_infection,under 1 year,Zakarpattya,25.2
-2017,ill_10_haemophilic_infection,1 year,Zakarpattya,33.3
-2017,ill_10_haemophilic_infection,under 1 year,Zaporizhzhya,34.5
-2017,ill_10_haemophilic_infection,1 year,Zaporizhzhya,57.5
-2017,ill_10_haemophilic_infection,under 1 year,18_reg_Ivano_Frankivsk,32.1
-2017,ill_10_haemophilic_infection,1 year,18_reg_Ivano_Frankivsk,55.3
-2017,ill_10_haemophilic_infection,under 1 year,Kyiv,32.8
-2017,ill_10_haemophilic_infection,1 year,Kyiv,41.8
-2017,ill_10_haemophilic_infection,under 1 year,Kirovohrad,20.3
-2017,ill_10_haemophilic_infection,1 year,Kirovohrad,48.5
-2017,ill_10_haemophilic_infection,under 1 year,Luhansk,88.3
-2017,ill_10_haemophilic_infection,1 year,Luhansk,32.1
-2017,ill_10_haemophilic_infection,under 1 year,Lviv,39.2
-2017,ill_10_haemophilic_infection,1 year,Lviv,54.0
-2017,ill_10_haemophilic_infection,under 1 year,23_reg_Mykolaiv,30.2
-2017,ill_10_haemophilic_infection,1 year,23_reg_Mykolaiv,28.5
-2017,ill_10_haemophilic_infection,under 1 year,Odesa,33.4
-2017,ill_10_haemophilic_infection,1 year,Odesa,40.5
-2017,ill_10_haemophilic_infection,under 1 year,Poltava,46.2
-2017,ill_10_haemophilic_infection,1 year,Poltava,62.7
-2017,ill_10_haemophilic_infection,under 1 year,Rivne,11.2
-2017,ill_10_haemophilic_infection,1 year,Rivne,14.4
-2017,ill_10_haemophilic_infection,under 1 year,Sumy,32.5
-2017,ill_10_haemophilic_infection,1 year,Sumy,48.6
-2017,ill_10_haemophilic_infection,under 1 year,Ternopil,28.7
-2017,ill_10_haemophilic_infection,1 year,Ternopil,60.6
-2017,ill_10_haemophilic_infection,under 1 year,Kharkiv,22.5
-2017,ill_10_haemophilic_infection,1 year,Kharkiv,43.7
-2017,ill_10_haemophilic_infection,under 1 year,Kherson,28.7
-2017,ill_10_haemophilic_infection,1 year,Kherson,55.2
-2017,ill_10_haemophilic_infection,under 1 year,31_reg_Khmelnytskyi,21.6
-2017,ill_10_haemophilic_infection,1 year,31_reg_Khmelnytskyi,17.3
-2017,ill_10_haemophilic_infection,under 1 year,Cherkasy,47.5
-2017,ill_10_haemophilic_infection,1 year,Cherkasy,75.0
-2017,ill_10_haemophilic_infection,under 1 year,Chernivtsi,17.7
-2017,ill_10_haemophilic_infection,1 year,Chernivtsi,11.2
-2017,ill_10_haemophilic_infection,under 1 year,Chernihiv,21.3
-2017,ill_10_haemophilic_infection,1 year,Chernihiv,21.1
-2017,ill_10_haemophilic_infection,under 1 year,the city of Kyiv,80.5
-2017,ill_10_haemophilic_infection,1 year,the city of Kyiv,73.9
-2018,ill_10_haemophilic_infection,under 1 year,,52.5
-2018,ill_10_haemophilic_infection,1 year,,57.7
-2018,ill_10_haemophilic_infection,under 1 year,Vinnytsya,50.8
-2018,ill_10_haemophilic_infection,1 year,Vinnytsya,54.5
-2018,ill_10_haemophilic_infection,under 1 year,Volyn,30.0
-2018,ill_10_haemophilic_infection,1 year,Volyn,51.1
-2018,ill_10_haemophilic_infection,under 1 year,Dnipropetrovsk,53.6
-2018,ill_10_haemophilic_infection,1 year,Dnipropetrovsk,64.1
-2018,ill_10_haemophilic_infection,under 1 year,Donetsk,36.0
-2018,ill_10_haemophilic_infection,1 year,Donetsk,54.7
-2018,ill_10_haemophilic_infection,under 1 year,Zhytomyr,36.5
-2018,ill_10_haemophilic_infection,1 year,Zhytomyr,60.7
-2018,ill_10_haemophilic_infection,under 1 year,Zakarpattya,69.3
-2018,ill_10_haemophilic_infection,1 year,Zakarpattya,51.2
-2018,ill_10_haemophilic_infection,under 1 year,Zaporizhzhya,63.7
-2018,ill_10_haemophilic_infection,1 year,Zaporizhzhya,75.2
-2018,ill_10_haemophilic_infection,under 1 year,18_reg_Ivano_Frankivsk,34.2
-2018,ill_10_haemophilic_infection,1 year,18_reg_Ivano_Frankivsk,36.9
-2018,ill_10_haemophilic_infection,under 1 year,Kyiv,61.9
-2018,ill_10_haemophilic_infection,1 year,Kyiv,61.5
-2018,ill_10_haemophilic_infection,under 1 year,Kirovohrad,56.2
-2018,ill_10_haemophilic_infection,1 year,Kirovohrad,74.3
-2018,ill_10_haemophilic_infection,under 1 year,Luhansk,66.7
-2018,ill_10_haemophilic_infection,1 year,Luhansk,93.9
-2018,ill_10_haemophilic_infection,under 1 year,Lviv,65.2
-2018,ill_10_haemophilic_infection,1 year,Lviv,62.4
-2018,ill_10_haemophilic_infection,under 1 year,23_reg_Mykolaiv,63.4
-2018,ill_10_haemophilic_infection,1 year,23_reg_Mykolaiv,68.7
-2018,ill_10_haemophilic_infection,under 1 year,Odesa,36.4
-2018,ill_10_haemophilic_infection,1 year,Odesa,39.8
-2018,ill_10_haemophilic_infection,under 1 year,Poltava,77.6
-2018,ill_10_haemophilic_infection,1 year,Poltava,83.7
-2018,ill_10_haemophilic_infection,under 1 year,Rivne,41.5
-2018,ill_10_haemophilic_infection,1 year,Rivne,60.0
-2018,ill_10_haemophilic_infection,under 1 year,Sumy,64.3
-2018,ill_10_haemophilic_infection,1 year,Sumy,63.8
-2018,ill_10_haemophilic_infection,under 1 year,Ternopil,40.3
-2018,ill_10_haemophilic_infection,1 year,Ternopil,36.0
-2018,ill_10_haemophilic_infection,under 1 year,Kharkiv,56.1
-2018,ill_10_haemophilic_infection,1 year,Kharkiv,66.7
-2018,ill_10_haemophilic_infection,under 1 year,Kherson,40.9
-2018,ill_10_haemophilic_infection,1 year,Kherson,66.0
-2018,ill_10_haemophilic_infection,under 1 year,31_reg_Khmelnytskyi,43.2
-2018,ill_10_haemophilic_infection,1 year,31_reg_Khmelnytskyi,32.0
-2018,ill_10_haemophilic_infection,under 1 year,Cherkasy,68.2
-2018,ill_10_haemophilic_infection,1 year,Cherkasy,68.4
-2018,ill_10_haemophilic_infection,under 1 year,Chernivtsi,42.5
-2018,ill_10_haemophilic_infection,1 year,Chernivtsi,40.2
-2018,ill_10_haemophilic_infection,under 1 year,Chernihiv,59.8
-2018,ill_10_haemophilic_infection,1 year,Chernihiv,76.5
-2018,ill_10_haemophilic_infection,under 1 year,the city of Kyiv,58.6
-2018,ill_10_haemophilic_infection,1 year,the city of Kyiv,46.9
-2019,ill_10_haemophilic_infection,under 1 year,,76.5
-2019,ill_10_haemophilic_infection,1 year,,80.0
-2019,ill_10_haemophilic_infection,under 1 year,Vinnytsya,79.1
-2019,ill_10_haemophilic_infection,1 year,Vinnytsya,76.5
-2019,ill_10_haemophilic_infection,under 1 year,Volyn,65.5
-2019,ill_10_haemophilic_infection,1 year,Volyn,74.8
-2019,ill_10_haemophilic_infection,under 1 year,Dnipropetrovsk,78.1
-2019,ill_10_haemophilic_infection,1 year,Dnipropetrovsk,86.0
-2019,ill_10_haemophilic_infection,under 1 year,Donetsk,65.2
-2019,ill_10_haemophilic_infection,1 year,Donetsk,67.2
-2019,ill_10_haemophilic_infection,under 1 year,Zhytomyr,80.6
-2019,ill_10_haemophilic_infection,1 year,Zhytomyr,84.0
-2019,ill_10_haemophilic_infection,under 1 year,Zakarpattya,59.4
-2019,ill_10_haemophilic_infection,1 year,Zakarpattya,69.3
-2019,ill_10_haemophilic_infection,under 1 year,Zaporizhzhya,77.8
-2019,ill_10_haemophilic_infection,1 year,Zaporizhzhya,84.4
-2019,ill_10_haemophilic_infection,under 1 year,18_reg_Ivano_Frankivsk,64.8
-2019,ill_10_haemophilic_infection,1 year,18_reg_Ivano_Frankivsk,62.5
-2019,ill_10_haemophilic_infection,under 1 year,Kyiv,78.4
-2019,ill_10_haemophilic_infection,1 year,Kyiv,83.8
-2019,ill_10_haemophilic_infection,under 1 year,Kirovohrad,71.7
-2019,ill_10_haemophilic_infection,1 year,Kirovohrad,85.2
-2019,ill_10_haemophilic_infection,under 1 year,Luhansk,90.1
-2019,ill_10_haemophilic_infection,1 year,Luhansk,98.7
-2019,ill_10_haemophilic_infection,under 1 year,Lviv,81.5
-2019,ill_10_haemophilic_infection,1 year,Lviv,80.9
-2019,ill_10_haemophilic_infection,under 1 year,23_reg_Mykolaiv,84.3
-2019,ill_10_haemophilic_infection,1 year,23_reg_Mykolaiv,85.4
-2019,ill_10_haemophilic_infection,under 1 year,Odesa,66.6
-2019,ill_10_haemophilic_infection,1 year,Odesa,70.8
-2019,ill_10_haemophilic_infection,under 1 year,Poltava,94.4
-2019,ill_10_haemophilic_infection,1 year,Poltava,92.4
-2019,ill_10_haemophilic_infection,under 1 year,Rivne,69.2
-2019,ill_10_haemophilic_infection,1 year,Rivne,68.8
-2019,ill_10_haemophilic_infection,under 1 year,Sumy,77.4
-2019,ill_10_haemophilic_infection,1 year,Sumy,78.2
-2019,ill_10_haemophilic_infection,under 1 year,Ternopil,74.2
-2019,ill_10_haemophilic_infection,1 year,Ternopil,79.7
-2019,ill_10_haemophilic_infection,under 1 year,Kharkiv,77.1
-2019,ill_10_haemophilic_infection,1 year,Kharkiv,87.5
-2019,ill_10_haemophilic_infection,under 1 year,Kherson,78.8
-2019,ill_10_haemophilic_infection,1 year,Kherson,91.4
-2019,ill_10_haemophilic_infection,under 1 year,31_reg_Khmelnytskyi,67.3
-2019,ill_10_haemophilic_infection,1 year,31_reg_Khmelnytskyi,55.5
-2019,ill_10_haemophilic_infection,under 1 year,Cherkasy,86.6
-2019,ill_10_haemophilic_infection,1 year,Cherkasy,91.4
-2019,ill_10_haemophilic_infection,under 1 year,Chernivtsi,87.5
-2019,ill_10_haemophilic_infection,1 year,Chernivtsi,88.5
-2019,ill_10_haemophilic_infection,under 1 year,Chernihiv,84.5
-2019,ill_10_haemophilic_infection,1 year,Chernihiv,85.3
-2019,ill_10_haemophilic_infection,under 1 year,the city of Kyiv,84.4
-2019,ill_10_haemophilic_infection,1 year,the city of Kyiv,86.4
-2020,ill_10_haemophilic_infection,under 1 year,,85.1
-2020,ill_10_haemophilic_infection,1 year,,83.6
-2020,ill_10_haemophilic_infection,under 1 year,Vinnytsya,83.7
-2020,ill_10_haemophilic_infection,1 year,Vinnytsya,86.4
-2020,ill_10_haemophilic_infection,under 1 year,Volyn,76.5
-2020,ill_10_haemophilic_infection,1 year,Volyn,73.2
-2020,ill_10_haemophilic_infection,under 1 year,Dnipropetrovsk,86.1
-2020,ill_10_haemophilic_infection,1 year,Dnipropetrovsk,86.5
-2020,ill_10_haemophilic_infection,under 1 year,Donetsk,76.7
-2020,ill_10_haemophilic_infection,1 year,Donetsk,74.1
-2020,ill_10_haemophilic_infection,under 1 year,Zhytomyr,84.2
-2020,ill_10_haemophilic_infection,1 year,Zhytomyr,77.2
-2020,ill_10_haemophilic_infection,under 1 year,Zakarpattya,92.9
-2020,ill_10_haemophilic_infection,1 year,Zakarpattya,88.9
-2020,ill_10_haemophilic_infection,under 1 year,Zaporizhzhya,77.9
-2020,ill_10_haemophilic_infection,1 year,Zaporizhzhya,83.2
-2020,ill_10_haemophilic_infection,under 1 year,18_reg_Ivano_Frankivsk,78.6
-2020,ill_10_haemophilic_infection,1 year,18_reg_Ivano_Frankivsk,74.7
-2020,ill_10_haemophilic_infection,under 1 year,Kyiv,90.2
-2020,ill_10_haemophilic_infection,1 year,Kyiv,89.0
-2020,ill_10_haemophilic_infection,under 1 year,Kirovohrad,89.3
-2020,ill_10_haemophilic_infection,1 year,Kirovohrad,100.0
-2020,ill_10_haemophilic_infection,under 1 year,Luhansk,90.2
-2020,ill_10_haemophilic_infection,1 year,Luhansk,94.9
-2020,ill_10_haemophilic_infection,under 1 year,Lviv,83.2
-2020,ill_10_haemophilic_infection,1 year,Lviv,85.5
-2020,ill_10_haemophilic_infection,under 1 year,23_reg_Mykolaiv,89.3
-2020,ill_10_haemophilic_infection,1 year,23_reg_Mykolaiv,85.1
-2020,ill_10_haemophilic_infection,under 1 year,Odesa,75.0
-2020,ill_10_haemophilic_infection,1 year,Odesa,66.7
-2020,ill_10_haemophilic_infection,under 1 year,Poltava,91.2
-2020,ill_10_haemophilic_infection,1 year,Poltava,90.3
-2020,ill_10_haemophilic_infection,under 1 year,Rivne,78.5
-2020,ill_10_haemophilic_infection,1 year,Rivne,80.4
-2020,ill_10_haemophilic_infection,under 1 year,Sumy,88.9
-2020,ill_10_haemophilic_infection,1 year,Sumy,88.9
-2020,ill_10_haemophilic_infection,under 1 year,Ternopil,85.0
-2020,ill_10_haemophilic_infection,1 year,Ternopil,96.0
-2020,ill_10_haemophilic_infection,under 1 year,Kharkiv,87.7
-2020,ill_10_haemophilic_infection,1 year,Kharkiv,92.6
-2020,ill_10_haemophilic_infection,under 1 year,Kherson,79.8
-2020,ill_10_haemophilic_infection,1 year,Kherson,83.8
-2020,ill_10_haemophilic_infection,under 1 year,31_reg_Khmelnytskyi,79.9
-2020,ill_10_haemophilic_infection,1 year,31_reg_Khmelnytskyi,69.5
-2020,ill_10_haemophilic_infection,under 1 year,Cherkasy,92.1
-2020,ill_10_haemophilic_infection,1 year,Cherkasy,92.9
-2020,ill_10_haemophilic_infection,under 1 year,Chernivtsi,79.8
-2020,ill_10_haemophilic_infection,1 year,Chernivtsi,76.3
-2020,ill_10_haemophilic_infection,under 1 year,Chernihiv,81.4
-2020,ill_10_haemophilic_infection,1 year,Chernihiv,68.3
-2020,ill_10_haemophilic_infection,under 1 year,the city of Kyiv,99.0
-2020,ill_10_haemophilic_infection,1 year,the city of Kyiv,91.3
-2021,ill_10_haemophilic_infection,under 1 year,,90.9
-2021,ill_10_haemophilic_infection,1 year,,87.0
-2021,ill_10_haemophilic_infection,under 1 year,Vinnytsya,86.2
-2021,ill_10_haemophilic_infection,1 year,Vinnytsya,80.6
-2021,ill_10_haemophilic_infection,under 1 year,Volyn,78.3
-2021,ill_10_haemophilic_infection,1 year,Volyn,72.8
-2021,ill_10_haemophilic_infection,under 1 year,Dnipropetrovsk,97.8
-2021,ill_10_haemophilic_infection,1 year,Dnipropetrovsk,99.9
-2021,ill_10_haemophilic_infection,under 1 year,Donetsk,86.3
-2021,ill_10_haemophilic_infection,1 year,Donetsk,83.2
-2021,ill_10_haemophilic_infection,under 1 year,Zhytomyr,92.3
-2021,ill_10_haemophilic_infection,1 year,Zhytomyr,82.0
-2021,ill_10_haemophilic_infection,under 1 year,Zakarpattya,71.2
-2021,ill_10_haemophilic_infection,1 year,Zakarpattya,63.0
-2021,ill_10_haemophilic_infection,under 1 year,Zaporizhzhya,82.5
-2021,ill_10_haemophilic_infection,1 year,Zaporizhzhya,71.6
-2021,ill_10_haemophilic_infection,under 1 year,18_reg_Ivano_Frankivsk,92.2
-2021,ill_10_haemophilic_infection,1 year,18_reg_Ivano_Frankivsk,78.0
-2021,ill_10_haemophilic_infection,under 1 year,Kyiv,93.5
-2021,ill_10_haemophilic_infection,1 year,Kyiv,91.7
-2021,ill_10_haemophilic_infection,under 1 year,Kirovohrad,92.1
-2021,ill_10_haemophilic_infection,1 year,Kirovohrad,98.9
-2021,ill_10_haemophilic_infection,under 1 year,Luhansk,88.1
-2021,ill_10_haemophilic_infection,1 year,Luhansk,96.1
-2021,ill_10_haemophilic_infection,under 1 year,Lviv,92.7
-2021,ill_10_haemophilic_infection,1 year,Lviv,89.6
-2021,ill_10_haemophilic_infection,under 1 year,23_reg_Mykolaiv,100.0
-2021,ill_10_haemophilic_infection,1 year,23_reg_Mykolaiv,98.1
-2021,ill_10_haemophilic_infection,under 1 year,Odesa,98.1
-2021,ill_10_haemophilic_infection,1 year,Odesa,99.9
-2021,ill_10_haemophilic_infection,under 1 year,Poltava,93.1
-2021,ill_10_haemophilic_infection,1 year,Poltava,94.5
-2021,ill_10_haemophilic_infection,under 1 year,Rivne,82.5
-2021,ill_10_haemophilic_infection,1 year,Rivne,82.8
-2021,ill_10_haemophilic_infection,under 1 year,Sumy,98.9
-2021,ill_10_haemophilic_infection,1 year,Sumy,98.6
-2021,ill_10_haemophilic_infection,under 1 year,Ternopil,83.2
-2021,ill_10_haemophilic_infection,1 year,Ternopil,80.8
-2021,ill_10_haemophilic_infection,under 1 year,Kharkiv,94.3
-2021,ill_10_haemophilic_infection,1 year,Kharkiv,93.0
-2021,ill_10_haemophilic_infection,under 1 year,Kherson,85.3
-2021,ill_10_haemophilic_infection,1 year,Kherson,88.4
-2021,ill_10_haemophilic_infection,under 1 year,31_reg_Khmelnytskyi,86.0
-2021,ill_10_haemophilic_infection,1 year,31_reg_Khmelnytskyi,69.9
-2021,ill_10_haemophilic_infection,under 1 year,Cherkasy,99.1
-2021,ill_10_haemophilic_infection,1 year,Cherkasy,99.5
-2021,ill_10_haemophilic_infection,under 1 year,Chernivtsi,87.4
-2021,ill_10_haemophilic_infection,1 year,Chernivtsi,84.2
-2021,ill_10_haemophilic_infection,under 1 year,Chernihiv,81.9
-2021,ill_10_haemophilic_infection,1 year,Chernihiv,81.4
-2021,ill_10_haemophilic_infection,under 1 year,the city of Kyiv,100.0
-2021,ill_10_haemophilic_infection,1 year,the city of Kyiv,88.4
-2022,ill_10_haemophilic_infection,under 1 year,,74.0
-2022,ill_10_haemophilic_infection,1 year,,69.8
-2022,ill_10_haemophilic_infection,under 1 year,Vinnytsya,76.0
-2022,ill_10_haemophilic_infection,1 year,Vinnytsya,74.7
-2022,ill_10_haemophilic_infection,under 1 year,Volyn,81.6
-2022,ill_10_haemophilic_infection,1 year,Volyn,74.7
-2022,ill_10_haemophilic_infection,under 1 year,Dnipropetrovsk,62.3
-2022,ill_10_haemophilic_infection,1 year,Dnipropetrovsk,66.1
-2022,ill_10_haemophilic_infection,under 1 year,Donetsk,76.3
-2022,ill_10_haemophilic_infection,1 year,Donetsk,78.1
-2022,ill_10_haemophilic_infection,under 1 year,Zhytomyr,75.0
-2022,ill_10_haemophilic_infection,1 year,Zhytomyr,69.2
-2022,ill_10_haemophilic_infection,under 1 year,Zakarpattya,80.1
-2022,ill_10_haemophilic_infection,1 year,Zakarpattya,67.7
-2022,ill_10_haemophilic_infection,under 1 year,Zaporizhzhya,59.4
-2022,ill_10_haemophilic_infection,1 year,Zaporizhzhya,55.1
-2022,ill_10_haemophilic_infection,under 1 year,18_reg_Ivano_Frankivsk,70.1
-2022,ill_10_haemophilic_infection,1 year,18_reg_Ivano_Frankivsk,70.0
-2022,ill_10_haemophilic_infection,under 1 year,Kyiv,85.2
-2022,ill_10_haemophilic_infection,1 year,Kyiv,83.1
-2022,ill_10_haemophilic_infection,under 1 year,Kirovohrad,86.7
-2022,ill_10_haemophilic_infection,1 year,Kirovohrad,96.8
-2022,ill_10_haemophilic_infection,under 1 year,Luhansk,7.6
-2022,ill_10_haemophilic_infection,1 year,Luhansk,8.0
-2022,ill_10_haemophilic_infection,under 1 year,Lviv,78.9
-2022,ill_10_haemophilic_infection,1 year,Lviv,63.2
-2022,ill_10_haemophilic_infection,under 1 year,23_reg_Mykolaiv,64.2
-2022,ill_10_haemophilic_infection,1 year,23_reg_Mykolaiv,63.2
-2022,ill_10_haemophilic_infection,under 1 year,Odesa,74.0
-2022,ill_10_haemophilic_infection,1 year,Odesa,70.7
-2022,ill_10_haemophilic_infection,under 1 year,Poltava,94.9
-2022,ill_10_haemophilic_infection,1 year,Poltava,93.4
-2022,ill_10_haemophilic_infection,under 1 year,Rivne,85.7
-2022,ill_10_haemophilic_infection,1 year,Rivne,87.5
-2022,ill_10_haemophilic_infection,under 1 year,Sumy,78.8
-2022,ill_10_haemophilic_infection,1 year,Sumy,82.1
-2022,ill_10_haemophilic_infection,under 1 year,Ternopil,71.1
-2022,ill_10_haemophilic_infection,1 year,Ternopil,63.5
-2022,ill_10_haemophilic_infection,under 1 year,Kharkiv,53.2
-2022,ill_10_haemophilic_infection,1 year,Kharkiv,44.7
-2022,ill_10_haemophilic_infection,under 1 year,Kherson,36.7
-2022,ill_10_haemophilic_infection,1 year,Kherson,32.3
-2022,ill_10_haemophilic_infection,under 1 year,31_reg_Khmelnytskyi,75.6
-2022,ill_10_haemophilic_infection,1 year,31_reg_Khmelnytskyi,76.9
-2022,ill_10_haemophilic_infection,under 1 year,Cherkasy,94.2
-2022,ill_10_haemophilic_infection,1 year,Cherkasy,95.3
-2022,ill_10_haemophilic_infection,under 1 year,Chernivtsi,82.9
-2022,ill_10_haemophilic_infection,1 year,Chernivtsi,70.5
-2022,ill_10_haemophilic_infection,under 1 year,Chernihiv,76.6
-2022,ill_10_haemophilic_infection,1 year,Chernihiv,62.8
-2022,ill_10_haemophilic_infection,under 1 year,the city of Kyiv,81.9
-2022,ill_10_haemophilic_infection,1 year,the city of Kyiv,77.1
-2023,ill_10_haemophilic_infection,under 1 year,,86.4
-2023,ill_10_haemophilic_infection,1 year,,78.2
-2023,ill_10_haemophilic_infection,under 1 year,Vinnytsya,86.1
-2023,ill_10_haemophilic_infection,1 year,Vinnytsya,87.8
-2023,ill_10_haemophilic_infection,under 1 year,Volyn,76.2
-2023,ill_10_haemophilic_infection,1 year,Volyn,53.6
-2023,ill_10_haemophilic_infection,under 1 year,Dnipropetrovsk,90.4
-2023,ill_10_haemophilic_infection,1 year,Dnipropetrovsk,89.8
-2023,ill_10_haemophilic_infection,under 1 year,Donetsk,93.0
-2023,ill_10_haemophilic_infection,1 year,Donetsk,89.9
-2023,ill_10_haemophilic_infection,under 1 year,Zhytomyr,95.4
-2023,ill_10_haemophilic_infection,1 year,Zhytomyr,70.7
-2023,ill_10_haemophilic_infection,under 1 year,Zakarpattya,81.3
-2023,ill_10_haemophilic_infection,1 year,Zakarpattya,82.2
-2023,ill_10_haemophilic_infection,under 1 year,Zaporizhzhya,100.0
-2023,ill_10_haemophilic_infection,1 year,Zaporizhzhya,99.1
-2023,ill_10_haemophilic_infection,under 1 year,18_reg_Ivano_Frankivsk,62.6
-2023,ill_10_haemophilic_infection,1 year,18_reg_Ivano_Frankivsk,55.6
-2023,ill_10_haemophilic_infection,under 1 year,Kyiv,87.3
-2023,ill_10_haemophilic_infection,1 year,Kyiv,82.6
-2023,ill_10_haemophilic_infection,under 1 year,Kirovohrad,74.7
-2023,ill_10_haemophilic_infection,1 year,Kirovohrad,78.6
-2023,ill_10_haemophilic_infection,under 1 year,Luhansk,0.0
-2023,ill_10_haemophilic_infection,1 year,Luhansk,0.0
-2023,ill_10_haemophilic_infection,under 1 year,Lviv,90.9
-2023,ill_10_haemophilic_infection,1 year,Lviv,59.4
-2023,ill_10_haemophilic_infection,under 1 year,23_reg_Mykolaiv,94.4
-2023,ill_10_haemophilic_infection,1 year,23_reg_Mykolaiv,96.2
-2023,ill_10_haemophilic_infection,under 1 year,Odesa,78.1
-2023,ill_10_haemophilic_infection,1 year,Odesa,81.7
-2023,ill_10_haemophilic_infection,under 1 year,Poltava,88.7
-2023,ill_10_haemophilic_infection,1 year,Poltava,78.5
-2023,ill_10_haemophilic_infection,under 1 year,Rivne,95.5
-2023,ill_10_haemophilic_infection,1 year,Rivne,96.5
-2023,ill_10_haemophilic_infection,under 1 year,Sumy,91.3
-2023,ill_10_haemophilic_infection,1 year,Sumy,91.7
-2023,ill_10_haemophilic_infection,under 1 year,Ternopil,87.9
-2023,ill_10_haemophilic_infection,1 year,Ternopil,79.9
-2023,ill_10_haemophilic_infection,under 1 year,Kharkiv,91.8
-2023,ill_10_haemophilic_infection,1 year,Kharkiv,94.5
-2023,ill_10_haemophilic_infection,under 1 year,Kherson,98.7
-2023,ill_10_haemophilic_infection,1 year,Kherson,100.0
-2023,ill_10_haemophilic_infection,under 1 year,31_reg_Khmelnytskyi,78.7
-2023,ill_10_haemophilic_infection,1 year,31_reg_Khmelnytskyi,55.9
-2023,ill_10_haemophilic_infection,under 1 year,Cherkasy,93.1
-2023,ill_10_haemophilic_infection,1 year,Cherkasy,88.0
-2023,ill_10_haemophilic_infection,under 1 year,Chernivtsi,69.4
-2023,ill_10_haemophilic_infection,1 year,Chernivtsi,54.7
-2023,ill_10_haemophilic_infection,under 1 year,Chernihiv,88.2
-2023,ill_10_haemophilic_infection,1 year,Chernihiv,85.3
-2023,ill_10_haemophilic_infection,under 1 year,the city of Kyiv,100.0
-2023,ill_10_haemophilic_infection,1 year,the city of Kyiv,86.0
-2024,ill_10_haemophilic_infection,under 1 year,,94.63914970096992
-2024,ill_10_haemophilic_infection,1 year,,92.7314422761916
-2024,ill_10_haemophilic_infection,under 1 year,Vinnytsya,98.1132075471698
-2024,ill_10_haemophilic_infection,1 year,Vinnytsya,83.19715340010544
-2024,ill_10_haemophilic_infection,under 1 year,Volyn,94.46457035212288
-2024,ill_10_haemophilic_infection,1 year,Volyn,91.28562945368172
-2024,ill_10_haemophilic_infection,under 1 year,Dnipropetrovsk,98.84792626728112
-2024,ill_10_haemophilic_infection,1 year,Dnipropetrovsk,99.54225352112675
-2024,ill_10_haemophilic_infection,under 1 year,Donetsk,99.58202716823406
-2024,ill_10_haemophilic_infection,1 year,Donetsk,99.43609022556392
-2024,ill_10_haemophilic_infection,under 1 year,Zhytomyr,98.57235561323816
-2024,ill_10_haemophilic_infection,1 year,Zhytomyr,99.17965545529124
-2024,ill_10_haemophilic_infection,under 1 year,Zakarpattya,85.7066808623902
-2024,ill_10_haemophilic_infection,1 year,Zakarpattya,83.63929546018358
-2024,ill_10_haemophilic_infection,under 1 year,Zaporizhzhya,99.48339483394834
-2024,ill_10_haemophilic_infection,1 year,Zaporizhzhya,99.39690915944212
-2024,ill_10_haemophilic_infection,under 1 year,18_reg_Ivano_Frankivsk,92.43250804308296
-2024,ill_10_haemophilic_infection,1 year,18_reg_Ivano_Frankivsk,91.90121412803532
-2024,ill_10_haemophilic_infection,under 1 year,Kyiv,90.85193057031526
-2024,ill_10_haemophilic_infection,1 year,Kyiv,91.78526391641144
-2024,ill_10_haemophilic_infection,under 1 year,Kirovohrad,88.33333333333333
-2024,ill_10_haemophilic_infection,1 year,Kirovohrad,97.48826291079811
-2024,ill_10_haemophilic_infection,under 1 year,Luhansk,0.0
-2024,ill_10_haemophilic_infection,1 year,Luhansk,0.0
-2024,ill_10_haemophilic_infection,under 1 year,Lviv,97.21816491833754
-2024,ill_10_haemophilic_infection,1 year,Lviv,95.1862912400455
-2024,ill_10_haemophilic_infection,under 1 year,23_reg_Mykolaiv,97.69595662977186
-2024,ill_10_haemophilic_infection,1 year,23_reg_Mykolaiv,100.0
-2024,ill_10_haemophilic_infection,under 1 year,Odesa,88.95037177935328
-2024,ill_10_haemophilic_infection,1 year,Odesa,88.13764482102715
-2024,ill_10_haemophilic_infection,under 1 year,Poltava,93.47079037800688
-2024,ill_10_haemophilic_infection,1 year,Poltava,86.35243882410904
-2024,ill_10_haemophilic_infection,under 1 year,Rivne,94.86256151722482
-2024,ill_10_haemophilic_infection,1 year,Rivne,96.53102868803263
-2024,ill_10_haemophilic_infection,under 1 year,Sumy,93.35576114381834
-2024,ill_10_haemophilic_infection,1 year,Sumy,94.5503355704698
-2024,ill_10_haemophilic_infection,under 1 year,Ternopil,99.93201903467028
-2024,ill_10_haemophilic_infection,1 year,Ternopil,94.67713787085516
-2024,ill_10_haemophilic_infection,under 1 year,Kharkiv,99.32203389830508
-2024,ill_10_haemophilic_infection,1 year,Kharkiv,96.11976779712802
-2024,ill_10_haemophilic_infection,under 1 year,Kherson,100.0
-2024,ill_10_haemophilic_infection,1 year,Kherson,98.3451536643026
-2024,ill_10_haemophilic_infection,under 1 year,31_reg_Khmelnytskyi,92.37116612174997
-2024,ill_10_haemophilic_infection,1 year,31_reg_Khmelnytskyi,91.76579638498376
-2024,ill_10_haemophilic_infection,under 1 year,Cherkasy,94.7226502311248
-2024,ill_10_haemophilic_infection,1 year,Cherkasy,95.59341950646298
-2024,ill_10_haemophilic_infection,under 1 year,Chernivtsi,81.19105833042263
-2024,ill_10_haemophilic_infection,1 year,Chernivtsi,82.7657025500599
-2024,ill_10_haemophilic_infection,under 1 year,Chernihiv,99.66712898751734
-2024,ill_10_haemophilic_infection,1 year,Chernihiv,100.0
-2024,ill_10_haemophilic_infection,under 1 year,the city of Kyiv,99.92795860894624
-2024,ill_10_haemophilic_infection,1 year,the city of Kyiv,91.84749543703104
-2015,"Diphtheria, tetanus",age_16_years,,1.8
-2015,"Diphtheria, tetanus",age_16_years,Vinnytsya,0.0
-2015,"Diphtheria, tetanus",age_16_years,Volyn,0.0
-2015,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,3.2
-2015,"Diphtheria, tetanus",age_16_years,Donetsk,1.5
-2015,"Diphtheria, tetanus",age_16_years,Zhytomyr,0.1
-2015,"Diphtheria, tetanus",age_16_years,Zakarpattya,0.0
-2015,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,4.9
-2015,"Diphtheria, tetanus",age_16_years,18_reg_Ivano_Frankivsk,0.0
-2015,"Diphtheria, tetanus",age_16_years,19_reg_Kyivska,3.6
-2015,"Diphtheria, tetanus",age_16_years,Kirovohrad,0.0
-2015,"Diphtheria, tetanus",age_16_years,Luhansk,1.5367877056983543
-2015,"Diphtheria, tetanus",age_16_years,Lviv,0.0
-2015,"Diphtheria, tetanus",age_16_years,23_reg_Mykolaiv,0.0
-2015,"Diphtheria, tetanus",age_16_years,Odesa,9.1
-2015,"Diphtheria, tetanus",age_16_years,Poltava,0.0
-2015,"Diphtheria, tetanus",age_16_years,Rivne,0.0
-2015,"Diphtheria, tetanus",age_16_years,Sumy,0.5
-2015,"Diphtheria, tetanus",age_16_years,Ternopil,0.0
-2015,"Diphtheria, tetanus",age_16_years,Kharkiv,6.9
-2015,"Diphtheria, tetanus",age_16_years,Kherson,0.0
-2015,"Diphtheria, tetanus",age_16_years,31_reg_Khmelnytskyy,0.0
-2015,"Diphtheria, tetanus",age_16_years,Cherkasy,5.0
-2015,"Diphtheria, tetanus",age_16_years,Chernivtsi,0.2
-2015,"Diphtheria, tetanus",age_16_years,Chernihiv,0.0
-2015,"Diphtheria, tetanus",age_16_years,35_reg_Kyiv,7.5
-2016,"Diphtheria, tetanus",age_16_years,,55.9
-2016,"Diphtheria, tetanus",age_16_years,Vinnytsya,63.4
-2016,"Diphtheria, tetanus",age_16_years,Volyn,42.4
-2016,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,76.4
-2016,"Diphtheria, tetanus",age_16_years,Donetsk,55.4
-2016,"Diphtheria, tetanus",age_16_years,Zhytomyr,72.4
-2016,"Diphtheria, tetanus",age_16_years,Zakarpattya,30.6
-2016,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,34.6
-2016,"Diphtheria, tetanus",age_16_years,18_reg_Ivano_Frankivsk,37.5
-2016,"Diphtheria, tetanus",age_16_years,19_reg_Kyivska,70.4
-2016,"Diphtheria, tetanus",age_16_years,Kirovohrad,59.5
-2016,"Diphtheria, tetanus",age_16_years,Luhansk,43.72681049883194
-2016,"Diphtheria, tetanus",age_16_years,Lviv,51.3
-2016,"Diphtheria, tetanus",age_16_years,23_reg_Mykolaiv,72.1
-2016,"Diphtheria, tetanus",age_16_years,Odesa,58.6
-2016,"Diphtheria, tetanus",age_16_years,Poltava,51.5
-2016,"Diphtheria, tetanus",age_16_years,Rivne,63.0
-2016,"Diphtheria, tetanus",age_16_years,Sumy,52.4
-2016,"Diphtheria, tetanus",age_16_years,Ternopil,46.4
-2016,"Diphtheria, tetanus",age_16_years,Kharkiv,62.8
-2016,"Diphtheria, tetanus",age_16_years,Kherson,76.9
-2016,"Diphtheria, tetanus",age_16_years,31_reg_Khmelnytskyy,56.0
-2016,"Diphtheria, tetanus",age_16_years,Cherkasy,62.6
-2016,"Diphtheria, tetanus",age_16_years,Chernivtsi,51.5
-2016,"Diphtheria, tetanus",age_16_years,Chernihiv,64.6
-2016,"Diphtheria, tetanus",age_16_years,35_reg_Kyiv,42.1
-2017,"Diphtheria, tetanus",age_16_years,,76.7
-2017,"Diphtheria, tetanus",age_16_years,Vinnytsya,70.3
-2017,"Diphtheria, tetanus",age_16_years,Volyn,72.0
-2017,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,85.2
-2017,"Diphtheria, tetanus",age_16_years,Donetsk,82.7
-2017,"Diphtheria, tetanus",age_16_years,Zhytomyr,79.4
-2017,"Diphtheria, tetanus",age_16_years,Zakarpattya,62.4
-2017,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,75.1
-2017,"Diphtheria, tetanus",age_16_years,18_reg_Ivano_Frankivsk,58.1
-2017,"Diphtheria, tetanus",age_16_years,19_reg_Kyivska,88.0
-2017,"Diphtheria, tetanus",age_16_years,Kirovohrad,79.9
-2017,"Diphtheria, tetanus",age_16_years,Luhansk,82.8
-2017,"Diphtheria, tetanus",age_16_years,Lviv,69.1
-2017,"Diphtheria, tetanus",age_16_years,23_reg_Mykolaiv,92.3
-2017,"Diphtheria, tetanus",age_16_years,Odesa,69.3
-2017,"Diphtheria, tetanus",age_16_years,Poltava,73.4
-2017,"Diphtheria, tetanus",age_16_years,Rivne,66.6
-2017,"Diphtheria, tetanus",age_16_years,Sumy,91.4
-2017,"Diphtheria, tetanus",age_16_years,Ternopil,70.7
-2017,"Diphtheria, tetanus",age_16_years,Kharkiv,71.7
-2017,"Diphtheria, tetanus",age_16_years,Kherson,88.0
-2017,"Diphtheria, tetanus",age_16_years,31_reg_Khmelnytskyy,76.6
-2017,"Diphtheria, tetanus",age_16_years,Cherkasy,83.3
-2017,"Diphtheria, tetanus",age_16_years,Chernivtsi,59.9
-2017,"Diphtheria, tetanus",age_16_years,Chernihiv,73.5
-2017,"Diphtheria, tetanus",age_16_years,35_reg_Kyiv,96.1
-2018,"Diphtheria, tetanus",age_16_years,,77.9
-2018,"Diphtheria, tetanus",age_16_years,Vinnytsya,69.1
-2018,"Diphtheria, tetanus",age_16_years,Volyn,83.2
-2018,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,74.3
-2018,"Diphtheria, tetanus",age_16_years,Donetsk,77.0
-2018,"Diphtheria, tetanus",age_16_years,Zhytomyr,78.7
-2018,"Diphtheria, tetanus",age_16_years,Zakarpattya,57.0
-2018,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,79.1
-2018,"Diphtheria, tetanus",age_16_years,18_reg_Ivano_Frankivsk,52.7
-2018,"Diphtheria, tetanus",age_16_years,19_reg_Kyivska,89.9
-2018,"Diphtheria, tetanus",age_16_years,Kirovohrad,88.0
-2018,"Diphtheria, tetanus",age_16_years,Luhansk,86.7
-2018,"Diphtheria, tetanus",age_16_years,Lviv,68.4
-2018,"Diphtheria, tetanus",age_16_years,23_reg_Mykolaiv,83.8
-2018,"Diphtheria, tetanus",age_16_years,Odesa,76.9
-2018,"Diphtheria, tetanus",age_16_years,Poltava,85.4
-2018,"Diphtheria, tetanus",age_16_years,Rivne,82.0
-2018,"Diphtheria, tetanus",age_16_years,Sumy,94.2
-2018,"Diphtheria, tetanus",age_16_years,Ternopil,80.2
-2018,"Diphtheria, tetanus",age_16_years,Kharkiv,77.3
-2018,"Diphtheria, tetanus",age_16_years,Kherson,87.3
-2018,"Diphtheria, tetanus",age_16_years,31_reg_Khmelnytskyy,72.4
-2018,"Diphtheria, tetanus",age_16_years,Cherkasy,73.9
-2018,"Diphtheria, tetanus",age_16_years,Chernivtsi,70.3
-2018,"Diphtheria, tetanus",age_16_years,Chernihiv,86.8
-2018,"Diphtheria, tetanus",age_16_years,35_reg_Kyiv,89.4
-2019,"Diphtheria, tetanus",age_16_years,,91.5
-2019,"Diphtheria, tetanus",age_16_years,Vinnytsya,88.7
-2019,"Diphtheria, tetanus",age_16_years,Volyn,96.2
-2019,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,94.1
-2019,"Diphtheria, tetanus",age_16_years,Donetsk,91.8
-2019,"Diphtheria, tetanus",age_16_years,Zhytomyr,90.4
-2019,"Diphtheria, tetanus",age_16_years,Zakarpattya,86.7
-2019,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,98.2
-2019,"Diphtheria, tetanus",age_16_years,18_reg_Ivano_Frankivsk,81.3
-2019,"Diphtheria, tetanus",age_16_years,19_reg_Kyivska,94.5
-2019,"Diphtheria, tetanus",age_16_years,Kirovohrad,89.8
-2019,"Diphtheria, tetanus",age_16_years,Luhansk,81.0
-2019,"Diphtheria, tetanus",age_16_years,Lviv,89.8
-2019,"Diphtheria, tetanus",age_16_years,23_reg_Mykolaiv,95.6
-2019,"Diphtheria, tetanus",age_16_years,Odesa,84.2
-2019,"Diphtheria, tetanus",age_16_years,Poltava,95.2
-2019,"Diphtheria, tetanus",age_16_years,Rivne,85.9
-2019,"Diphtheria, tetanus",age_16_years,Sumy,96.1
-2019,"Diphtheria, tetanus",age_16_years,Ternopil,89.4
-2019,"Diphtheria, tetanus",age_16_years,Kharkiv,89.0
-2019,"Diphtheria, tetanus",age_16_years,Kherson,96.9
-2019,"Diphtheria, tetanus",age_16_years,31_reg_Khmelnytskyy,93.1
-2019,"Diphtheria, tetanus",age_16_years,Cherkasy,89.4
-2019,"Diphtheria, tetanus",age_16_years,Chernivtsi,91.9
-2019,"Diphtheria, tetanus",age_16_years,Chernihiv,92.6
-2019,"Diphtheria, tetanus",age_16_years,35_reg_Kyiv,98.7
-2020,"Diphtheria, tetanus",age_16_years,,73.6
-2020,"Diphtheria, tetanus",age_16_years,Vinnytsya,74.6
-2020,"Diphtheria, tetanus",age_16_years,Volyn,88.3
-2020,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,49.1
-2020,"Diphtheria, tetanus",age_16_years,Donetsk,84.3
-2020,"Diphtheria, tetanus",age_16_years,Zhytomyr,58.2
-2020,"Diphtheria, tetanus",age_16_years,Zakarpattya,55.9
-2020,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,75.2
-2020,"Diphtheria, tetanus",age_16_years,18_reg_Ivano_Frankivsk,66.0
-2020,"Diphtheria, tetanus",age_16_years,19_reg_Kyivska,83.5
-2020,"Diphtheria, tetanus",age_16_years,Kirovohrad,62.3
-2020,"Diphtheria, tetanus",age_16_years,Luhansk,76.6
-2020,"Diphtheria, tetanus",age_16_years,Lviv,61.5
-2020,"Diphtheria, tetanus",age_16_years,23_reg_Mykolaiv,92.7
-2020,"Diphtheria, tetanus",age_16_years,Odesa,63.8
-2020,"Diphtheria, tetanus",age_16_years,Poltava,90.4
-2020,"Diphtheria, tetanus",age_16_years,Rivne,76.4
-2020,"Diphtheria, tetanus",age_16_years,Sumy,90.4
-2020,"Diphtheria, tetanus",age_16_years,Ternopil,73.7
-2020,"Diphtheria, tetanus",age_16_years,Kharkiv,80.0
-2020,"Diphtheria, tetanus",age_16_years,Kherson,80.4
-2020,"Diphtheria, tetanus",age_16_years,31_reg_Khmelnytskyy,83.5
-2020,"Diphtheria, tetanus",age_16_years,Cherkasy,81.7
-2020,"Diphtheria, tetanus",age_16_years,Chernivtsi,68.3
-2020,"Diphtheria, tetanus",age_16_years,Chernihiv,56.1
-2020,"Diphtheria, tetanus",age_16_years,35_reg_Kyiv,99.0
-2021,"Diphtheria, tetanus",age_16_years,,79.6
-2021,"Diphtheria, tetanus",age_16_years,Vinnytsya,71.1
-2021,"Diphtheria, tetanus",age_16_years,Volyn,78.4
-2021,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,72.6
-2021,"Diphtheria, tetanus",age_16_years,Donetsk,82.6
-2021,"Diphtheria, tetanus",age_16_years,Zhytomyr,80.5
-2021,"Diphtheria, tetanus",age_16_years,Zakarpattya,67.6
-2021,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,79.1
-2021,"Diphtheria, tetanus",age_16_years,18_reg_Ivano_Frankivsk,82.7
-2021,"Diphtheria, tetanus",age_16_years,19_reg_Kyivska,80.9
-2021,"Diphtheria, tetanus",age_16_years,Kirovohrad,88.9
-2021,"Diphtheria, tetanus",age_16_years,Luhansk,90.5
-2021,"Diphtheria, tetanus",age_16_years,Lviv,62.9
-2021,"Diphtheria, tetanus",age_16_years,23_reg_Mykolaiv,87.7
-2021,"Diphtheria, tetanus",age_16_years,Odesa,72.1
-2021,"Diphtheria, tetanus",age_16_years,Poltava,92.2
-2021,"Diphtheria, tetanus",age_16_years,Rivne,81.7
-2021,"Diphtheria, tetanus",age_16_years,Sumy,90.2
-2021,"Diphtheria, tetanus",age_16_years,Ternopil,74.5
-2021,"Diphtheria, tetanus",age_16_years,Kharkiv,83.5
-2021,"Diphtheria, tetanus",age_16_years,Kherson,86.0
-2021,"Diphtheria, tetanus",age_16_years,31_reg_Khmelnytskyy,82.6
-2021,"Diphtheria, tetanus",age_16_years,Cherkasy,88.1
-2021,"Diphtheria, tetanus",age_16_years,Chernivtsi,60.9
-2021,"Diphtheria, tetanus",age_16_years,Chernihiv,83.3
-2021,"Diphtheria, tetanus",age_16_years,35_reg_Kyiv,99.8
-2022,"Diphtheria, tetanus",age_16_years,,68.8
-2022,"Diphtheria, tetanus",age_16_years,Vinnytsya,72.5
-2022,"Diphtheria, tetanus",age_16_years,Volyn,90.7
-2022,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,64.8
-2022,"Diphtheria, tetanus",age_16_years,Donetsk,63.3
-2022,"Diphtheria, tetanus",age_16_years,Zhytomyr,77.9
-2022,"Diphtheria, tetanus",age_16_years,Zakarpattya,65.0
-2022,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,49.7
-2022,"Diphtheria, tetanus",age_16_years,18_reg_Ivano_Frankivsk,64.7
-2022,"Diphtheria, tetanus",age_16_years,19_reg_Kyivska,77.4
-2022,"Diphtheria, tetanus",age_16_years,Kirovohrad,73.1
-2022,"Diphtheria, tetanus",age_16_years,Luhansk,2.8
-2022,"Diphtheria, tetanus",age_16_years,Lviv,60.1
-2022,"Diphtheria, tetanus",age_16_years,23_reg_Mykolaiv,63.6
-2022,"Diphtheria, tetanus",age_16_years,Odesa,59.0
-2022,"Diphtheria, tetanus",age_16_years,Poltava,87.0
-2022,"Diphtheria, tetanus",age_16_years,Rivne,87.7
-2022,"Diphtheria, tetanus",age_16_years,Sumy,92.7
-2022,"Diphtheria, tetanus",age_16_years,Ternopil,67.5
-2022,"Diphtheria, tetanus",age_16_years,Kharkiv,42.3
-2022,"Diphtheria, tetanus",age_16_years,Kherson,45.8
-2022,"Diphtheria, tetanus",age_16_years,31_reg_Khmelnytskyy,70.3
-2022,"Diphtheria, tetanus",age_16_years,Cherkasy,84.6
-2022,"Diphtheria, tetanus",age_16_years,Chernivtsi,64.5
-2022,"Diphtheria, tetanus",age_16_years,Chernihiv,85.7
-2022,"Diphtheria, tetanus",age_16_years,35_reg_Kyiv,93.9
-2023,"Diphtheria, tetanus",age_16_years,,78.3
-2023,"Diphtheria, tetanus",age_16_years,Vinnytsya,73.3
-2023,"Diphtheria, tetanus",age_16_years,Volyn,89.7
-2023,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,77.0
-2023,"Diphtheria, tetanus",age_16_years,Donetsk,75.6
-2023,"Diphtheria, tetanus",age_16_years,Zhytomyr,83.5
-2023,"Diphtheria, tetanus",age_16_years,Zakarpattya,68.2
-2023,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,92.5
-2023,"Diphtheria, tetanus",age_16_years,18_reg_Ivano_Frankivsk,67.6
-2023,"Diphtheria, tetanus",age_16_years,19_reg_Kyivska,82.0
-2023,"Diphtheria, tetanus",age_16_years,Kirovohrad,78.0
-2023,"Diphtheria, tetanus",age_16_years,Luhansk,0.0
-2023,"Diphtheria, tetanus",age_16_years,Lviv,58.7
-2023,"Diphtheria, tetanus",age_16_years,23_reg_Mykolaiv,91.0
-2023,"Diphtheria, tetanus",age_16_years,Odesa,62.2
-2023,"Diphtheria, tetanus",age_16_years,Poltava,92.4
-2023,"Diphtheria, tetanus",age_16_years,Rivne,89.7
-2023,"Diphtheria, tetanus",age_16_years,Sumy,88.1
-2023,"Diphtheria, tetanus",age_16_years,Ternopil,71.6
-2023,"Diphtheria, tetanus",age_16_years,Kharkiv,90.3
-2023,"Diphtheria, tetanus",age_16_years,Kherson,100.0
-2023,"Diphtheria, tetanus",age_16_years,31_reg_Khmelnytskyy,76.1
-2023,"Diphtheria, tetanus",age_16_years,Cherkasy,87.3
-2023,"Diphtheria, tetanus",age_16_years,Chernivtsi,73.1
-2023,"Diphtheria, tetanus",age_16_years,Chernihiv,70.0
-2023,"Diphtheria, tetanus",age_16_years,35_reg_Kyiv,93.7
-2024,"Diphtheria, tetanus",age_16_years,,82.1
-2024,"Diphtheria, tetanus",age_16_years,Vinnytsya,72.21076885762794
-2024,"Diphtheria, tetanus",age_16_years,Volyn,87.51347079531575
-2024,"Diphtheria, tetanus",age_16_years,Dnipropetrovsk,89.56014265643574
-2024,"Diphtheria, tetanus",age_16_years,Donetsk,96.24945486262538
-2024,"Diphtheria, tetanus",age_16_years,Zhytomyr,88.28738641614045
-2024,"Diphtheria, tetanus",age_16_years,Zakarpattya,75.87532888079336
-2024,"Diphtheria, tetanus",age_16_years,Zaporizhzhya,99.5412064570943
-2024,"Diphtheria, tetanus",age_16_years,18_reg_Ivano_Frankivsk,74.12031782065834
-2024,"Diphtheria, tetanus",age_16_years,19_reg_Kyivska,77.71410084577344
-2024,"Diphtheria, tetanus",age_16_years,Kirovohrad,89.77072310405644
-2024,"Diphtheria, tetanus",age_16_years,Luhansk,0.0
-2024,"Diphtheria, tetanus",age_16_years,Lviv,55.58976132826011
-2024,"Diphtheria, tetanus",age_16_years,23_reg_Mykolaiv,98.63793453954057
-2024,"Diphtheria, tetanus",age_16_years,Odesa,77.41288744536669
-2024,"Diphtheria, tetanus",age_16_years,Poltava,91.96320330884976
-2024,"Diphtheria, tetanus",age_16_years,Rivne,90.3868397378229
-2024,"Diphtheria, tetanus",age_16_years,Sumy,90.05200090436355
-2024,"Diphtheria, tetanus",age_16_years,Ternopil,90.53287351207032
-2024,"Diphtheria, tetanus",age_16_years,Kharkiv,95.59767198925536
-2024,"Diphtheria, tetanus",age_16_years,Kherson,99.51456310679612
-2024,"Diphtheria, tetanus",age_16_years,31_reg_Khmelnytskyy,72.44796828543112
-2024,"Diphtheria, tetanus",age_16_years,Cherkasy,82.46991104133961
-2024,"Diphtheria, tetanus",age_16_years,Chernivtsi,66.64770572620402
+2024,Haemophilus infection,under 1 year,Chernihiv,99.66712898751734
+2024,Haemophilus infection,1 year,Chernihiv,100.0
 2024,"Diphtheria, tetanus",age_16_years,Chernihiv,87.45340167753962
-2024,"Diphtheria, tetanus",age_16_years,35_reg_Kyiv,93.3152664859982
-2015,,,Autonomous Republic of Crimea,
-2015,,,city Sevastopol,
+2024,Haemophilus infection,under 1 year,the city of Kyiv,99.92795860894624
+2024,Haemophilus infection,1 year,the city of Kyiv,91.84749543703104
+2024,"Diphtheria, tetanus",age_16_years,the city of Kyiv,93.3152664859982
+2024,Tuberculosis,under 1 year,city Sevastopol,

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -59,12 +59,12 @@
             "constraints": {
               "enum": [
                 "up to 15 years",
-                "group_label_183",
-                "group_label_184",
-                "group_label_185",
-                "group_label_186",
-                "group_label_187",
-                "group_label_188",
+                "15–17 years",
+                "18–24 years",
+                "25–35 years",
+                "36–59 years",
+                "60–74 years",
+                "75 years and older",
                 ""
               ]
             },

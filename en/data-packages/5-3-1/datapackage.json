@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "15-17 years",
-                "under 15 years",
                 "under 20 years",
+                "under 15 years",
                 ""
               ]
             },
@@ -33,16 +33,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
+                "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
+                "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
                 "Zaporizhzhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
+                "Luhansk",
                 "Lviv",
                 "Mykolayiv",
                 "Odesa",
@@ -57,8 +59,8 @@
                 "Chernivtsi",
                 "Chernihiv",
                 "the city of Kyiv",
-                "Autonomous Republic of Crimea",
                 "city Sevastopol",
+                "Ukraine",
                 ""
               ]
             },
