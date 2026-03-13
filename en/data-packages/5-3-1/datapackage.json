@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "15-17 years",
-                "under 20 years",
                 "under 15 years",
+                "under 20 years",
                 ""
               ]
             },
@@ -33,18 +33,17 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
-                "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
                 "Zaporizhzhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
-                "Luhansk",
                 "Lviv",
                 "Mykolayiv",
                 "Odesa",
@@ -60,7 +59,6 @@
                 "Chernihiv",
                 "the city of Kyiv",
                 "city Sevastopol",
-                "Ukraine",
                 ""
               ]
             },
