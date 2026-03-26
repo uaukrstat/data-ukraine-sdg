@@ -40,12 +40,12 @@
             "title": "Type of residence"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "households with children",
+                "households without children",
                 ""
               ]
             },

@@ -34,7 +34,7 @@
                 "urban_pipelines",
                 "rural_pipelines",
                 "non_centralized_1",
-                "centralized",
+                "Centralized_1",
                 ""
               ]
             }
@@ -70,7 +70,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
