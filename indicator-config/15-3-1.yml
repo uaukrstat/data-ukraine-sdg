@@ -7,9 +7,7 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values:
-- field: Region
-  value: Ukraine
+data_start_values: []
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -27,8 +25,7 @@ indicator_number: 15.3.1
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision:
-- decimals: 2
+precision: []
 reporting_status: complete
 sort: ''
 standalone: false
