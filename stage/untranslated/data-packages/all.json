@@ -850,7 +850,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -2984,7 +2984,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -3257,6 +3257,16 @@
               "enum": [
                 "urban",
                 "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_groups",
                 ""
               ]
             }
@@ -4230,7 +4240,7 @@
             "type": "integer"
           },
           {
-            "name": "group_label_92",
+            "name": "Coastal regions",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4341,7 +4351,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
+                "age_18_1",
                 "age_18_34",
                 "age_35_59",
                 "age_60",
@@ -4354,8 +4364,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -4372,12 +4382,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "hh_ch_2",
+                "hh_ch_02",
                 ""
               ]
             }
@@ -4826,7 +4836,7 @@
           }
         ]
       },
-      "title": "7-6-2"
+      "title": "global_indicators.7-6-2-title"
     },
     {
       "path": "16-3-2-a/data.csv",
@@ -5252,7 +5262,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
+                "age_18_1",
                 "age_18_34",
                 "age_35_59",
                 "age_60",
@@ -5265,19 +5275,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Households",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -5289,6 +5288,17 @@
               "enum": [
                 "urban",
                 "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Households_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }
@@ -5545,7 +5555,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
+                "age_18_1",
                 "age_18_34",
                 "age_35_59",
                 "age_60",
@@ -5558,8 +5568,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -5576,12 +5586,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }
@@ -5819,7 +5829,7 @@
           }
         ]
       },
-      "title": "7-7-1"
+      "title": "global_indicators.7-7-1-title"
     },
     {
       "path": "5-6-5/data.csv",
@@ -8464,7 +8474,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -8613,7 +8623,7 @@
             "type": "integer"
           },
           {
-            "name": "Sphere",
+            "name": "Spheres",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8628,7 +8638,7 @@
             }
           },
           {
-            "name": "Status",
+            "name": "Status_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8670,7 +8680,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -8775,7 +8785,7 @@
           }
         ]
       },
-      "title": "7-6-1"
+      "title": "global_indicators.7-6-1-title"
     },
     {
       "path": "10-1-1-a/data.csv",
@@ -9260,7 +9270,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
+                "age_18_1",
                 "age_18_34",
                 "age_35_59",
                 "age_60",
@@ -9273,8 +9283,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -9291,12 +9301,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }
@@ -9742,7 +9752,7 @@
             "constraints": {
               "enum": [
                 "17_sugar",
-                "18_oil",
+                "18_oil_1",
                 "corn",
                 "barley",
                 "wheat",
@@ -10177,10 +10187,11 @@
             "type": "integer"
           },
           {
-            "name": "by reasons",
-            "type": "number",
+            "name": "reasons_ land",
+            "type": "string",
             "constraints": {
               "enum": [
+                "reasons_1",
                 ""
               ]
             }
@@ -10298,7 +10309,7 @@
           }
         ]
       },
-      "title": "7-5-9"
+      "title": "global_indicators.7-5-9-title"
     },
     {
       "path": "4-3-2/data.csv",
@@ -11011,7 +11022,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -11416,12 +11427,12 @@
             "type": "integer"
           },
           {
-            "name": "SupplyType",
+            "name": "SupplyType_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
-                "non_centralized",
+                "Centralized_1",
+                "Non-centralized_1",
                 ""
               ]
             }
@@ -12148,49 +12159,28 @@
             "type": "integer"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukraine",
-                "autonomous_Republic_of_Crimea",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhzhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
-                "city_Sevastopol",
-                ""
-              ]
-            }
-          },
-          {
             "name": "group_2",
             "type": "string",
             "constraints": {
               "enum": [
                 "group_label_90",
                 "group_label_91",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "autonomous_Republic_of_Crimea",
+                "14_reg_Donetsk",
+                "17_reg_Zaporizhzhya",
+                "23_reg_Mykolayiv",
+                "24_reg_Odesa",
+                "30_reg_Kherson",
+                "city_Sevastopol",
                 ""
               ]
             }
@@ -12663,7 +12653,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -13147,8 +13137,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -13165,12 +13155,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }
@@ -13923,7 +13913,7 @@
                 "urban_pipelines",
                 "rural_pipelines",
                 "non_centralized_1",
-                "centralized",
+                "Centralized_1",
                 ""
               ]
             }
@@ -13959,7 +13949,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -14586,7 +14576,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -14967,12 +14957,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }
@@ -15721,7 +15711,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -15779,7 +15769,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -16869,7 +16859,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -17245,11 +17235,22 @@
             "type": "integer"
           },
           {
+            "name": "group_10",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zone_1_polis",
+                "zone_2_fores_st",
+                "zone_3_st",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
@@ -17275,20 +17276,8 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "group_10",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "zone_1_polis",
-                "zone_2_fores_st",
-                "zone_3_st",
                 ""
               ]
             }
@@ -17893,7 +17882,7 @@
           }
         ]
       },
-      "title": "7-5-10"
+      "title": "global_indicators.7-5-10-title"
     },
     {
       "path": "6-1-3/data.csv",
@@ -17940,7 +17929,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -19352,6 +19341,72 @@
       "title": "global_indicators.11-6-1-title"
     },
     {
+      "path": "9-6-2/data.csv",
+      "name": "9-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.9-6-2-title"
+    },
+    {
+      "path": "7-3-2/data.csv",
+      "name": "7-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.7-3-2-title"
+    },
+    {
+      "path": "9-1-8/data.csv",
+      "name": "9-1-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.9-1-8-title"
+    },
+    {
       "path": "7-3-4/data.csv",
       "name": "7-3-4",
       "profile": "tabular-data-resource",
@@ -19682,28 +19737,6 @@
       "title": "16-10-1"
     },
     {
-      "path": "9-6-2/data.csv",
-      "name": "9-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "9-6-2"
-    },
-    {
       "path": "11-1-6/data.csv",
       "name": "11-1-6",
       "profile": "tabular-data-resource",
@@ -19746,28 +19779,6 @@
         ]
       },
       "title": "12-5-2"
-    },
-    {
-      "path": "7-3-2/data.csv",
-      "name": "7-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "7-3-2"
     },
     {
       "path": "9-3-6/data.csv",
@@ -20692,28 +20703,6 @@
         ]
       },
       "title": "11-2-8"
-    },
-    {
-      "path": "9-1-8/data.csv",
-      "name": "9-1-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "9-1-8"
     },
     {
       "path": "5-2-3/data.csv",

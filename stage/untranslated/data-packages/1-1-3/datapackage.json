@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -37,12 +37,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }

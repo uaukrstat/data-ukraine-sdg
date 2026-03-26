@@ -16,7 +16,7 @@
             "title": "Рік"
           },
           {
-            "name": "Sphere",
+            "name": "Spheres",
             "type": "string",
             "constraints": {
               "enum": [
@@ -29,10 +29,10 @@
                 ""
               ]
             },
-            "title": "Сфера"
+            "title": "Сфери"
           },
           {
-            "name": "Status",
+            "name": "Status_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -42,7 +42,7 @@
                 ""
               ]
             },
-            "title": "Статус"
+            "title": "Стан виконання"
           },
           {
             "name": "Region",

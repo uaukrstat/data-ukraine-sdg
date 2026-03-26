@@ -16,44 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukraine",
-                "Autonomous Republic of Crimea",
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
-                "the city of Kyiv",
-                "city Sevastopol",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "group_2",
             "type": "string",
             "constraints": {
@@ -63,7 +25,24 @@
                 ""
               ]
             },
-            "title": "By sea"
+            "title": "Seas"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Autonomous Republic of Crimea",
+                "Donetsk",
+                "Zaporizhzhya",
+                "Mykolayiv",
+                "Odesa",
+                "Kherson",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",

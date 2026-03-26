@@ -16,11 +16,23 @@
             "title": "Year"
           },
           {
+            "name": "group_10",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Polissya",
+                "Forest-steppe",
+                "Steppe",
+                ""
+              ]
+            },
+            "title": "Zones"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -46,25 +58,12 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "group_10",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Polissya",
-                "Forest-steppe",
-                "Steppe",
-                ""
-              ]
-            },
-            "title": "Zones"
           },
           {
             "name": "Value",

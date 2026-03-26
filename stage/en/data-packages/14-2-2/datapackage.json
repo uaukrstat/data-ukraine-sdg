@@ -16,15 +16,15 @@
             "title": "Year"
           },
           {
-            "name": "group_label_92",
+            "name": "Coastal regions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Overall for coastal oblasts",
+                "by coastal regions as a whole",
                 ""
               ]
             },
-            "title": "Overall for coastal oblasts"
+            "title": "Coastal regions"
           },
           {
             "name": "Value",

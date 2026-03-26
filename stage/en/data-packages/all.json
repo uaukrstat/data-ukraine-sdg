@@ -865,7 +865,7 @@
                 ""
               ]
             },
-            "title": "by types of economic activity"
+            "title": "Types of economic activity"
           },
           {
             "name": "By river basins",
@@ -917,7 +917,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -2492,7 +2492,7 @@
                 "sawmilling and planing of wood",
                 "manufacture of veneer sheets and wood-based panels",
                 "manufacture of assembled parquet floors",
-                "manufacture of other builders' carpentry and joinery",
+                "manufacture of other builders\\' carpentry and joinery",
                 "manufacture of wooden containers",
                 "manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",
                 "manufacture of pulp",
@@ -2975,7 +2975,7 @@
                 ""
               ]
             },
-            "title": "by types of economic activity"
+            "title": "Types of economic activity"
           },
           {
             "name": "Organisation and legal forms",
@@ -3173,7 +3173,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -3462,7 +3462,7 @@
                 ""
               ]
             },
-            "title": "Population Group"
+            "title": "Population type"
           },
           {
             "name": "Type of residence",
@@ -3475,6 +3475,17 @@
               ]
             },
             "title": "Type of residence"
+          },
+          {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age groups",
+                ""
+              ]
+            },
+            "title": "Age groups"
           },
           {
             "name": "Value",
@@ -4301,7 +4312,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
+                "centralized water supply",
                 "decentralized",
                 ""
               ]
@@ -4523,15 +4534,15 @@
             "title": "Year"
           },
           {
-            "name": "group_label_92",
+            "name": "Coastal regions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Overall for coastal oblasts",
+                "by coastal regions as a whole",
                 ""
               ]
             },
-            "title": "Overall for coastal oblasts"
+            "title": "Coastal regions"
           },
           {
             "name": "Value",
@@ -4644,9 +4655,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
-                "18-34 years",
-                "35-59 years",
+                "up to 18 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -4678,7 +4689,7 @@
             "title": "Type of residence"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5170,7 +5181,7 @@
           }
         ]
       },
-      "title": "7-6-2"
+      "title": "Share of persons living in households and suffering from insufficient funds to maintain a sufficiently warm temperature in their homes (for the purchase of fuel, heater, etc.) during the heating season, percent"
     },
     {
       "path": "16-3-2-a/data.csv",
@@ -5254,7 +5265,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
+                "centralized water supply",
                 "decentralized",
                 ""
               ]
@@ -5634,9 +5645,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
-                "18-34 years",
-                "35-59 years",
+                "up to 18 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -5656,18 +5667,6 @@
             "title": "Sex"
           },
           {
-            "name": "Households",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "households/families with children",
-                "households/families without children",
-                ""
-              ]
-            },
-            "title": "Household type"
-          },
-          {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
@@ -5678,6 +5677,18 @@
               ]
             },
             "title": "Type of residence"
+          },
+          {
+            "name": "Households_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "households with children",
+                "households without children",
+                ""
+              ]
+            },
+            "title": "Household type"
           },
           {
             "name": "Value",
@@ -5952,9 +5963,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
-                "18-34 years",
-                "35-59 years",
+                "up to 18 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -5986,12 +5997,12 @@
             "title": "Type of residence"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "households with children",
+                "households without children",
                 ""
               ]
             },
@@ -6249,7 +6260,7 @@
           }
         ]
       },
-      "title": "7-7-1"
+      "title": "Share of households receiving subsidies for housing and communal services (apartment building management service, natural gas supply and distribution services, electricity supply and distribution services, heat supply, hot water supply, centralized water supply, centralized water drainage, household waste management), percent"
     },
     {
       "path": "5-6-5/data.csv",
@@ -7387,8 +7398,8 @@
             "constraints": {
               "enum": [
                 "under 18 years old",
-                "18-34 years",
-                "35-59 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -7653,7 +7664,7 @@
                 "sawmilling and planing of wood",
                 "manufacture of veneer sheets and wood-based panels",
                 "manufacture of assembled parquet floors",
-                "manufacture of other builders' carpentry and joinery",
+                "manufacture of other builders\\' carpentry and joinery",
                 "manufacture of wooden containers",
                 "manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",
                 "manufacture of pulp",
@@ -8159,7 +8170,7 @@
                 ""
               ]
             },
-            "title": "by types of economic activity"
+            "title": "Types of economic activity"
           },
           {
             "name": "Organisation and legal forms",
@@ -9048,7 +9059,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -9209,33 +9220,33 @@
             "title": "Year"
           },
           {
-            "name": "Sphere",
+            "name": "Spheres",
             "type": "string",
             "constraints": {
               "enum": [
-                "energy water utilities",
-                "transport_infrastructure",
-                "healthcare",
+                "production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",
+                "construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",
+                "health care",
                 "tourism, leisure, recreation, culture and sport",
                 "waste management, except collection and transportation",
                 "others",
                 ""
               ]
             },
-            "title": "Sphere"
+            "title": "Spheres"
           },
           {
-            "name": "Status",
+            "name": "Status_1",
             "type": "string",
             "constraints": {
               "enum": [
                 "implemented",
-                "not_implemented",
+                "not implemented",
                 "suspended due to the armed aggression of the russian federation",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Status of execution"
           },
           {
             "name": "Region",
@@ -9268,7 +9279,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -9381,7 +9392,7 @@
           }
         ]
       },
-      "title": "7-6-1"
+      "title": "Share of persons living in households and suffering from insufficient funds for timely and full payment of housing and communal services and for the purchase of liquefied gas, solid and liquid domestic heating fuel, percent"
     },
     {
       "path": "10-1-1-a/data.csv",
@@ -9903,9 +9914,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
-                "18-34 years",
-                "35-59 years",
+                "up to 18 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -9937,12 +9948,12 @@
             "title": "Type of residence"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "households with children",
+                "households without children",
                 ""
               ]
             },
@@ -10748,14 +10759,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zakarpattia Oblast",
-                "Ivano-Frankivsk Oblast",
-                "Lviv Oblast",
-                "Chernivtsi Oblast",
+                "Zakarpattya region",
+                "Ivano-Frankivsk region",
+                "Lviv region",
+                "Chernivtsi region",
                 ""
               ]
             },
-            "title": "Mountain region"
+            "title": "Mountainous region"
           },
           {
             "name": "Value",
@@ -10898,14 +10909,15 @@
             "title": "Year"
           },
           {
-            "name": "by reasons",
-            "type": "number",
+            "name": "reasons_ land",
+            "type": "string",
             "constraints": {
               "enum": [
+                "reasons",
                 ""
               ]
             },
-            "title": "by reasons"
+            "title": "Reasons of land returned to cultivation"
           },
           {
             "name": "Value",
@@ -11031,7 +11043,7 @@
           }
         ]
       },
-      "title": "7-5-9"
+      "title": "Level of equipping buildings with commercial metering units by types, percent: heat energy (in residential buildings; in non-residential buildings); hot water (in residential buildings; in non-residential buildings); drinking water (in residential buildings; in non-residential buildings) "
     },
     {
       "path": "4-3-2/data.csv",
@@ -11800,7 +11812,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -11936,7 +11948,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "men 18–35 years ",
+                "men 18–35 years",
                 "men 36–59 years",
                 "men 60 years and older",
                 "women 18–35 years",
@@ -12231,16 +12243,16 @@
             "title": "Year"
           },
           {
-            "name": "SupplyType",
+            "name": "SupplyType_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
-                "non_centralized",
+                "centralized water supply",
+                "non-centralized water supply",
                 ""
               ]
             },
-            "title": "Type of water supply"
+            "title": "Methods of supplying drinking water"
           },
           {
             "name": "Type of residence",
@@ -12812,25 +12824,25 @@
             "constraints": {
               "enum": [
                 "Azov turbot",
-                "Artemia salina (brine shrimp)",
+                "Artemia salina (crustaceans)",
                 "Artemia salina (eggs)",
-                "Goby fish",
+                "Gobies",
                 "Gammarids",
-                "Flounder (glossa)",
-                "Eelgrass (Zostera)",
+                "Glossa",
+                "Zostera",
                 "Shrimp",
-                "Noah's ark shell (Scapharca)",
+                "Cuniarca (scafarka)",
                 "Bream",
                 "Mussel",
-                "Bloodworm (chironomid larvae)",
+                "Motil (chironomid larvae)",
                 "Black Sea herring",
-                "So-iuy mullet (pilengas)",
-                "Roach",
+                "Pilengas",
+                "Gossip",
                 "Rapana",
-                "Nase",
-                "Zander (pike-perch)",
-                "Common sprat",
-                "Anchovy (Azov)",
+                "Rybets",
+                "Common pikeperch",
+                "Common tulka",
+                "Azov hamsa",
                 ""
               ]
             },
@@ -12841,28 +12853,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sand smelt (Atherina)",
-                "Red mullet",
-                "Goby fish",
+                "Sandy atherina",
+                "Barbula",
+                "Gobies",
                 "Gammarids",
-                "Flounder (glossa)",
-                "Black Sea garfish",
+                "Glossa",
+                "Gostronis",
                 "Black Sea sprat",
                 "Shrimp",
-                "Flathead grey mullet (loban)",
-                "Whiting",
+                "loban",
+                "Merlang",
                 "Mussel",
-                "Thornback ray",
-                "Common stingray",
+                "Sea fox",
+                "Sea cat",
                 "Black Sea herring",
-                "So-iuy mullet (pilengas)",
+                "Pilengas",
                 "Rapana",
-                "Garfish",
-                "Golden grey mullet (singil)",
+                "Common sargan",
+                "Singil",
                 "Horse mackerel",
-                "Common sprat",
-                "Anchovy (Black Sea)",
-                "Cystoseira",
+                "Common tulka",
+                "Black Sea hamsa",
+                "Cystosira",
                 "Black Sea turbot",
                 ""
               ]
@@ -12874,120 +12886,120 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sand smelt (Atherina)",
-                "group_label_138",
-                "group_label_139",
-                "group_label_140",
-                "group_label_141",
-                "group_label_142",
-                "group_label_143",
-                "group_label_144",
+                "Sandy atherina",
+                "Gobies (except for species listed in the Red Book of Ukraine)",
+                "Common whiteness",
+                "Common rudd",
+                "European chub",
+                "Silver crucian carp",
+                "Redfin",
+                "Tench fish",
                 "Bream",
-                "group_label_145",
-                "group_label_146",
+                "Common perch",
+                "Sun perch",
                 "Black Sea herring",
-                "So-iuy mullet (pilengas)",
-                "group_label_147",
-                "group_label_148",
-                "group_label_149",
-                "group_label_150",
-                "group_label_151",
-                "group_label_152",
-                "group_label_153",
-                "Zander (pike-perch)",
-                "group_label_154",
-                "Common sprat",
-                "Anchovy (Black Sea)",
-                "group_label_155",
-                "group_label_156",
+                "Pilengas",
+                "Flatfish",
+                "Buzanok",
+                "Narrow-toed crayfish",
+                "Common carp",
+                "Herbivorous fish (white, variegated silver carp, their hybrid, white grass carp)",
+                "Sazan",
+                "European catfish",
+                "Common pikeperch",
+                "Taranya (common gossip)",
+                "Common tulka",
+                "Black Sea hamsa",
+                "Chekhonia",
+                "Common pike",
                 ""
               ]
             },
-            "title": "Dnipro–Buh estuarine system"
+            "title": "Dnieper–Bug estuarine system"
           },
           {
             "name": "group_5",
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_138",
-                "group_label_139",
-                "group_label_142",
-                "group_label_143",
+                "Gobies (except for species listed in the Red Book of Ukraine)",
+                "Common whiteness",
+                "Silver crucian carp",
+                "Redfin",
                 "Bream",
-                "group_label_145",
+                "Common perch",
                 "Black Sea herring",
-                "group_label_147",
+                "Flatfish",
                 "Crayfish",
                 "Herbivorous fish (silver carp, bighead carp, their hybrid)",
-                "group_label_152",
-                "group_label_153",
-                "Zander (pike-perch)",
-                "group_label_154",
-                "group_label_156",
+                "Sazan",
+                "European catfish",
+                "Common pikeperch",
+                "Taranya (common gossip)",
+                "Common pike",
                 ""
               ]
             },
-            "title": "Lower Dniester with lakes and the Dniester Estuary (Liman)"
+            "title": "Lower Dniester with lakes and the Dniester Estuary"
           },
           {
             "name": "group_6",
             "type": "string",
             "constraints": {
               "enum": [
-                "European flounder (glossa)",
+                "Flounder-glossa",
                 ""
               ]
             },
-            "title": "Tuzly Lagoons group"
+            "title": "Tuzlov group of estuaries"
           },
           {
             "name": "group_7",
             "type": "string",
             "constraints": {
               "enum": [
-                "European flounder (glossa)",
+                "Flounder-glossa",
                 ""
               ]
             },
-            "title": "Budak (Shabolat) Lagoon"
+            "title": "Budatsky (Shabolatsky) estuary"
           },
           {
             "name": "group_8",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sand smelt (Atherina)",
-                "group_label_138",
-                "European flounder (glossa)",
-                "Black Sea garfish",
+                "Sandy atherina",
+                "Gobies (except for species listed in the Red Book of Ukraine)",
+                "Glos",
+                "Gostronis",
                 "Shrimp",
-                "Flathead grey mullet (loban)",
-                "So-iuy mullet (pilengas)",
-                "Golden grey mullet (singil)",
-                "Zander (pike-perch)",
+                "loban",
+                "Pilengas",
+                "Singil",
+                "Common pikeperch",
                 ""
               ]
             },
-            "title": "Berezan Estuary (Liman)"
+            "title": "Berezansky estuary"
           },
           {
             "name": "group_9",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sand smelt (Atherina)",
-                "group_label_138",
-                "European flounder (glossa)",
-                "Black Sea garfish",
+                "Sandy atherina",
+                "Gobies (except for species listed in the Red Book of Ukraine)",
+                "Glos",
+                "Gostronis",
                 "Shrimp",
-                "Flathead grey mullet (loban)",
-                "So-iuy mullet (pilengas)",
-                "Golden grey mullet (singil)",
+                "loban",
+                "Pilengas",
+                "Singil",
                 ""
               ]
             },
-            "title": "Tyligul Estuary (Liman)"
+            "title": "Tyligul estuary"
           },
           {
             "name": "Value",
@@ -13014,44 +13026,6 @@
             "title": "Year"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukraine",
-                "Autonomous Republic of Crimea",
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
-                "the city of Kyiv",
-                "city Sevastopol",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "group_2",
             "type": "string",
             "constraints": {
@@ -13061,7 +13035,24 @@
                 ""
               ]
             },
-            "title": "By sea"
+            "title": "Seas"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Autonomous Republic of Crimea",
+                "Donetsk",
+                "Zaporizhzhya",
+                "Mykolayiv",
+                "Odesa",
+                "Kherson",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
@@ -13532,7 +13523,7 @@
                 ""
               ]
             },
-            "title": "by land purpose"
+            "title": "Land purpose"
           },
           {
             "name": "Region",
@@ -13564,7 +13555,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -13776,7 +13767,7 @@
                 ""
               ]
             },
-            "title": "Concentration of major pollutants in seawater by substance, milligrams per cubic meter"
+            "title": "Substances"
           },
           {
             "name": "Value",
@@ -13877,21 +13868,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Phosphate phosphorus",
-                "Total phosphorus",
-                "Nitrate nitrogen",
-                "Nitrite nitrogen",
-                "Ammonium nitrogen",
-                "Dissolved mineral nitrogen",
-                "Total nitrogen",
-                "Chlorophyll-a",
-                "Transparency",
-                "Dissolved oxygen",
-                "Biochemical oxygen demand (5-day BOD)",
+                "phosphate phosphorus",
+                "total phosphorus",
+                "nitrate nitrogen",
+                "nitrite nitrogen",
+                "ammonium nitrogen",
+                "dissolved mineral nitrogen",
+                "total nitrogen",
+                "chlorophyll-a",
+                "transparency",
+                "dissolved oxygen",
+                "biochemical oxygen consumption in five days",
                 ""
               ]
             },
-            "title": "Water quality indicator (milligrams per cubic decimeter) by components, percent"
+            "title": "Components of water quality indicator"
           },
           {
             "name": "Value",
@@ -14100,12 +14091,12 @@
             "title": "Type of residence"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "households with children",
+                "households without children",
                 ""
               ]
             },
@@ -14852,7 +14843,7 @@
                 "Wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "Transportation and storage; postal and courier activities",
                 "Accommodation and food service activities",
-                "Information and telecommunications ",
+                "Information and telecommunications",
                 "Financial and insurance activities",
                 "Real estate activities",
                 "Professional, scientific and technical activities",
@@ -14897,12 +14888,12 @@
             "constraints": {
               "enum": [
                 "microbiological indicators",
-                "sanitary and chemical indicators",
+                "sanitary-chemical indicators",
                 "radiation indicators",
                 ""
               ]
             },
-            "title": "By type of indicators"
+            "title": "Types of indicators"
           },
           {
             "name": "SupplyType",
@@ -14912,11 +14903,11 @@
                 "urban water pipelines",
                 "rural water pipelines",
                 "non-centralized water supply",
-                "centralized",
+                "centralized water supply",
                 ""
               ]
             },
-            "title": "Type of water supply"
+            "title": "Types of water supply"
           },
           {
             "name": "Region",
@@ -14949,7 +14940,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -15166,7 +15157,7 @@
                 "Wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "Transportation and storage; postal and courier activities",
                 "Accommodation and food service activities",
-                "Information and telecommunications ",
+                "Information and telecommunications",
                 "Financial and insurance activities",
                 "Real estate activities",
                 "Professional, scientific and technical activities",
@@ -15403,8 +15394,8 @@
             "constraints": {
               "enum": [
                 "under 18 years old",
-                "18-34 years",
-                "35-59 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -15621,7 +15612,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -16030,12 +16021,12 @@
             "title": "Decile groups of income"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "households with children",
+                "households without children",
                 ""
               ]
             },
@@ -16158,7 +16149,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "men 18–35 years ",
+                "men 18–35 years",
                 "men 36–59 years",
                 "men 60 years and older",
                 "women 18–35 years",
@@ -16841,7 +16832,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -16902,7 +16893,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -17083,14 +17074,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zakarpattia Oblast",
-                "Ivano-Frankivsk Oblast",
-                "Lviv Oblast",
-                "Chernivtsi Oblast",
+                "Zakarpattya region",
+                "Ivano-Frankivsk region",
+                "Lviv region",
+                "Chernivtsi region",
                 ""
               ]
             },
-            "title": "Mountain region"
+            "title": "Mountainous region"
           },
           {
             "name": "Value",
@@ -18072,7 +18063,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -18156,7 +18147,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
+                "centralized water supply",
                 "decentralized",
                 ""
               ]
@@ -18482,11 +18473,23 @@
             "title": "Year"
           },
           {
+            "name": "group_10",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Polissya",
+                "Forest-steppe",
+                "Steppe",
+                ""
+              ]
+            },
+            "title": "Zones"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -18512,25 +18515,12 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "group_10",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Polissya",
-                "Forest-steppe",
-                "Steppe",
-                ""
-              ]
-            },
-            "title": "Zones"
           },
           {
             "name": "Value",
@@ -19183,7 +19173,7 @@
           }
         ]
       },
-      "title": "7-5-10"
+      "title": "Energy transparency index, points"
     },
     {
       "path": "6-1-3/data.csv",
@@ -19231,7 +19221,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -19827,7 +19817,7 @@
                 "sawmilling and planing of wood",
                 "manufacture of veneer sheets and wood-based panels",
                 "manufacture of assembled parquet floors",
-                "manufacture of other builders' carpentry and joinery",
+                "manufacture of other builders\\' carpentry and joinery",
                 "manufacture of wooden containers",
                 "manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",
                 "manufacture of pulp",
@@ -20333,7 +20323,7 @@
                 ""
               ]
             },
-            "title": "by types of economic activity"
+            "title": "Types of economic activity"
           },
           {
             "name": "Organisation and legal forms",
@@ -20700,6 +20690,78 @@
       "title": "Number of cultural and natural heritage sites included in the UNESCO World Heritage List, units"
     },
     {
+      "path": "9-6-2/data.csv",
+      "name": "9-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Share of households with fixed broadband Internet access at a speed of at least 100 Mbps, percent"
+    },
+    {
+      "path": "7-3-2/data.csv",
+      "name": "7-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Indicators of technological costs in power grids: share of technological costs of electricity in power grids (from the selection volume), percent; share of technological costs of electricity in distribution power grids (from the selection volume), percent"
+    },
+    {
+      "path": "9-1-8/data.csv",
+      "name": "9-1-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Share of innovatively active enterprises in the total number of enterprises, percent"
+    },
+    {
       "path": "7-3-4/data.csv",
       "name": "7-3-4",
       "profile": "tabular-data-resource",
@@ -21060,30 +21122,6 @@
       "title": "16-10-1"
     },
     {
-      "path": "9-6-2/data.csv",
-      "name": "9-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-6-2"
-    },
-    {
       "path": "11-1-6/data.csv",
       "name": "11-1-6",
       "profile": "tabular-data-resource",
@@ -21130,30 +21168,6 @@
         ]
       },
       "title": "12-5-2"
-    },
-    {
-      "path": "7-3-2/data.csv",
-      "name": "7-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-3-2"
     },
     {
       "path": "9-3-6/data.csv",
@@ -22162,30 +22176,6 @@
         ]
       },
       "title": "11-2-8"
-    },
-    {
-      "path": "9-1-8/data.csv",
-      "name": "9-1-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-1-8"
     },
     {
       "path": "5-2-3/data.csv",
