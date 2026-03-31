@@ -16,11 +16,67 @@
             "title": "Year"
           },
           {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15–24 years",
+                "25–29 years",
+                "30–34 years",
+                "35–39 years",
+                "40–49 years",
+                "50–59 years",
+                "60–70 years",
+                ""
+              ]
+            },
+            "title": "Age groups"
+          },
+          {
+            "name": "group_13",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "group_16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "group_31",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "full tertiary education",
+                "basic tertiary education",
+                "incomplete tertiary education",
+                "vocational and technical education",
+                "full general secondary education",
+                "basic, primary general secondary or no education",
+                ""
+              ]
+            },
+            "title": "Level of education"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -46,69 +102,12 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "group_28",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15–24 years",
-                "25–29 years",
-                "30–34 years",
-                "35–39 years",
-                "40–49 years",
-                "50–59 years",
-                "60–70 years",
-                ""
-              ]
-            },
-            "title": "Age groups"
-          },
-          {
-            "name": "group_13",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Women",
-                "Men",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "group_16",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Type of place of residence"
-          },
-          {
-            "name": "group_31",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "full tertiary education",
-                "basic tertiary education",
-                "incomplete tertiary education",
-                "vocational and technical education",
-                "full general secondary education",
-                "basic, primary general secondary or no education",
-                ""
-              ]
-            },
-            "title": "Education"
           },
           {
             "name": "Value",

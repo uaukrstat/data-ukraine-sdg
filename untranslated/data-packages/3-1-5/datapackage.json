@@ -30,14 +30,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
           },
           {
-            "name": "by type of place of registration of service providers",
+            "name": "Type of place of registration of service providers",
             "type": "string",
             "constraints": {
               "enum": [
