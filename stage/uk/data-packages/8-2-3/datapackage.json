@@ -16,11 +16,34 @@
             "title": "Рік"
           },
           {
+            "name": "group_13",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "жінки",
+                "чоловіки",
+                ""
+              ]
+            },
+            "title": "Стать"
+          },
+          {
+            "name": "group_16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "міська",
+                "сільська",
+                ""
+              ]
+            },
+            "title": "Місцевість проживання"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Україна",
                 "Автономна Республіка Крим",
                 "Вінницька",
                 "Волинська",
@@ -52,30 +75,6 @@
               ]
             },
             "title": "Область"
-          },
-          {
-            "name": "group_13",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "жінки",
-                "чоловіки",
-                ""
-              ]
-            },
-            "title": "Стать"
-          },
-          {
-            "name": "group_16",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Тип місцевості проживання"
           },
           {
             "name": "Value",
