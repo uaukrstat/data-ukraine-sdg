@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "girls",
+                "boys",
                 ""
               ]
             },
@@ -40,7 +40,7 @@
             "title": "Type of residence"
           },
           {
-            "name": "Type of educational institution",
+            "name": "School type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -51,7 +51,7 @@
                 ""
               ]
             },
-            "title": "by type of educational institution"
+            "title": "Type of educational institution"
           },
           {
             "name": "SES",
@@ -63,7 +63,7 @@
                 ""
               ]
             },
-            "title": "by socioeconomic status"
+            "title": "Socioeconomic status"
           },
           {
             "name": "Subject",
@@ -77,7 +77,7 @@
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Academic subjects"
           },
           {
             "name": "Value",
