@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "rural",
                 "urban",
+                "rural",
                 ""
               ]
             },
@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
-                "18-29 years",
-                "30-59 years",
+                "up to 18 years",
+                "18–29 years",
+                "30–59 years",
                 "60 years and older",
                 ""
               ]
@@ -83,7 +83,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]

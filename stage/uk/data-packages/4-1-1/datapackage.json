@@ -16,6 +16,30 @@
             "title": "Рік"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "дівчатка",
+                "хлопчики",
+                ""
+              ]
+            },
+            "title": "Стать"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "міська",
+                "сільська",
+                ""
+              ]
+            },
+            "title": "Місцевість проживання"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -53,32 +77,8 @@
             "title": "Область"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Жіноча",
-                "Чоловіча",
-                ""
-              ]
-            },
-            "title": "Стать"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

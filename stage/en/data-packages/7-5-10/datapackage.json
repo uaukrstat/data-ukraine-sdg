@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Authorities",
                 "Balances",
-                "Consumption",
-                "Natural Monopolies",
-                "Policy",
-                "Reliability and safety",
-                "Reporting",
+                "Natural monopolies",
                 "Supply",
+                "Reliability and safety",
+                "Consumption",
+                "Reporting",
+                "Policy",
+                "Authorities",
                 ""
               ]
             },
@@ -41,16 +41,16 @@
                 "natural gas",
                 "electric energy",
                 "oil and liquid fuels",
-                "thermal energy",
                 "thermal coal",
+                "thermal energy",
                 ""
               ]
             },
-            "title": "Fuel and energy sector"
+            "title": "Fuel and energy sectors"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
