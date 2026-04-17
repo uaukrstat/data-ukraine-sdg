@@ -191,7 +191,7 @@
           }
         ]
       },
-      "title": "Number of deaths from malignant breast tumours at the age of 30-59, per 100,000 women of appropriate age"
+      "title": "Number of deaths from malignant breast tumours at the age of 30–59, per 100,000 women of appropriate age"
     },
     {
       "path": "5-2-1-a/data.csv",
@@ -1268,12 +1268,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "women",
+                "men",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -1282,7 +1282,7 @@
           }
         ]
       },
-      "title": "Number of patients diagnosted with HIV for the first time, per 100,000 persons"
+      "title": "Number of patients diagnosed with HIV for the first time, per 100,000 persons"
     },
     {
       "path": "8-2-1-a/data.csv",
@@ -2075,7 +2075,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -2101,7 +2100,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -2482,11 +2481,23 @@
             "title": "Year"
           },
           {
+            "name": "group_18",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "by ministries, other central executive authorities",
+                "by regional, Kyiv city state administrations (military administrations)",
+                ""
+              ]
+            },
+            "title": "Public consultations have been held"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
+                "Public consultations held by regional, Kyiv city state administrations (military administrations), Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -2512,24 +2523,12 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "group_18",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "By ministries and other central executive bodies",
-                "By regional, Kyiv city state administrations (military administrations)",
-                ""
-              ]
-            },
-            "title": "Conducted by"
           },
           {
             "name": "Value",
@@ -3513,7 +3512,7 @@
             "title": "Type of residence"
           },
           {
-            "name": "Decile groups",
+            "name": "decile_groups_a",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3530,7 +3529,7 @@
                 ""
               ]
             },
-            "title": "Decile groups of income"
+            "title": "Decile groups"
           },
           {
             "name": "Value",
@@ -3624,7 +3623,7 @@
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
             "name": "Type of residence",
@@ -4067,7 +4066,7 @@
           }
         ]
       },
-      "title": "Number of deaths from malignant cervical tumours at the age of 30-59, per 100,000 women of appropriate age"
+      "title": "Number of deaths from malignant cervical tumours at the age of 30–59, per 100,000 women of appropriate age"
     },
     {
       "path": "3-8-1-a/data.csv",
@@ -4103,7 +4102,7 @@
           }
         ]
       },
-      "title": "Share of women who smoke at the age of 16-29, %"
+      "title": "Share of women who smoke at the age of 16–29, %"
     },
     {
       "path": "6-1-3/data.csv",
@@ -5546,7 +5545,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -5572,7 +5570,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -6380,7 +6378,7 @@
               "enum": [
                 "male",
                 "female",
-                "children",
+                "children_a",
                 ""
               ]
             },
@@ -7150,7 +7148,7 @@
           }
         ]
       },
-      "title": "Number of deaths from cerebrovascular disease at the age of 30-59, per 100,000 men of corresponding age"
+      "title": "Number of deaths from cerebrovascular disease at the age of 30–59, per 100,000 men of corresponding age"
     },
     {
       "path": "15-4-2-a/data.csv",
@@ -7206,12 +7204,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of population",
-                "Share of business representatives",
+                "share of population",
+                "share of business representatives",
                 ""
               ]
             },
-            "title": "Share of the population/business representatives who had personal experience with corruption, based on a standard survey on corruption in Ukraine conducted under the methodology approved by the National Agency on Corruption Prevention, percent"
+            "title": "Share of the population/business representatives who had personal experience with corruption, based on a standard survey on corruption in Ukraine conducted under the methodology approved by the National Agency on Corruption Prevention"
           },
           {
             "name": "Value",
@@ -8192,7 +8190,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -8218,7 +8215,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -8235,32 +8232,32 @@
                 "26–35 years",
                 "36–45 years",
                 "46–60 years",
-                "Over 60 years",
+                "over 60 years",
                 ""
               ]
             },
             "title": "Age"
           },
           {
-            "name": "Gender",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
+                "women",
                 "men",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
             "name": "group_14",
             "type": "string",
             "constraints": {
               "enum": [
-                "Individual",
-                "Sole proprietor (individual entrepreneur)",
-                "Legal entity",
+                "individual",
+                "individual entrepreneur",
+                "legal entitie",
                 ""
               ]
             },
@@ -8271,13 +8268,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "City council",
-                "Settlement council",
-                "Village council",
+                "city council",
+                "settlement council",
+                "village council",
                 ""
               ]
             },
-            "title": "Type of authority that established the ASC"
+            "title": "Type of authority that formed the Center for the provision of administrative services"
           },
           {
             "name": "Value",
@@ -8720,7 +8717,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -8746,7 +8742,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -8976,7 +8972,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -9002,7 +8997,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -9404,7 +9399,7 @@
           }
         ]
       },
-      "title": "Share of men who smoke at the age of 16-29, %"
+      "title": "Share of men who smoke at the age of 16–29, %"
     },
     {
       "path": "11-6-2/data.csv",
@@ -9616,7 +9611,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -9642,7 +9636,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -9667,19 +9661,19 @@
             "title": "Age"
           },
           {
-            "name": "Gender",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
+                "women",
                 "men",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
-            "name": "group_16",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10512,7 +10506,7 @@
           }
         ]
       },
-      "title": "Probability of dying at the age of 20-64, men"
+      "title": "Probability of dying at the age of 20–64, men"
     },
     {
       "path": "5-2-4-a/data.csv",
@@ -11255,7 +11249,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -11281,7 +11274,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -11289,15 +11282,15 @@
             "title": "Region"
           },
           {
-            "name": "group_label_229",
+            "name": "disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "By disability criterion",
+                "by disability criterion",
                 ""
               ]
             },
-            "title": "By disability criterion"
+            "title": "Disability criterion"
           },
           {
             "name": "Value",
@@ -12472,7 +12465,7 @@
           }
         ]
       },
-      "title": "Number of patients diagnosted with active tuberculosis for the first time, per 100,000 persons"
+      "title": "Number of patients diagnosed with active tuberculosis for the first time, per 100,000 persons"
     },
     {
       "path": "12-1-3/data.csv",
@@ -14017,7 +14010,7 @@
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -14393,7 +14386,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -14419,7 +14411,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -15186,7 +15178,7 @@
           }
         ]
       },
-      "title": "Number of deaths from cerebrovascular disease at the age of 30-59, per 100,000 women of corresponding age"
+      "title": "Number of deaths from cerebrovascular disease at the age of 30–59, per 100,000 women of corresponding age"
     },
     {
       "path": "4-7-2-a/data.csv",
@@ -15362,7 +15354,7 @@
             "constraints": {
               "enum": [
                 "general secondary educational institution",
-                "gymnasium",
+                "gymnasium / lyceum",
                 "specialized school",
                 ""
               ]
@@ -15567,7 +15559,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -15593,7 +15584,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -15795,11 +15786,108 @@
             "title": "Year"
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "men 18–35 years",
+                "men 36–59 years",
+                "men 60 years and older",
+                "women 18–35 years",
+                "women 36–59 years",
+                "women 60 years and older",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "large cities (population 500,000 or more)",
+                "cities (population 50,000–500,000)",
+                "small cities (population less than 50,000)",
+                "rural areas",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "23_educ_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "primary education",
+                "secondary education",
+                "secondary vocational education",
+                "tertiary education",
+                ""
+              ]
+            },
+            "title": "Level of education"
+          },
+          {
+            "name": "group_20_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "full/part-time",
+                "housekeeping or maternity leave",
+                "pensioners",
+                "students",
+                "unemployed",
+                ""
+              ]
+            },
+            "title": "Employment status"
+          },
+          {
+            "name": "group_21_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "not enough money for food",
+                "enough for food, but not enough for clothes",
+                "enough for clothes, but not enough for expensive goods",
+                "enough money for expensive goods",
+                ""
+              ]
+            },
+            "title": "Level of income"
+          },
+          {
+            "name": "group_22",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "internally displaced persons (IDPs)",
+                "persons who returned",
+                "persons who did not leave",
+                ""
+              ]
+            },
+            "title": "Displacement status"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -15825,110 +15913,12 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "men 18–35 years",
-                "men 36–59 years",
-                "men 60 years and older",
-                "women 18–35 years",
-                "women 36–59 years",
-                "women 60 years and older",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "females",
-                "men",
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "group_16",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "large cities (population 500,000 or more)",
-                "cities (population 50,000–500,000)",
-                "small cities (population less than 50,000)",
-                "rural areas",
-                ""
-              ]
-            },
-            "title": "Type of residence"
-          },
-          {
-            "name": "23_educ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary education",
-                "Secondary education",
-                "Secondary vocational education",
-                "tertiary education",
-                ""
-              ]
-            },
-            "title": "education"
-          },
-          {
-            "name": "group_20",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Full/part-time employment",
-                "Housekeeping or maternity leave",
-                "Pensioners",
-                "Students",
-                "Unemployed",
-                ""
-              ]
-            },
-            "title": "Employment status"
-          },
-          {
-            "name": "group_21",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Not enough money for food",
-                "Enough for food, but not enough for clothing",
-                "Enough for clothing, but not enough for expensive goods",
-                "Enough money for expensive goods",
-                ""
-              ]
-            },
-            "title": "Income level"
-          },
-          {
-            "name": "group_22",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Internally displaced persons (IDPs)",
-                "Returnees",
-                "People who did not leave",
-                ""
-              ]
-            },
-            "title": "Displacement status"
           },
           {
             "name": "Value",
@@ -16082,7 +16072,7 @@
           }
         ]
       },
-      "title": "Probability of dying at the age of 20-64, women"
+      "title": "Probability of dying at the age of 20–64, women"
     },
     {
       "path": "6-1-4-a/data.csv",
@@ -16277,7 +16267,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -16340,7 +16330,7 @@
           }
         ]
       },
-      "title": "Share of food industry and agricultural raw materials processing production in exports of Ukrainian Classifier of Goods for Foreign Economic Activity groups 1-24, %"
+      "title": "Share of food industry and agricultural raw materials processing production in exports of Ukrainian Classifier of Goods for Foreign Economic Activity groups 1–24, %"
     },
     {
       "path": "6-2-1/data.csv",
@@ -16859,7 +16849,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -16885,7 +16874,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -17340,7 +17329,7 @@
             "title": "The consumer price index for food. %"
           },
           {
-            "name": "by main product groups",
+            "name": "by_main_product_groups_a",
             "type": "string",
             "constraints": {
               "enum": [
@@ -17356,7 +17345,7 @@
                 ""
               ]
             },
-            "title": "Type of product"
+            "title": "Main product groups"
           },
           {
             "name": "Value",
@@ -17539,11 +17528,108 @@
             "title": "Year"
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "men 18–35 years",
+                "men 36–59 years",
+                "men 60 years and older",
+                "women 18–35 years",
+                "women 36–59 years",
+                "women 60 years and older",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "large cities (population 500,000 or more)",
+                "cities (population 50,000–500,000)",
+                "small cities (population less than 50,000)",
+                "rural areas",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "23_educ_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "primary education",
+                "secondary education",
+                "secondary vocational education",
+                "tertiary education",
+                ""
+              ]
+            },
+            "title": "Level of education"
+          },
+          {
+            "name": "group_20_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "full/part-time",
+                "housekeeping or maternity leave",
+                "pensioners",
+                "students",
+                "unemployed",
+                ""
+              ]
+            },
+            "title": "Employment status"
+          },
+          {
+            "name": "group_21_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "not enough money for food",
+                "enough for food, but not enough for clothes",
+                "enough for clothes, but not enough for expensive goods",
+                "enough money for expensive goods",
+                ""
+              ]
+            },
+            "title": "Level of income"
+          },
+          {
+            "name": "group_22",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "internally displaced persons (IDPs)",
+                "persons who returned",
+                "persons who did not leave",
+                ""
+              ]
+            },
+            "title": "Displacement status"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -17569,110 +17655,12 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "men 18–35 years",
-                "men 36–59 years",
-                "men 60 years and older",
-                "women 18–35 years",
-                "women 36–59 years",
-                "women 60 years and older",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "females",
-                "men",
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "group_16",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "large cities (population 500,000 or more)",
-                "cities (population 50,000–500,000)",
-                "small cities (population less than 50,000)",
-                "rural areas",
-                ""
-              ]
-            },
-            "title": "Type of residence"
-          },
-          {
-            "name": "23_educ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary education",
-                "Secondary education",
-                "Secondary vocational education",
-                "tertiary education",
-                ""
-              ]
-            },
-            "title": "education"
-          },
-          {
-            "name": "group_20",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Full/part-time employment",
-                "Housekeeping or maternity leave",
-                "Pensioners",
-                "Students",
-                "Unemployed",
-                ""
-              ]
-            },
-            "title": "Employment status"
-          },
-          {
-            "name": "group_21",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Not enough money for food",
-                "Enough for food, but not enough for clothing",
-                "Enough for clothing, but not enough for expensive goods",
-                "Enough money for expensive goods",
-                ""
-              ]
-            },
-            "title": "Income level"
-          },
-          {
-            "name": "group_22",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Internally displaced persons (IDPs)",
-                "Returnees",
-                "People who did not leave",
-                ""
-              ]
-            },
-            "title": "Displacement status"
           },
           {
             "name": "Value",
@@ -19036,48 +19024,6 @@
             "title": "Year"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukraine",
-                "Autonomous Republic of Crimea",
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
-                "the city of Kyiv",
-                "city Sevastopol",
-                "Center",
-                "East",
-                "South",
-                "West",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Age",
             "type": "string",
             "constraints": {
@@ -19091,19 +19037,19 @@
             "title": "Age"
           },
           {
-            "name": "Gender",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "men",
-                "females",
+                "women",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
-            "name": "group_16",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -19116,7 +19062,7 @@
             "title": "Type of residence"
           },
           {
-            "name": "group_21",
+            "name": "group_21_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -19126,7 +19072,22 @@
                 ""
               ]
             },
-            "title": "Income level"
+            "title": "Level of income"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "West",
+                "Center",
+                "South",
+                "East",
+                "city Kyiv",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
@@ -19742,7 +19703,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "up to 18 years",
                 "18–34 years",
                 "35–59 years",
                 "60 years and older",
@@ -19768,12 +19729,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "households with children",
+                "households without children",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Households"
           },
           {
             "name": "Value",
@@ -20463,7 +20424,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "up to 18 years",
                 "18–34 years",
                 "35–59 years",
                 "60 years and older",
@@ -20489,12 +20450,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "households with children",
+                "households without children",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Households"
           },
           {
             "name": "Value",
@@ -20525,7 +20486,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "up to 18 years",
                 "18-35 years",
                 "36-60 years",
                 "61 years and older",
@@ -20639,6 +20600,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "group_31",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Level of education",
+                ""
+              ]
+            },
+            "title": "Level of education"
           },
           {
             "name": "Sex",
@@ -20769,7 +20741,108 @@
             "title": "Year"
           },
           {
-            "name": "Region",
+            "name": "group_label_230",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Including who have applied to a single contact number of the free legal aid system 0-800-213-103 2",
+                ""
+              ]
+            },
+            "title": "Including who have applied to a single contact number of the free legal aid system 0-800-213-103 2"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "up to 18 years",
+                "18–35 years",
+                "36–60 years",
+                "61 years and older",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "men",
+                "women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "group_label_322",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of registered client requests for free legal assistance",
+                ""
+              ]
+            },
+            "title": "Number of registered client requests for free legal assistance"
+          },
+          {
+            "name": "group_24",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "primary legal aid",
+                "secondary legal aid",
+                ""
+              ]
+            },
+            "title": "Type of legal aid"
+          },
+          {
+            "name": "group_25",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "social security",
+                "inheritance law",
+                "family law",
+                "medical law",
+                "labor law",
+                "administrative law and administrative process",
+                "land law",
+                "contract law",
+                "housing law",
+                "civil law and civil process",
+                "enforcement of court decisions",
+                "non-legal issue",
+                "other",
+                "criminal law and criminal process",
+                "pension law",
+                "tax law",
+                "election law",
+                "economic law",
+                "issues related to armed aggression",
+                ""
+              ]
+            },
+            "title": "Category of questions for which the person is applying"
+          },
+          {
+            "name": "group_label_323",
             "type": "string",
             "constraints": {
               "enum": [
@@ -20798,103 +20871,12 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "group_label_230",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of registered client requests for free legal assistance",
-                "including who have applied to a single contact number of the free legal aid system 0-800-213-103 2",
-                ""
-              ]
-            },
-            "title": "including who have applied to a single contact number of the free legal aid system 0-800-213-103 2"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "under 18 years old",
-                "18–35 years",
-                "36–60 years",
-                "61 years and older",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "men",
-                "females",
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "group_16",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Type of residence"
-          },
-          {
-            "name": "group_24",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary legal aid",
-                "Secondary legal aid",
-                ""
-              ]
-            },
-            "title": "Type of legal aid"
-          },
-          {
-            "name": "group_25",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Social security",
-                "Inheritance law",
-                "Family law",
-                "Medical law",
-                "Labor law",
-                "Administrative law and administrative procedure",
-                "Land law",
-                "Contract law",
-                "Housing law",
-                "Civil law and civil procedure",
-                "Enforcement of court decisions",
-                "Non-legal issue",
-                "Other",
-                "Criminal law and criminal procedure",
-                "Pension law",
-                "Tax law",
-                "Electoral law",
-                "Commercial law",
-                "Issues related to armed aggression",
-                ""
-              ]
-            },
-            "title": "Category of issues"
+            "title": "Number of registered client requests for free legal assistance by regions"
           },
           {
             "name": "Value",
@@ -20994,7 +20976,7 @@
           }
         ]
       },
-      "title": "Share of operating enterprises that belong to production using technologies of high level in the total number of operating enterprises of the processing industry, percent"
+      "title": "Share of gross value added of the processing industry in the gross domestic product, percent"
     },
     {
       "path": "9-1-2/data.csv",
@@ -21032,7 +21014,7 @@
                 "Water supply; sewerage, waste management and remediation activities (Code NACE Rev.2 – E)",
                 "Water collection, treatment and supply; sewerage (Code NACE Rev.2 – 36+37)",
                 "Waste collection, treatment and disposal activities; materials recovery, other waste management activities (Code NACE Rev.2 – 38+39)",
-                "Wholesale trade, except of motor vehicles and motorcycles, transportation and storage, postal and courier activities, information and telecommunications, financial and insurance activities, architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research (Code NACE Rev.2 – 46+H+J+K+71+72+73)",
+                "Wholesale trade, except of motor vehicles and motorcycles, transportation and storage, postal and courier activities, information and and telecommunications, financial and insurance activities, architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research (Code NACE Rev.2 – 46+H+J+K+71+72+73)",
                 "Wholesale trade, except of motor vehicles and motorcycles (Code NACE Rev.2 – 46)",
                 "Transportation and storage, postal and courier activities (Code NACE Rev.2 – H)",
                 "Land transport and transport via pipelines, water transport, air transport (Code NACE Rev.2 – 49+50+51)",
@@ -21176,7 +21158,7 @@
             "title": "Type of residence"
           },
           {
-            "name": "Decile groups",
+            "name": "decile_groups",
             "type": "string",
             "constraints": {
               "enum": [
@@ -21300,30 +21282,6 @@
         ]
       },
       "title": "9-5-1-a"
-    },
-    {
-      "path": "9-1-8/data.csv",
-      "name": "9-1-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Share of innovatively active enterprises in the total number of enterprises, percent"
     },
     {
       "path": "15-6-1/data.csv",
@@ -21804,6 +21762,30 @@
         ]
       },
       "title": "5-2-3"
+    },
+    {
+      "path": "9-1-8/data.csv",
+      "name": "9-1-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-1-8"
     },
     {
       "path": "11-2-2/data.csv",
