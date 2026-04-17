@@ -15,11 +15,101 @@
             "type": "integer"
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_203",
+                "group_label_204",
+                "group_label_205",
+                "group_label_206",
+                "group_label_207",
+                "group_label_208",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females_1",
+                "males_1",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_209",
+                "group_label_210",
+                "group_label_211",
+                "group_label_212",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "23_educ_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_213",
+                "group_label_214",
+                "group_label_215",
+                "tertiary_education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_20_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_217",
+                "group_label_218",
+                "group_label_219",
+                "group_label_220",
+                "group_label_221",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_21_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_222",
+                "group_label_223",
+                "group_label_224",
+                "group_label_225",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_22",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_226",
+                "group_label_227",
+                "group_label_228",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
@@ -45,99 +135,8 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "group_label_203",
-                "group_label_204",
-                "group_label_205",
-                "group_label_206",
-                "group_label_207",
-                "group_label_208",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2_females",
-                "males",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "group_16",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "group_label_209",
-                "group_label_210",
-                "group_label_211",
-                "group_label_212",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "23_educ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "group_label_213",
-                "group_label_214",
-                "group_label_215",
-                "tertiary_education",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "group_20",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "group_label_217",
-                "group_label_218",
-                "group_label_219",
-                "group_label_220",
-                "group_label_221",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "group_21",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "group_label_222",
-                "group_label_223",
-                "group_label_224",
-                "group_label_225",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "group_22",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "group_label_226",
-                "group_label_227",
-                "group_label_228",
                 ""
               ]
             }
