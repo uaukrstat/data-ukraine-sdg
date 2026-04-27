@@ -128,7 +128,7 @@
                 "sawmilling and planing of wood",
                 "manufacture of veneer sheets and wood-based panels",
                 "manufacture of assembled parquet floors",
-                "manufacture of other builders\\' carpentry and joinery",
+                "manufacture of other builders' carpentry and joinery",
                 "manufacture of wooden containers",
                 "manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",
                 "manufacture of pulp",
@@ -670,22 +670,22 @@
                 "Cooperative",
                 "Production cooperative",
                 "Serve cooperative",
-                "Housing construction cooperativ",
-                "Garage cooperativ",
-                "Consumer cooperativ",
+                "Housing construction cooperative",
+                "Garage cooperative",
+                "Consumer cooperative",
                 "Consumer partnership",
-                "Agriculture and production cooperativ",
-                "Agriculture and serve cooperativ",
-                "Agriculture cooperativ",
+                "Agriculture and production cooperative",
+                "Agriculture and serve cooperative",
+                "Agriculture cooperative",
                 "Organisation (establishment institution)",
                 "Authority of state power organization (establishment institution)",
                 "Authority of state power",
                 "Courts",
                 "Authority of municipality power",
-                "State-run organisation (establishment institution)",
-                "Communal (establishment institution)",
-                "Private (establishment institution)",
-                "Organisation (establishment institution) public association",
+                "State-run organisation (establishment, institution)",
+                "Communal (establishment, institution)",
+                "Private (establishment, institution)",
+                "Organisation (establishment, institution) public association",
                 "Organization of tenants",
                 "Organization of customers",
                 "Association",
@@ -718,7 +718,7 @@
                 ""
               ]
             },
-            "title": "by the organisational and legal forms"
+            "title": "Organisational and legal forms"
           },
           {
             "name": "Region",
@@ -750,7 +750,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -759,7 +759,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
