@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Verkhovna Rada of the Autonomous Republic of Crimea",
                 "regional councils",
                 "district councils",
                 "city councils (including Kyiv City council)",
@@ -29,7 +30,7 @@
                 ""
               ]
             },
-            "title": "by level of councils"
+            "title": "Level of councils"
           },
           {
             "name": "Region",
@@ -62,7 +63,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
