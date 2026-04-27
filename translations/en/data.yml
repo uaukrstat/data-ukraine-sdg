@@ -65,7 +65,7 @@ weap_5_cold: cold weapons
 1_total: Total criminal offenses (number)
 2_per_100: Per 100 thousand population
 1_all: number of pupils, persons
-2_females: females
+2_females: women
 3_adolescents: adolescents
 4_young: young (under 14)
 1_art_all: total number of victims of criminal offenses, Аrt. of CCU
@@ -235,9 +235,9 @@ age_18_new: up to 18 years
 age_18_35: 18–35 years
 age_36_60: 36–60 years
 age_1_18_35: 18-35 years
-age_2_36_60: 36-60 years
-age_2_61_64: 61-64 years
-age_2_65_70: 65-70 years
+age_2_36_60: 36–60 years
+age_2_61_64: 61–64 years
+age_2_65_70: 65–70 years
 under_35: under 35 years
 age_3_61: 61 years and older
 age_16_17: 16–17 years
@@ -254,7 +254,7 @@ group_label_186: 36–59 years
 group_label_187: 60–74 years
 group_label_188: 75 years and older
 age_14_30: 14–30 years
-age_15_17: 15-17 years
+age_15_17: 15–17 years
 age_18_24: 18–24 years
 age_18_29: 18–29 years
 age_18_39: 18–39 years
@@ -297,7 +297,7 @@ mal: men
 femal: women
 women: women
 men: men
-CouncilLevel: by level of councils
+CouncilLevel: Level of councils
 regional_councils: regional councils
 district_councils: district councils
 city_councils: city councils (including Kyiv City council)
@@ -306,7 +306,7 @@ settlement_councils: settlement councils
 village_councils: village councils
 Level: Levels of academic achievement
 Level_ed: Level of education
-1_level: 1st_level (basic, 0-3 points)
+1_level: 1st level (basic, 0-3 points)
 2_level: 2nd level (intermediate, 4-6 points)
 3_level: 3rd level (adequate, 7-9 points)
 4_level: 4th level (high, 10-12 points)
@@ -587,7 +587,7 @@ edu_master: master
 edu_doctor_of_philosophy: doctor of philosophy
 girls: girls
 boys: boys
-CourtLevel: Ratio of women to men among
+CourtLevel: Ratio of women to men among judges
 local_courts: local courts
 appellate_courts: appellate courts
 higher_specialized_courts: higher specialized courts
@@ -621,22 +621,22 @@ law_office: Law office
 cooperative: Cooperative
 production_cooperative: Production cooperative
 serve_cooperative: Serve cooperative
-housing_construction_cooperativ: Housing construction cooperativ
-garage_cooperativ: Garage cooperativ
-consumer_cooperativ: Consumer cooperativ
+housing_construction_cooperativ: Housing construction cooperative
+garage_cooperativ: Garage cooperative
+consumer_cooperativ: Consumer cooperative
 consumer_partnership: Consumer partnership
-agriculture_and_production_cooperativ: Agriculture and production cooperativ
-agriculture_and_serve_cooperativ: Agriculture and serve cooperativ
-agriculture_cooperativ: Agriculture cooperativ
+agriculture_and_production_cooperativ: Agriculture and production cooperative
+agriculture_and_serve_cooperativ: Agriculture and serve cooperative
+agriculture_cooperativ: Agriculture cooperative
 organisation_establishment_institution: Organisation (establishment institution)
 authority_of_state_power_organization: Authority of state power organization (establishment institution)
 authority_of_state_power: Authority of state power
 courts: Courts
 authority_of_municipality_power: Authority of municipality power
-state-run_organisation: State-run organisation (establishment institution)
-communal_establishment_institution: Communal (establishment institution)
-private_establishment_institution: Private (establishment institution)
-organisation_establishment_institution_public_association: Organisation (establishment institution) public association
+state-run_organisation: State-run organisation (establishment, institution)
+communal_establishment_institution: Communal (establishment, institution)
+private_establishment_institution: Private (establishment, institution)
+organisation_establishment_institution_public_association: Organisation (establishment, institution) public association
 organization_of_tenants: Organization of tenants
 organization_of_customers: Organization of customers
 association: Association
@@ -774,7 +774,7 @@ A105: manufacture of footwear
 A106: sawmilling and planing of wood
 A107: manufacture of veneer sheets and wood-based panels
 A108: manufacture of assembled parquet floors
-A109: manufacture of other builders\' carpentry and joinery
+A109: manufacture of other builders' carpentry and joinery
 A110: manufacture of wooden containers
 A111: manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials
 A112: manufacture of pulp
@@ -1281,7 +1281,7 @@ volume_of_waste_per_person: Volume of generated waste per person, kilograms
 hazardous_waste: hazardous waste
 non_hazardous_waste: non-hazardous waste
 By safety: Safety
-Organisation and legal forms: by the organisational and legal forms
+Organisation and legal forms: Organisational and legal forms
 Type of economic activity: Types of economic activity
 accounting_bookkeeping_and_auditing_activities_tax_consultancy: accounting, bookkeeping and auditing activities; tax consultancy
 activities_in_the_field_of_compulsory_social_insurance: activities in the field of compulsory social insurance
@@ -1919,7 +1919,7 @@ radiation: radiation indicators
 SupplyType: Types of water supply
 urban_pipelines: urban water pipelines
 rural_pipelines: rural water pipelines
-centralized_1: centralized water supply
+centralized_1: centralized
 non_centralized_1: non-centralized water supply
 energy_intensity_of_the_gross_domestic_product: energy intensity of the gross domestic product
 material_intensity_of_the_gross_domestic_product: material intensity of the gross domestic product
@@ -2308,7 +2308,7 @@ B105: manufacture of footwear
 B106: sawmilling and planing of wood
 B107: manufacture of veneer sheets and wood-based panels
 B108: manufacture of assembled parquet floors
-B109: manufacture of other builders\' carpentry and joinery
+B109: manufacture of other builders’ carpentry and joinery
 B110: manufacture of wooden containers
 B111: manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials
 B112: manufacture of pulp
@@ -2347,7 +2347,7 @@ B144: manufacture of rubber tyres and tubes; retreading and rebuilding of rubber
 B145: manufacture of other rubber products
 B146: manufacture of plastic plates, sheets, tubes and profiles
 B147: manufacture of plastic packing goods
-B148: manufacture of buildersТ ware of plastic
+B148: manufacture of builders’ ware of plastic
 B149: manufacture of other plastic products
 B150: manufacture of flat glass
 B151: shaping and processing of flat glass
@@ -2813,8 +2813,8 @@ B610: activities of households as producers of services for own consumption
 B611: activities of extraterritorial organizations and bodies
 Number of employees: Number of employees
 up_to_9: up to 9 persons
-employees_10_49: 10-49 persons
-employees_50_249: 50-249 persons
+employees_10_49: 10–49 persons
+employees_50_249: 50–249 persons
 employees_250_plus: 250 persons or more
 by main product groups: Type of product
 by_main_product_groups_a: Main product groups
@@ -2945,8 +2945,10 @@ accommodation_and_food_service: Accommodation and food service activities
 administrative_and_support_service: Administrative and support service activities
 agriculture_forestry_and_fishing: Agriculture, forestry and fishing
 arts_sports_entertainment_recreation: Arts, sports, entertainment and recreation
-construction: Construction
-education: Education
+construction: construction
+construction_1: Construction
+education: education
+education_1: Education
 electricity_gas_steam_air_conditioning_supply: Electricity, gas, steam and air conditioning supply
 financial_and_insurance: Financial and insurance activities
 household_activities: Household activities
@@ -3076,7 +3078,7 @@ barley: barley
 wheat: wheat
 reasons_ land: Reasons of land returned to cultivation
 reasons_1: reasons
-centralized: centralized water supply
+centralized: centralized
 SupplyType_1: Methods of supplying drinking water
 Centralized_1: centralized water supply
 Non-centralized_1: non-centralized water supply
@@ -3220,7 +3222,7 @@ Settlement: Settlement
 city: city
 
 17_sugar_a: sugar
-1_all_a: number of pupils, persons
+1_all_a: all
 age_15_a: up to 15 years
 age_15_17_a: 15-17 years
 age_18_24_a: 18–24 years
@@ -3235,7 +3237,8 @@ age_vac_7_adult_a: adults
 aged_15_a: 15 years
 aged_16_a: 16 years
 aged_17_a: 17 years
-centralized_a: centralized water supply
+centralized_a: centralized
+children_a: children
 dg_01_a: 1st group (low income)
 dg_02_a: 2nd group
 dg_03_a: 3rd group
@@ -3268,3 +3271,35 @@ urban_a: urban
 zone_1_polis_a: Polissya
 zone_2_fores_st_a: Forest-steppe
 zone_3_st_a: Steppe
+Decile groups: Decile groups of income
+Group: Group
+15-24 years: 15-24 years
+25-64 years: 25-64 years
+children: children
+Verkhovna_Rada: Verkhovna Rada of the Autonomous Republic of Crimea
+A08_1: growing of tropical and subtropical fruits
+A08_2: growing of citrus fruits
+A10_1: growing of of oleaginous fruits
+A424_1: space transport
+'460': computer consultancy activities
+']A500': advertising agencies
+joint-stock_company_1: Joint-stock company
+agriculture_and_serve_cooperativp: Agriculture and serve cooperative
+branch: Branch (other separate subdivision)
+self-regulatory_organizations: Self-regulatory organizations
+Chamber_of_Commerce_and_Industry: Chamber of Commerce and Industry
+Audit_Chamber_of_Ukraine: Audit Chamber of Ukraine
+Type of water supply: Type of water supply
+decentralized: decentralized
+
+Bgriculture_and_production_cooperativ: Agriculture and production cooperative
+Bgriculture_and_serve_cooperativ: Agriculture and serve cooperative
+Bgriculture_cooperativ: Agriculture cooperative
+Buthority_of_state_power_organization: Communal (establishment, institution)
+Buthority_of_state_power: Authority of state power
+Buthority_of_municipality_power: Authority of municipality power
+Buthority_of_advocacy_self-government: Authority of advocacy self-government
+Buthority_of_judge_self-government: Authority of judge self-government
+Budit_chamber_of_ukraine: Audit Chamber of Ukraine
+Bssociation: Association
+Bssociation_of_trade_unions: Association of trade unions
