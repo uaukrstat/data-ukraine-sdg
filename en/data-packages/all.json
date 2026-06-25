@@ -17421,8 +17421,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "men",
                 "women",
+                "men",
                 ""
               ]
             },
@@ -17487,6 +17487,7 @@
                 "election law",
                 "economic law",
                 "issues related to armed aggression",
+                "group_label_255_1",
                 ""
               ]
             },
