@@ -1,25 +1,25 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,"Sex, Type of residence, Households_1, Age",4
+#1-1-1,"Sex, Age, Type of residence, Households_1",4
 #1-1-1-a,"Sex, Age, Households",3
-#1-1-2,"Sex, Type of residence, Households_1, Age",4
+#1-1-2,"Sex, Age, Type of residence, Households_1",4
 #1-1-3,"Sex, Type of residence, Households_1",3
-#1-2-1,"Sex, Type of residence, Households_1, Age",4
+#1-2-1,"Sex, Age, Type of residence, Households_1",4
 #1-2-1-a,"Sex, Age, Households",3
 #1-3-1-a,"Type of residence, Sex of the head of household",2
 #1-3-2-a,"Type of residence, decile_groups_a",2
 #1-3-3,"Type of residence, Households_1, decile_groups",3
-#1-3-4,"Sex, Type of residence, Households_1, Age, Reason of disability",5
-#10-1-1,"Type of residence, Region",2
+#1-3-4,"Sex, Age, Type of residence, Households_1, Reason of disability",5
+#10-1-1,"Region, Type of residence",2
 #10-1-1-a,Type of residence,1
-#10-1-2,"Sex, Region, Age",3
+#10-1-2,"Sex, Age, Region",3
 #10-1-2-a,Type of residence,1
 #10-2-2,"Sex, Type of residence, By form of discrimination, By spheres of public relations",4
 #10-3-1,Type of residence,1
 #10-4-1,Wage replacement rate by pensions,1
 #10-4-1-a,Region,1
 #10-4-2,Sex,1
-#11-1-1,"Sex, Type of residence, Age, Category",4
-#11-2-1-a,"Unit, strategy",2
+#11-1-1,"Sex, Age, Type of residence, Category",4
+#11-2-1-a,"strategy, Unit",2
 #11-3-1-a,inherit,1
 #11-4-1,"Region, Category",2
 #11-4-2,By type of shelters,1
@@ -46,14 +46,14 @@ Indicator,Disaggregations,Number of disaggregations
 #15-4-2,group_11,1
 #15-5-1,Region,1
 #15-5-2,Region,1
-#16-1-1-a,"Article, Unit",2
-#16-1-2-a,"Group, Article, Unit",3
+#16-1-1-a,"Unit, Article",2
+#16-1-2-a,"Group, Unit, Article",3
 #16-1-3-a,"Group, Unit",2
-#16-10-5,"Sex, Region, Age, group_14, group_15",5
-#16-11-1,"Sex, Type of residence, Region, Age, group_17",5
+#16-10-5,"Sex, Age, Region, group_14, group_15",5
+#16-11-1,"Sex, Age, Region, Type of residence, group_17",5
 #16-12-1,"Region, group_18",2
-#16-13-1,"Sex, Type of residence, Region, Age, 23_educ_1, group_20_1, group_21_1, group_22",8
-#16-13-2,"Sex, Type of residence, Region, Age, 23_educ_1, group_20_1, group_21_1, group_22",8
+#16-13-1,"Sex, Age, Region, Type of residence, 23_educ_1, group_20_1, group_21_1, group_22",8
+#16-13-2,"Sex, Age, Region, Type of residence, 23_educ_1, group_20_1, group_21_1, group_22",8
 #16-2-1,Region,1
 #16-2-1-a,"Group, Unit",2
 #16-2-2,Region,1
@@ -67,15 +67,15 @@ Indicator,Disaggregations,Number of disaggregations
 #16-4-2,Region,1
 #16-5-1-a,Type_weapon,1
 #16-5-2-a,"Region, Ammunition",2
-#16-5-3-a,"Article, Unit",2
-#16-6-1,"Sex, Type of residence, Age, group_label_230, group_label_322, group_24, group_25, group_label_323",8
-#16-6-2,"Sex, Type of residence, Region, Age, group_21_1",5
+#16-5-3-a,"Unit, Article",2
+#16-6-1,"Sex, Age, Type of residence, group_label_230, group_label_322, group_24, group_25, group_label_323",8
+#16-6-2,"Sex, Age, Region, Type of residence, group_21_1",5
 #16-7-1,group_26,1
 #16-8-1-a,"Sex, Age",2
-#16-8-2-a,"Sex, Type of residence, Age",3
+#16-8-2-a,"Sex, Age, Type of residence",3
 #16-8-3-a,Region,1
 #16-8-4-a,"Unit, Organization",2
-#16-9-1-a,"Region, Age, Component, Gender",4
+#16-9-1-a,"Age, Region, Component, Gender",4
 #16-9-2,group_27,1
 #17-1-4,Volume_registered_issues,1
 #17-2-1,"Region, Spheres, Status_1",3
@@ -98,14 +98,14 @@ Indicator,Disaggregations,Number of disaggregations
 #3-1-1-a,Type of residence,1
 #3-1-2,by type of place of registration of service providers,1
 #3-1-3,Type of residence,1
-#3-1-4,"Sex, Type of residence, Age",3
+#3-1-4,"Sex, Age, Type of residence",3
 #3-1-5,"Sex, Age, Type of place of registration of service providers",3
 #3-10-1,"Sex, Type of residence",2
 #3-2-1,Cause of death,1
 #3-2-1-a,Type of residence,1
 #3-3-1-a,"Region, Gender",2
 #3-4-1-a,Region,1
-#3-4-2,"Sex, Type of residence, Age",3
+#3-4-2,"Sex, Age, Type of residence",3
 #3-4-2-a,Region,1
 #3-4-3-a,Region,1
 #3-4-4-a,Region,1
@@ -114,13 +114,13 @@ Indicator,Disaggregations,Number of disaggregations
 #3-6-1,Form of rehabilitation assistance,1
 #3-6-2-a,Mode of transport,1
 #3-7-1-a,"Age, Infectious diseases",2
-#3-8-1,"Region, Age, Infectious diseases",3
+#3-8-1,"Age, Region, Infectious diseases",3
 #3-8-1-a,Type of residence,1
 #3-8-2-a,Type of residence,1
 #3-9-1,"Sex, Type of residence",2
-#4-1-1,"Sex, Type of residence, Region",3
+#4-1-1,"Sex, Region, Type of residence",3
 #4-1-1-a,"Sex, Level, Settlement",3
-#4-2-1,"Sex, Type of residence, Region, Age",4
+#4-2-1,"Sex, Age, Region, Type of residence",4
 #4-2-1-a,Type of residence,1
 #4-2-2,"Sex, Type of residence, Subject, School type, SES",5
 #4-2-3,"Type of residence, School type",2
@@ -131,14 +131,14 @@ Indicator,Disaggregations,Number of disaggregations
 #4-4-2-a,"Sex, Age, Level_ed",3
 #4-4-3,Sources of funding,1
 #4-4-3-a,Cost_train,1
-#4-4-4,"Sex, group_28, group_31",3
+#4-4-4,"group_31, Sex, group_28",3
 #4-4-4-a,Fund,1
 #4-4-5,"Sex, Age",2
 #4-4-6,"Status, Sphere",2
 #4-4-7,"Specialty, Education Level",2
-#4-5-1,"Sex, Type of residence, group_28, Decile groups_1",4
+#4-5-1,"Sex, group_28, Type of residence, Decile groups_1",4
 #4-5-1-a,"Sex, Age",2
-#4-5-2-a,"Sex, Type of residence, Age",3
+#4-5-2-a,"Sex, Age, Type of residence",3
 #4-6-1,"Region, EducationInternetType",2
 #4-6-2,Type of residence,1
 #4-7-1,"Sex, Type of residence",2
@@ -147,14 +147,14 @@ Indicator,Disaggregations,Number of disaggregations
 #4-7-3-a,Type of residence,1
 #4-8-1,Sex,1
 #5-2-2-a,Group,1
-#5-2-5,"Sex, Region, Age",3
-#5-3-1,"Region, Age",2
-#5-3-1-a,"Type of residence, Unit, Gender",3
-#5-4-1,"Type of residence, Region",2
+#5-2-5,"Sex, Age, Region",3
+#5-3-1,"Age, Region",2
+#5-3-1-a,"Type of residence, Gender, Unit",3
+#5-4-1,"Region, Type of residence",2
 #5-4-2,Region,1
 #5-4-3-a,Cat,1
 #5-5-1,Sex,1
-#5-5-1-a,"Region, Age",2
+#5-5-1-a,"Age, Region",2
 #5-5-2,"Sex, Region, CouncilLevel",3
 #5-5-3,Sex,1
 #5-5-4,"Sex, Age",2
@@ -174,7 +174,7 @@ Indicator,Disaggregations,Number of disaggregations
 #6-1-3,Region,1
 #6-1-3-a,"Type of residence, Type of water supply",2
 #6-1-4,"Type of residence, SupplyType_1",2
-#6-2-1,"Type of residence, group_28, PopulationGroup",3
+#6-2-1,"group_28, Type of residence, PopulationGroup",3
 #6-3-1,"Region, Type of economic activity, By river basins",3
 #6-3-1-a,Ec_activ,1
 #6-3-2-a,Ec_activ,1
@@ -194,17 +194,17 @@ Indicator,Disaggregations,Number of disaggregations
 #7-5-4,By consumer categories,1
 #7-5-7,By consumer categories,1
 #7-5-9,"Resource, Building_type",2
-#7-6-1,"Sex, Type of residence, Region, Age",4
-#7-6-2,"Sex, Type of residence, Region, Age",4
-#7-6-3,"Type of residence, Households_1, Region",3
+#7-6-1,"Sex, Age, Region, Type of residence",4
+#7-6-2,"Sex, Age, Region, Type of residence",4
+#7-6-3,"Region, Type of residence, Households_1",3
 #7-6-4,"Type of residence, Households_1",2
-#7-7-1,"Type of residence, Region",2
-#7-7-2,"Type of residence, Region",2
+#7-7-1,"Region, Type of residence",2
+#7-7-2,"Region, Type of residence",2
 #8-1-4,group_30,1
-#8-2-1,"group_28, group_13, group_16, group_31, Region",5
-#8-2-2,"group_28, group_13, group_16, group_31, Region",5
+#8-2-1,"group_31, group_28, Region, group_13, group_16",5
+#8-2-2,"group_31, group_28, Region, group_13, group_16",5
 #8-2-2-a,Group,1
-#8-2-3,"group_13, group_16, Region",3
+#8-2-3,"Region, group_13, group_16",3
 #8-2-4,"group_32, group_33, group_34, group_35, group_36",5
 #8-3-1,"group_13, group_30, group_29",3
 #8-3-1-a,"Sex, Type of residence",2
@@ -227,8 +227,8 @@ Indicator,Disaggregations,Number of disaggregations
 #9-3-2,m_trans,1
 #9-3-2-a,Object,1
 #9-5-2-a,Ec_activ,1
-#9-6-1-a,"Type of residence, Region",2
-#9-6-2,"Type of residence, Region",2
-#9-6-3,"Type of residence, Region",2
-#9-6-4,"Sex, Type of residence, Region, Age, By frequency of use, By purpose of use",6
+#9-6-1-a,"Region, Type of residence",2
+#9-6-2,"Region, Type of residence",2
+#9-6-3,"Region, Type of residence",2
+#9-6-4,"Sex, Age, Region, Type of residence, By frequency of use, By purpose of use",6
 #9-7-1-a,Region,1
