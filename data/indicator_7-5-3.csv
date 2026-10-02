@@ -9,6 +9,7 @@ Year,Average monthly electricity consumption,Value
 2022,without_electric_heating,
 2023,without_electric_heating,
 2024,without_electric_heating,
+2025,without_electric_heating,
 2015,with_electric_heating,
 2016,with_electric_heating,1.129
 2017,with_electric_heating,1.039
@@ -19,3 +20,4 @@ Year,Average monthly electricity consumption,Value
 2022,with_electric_heating,
 2023,with_electric_heating,
 2024,with_electric_heating,
+2025,with_electric_heating,
