@@ -9,6 +9,7 @@ Year,Types of producers,Types of renewable energy generation (RES),Value
 2022,,,17.73
 2023,,,17.79
 2024,,,17.75
+2025,,,20.73
 2015,electricity producers,,
 2016,electricity producers,,
 2017,electricity producers,,
@@ -19,6 +20,7 @@ Year,Types of producers,Types of renewable energy generation (RES),Value
 2022,electricity producers,,14.7
 2023,electricity producers,,14.61
 2024,electricity producers,,14.09
+2025,electricity producers,,15.37
 2015,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,
 2016,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,
 2017,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,
@@ -29,6 +31,7 @@ Year,Types of producers,Types of renewable energy generation (RES),Value
 2022,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,3.03
 2023,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,3.18
 2024,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,3.66
+2025,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,5.36
 2015,,solar power plants (SPP),
 2016,,solar power plants (SPP),
 2017,,solar power plants (SPP),
@@ -39,16 +42,18 @@ Year,Types of producers,Types of renewable energy generation (RES),Value
 2022,,solar power plants (SPP),14.26
 2023,,solar power plants (SPP),13.77
 2024,,solar power plants (SPP),13.96
+2025,,solar power plants (SPP),16.41
 2015,,wind power plants (WPP),
 2016,,wind power plants (WPP),
 2017,,wind power plants (WPP),
-2017,,wind power plants (WPP),
+2018,,wind power plants (WPP),
 2019,,wind power plants (WPP),2.26
 2020,,wind power plants (WPP),2.21
 2021,,wind power plants (WPP),2.97
 2022,,wind power plants (WPP),2.9
 2023,,wind power plants (WPP),3.42
 2024,,wind power plants (WPP),2.87
+2025,,wind power plants (WPP),3.28
 2015,,"micro, mini and small hydroelectric power plants (mHPP)",
 2016,,"micro, mini and small hydroelectric power plants (mHPP)",
 2017,,"micro, mini and small hydroelectric power plants (mHPP)",
@@ -59,6 +64,7 @@ Year,Types of producers,Types of renewable energy generation (RES),Value
 2022,,"micro, mini and small hydroelectric power plants (mHPP)",0.14
 2023,,"micro, mini and small hydroelectric power plants (mHPP)",0.13
 2024,,"micro, mini and small hydroelectric power plants (mHPP)",0.12
+2025,,"micro, mini and small hydroelectric power plants (mHPP)",0.13
 2015,,biomass,
 2016,,biomass,
 2017,,biomass,
@@ -69,6 +75,7 @@ Year,Types of producers,Types of renewable energy generation (RES),Value
 2022,,biomass,0.22
 2023,,biomass,0.27
 2024,,biomass,0.32
+2025,,biomass,0.33
 2015,,biogas,
 2016,,biogas,
 2017,,biogas,
@@ -79,6 +86,7 @@ Year,Types of producers,Types of renewable energy generation (RES),Value
 2022,,biogas,0.21
 2023,,biogas,0.2
 2024,,biogas,0.22
+2025,,biogas,0.24
 2015,,geothermal power plants (GPP),
 2016,,geothermal power plants (GPP),
 2017,,geothermal power plants (GPP),
@@ -89,6 +97,7 @@ Year,Types of producers,Types of renewable energy generation (RES),Value
 2022,,geothermal power plants (GPP),0.0
 2023,,geothermal power plants (GPP),0.0
 2024,,geothermal power plants (GPP),0.0
+2025,,geothermal power plants (GPP),0.0
 2015,,others,
 2016,,others,
 2017,,others,
@@ -99,3 +108,4 @@ Year,Types of producers,Types of renewable energy generation (RES),Value
 2022,,others,
 2023,,others,0.0
 2024,,others,0.26
+2025,,others,0.34
