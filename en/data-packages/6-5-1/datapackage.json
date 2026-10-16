@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Azov River Basin Area",
-                "Black Sea River Basin Area",
-                "Crimea River Basin Area",
-                "Danube River Basin Area",
-                "Dniester River Basin Area",
                 "Dnipro River Basin Area",
-                "Don River Basin Area",
+                "Dniester River Basin Area",
+                "Danube River Basin Area",
                 "Southern Bug River Basin Area",
+                "Don River Basin Area",
                 "Vistula River Basin Area",
+                "Crimea River Basin Area",
+                "Black Sea River Basin Area",
+                "Azov River Basin Area",
                 ""
               ]
             },

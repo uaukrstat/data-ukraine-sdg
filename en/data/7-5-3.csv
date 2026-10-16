@@ -9,9 +9,10 @@ Year,Average monthly electricity consumption per household consumer,Value
 2022,without electric heating,
 2023,without electric heating,
 2024,without electric heating,
+2025,without electric heating,
 2015,with electric heating,
-2016,with electric heating,1.129
-2017,with electric heating,1.039
+2016,with electric heating,1129.0
+2017,with electric heating,1039.0
 2018,with electric heating,975.0
 2019,with electric heating,871.0
 2020,with electric heating,954.0
@@ -19,3 +20,4 @@ Year,Average monthly electricity consumption per household consumer,Value
 2022,with electric heating,
 2023,with electric heating,
 2024,with electric heating,
+2025,with electric heating,

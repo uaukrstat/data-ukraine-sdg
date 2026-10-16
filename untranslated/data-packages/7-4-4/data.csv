@@ -9,6 +9,7 @@ Year,By types of producers,By types of renewable energy generation,Value
 2022,,,17.73
 2023,,,17.79
 2024,,,17.75
+2025,,,20.73
 2015,electricity_producers,,
 2016,electricity_producers,,
 2017,electricity_producers,,
@@ -19,6 +20,7 @@ Year,By types of producers,By types of renewable energy generation,Value
 2022,electricity_producers,,14.7
 2023,electricity_producers,,14.61
 2024,electricity_producers,,14.09
+2025,electricity_producers,,15.37
 2015,consumers_with_own_electrical_installations,,
 2016,consumers_with_own_electrical_installations,,
 2017,consumers_with_own_electrical_installations,,
@@ -29,6 +31,7 @@ Year,By types of producers,By types of renewable energy generation,Value
 2022,consumers_with_own_electrical_installations,,3.03
 2023,consumers_with_own_electrical_installations,,3.18
 2024,consumers_with_own_electrical_installations,,3.66
+2025,consumers_with_own_electrical_installations,,5.36
 2015,,solar_power_plants,
 2016,,solar_power_plants,
 2017,,solar_power_plants,
@@ -39,16 +42,18 @@ Year,By types of producers,By types of renewable energy generation,Value
 2022,,solar_power_plants,14.26
 2023,,solar_power_plants,13.77
 2024,,solar_power_plants,13.96
+2025,,solar_power_plants,16.41
 2015,,wind_power_plants,
 2016,,wind_power_plants,
 2017,,wind_power_plants,
-2017,,wind_power_plants,
+2018,,wind_power_plants,
 2019,,wind_power_plants,2.26
 2020,,wind_power_plants,2.21
 2021,,wind_power_plants,2.97
 2022,,wind_power_plants,2.9
 2023,,wind_power_plants,3.42
 2024,,wind_power_plants,2.87
+2025,,wind_power_plants,3.28
 2015,,micro_mini_small_hydroelectric_plants,
 2016,,micro_mini_small_hydroelectric_plants,
 2017,,micro_mini_small_hydroelectric_plants,
@@ -59,6 +64,7 @@ Year,By types of producers,By types of renewable energy generation,Value
 2022,,micro_mini_small_hydroelectric_plants,0.14
 2023,,micro_mini_small_hydroelectric_plants,0.13
 2024,,micro_mini_small_hydroelectric_plants,0.12
+2025,,micro_mini_small_hydroelectric_plants,0.13
 2015,,biomass,
 2016,,biomass,
 2017,,biomass,
@@ -69,6 +75,7 @@ Year,By types of producers,By types of renewable energy generation,Value
 2022,,biomass,0.22
 2023,,biomass,0.27
 2024,,biomass,0.32
+2025,,biomass,0.33
 2015,,biogas,
 2016,,biogas,
 2017,,biogas,
@@ -79,6 +86,7 @@ Year,By types of producers,By types of renewable energy generation,Value
 2022,,biogas,0.21
 2023,,biogas,0.2
 2024,,biogas,0.22
+2025,,biogas,0.24
 2015,,geothermal_power_plants,
 2016,,geothermal_power_plants,
 2017,,geothermal_power_plants,
@@ -89,6 +97,7 @@ Year,By types of producers,By types of renewable energy generation,Value
 2022,,geothermal_power_plants,0.0
 2023,,geothermal_power_plants,0.0
 2024,,geothermal_power_plants,0.0
+2025,,geothermal_power_plants,0.0
 2015,,other_res,
 2016,,other_res,
 2017,,other_res,
@@ -99,3 +108,4 @@ Year,By types of producers,By types of renewable energy generation,Value
 2022,,other_res,
 2023,,other_res,0.0
 2024,,other_res,0.26
+2025,,other_res,0.34
