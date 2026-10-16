@@ -2037,49 +2037,133 @@ group_label_100: chlorophyll-a
 group_label_101: transparency
 group_label_102: dissolved oxygen
 group_label_103: biochemical oxygen consumption in five days
+group_label_104: Azov turbot, Sea of Azov
+group_label_105: Artemia salina (crustaceans), Sea of Azov
+group_label_105_1: Artemia salina (crustaceans), Black Sea
+group_label_106: Artemia salina (eggs), Sea of Azov
+group_label_106_1: Artemia salina (eggs), Black Sea
+group_label_107: Gobies, Sea of Azov
+group_label_107_1: Gobies, Black Sea
+group_label_108: Gammarids, Sea of Azov
+group_label_108_1: Gammarids, Black Sea
+group_label_109: Glossa, Sea of Azov
+group_label_109_1: Glossa, Black Sea
+group_label_110: Zostera, Sea of Azov
+group_label_111: Shrimp, Sea of Azov
+group_label_111_1: Shrimp, Black Sea
+group_label_111_2: Shrimp, Lower Dniester with lakes and the Dniester estuary
+group_label_111_3: Shrimp, Berezansky estuary
+group_label_111_4: Shrimp, Tyligul estuary
+group_label_112: Cuniarca (scafarka), Sea of Azov
+group_label_112_1: Cuniarca (scafarka), Black Sea
+group_label_113: Bream, Sea of Azov
+group_label_113_1: Bream, Dnieper-Bug estuary system
+group_label_113_2: Bream, Lower Dniester with lakes and the Dniester estuary
+group_label_114: Mussel, Sea of Azov
+group_label_114_1: Mussel, Black Sea
+group_label_115: Motil (chironomid larvae), Sea of Azov
+group_label_115_1: Motil (chironomid larvae), Black Sea
+group_label_116: Black Sea herring, Sea of Azov
+group_label_116_1: Black Sea herring, Black Sea
+group_label_116_2: Black Sea herring, Dnieper-Bug estuary system
+group_label_116_3: Black Sea herring, Lower Dniester with lakes and the Dniester estuary
+group_label_117: Pilengas, Sea of Azov
+group_label_117_1: Pilengas, Black Sea
+group_label_117_2: Pilengas, Dnieper-Bug estuary system
+group_label_117_3: Pilengas, Lower Dniester with lakes and the Dniester estuary
+group_label_117_4: Pilengas, Berezansky estuary
+group_label_117_5: Pilengas, Tyligul estuary
+group_label_118: Gossip, Sea of Azov
+group_label_119: Rapana, Sea of Azov
+group_label_119_1: Rapana, Black Sea
+group_label_120: Rybets, Sea of Azov
+group_label_121: Common pikeperch, Sea of Azov
+group_label_121_1: Common pikeperch, Dnieper-Bug estuary system
+group_label_121_2: Common pikeperch, Lower Dniester with lakes and the Dniester estuary
+group_label_121_3: Common pikeperch, Berezansky estuary
+group_label_122: Common tulka, Sea of Azov
+group_label_122_1: Common tulka, Black Sea
+group_label_122_2: Common tulka, Dnieper-Bug estuary system
+group_label_123: Azov hamsa, Sea of Azov
+group_label_124: Sandy atherina, Black Sea
+group_label_124_1: Sandy atherina, Dnieper-Bug estuary system
+group_label_124_2: Sandy atherina, Lower Dniester with lakes and the Dniester estuary
+group_label_124_3: Sandy atherina, Berezansky estuary
+group_label_124_4: Sandy atherina, Tyligul estuary
+group_label_125: Barbula, Black Sea
+group_label_126: Gostronis, Black Sea
+group_label_126_1: Gostronis, Berezansky estuary
+group_label_126_2: Gostronis, Tyligul estuary
+group_label_500: Short-feathered catran, Black Sea
+group_label_501: Mullet (gostronis, loban, singil), Black Sea
+group_label_501_1: Mullet (gostronis, loban, singil), Lower Dniester with lakes and the Dniester estuary 
+group_label_501_2: Mullet (gostronis, loban, singil), Berezansky estuary
+group_label_501_3: Mullet (gostronis, loban, singil), Tyligul estuary
+group_label_127: Black Sea sprat, Black Sea 
+group_label_128: loban, Black Sea
+group_label_128_1: loban, Berezansky estuary
+group_label_128_2: loban, Tyligul estuary
+group_label_502: Jellyfish, Black Sea
+group_label_129: Merlang, Black Sea
+group_label_130: Sea fox, Black Sea
+group_label_131: Sea cat, Black Sea
+group_label_132: Common sargan, Black Sea
+group_label_133: Singil, Black Sea
+group_label_133_1: Singil, Berezansky estuary
+group_label_133_2: Singil, Tyligul estuary
+group_label_134: Horse mackerel, Black Sea
+group_label_135: Black Sea hamsa, Black Sea
+group_label_135_1: Black Sea hamsa, Dnieper-Bug estuary system
+group_label_135_2: Black Sea hamsa, Berezansky estuary
+group_label_135_3: Black Sea hamsa, Tyligul estuary
+group_label_136: Cystosira, Black Sea
+group_label_137: Black Sea turbot, Black Sea
 group_4: Dnieper-Bug estuary system
-group_label_104: Azov turbot
-group_label_105: Artemia salina (crustaceans)
-group_label_106: Artemia salina (eggs)
-group_label_107: Gobies
-group_label_108: Gammarids
-group_label_109: Glossa
-group_label_110: Zostera
-group_label_111: Shrimp
-group_label_112: Cuniarca (scafarka)
-group_label_113: Bream
-group_label_114: Mussel
-group_label_115: Motil (chironomid larvae)
-group_label_116: Black Sea herring
-group_label_117: Pilengas
-group_label_118: Gossip
-group_label_119: Rapana
-group_label_120: Rybets
-group_label_121: Common pikeperch
-group_label_122: Common tulka
-group_label_123: Azov hamsa
-group_label_124: Sandy atherina
-group_label_125: Barbula
-group_label_126: Gostronis
-group_label_127: Black Sea sprat
-group_label_128: loban
-group_label_129: Merlang
-group_label_130: Sea fox
-group_label_131: Sea cat
-group_label_132: Common sargan
-group_label_133: Singil
-group_label_134: Horse mackerel
-group_label_135: Black Sea hamsa
-group_label_136: Cystosira
-group_label_137: Black Sea turbot
+group_label_138: Gobies (except for species listed in the Red Book of Ukraine), Dnieper-Bug estuary system
+group_label_138_1: Gobies (except for species listed in the Red Book of Ukraine), Lower Dniester with lakes and the Dniester estuary
+group_label_138_2: Gobies (except for species listed in the Red Book of Ukraine), Berezansky estuary
+group_label_138_3: Gobies (except for species listed in the Red Book of Ukraine), Tyligul estuary
+group_label_139: Common whiteness, Dnieper-Bug estuary system
+group_label_139_1: Common whiteness, Lower Dniester with lakes and the Dniester estuary
+group_label_140: Common rudd, Dnieper-Bug estuary system
+group_label_141: European chub, Dnieper-Bug estuary system
+group_label_142: Silver crucian carp, Dnieper-Bug estuary system
+group_label_142_1: Silver crucian carp, Lower Dniester with lakes and the Dniester estuary
+group_label_142_2: Silver crucian carp, Berezansky estuary
+group_label_143: Redfin, Dnieper-Bug estuary system
+group_label_143_1: Redfin, Lower Dniester with lakes and the Dniester estuary
+group_label_144: Tench fish, Dnieper-Bug estuary system
+group_label_145: Common perch, Dnieper-Bug estuary system
+group_label_145_1: Common perch, Lower Dniester with lakes and the Dniester estuary
+group_label_146: Sun perch, Dnieper-Bug estuary system
+group_label_147: Flatfish, Dnieper-Bug estuary system
+group_label_147_1: Flatfish, Lower Dniester with lakes and the Dniester estuary
+group_label_148: Puzanok, Black Sea
+group_label_148_1: Puzanok, Dnieper-Bug estuary system
+group_label_149: Narrow-toed crayfish, Dnieper-Bug estuary system
+group_label_150: Common carp, Dnieper-Bug estuary system
+group_label_151: Herbivorous fish (white, variegated silver carp, their hybrid, white grass carp) , Dnieper-Bug estuary system
+group_label_152: Sazan, Dnieper-Bug estuary system
+group_label_152_1: Sazan, Lower Dniester with lakes and the Dniester estuary
+group_label_503: Common bruise, Dnieper-Bug estuary system
+group_label_153: European catfish, Dnieper-Bug estuary system
+group_label_153_1: European catfish, Lower Dniester with lakes and the Dniester estuary
+group_label_154: Taranya (common gossip), Dnieper-Bug estuary system
+group_label_154_1: Taranya (common gossip), Lower Dniester with lakes and the Dniester estuary
+group_label_154_2: Taranya (common gossip), Berezansky estuary
+group_label_155: Chekhonia, Dnieper-Bug estuary system
+group_label_156: Common pike, Dnieper-Bug estuary system
+group_label_156_1: Common pike, Lower Dniester with lakes and the Dniester estuary
 group_5: Lower Dniester with lakes and the Dniester Estuary
-group_label_157: Crayfish
-group_label_158: Herbivorous fish (silver carp, bighead carp, their hybrid)
+group_label_157: Crayfish, Lower Dniester with lakes and the Dniester estuary
+group_label_158: Herbivorous fish (silver carp, bighead carp, their hybrid), Lower Dniester with lakes and the Dniester estuary
 group_6: Tuzlov group of estuaries
-group_label_159: Flounder-glossa
+group_label_159: Flounder-glossa, Tuzlov group of estuaries
+group_label_159_1: Flounder-glossa, Budatsky (Shabolatsky) estuary
 group_7: Budatsky (Shabolatsky) estuary
 group_8: Berezansky estuary
-group_label_160: Glos
+group_label_160: Glos, Berezansky estuary
+group_label_160_1: Glos, Tyligul estuary
 group_9: Tyligul estuary
 group_10: Zones
 group_label_161: Polissia
@@ -3049,25 +3133,6 @@ hh_ch_2: households/families with children
 hh_ch_02: households/families without children
 Ukraine: Ukraine
 Coastal regions: Coastal regions
-group_label_138: Gobies (except for species listed in the Red Book of Ukraine)
-group_label_139: Common whiteness
-group_label_140: Common rudd
-group_label_141: European chub
-group_label_142: Silver crucian carp
-group_label_143: Redfin
-group_label_144: Tench fish
-group_label_145: Common perch
-group_label_146: Sun perch
-group_label_147: Flatfish
-group_label_148: Puzanok
-group_label_149: Narrow-toed crayfish
-group_label_150: Common carp
-group_label_151: Herbivorous fish (white, variegated silver carp, their hybrid, white grass carp)
-group_label_152: Sazan
-group_label_153: European catfish
-group_label_154: Taranya (common gossip)
-group_label_155: Chekhonia
-group_label_156: Common pike
 Spheres: Spheres
 Status_1: Status of execution
 transport_infrastructure: construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure
@@ -3306,10 +3371,6 @@ Bssociation_of_trade_unions: Association of trade unions
 extracurricular_wired_gt30: extracurricular educational institutions with broadband wired high-speed (more than 30 Mbit/s) access to the Internet
 extracurricular_wireless_gt30: extracurricular educational institutions with high-speed (more than 30 Mbit/s) wireless access to the Internet
 extracurricular_wired_or_wireless_gt30: extracurricular educational institutions with high-speed (more than 30 Mbit/s) wired or wireless access to the Internet
-group_label_137_1: Short-feathered catran
-group_label_137_2: Mullet (gostronis, loban, singil)
-group_label_137_3: Jellyfish
-group_label_137_4: Common bruise
 freedom_from_discrimination_in_the_field_of_culture: freedom from discrimination in the field of culture
 freedom_from_discrimination_in_private_relations: freedom from discrimination in private relations
 freedom_from_discrimination_in_public_and_political_life: freedom from discrimination in public and political life
