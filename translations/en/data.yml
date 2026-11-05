@@ -3384,5 +3384,5 @@ Volume_registered_issues: Volumes of registered issue
 volume_UAH: volume of registered issue of shares, corporate bonds
 volume_USD: volume of registered issue of corporate bonds
 Water body status: Status of surface water bodies
-good_ecological_status: '"good" ecological status'
-good_chemical_status: '"good" chemical status'
+good_ecological_status: “good” ecological status
+good_chemical_status: “good” chemical status
