@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "good_ecological_status",
-                "good_chemical_status",
+                "\"добрий\" екологічний стан",
+                "\"добрий\" хімічний стан",
                 ""
               ]
             },
-            "title": "Water body status"
+            "title": "Стан масивів поверхневих вод"
           },
           {
             "name": "By river basins",
