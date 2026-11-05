@@ -12,8 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Рік"
+          },
+          {
+            "name": "Water body status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "good_ecological_status",
+                "good_chemical_status",
+                ""
+              ]
+            },
+            "title": "Water body status"
+          },
+          {
+            "name": "By river basins",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "район басейну річки Вісла",
+                "район басейну річки Дністер",
+                "район басейну річки Дніпро",
+                "район басейну річки Дунай",
+                "район басейну річки Дон",
+                "район басейну річки Південний Буг",
+                "район басейну річок Причорномор’я",
+                ""
+              ]
+            },
+            "title": "Річкові басейни"
           },
           {
             "name": "Value",

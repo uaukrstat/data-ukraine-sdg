@@ -12,7 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Water body status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "good_ecological_status",
+                "good_chemical_status",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "By river basins",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "vistula_river_basin_area",
+                "dniester_river_basin_area",
+                "dnipro_river_basin_area",
+                "danube_river_basin_area",
+                "don_river_basin_area",
+                "southern_bug_river_basin_area",
+                "black_sea_river_basin_area",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
