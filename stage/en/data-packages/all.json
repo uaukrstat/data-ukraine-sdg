@@ -19332,8 +19332,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"good\" ecological status",
-                "\"good\" chemical status",
+                "“good” ecological status",
+                "“good” chemical status",
                 ""
               ]
             },
