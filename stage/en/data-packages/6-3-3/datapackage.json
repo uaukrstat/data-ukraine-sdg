@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "good_ecological_status",
-                "good_chemical_status",
+                "\"good\" ecological status",
+                "\"good\" chemical status",
                 ""
               ]
             },
-            "title": "Water body status"
+            "title": "Status of surface water bodies"
           },
           {
             "name": "By river basins",

@@ -1,33 +1,33 @@
-Year,Water body status,River basins,Value
-2024,good_ecological_status,,0.44
-2024,good_ecological_status,Vistula River Basin Area,1.86
-2024,good_ecological_status,Dniester River Basin Area,1.65
-2024,good_ecological_status,Dnipro River Basin Area,0.08
-2024,good_ecological_status,Danube River Basin Area,1.47
-2024,good_ecological_status,Don River Basin Area,0.0
-2024,good_ecological_status,Southern Bug River Basin Area,0.0
-2024,good_ecological_status,Black Sea River Basin Area,0.0
-2024,good_chemical_status,,1.3
-2024,good_chemical_status,Vistula River Basin Area,3.35
-2024,good_chemical_status,Dniester River Basin Area,2.17
-2024,good_chemical_status,Dnipro River Basin Area,0.21
-2024,good_chemical_status,Danube River Basin Area,4.97
-2024,good_chemical_status,Don River Basin Area,0.0
-2024,good_chemical_status,Southern Bug River Basin Area,2.57
-2024,good_chemical_status,Black Sea River Basin Area,2.16
-2025,good_ecological_status,,0.57
-2025,good_ecological_status,Vistula River Basin Area,1.86
-2025,good_ecological_status,Dniester River Basin Area,2.34
-2025,good_ecological_status,Dnipro River Basin Area,0.05
-2025,good_ecological_status,Danube River Basin Area,2.03
-2025,good_ecological_status,Don River Basin Area,0.0
-2025,good_ecological_status,Southern Bug River Basin Area,0.0
-2025,good_ecological_status,Black Sea River Basin Area,0.0
-2025,good_chemical_status,,0.91
-2025,good_chemical_status,Vistula River Basin Area,3.72
-2025,good_chemical_status,Dniester River Basin Area,1.82
-2025,good_chemical_status,Dnipro River Basin Area,0.0
-2025,good_chemical_status,Danube River Basin Area,4.52
-2025,good_chemical_status,Don River Basin Area,0.14
-2025,good_chemical_status,Southern Bug River Basin Area,0.64
-2025,good_chemical_status,Black Sea River Basin Area,1.73
+Year,Status of surface water bodies,River basins,Value
+2024,"""good"" ecological status",,0.44
+2024,"""good"" ecological status",Vistula River Basin Area,1.86
+2024,"""good"" ecological status",Dniester River Basin Area,1.65
+2024,"""good"" ecological status",Dnipro River Basin Area,0.08
+2024,"""good"" ecological status",Danube River Basin Area,1.47
+2024,"""good"" ecological status",Don River Basin Area,0.0
+2024,"""good"" ecological status",Southern Bug River Basin Area,0.0
+2024,"""good"" ecological status",Black Sea River Basin Area,0.0
+2024,"""good"" chemical status",,1.3
+2024,"""good"" chemical status",Vistula River Basin Area,3.35
+2024,"""good"" chemical status",Dniester River Basin Area,2.17
+2024,"""good"" chemical status",Dnipro River Basin Area,0.21
+2024,"""good"" chemical status",Danube River Basin Area,4.97
+2024,"""good"" chemical status",Don River Basin Area,0.0
+2024,"""good"" chemical status",Southern Bug River Basin Area,2.57
+2024,"""good"" chemical status",Black Sea River Basin Area,2.16
+2025,"""good"" ecological status",,0.57
+2025,"""good"" ecological status",Vistula River Basin Area,1.86
+2025,"""good"" ecological status",Dniester River Basin Area,2.34
+2025,"""good"" ecological status",Dnipro River Basin Area,0.05
+2025,"""good"" ecological status",Danube River Basin Area,2.03
+2025,"""good"" ecological status",Don River Basin Area,0.0
+2025,"""good"" ecological status",Southern Bug River Basin Area,0.0
+2025,"""good"" ecological status",Black Sea River Basin Area,0.0
+2025,"""good"" chemical status",,0.91
+2025,"""good"" chemical status",Vistula River Basin Area,3.72
+2025,"""good"" chemical status",Dniester River Basin Area,1.82
+2025,"""good"" chemical status",Dnipro River Basin Area,0.0
+2025,"""good"" chemical status",Danube River Basin Area,4.52
+2025,"""good"" chemical status",Don River Basin Area,0.14
+2025,"""good"" chemical status",Southern Bug River Basin Area,0.64
+2025,"""good"" chemical status",Black Sea River Basin Area,1.73
