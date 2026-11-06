@@ -9,7 +9,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 18_reg_Ivano-Frankivsk,114,75
 19_reg_Kyiv,114,75
 20_reg_Kirovohrad,114,75
-21_reg_Luhansk,250,76
+21_reg_Luhansk,251,77
 22_reg_Lviv,114,75
 23_reg_Mykolayiv,115,76
 24_reg_Odesa,115,76
@@ -24,9 +24,9 @@ Value,Disaggregation combinations using this value,Number of indicators
 33_reg_Chernivtsi,114,75
 34_reg_Chernihiv,114,75
 35_reg_Kyiv_city,19,13
-autonomous_Republic_of_Crimea,87,55
+autonomous_Republic_of_Crimea,89,57
 Center,1,1
-city_Sevastopol,88,55
+city_Sevastopol,90,57
 East,1,1
 group_18_1,1,1
 Kyiv_city,90,57
