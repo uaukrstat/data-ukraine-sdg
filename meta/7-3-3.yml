@@ -2,7 +2,7 @@ SDG_GOAL: 7 Affordable and clean energy
 SDG_TARGET: 7.3 Improving the quality of energy supply
 SDG_INDICATOR: 7.3.3 Share of losses during district heating transportation, percent
 UNIT_MEASURE: "Percent (%)"
-CONTACT_ORGANISATION: "Ministry for Development of Communities and Territories of Ukraine"
-REC_USE_LIM: "Data have been developed since 2019. Data for 2020 are provided for January–October 2020; for 2021 – for November 2020 to October 2021; for 2023 – for November 2022 to October 2023; for 2024 – for November 2023 to October 2024; for 2025 – for November 2024 to October 2025. Data for November 2021 to October 2022 were not collected. Data for the Autonomous Republic of Crimea and the city of Sevastopol are not available; data for Luhansk region are not available since 2023."
+CONTACT_ORGANISATION: "Ministry for Recovery, Infrastructure and Transport of Ukraine"
+REC_USE_LIM: "2015−2018: Data have been developed since 2019. <br> 2020: Data are provided for January–October 2020. <br> 2021: Data are provided for November 2020 to October 2021. <br> 2022: Data collection was not calculated from November 2021 to October 2022. <br> 2023: Data are provided for November 2022 to October 2023. <br> 2024: Data are provided for November 2023 to October 2024. <br> 2025: Data are provided for November 2024 to October 2025."
 reference_title: "Target value of the indicator for 2030"
-footer_reference: 'decrease to 15'
+footer_reference: "decrease to 15"
