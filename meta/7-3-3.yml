@@ -4,5 +4,6 @@ SDG_INDICATOR: 7.3.3 Share of losses during district heating transportation, per
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Ministry for Recovery, Infrastructure and Transport of Ukraine"
 REC_USE_LIM: "2015−2018: Data have been developed since 2019. <br> 2020: Data are provided for January–October 2020. <br> 2021: Data are provided for November 2020 to October 2021. <br> 2022: Data collection was not calculated from November 2021 to October 2022. <br> 2023: Data are provided for November 2022 to October 2023. <br> 2024: Data are provided for November 2023 to October 2024. <br> 2025: Data are provided for November 2024 to October 2025."
-reference_title: "Target value of the indicator for 2030"
-footer_reference: "decrease to 15"
+footer_fields:
+    - label: "Target value of the indicator for 2030"
+      value: 'decrease to 15'
