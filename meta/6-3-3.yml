@@ -2,7 +2,5 @@ SDG_GOAL: 6 Clean water and sanitation
 SDG_TARGET: 6.3 Ensuring improvement of water quality of water bodies by reducing the volume of untreated wastewater discharges
 SDG_INDICATOR: 6.3.3 Share of surface water bodies classified as having "good" ecological and chemical status, percent
 UNIT_MEASURE: "Percent (%)"
-CONTACT_ORGANISATION: "Ministry of Environmental Protection and Natural Resources of Ukraine"
-REC_USE_LIM: "Data will be available from 2026."
-reference_title: 'Target value of the indicator for 2030'
-footer_reference: 5
+CONTACT_ORGANISATION: "Ministry of Economy and Environment of Ukraine"
+REC_USE_LIM: "2015−2023:Data have been developed since 2024. <br> Azov River Basin Area, Crimea River Basin Area: Monitoring was not conducted in the part of the territories of Ukraine temporarily occupied by the russian federation."
