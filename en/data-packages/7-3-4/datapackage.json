@@ -12,8 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "city Kyiv",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
@@ -26,5 +63,5 @@
   ],
   "profile": "data-package",
   "name": "7-3-4",
-  "title": "7-3-4"
+  "title": "Share of the length of pre-insulated pipelines in trunk and local (distribution) heating grids, percent"
 }

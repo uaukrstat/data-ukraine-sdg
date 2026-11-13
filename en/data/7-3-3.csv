@@ -1,1 +1,309 @@
-Year,Value
+Year,Region,Value
+2015,,
+2015,Autonomous Republic of Crimea,
+2015,Vinnytsya,
+2015,Volyn,
+2015,Dnipropetrovsk,
+2015,Donetsk,
+2015,Zhytomyr,
+2015,Zakarpattya,
+2015,Zaporizhzhya,
+2015,Ivano-Frankivsk,
+2015,Kyiv,
+2015,Kirovohrad,
+2015,Luhansk,
+2015,Lviv,
+2015,Mykolayiv,
+2015,Odesa,
+2015,Poltava,
+2015,Rivne,
+2015,Sumy,
+2015,Ternopil,
+2015,Kharkiv,
+2015,Kherson,
+2015,Khmelnytskiy,
+2015,Cherkasy,
+2015,Chernivtsi,
+2015,Chernihiv,
+2015,city Kyiv,
+2015,city Sevastopol,
+2016,,
+2016,Autonomous Republic of Crimea,
+2016,Vinnytsya,
+2016,Volyn,
+2016,Dnipropetrovsk,
+2016,Donetsk,
+2016,Zhytomyr,
+2016,Zakarpattya,
+2016,Zaporizhzhya,
+2016,Ivano-Frankivsk,
+2016,Kyiv,
+2016,Kirovohrad,
+2016,Luhansk,
+2016,Lviv,
+2016,Mykolayiv,
+2016,Odesa,
+2016,Poltava,
+2016,Rivne,
+2016,Sumy,
+2016,Ternopil,
+2016,Kharkiv,
+2016,Kherson,
+2016,Khmelnytskiy,
+2016,Cherkasy,
+2016,Chernivtsi,
+2016,Chernihiv,
+2016,city Kyiv,
+2016,city Sevastopol,
+2017,,
+2017,Autonomous Republic of Crimea,
+2017,Vinnytsya,
+2017,Volyn,
+2017,Dnipropetrovsk,
+2017,Donetsk,
+2017,Zhytomyr,
+2017,Zakarpattya,
+2017,Zaporizhzhya,
+2017,Ivano-Frankivsk,
+2017,Kyiv,
+2017,Kirovohrad,
+2017,Luhansk,
+2017,Lviv,
+2017,Mykolayiv,
+2017,Odesa,
+2017,Poltava,
+2017,Rivne,
+2017,Sumy,
+2017,Ternopil,
+2017,Kharkiv,
+2017,Kherson,
+2017,Khmelnytskiy,
+2017,Cherkasy,
+2017,Chernivtsi,
+2017,Chernihiv,
+2017,city Kyiv,
+2017,city Sevastopol,
+2018,,
+2018,Autonomous Republic of Crimea,
+2018,Vinnytsya,
+2018,Volyn,
+2018,Dnipropetrovsk,
+2018,Donetsk,
+2018,Zhytomyr,
+2018,Zakarpattya,
+2018,Zaporizhzhya,
+2018,Ivano-Frankivsk,
+2018,Kyiv,
+2018,Kirovohrad,
+2018,Luhansk,
+2018,Lviv,
+2018,Mykolayiv,
+2018,Odesa,
+2018,Poltava,
+2018,Rivne,
+2018,Sumy,
+2018,Ternopil,
+2018,Kharkiv,
+2018,Kherson,
+2018,Khmelnytskiy,
+2018,Cherkasy,
+2018,Chernivtsi,
+2018,Chernihiv,
+2018,city Kyiv,
+2018,city Sevastopol,
+2019,,18.86
+2019,Autonomous Republic of Crimea,
+2019,Vinnytsya,25.04
+2019,Volyn,18.97
+2019,Dnipropetrovsk,11.68
+2019,Donetsk,16.86
+2019,Zhytomyr,9.35
+2019,Zakarpattya,15.59
+2019,Zaporizhzhya,19.05
+2019,Ivano-Frankivsk,17.33
+2019,Kyiv,11.31
+2019,Kirovohrad,15.79
+2019,Luhansk,20.64
+2019,Lviv,33.55
+2019,Mykolayiv,16.12
+2019,Odesa,21.29
+2019,Poltava,11.54
+2019,Rivne,10.33
+2019,Sumy,22.8
+2019,Ternopil,12.15
+2019,Kharkiv,18.23
+2019,Kherson,25.04
+2019,Khmelnytskiy,18.22
+2019,Cherkasy,19.54
+2019,Chernivtsi,12.54
+2019,Chernihiv,20.48
+2019,city Kyiv,26.75
+2019,city Sevastopol,
+2020,,20.42
+2020,Autonomous Republic of Crimea,
+2020,Vinnytsya,21.98
+2020,Volyn,18.74
+2020,Dnipropetrovsk,11.59
+2020,Donetsk,15.66
+2020,Zhytomyr,8.45
+2020,Zakarpattya,8.74
+2020,Zaporizhzhya,23.65
+2020,Ivano-Frankivsk,15.86
+2020,Kyiv,12.86
+2020,Kirovohrad,16.43
+2020,Luhansk,18.02
+2020,Lviv,28.13
+2020,Mykolayiv,19.88
+2020,Odesa,16.22
+2020,Poltava,12.92
+2020,Rivne,9.89
+2020,Sumy,24.83
+2020,Ternopil,14.48
+2020,Kharkiv,22.37
+2020,Kherson,28.23
+2020,Khmelnytskiy,18.8
+2020,Cherkasy,14.21
+2020,Chernivtsi,11.58
+2020,Chernihiv,20.19
+2020,city Kyiv,27.47
+2020,city Sevastopol,
+2021,,21.14
+2021,Autonomous Republic of Crimea,
+2021,Vinnytsya,20.87
+2021,Volyn,17.24
+2021,Dnipropetrovsk,22.26
+2021,Donetsk,16.61
+2021,Zhytomyr,9.05
+2021,Zakarpattya,8.24
+2021,Zaporizhzhya,20.25
+2021,Ivano-Frankivsk,16.02
+2021,Kyiv,12.93
+2021,Kirovohrad,17.04
+2021,Luhansk,23.62
+2021,Lviv,22.24
+2021,Mykolayiv,19.02
+2021,Odesa,12.97
+2021,Poltava,15.52
+2021,Rivne,13.68
+2021,Sumy,23.34
+2021,Ternopil,12.29
+2021,Kharkiv,26.4
+2021,Kherson,28.2
+2021,Khmelnytskiy,15.63
+2021,Cherkasy,19.85
+2021,Chernivtsi,10.85
+2021,Chernihiv,17.94
+2021,city Kyiv,25.03
+2021,city Sevastopol,
+2022,,
+2022,Autonomous Republic of Crimea,
+2022,Vinnytsya,
+2022,Volyn,
+2022,Dnipropetrovsk,
+2022,Donetsk,
+2022,Zhytomyr,
+2022,Zakarpattya,
+2022,Zaporizhzhya,
+2022,Ivano-Frankivsk,
+2022,Kyiv,
+2022,Kirovohrad,
+2022,Luhansk,
+2022,Lviv,
+2022,Mykolayiv,
+2022,Odesa,
+2022,Poltava,
+2022,Rivne,
+2022,Sumy,
+2022,Ternopil,
+2022,Kharkiv,
+2022,Kherson,
+2022,Khmelnytskiy,
+2022,Cherkasy,
+2022,Chernivtsi,
+2022,Chernihiv,
+2022,city Kyiv,
+2022,city Sevastopol,
+2023,,19.51
+2023,Autonomous Republic of Crimea,
+2023,Vinnytsya,19.64
+2023,Volyn,18.16
+2023,Dnipropetrovsk,20.21
+2023,Donetsk,20.5
+2023,Zhytomyr,10.07
+2023,Zakarpattya,7.3
+2023,Zaporizhzhya,10.68
+2023,Ivano-Frankivsk,21.46
+2023,Kyiv,11.36
+2023,Kirovohrad,16.6
+2023,Luhansk,
+2023,Lviv,19.66
+2023,Mykolayiv,21.32
+2023,Odesa,14.29
+2023,Poltava,17.01
+2023,Rivne,26.5
+2023,Sumy,23.16
+2023,Ternopil,12.63
+2023,Kharkiv,14.52
+2023,Kherson,34.13
+2023,Khmelnytskiy,15.86
+2023,Cherkasy,16.85
+2023,Chernivtsi,8.29
+2023,Chernihiv,16.67
+2023,city Kyiv,27.44
+2023,city Sevastopol,
+2024,,20.88
+2024,Autonomous Republic of Crimea,
+2024,Vinnytsya,21.13
+2024,Volyn,17.8
+2024,Dnipropetrovsk,19.52
+2024,Donetsk,15.5
+2024,Zhytomyr,10.92
+2024,Zakarpattya,27.29
+2024,Zaporizhzhya,10.67
+2024,Ivano-Frankivsk,20.35
+2024,Kyiv,11.66
+2024,Kirovohrad,21.3
+2024,Luhansk,
+2024,Lviv,21.59
+2024,Mykolayiv,17.2
+2024,Odesa,15.99
+2024,Poltava,19.97
+2024,Rivne,27.93
+2024,Sumy,28.19
+2024,Ternopil,13.2
+2024,Kharkiv,18.18
+2024,Kherson,29.92
+2024,Khmelnytskiy,17.13
+2024,Cherkasy,16.95
+2024,Chernivtsi,12.53
+2024,Chernihiv,21.65
+2024,city Kyiv,26.84
+2024,city Sevastopol,
+2025,,20.68
+2025,Autonomous Republic of Crimea,
+2025,Vinnytsya,16.7
+2025,Volyn,17.07
+2025,Dnipropetrovsk,19.73
+2025,Donetsk,16.59
+2025,Zhytomyr,10.37
+2025,Zakarpattya,7.98
+2025,Zaporizhzhya,9.25
+2025,Ivano-Frankivsk,18.93
+2025,Kyiv,12.12
+2025,Kirovohrad,20.29
+2025,Luhansk,
+2025,Lviv,19.59
+2025,Mykolayiv,18.91
+2025,Odesa,15.24
+2025,Poltava,18.71
+2025,Rivne,13.86
+2025,Sumy,24.06
+2025,Ternopil,12.68
+2025,Kharkiv,22.91
+2025,Kherson,33.88
+2025,Khmelnytskiy,17.63
+2025,Cherkasy,18.55
+2025,Chernivtsi,7.01
+2025,Chernihiv,18.57
+2025,city Kyiv,26.44
+2025,city Sevastopol,
